@@ -1,0 +1,35 @@
+# Cập nhật catalog tự động mỗi ngày (TUỲ CHỌN — xoá file này nếu không cần).
+# Yêu cầu: repo phải cho phép Actions ghi (Settings → Actions → General →
+# Workflow permissions → Read and write). Thêm secret TMDB_API_KEY nếu muốn
+# có các catalog Anime/Tài liệu/Hoạt hình (Settings → Secrets and variables → Actions).
+name: Cap nhat catalog
+on:
+  schedule:
+    - cron: '0 2 * * *' # 02:00 UTC hằng ngày
+  workflow_dispatch: # cho phép chạy thủ công
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install
+      - name: Fetch catalog + link phát (200 phim/catalog)
+        run: node fetch.js
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          # Muốn điều chỉnh số phim: thêm dòng, vd
+          #   TARGET_PER_CATALOG: 300
+          #   MAX_PAGES_PER_SOURCE: 50
+      - run: node build.js
+      - name: Commit & push catalog + stream mới
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalog stream search-index.json manifest.json
+          git diff --cached --quiet || git commit -m "Cap nhat catalog $(date -u +%F)"
+          git push

@@ -40,6 +40,7 @@ const F = {
   tmdbId: (it) => (it.tmdb && it.tmdb.id) || null,
   tmdbType: (it) => (it.tmdb && it.tmdb.type) || null,
   description: (m) => stripHtml(m && m.content),
+  episodes: (m) => (m && m.episodes) || [],
 };
 
 // fetch.js sẽ tiêm hàm resolve IMDb từ TMDB (dùng cho phim thiếu imdb.id
@@ -58,6 +59,10 @@ async function getDetail(slug, log) {
   try {
     const d = await httpGet(F.detailPath(slug));
     const movie = (d && d.movie) || null;
+    // ⚠️ episodes nằm ở TOP-LEVEL của response (d.episodes), KHÔNG phải trong
+    // d.movie (đã xác minh thực tế 09/2026 với phim 'mui-pho'). Ghép vào movie
+    // để extractStreams() đọc một chỗ cho gọn.
+    if (movie && Array.isArray(d.episodes)) movie.episodes = d.episodes;
     detailCache.set(slug, movie);
     return movie;
   } catch (e) {
@@ -66,6 +71,28 @@ async function getDetail(slug, log) {
     detailCache.set(slug, null);
     return null;
   }
+}
+
+// Trích link phát (m3u8/mp4) từ movie.episodes[].server_data[].
+// Dùng cho resource stream của Stremio — phim LẺ (movie) mới ghi file.
+// Link tương đối '//' → thêm https:. Chỉ nhận URL public chứa .m3u8/.mp4.
+function extractStreams(mv) {
+  const out = [];
+  // quality/lang của phim (vd '1080p' + 'Vietsub') → dòng thứ 2 của title
+  const meta = [mv && mv.quality, mv && mv.lang].filter(Boolean).join(' ').trim();
+  for (const ep of F.episodes(mv)) {
+    const server = String((ep && ep.server_name) || 'KKPhim').trim() || 'KKPhim';
+    for (const sd of ((ep && ep.server_data) || [])) {
+      let url = String((sd && (sd.link_m3u8 || sd.link)) || '').trim();
+      if (url.startsWith('//')) url = 'https:' + url;
+      if (!/^https?:\/\//.test(url)) continue;
+      if (!(/\.m3u8($|\?)/i.test(url) || /\.mp4($|\?)/i.test(url))) continue;
+      const epName = String((sd && sd.name) || '').trim();
+      const line2 = meta || epName || '';
+      out.push({ title: line2 ? `${server}\n${line2}` : server, url });
+    }
+  }
+  return out;
 }
 
 // Lấy 1 catalog qua API phimapi.com: gom list nhiều trang → lọc theo type → giữ item có IMDb
@@ -119,12 +146,13 @@ async function fetchViaApi(srcDef, catalogType, log) {
     });
   }
 
-  // 3) Gọi trang chi tiết để lấy mô tả tiếng Việt + rating + poster tốt hơn
+  // 3) Gọi trang chi tiết để lấy mô tả tiếng Việt + rating + poster + LINK PHÁT
   for (const e of out) {
-    if (e.description) continue;
+    if (e.description && e.streams) continue; // có đủ rồi thì khỏi gọi lại
     const mv = await getDetail(e.slug, log);
     if (!mv) continue;
     e.description = F.description(mv);
+    e.streams = extractStreams(mv); // link m3u8 lấy KÈM — không tốn thêm request
     if (!e.releaseInfo && mv.year) e.releaseInfo = String(mv.year);
     if (!e.imdbRating && mv.imdb && mv.imdb.vote_average > 0) e.imdbRating = String(mv.imdb.vote_average);
     const p = pickPoster(C.KKPHIM_IMG, mv.poster_url, mv.thumb_url);
@@ -159,4 +187,4 @@ async function fetchCatalog(srcDef, catalogType, log) {
   }
 }
 
-module.exports = { fetchCatalog, setTmdbResolver };
+module.exports = { fetchCatalog, setTmdbResolver, extractStreams };
