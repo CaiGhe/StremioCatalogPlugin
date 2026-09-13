@@ -1,0 +1,101 @@
+{
+  "id": "community.phim-quoc-gia",
+  "version": "1.0.2",
+  "name": "Phim Theo Quốc Gia",
+  "description": "Phim lẻ & bộ Việt, Hàn, Trung, Âu Mỹ, Thái + Anime, Hoạt hình, Tài liệu. Mô tả tiếng Việt. Cần cài addon nguồn (Torrentio/MediaFusion) để xem.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "viet-movie",
+      "name": "🇻🇳 Phim Lẻ Việt Nam"
+    },
+    {
+      "type": "series",
+      "id": "viet-series",
+      "name": "🇻🇳 Phim Bộ Việt Nam"
+    },
+    {
+      "type": "movie",
+      "id": "korea-movie",
+      "name": "🇰🇷 Phim Lẻ Hàn Quốc"
+    },
+    {
+      "type": "series",
+      "id": "korea-series",
+      "name": "🇰🇷 Phim Bộ Hàn Quốc"
+    },
+    {
+      "type": "movie",
+      "id": "china-movie",
+      "name": "🇨🇳 Phim Lẻ Trung Quốc"
+    },
+    {
+      "type": "series",
+      "id": "china-series",
+      "name": "🇨🇳 Phim Bộ Trung Quốc"
+    },
+    {
+      "type": "movie",
+      "id": "west-movie",
+      "name": "🎬 Phim Lẻ Âu Mỹ"
+    },
+    {
+      "type": "series",
+      "id": "west-series",
+      "name": "📺 Phim Bộ Âu Mỹ"
+    },
+    {
+      "type": "movie",
+      "id": "thai-movie",
+      "name": "🇹🇭 Phim Lẻ Thái Lan"
+    },
+    {
+      "type": "series",
+      "id": "thai-series",
+      "name": "🇹🇭 Phim Bộ Thái Lan"
+    },
+    {
+      "type": "movie",
+      "id": "anime-movie",
+      "name": "⛩️ Anime (Lẻ)"
+    },
+    {
+      "type": "series",
+      "id": "anime-series",
+      "name": "⛩️ Anime (Bộ)"
+    },
+    {
+      "type": "movie",
+      "id": "kids-movie",
+      "name": "🧸 Hoạt Hình Trẻ Em (Lẻ)"
+    },
+    {
+      "type": "series",
+      "id": "kids-series",
+      "name": "🧸 Hoạt Hình Trẻ Em (Bộ)"
+    },
+    {
+      "type": "movie",
+      "id": "docs-movie",
+      "name": "📚 Phim Tài Liệu"
+    },
+    {
+      "type": "series",
+      "id": "docs-series",
+      "name": "📚 Tài Liệu (Bộ)"
+    }
+  ],
+  "behaviorHints": {
+    "configurable": false
+  }
+}

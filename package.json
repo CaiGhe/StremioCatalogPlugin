@@ -1,0 +1,18 @@
+{
+  "name": "phim-addon",
+  "version": "1.0.0",
+  "description": "Static Stremio/Nuvio addon: catalog phim đa quốc gia, mô tả tiếng Việt",
+  "main": "fetch.js",
+  "scripts": {
+    "fetch": "node fetch.js",
+    "build": "node build.js",
+    "validate": "node validate.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
