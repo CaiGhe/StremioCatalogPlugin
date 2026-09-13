@@ -199,6 +199,27 @@ function curlOnce(url, referer) {
   });
 }
 
+// curlProbe — kiểm tra URL PHÁT còn sống không (HTTP 200/206 = sống).
+// Vì sao cần: KKPhim API vẫn trả link m3u8 của phim đã bị gỡ khỏi CDN của họ
+// (probe thực tế: ~40% link chết sẵn ở nguồn) → probe trước khi ghi stream file,
+// chỉ giữ link thật sự phát được. Chỉ gửi UA + Referer (đúng combo đã test 200;
+// thêm Sec-Fetch/Accept ngược lại gây 404).
+function curlProbe(url, referer, timeoutSec = 8) {
+  return new Promise((resolve) => {
+    const os = require('os');
+    const tmp = path.join(os.tmpdir(), `phim-addon-probe-${process.pid}-${Date.now()}`);
+    const args = ['-sS', '-o', tmp, '--max-time', String(timeoutSec), '-w', '%{http_code}'];
+    args.push('-H', `User-Agent: ${BROWSER_HEADERS['User-Agent']}`);
+    if (referer) args.push('-H', `Referer: ${referer}`);
+    args.push(url);
+    execFile('curl', args, { windowsHide: true, timeout: (timeoutSec + 2) * 1000 }, (err, stdout) => {
+      try { fs.rmSync(tmp, { force: true }); } catch (e) { /* bỏ qua */ }
+      const code = parseInt(String(stdout).trim(), 10);
+      resolve(code === 200 || code === 206);
+    });
+  });
+}
+
 // curlGet — như httpGet nhưng đi qua curl; trả object (nếu body là JSON) hoặc chuỗi HTML
 async function curlGet(url) {
   let referer;
@@ -237,4 +258,4 @@ async function curlGet(url) {
   throw lastErr;
 }
 
-module.exports = { sleep, httpGet, httpGetText, curlGet, stripHtml, decodeEntities, imdbFrom, normTitle, pickPoster, writeJsonSafe };
+module.exports = { sleep, httpGet, httpGetText, curlGet, curlProbe, stripHtml, decodeEntities, imdbFrom, normTitle, pickPoster, writeJsonSafe, BROWSER_HEADERS };

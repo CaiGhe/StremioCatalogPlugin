@@ -2,7 +2,8 @@
 // build.js — đọc catalog/{movie,series}/*.json → sinh manifest.json
 // Quy tắc:
 //  - Chỉ khai báo catalog có ≥ 1 item.
-//  - KHÔNG khai báo resource stream/subtitles (addon này chỉ catalog).
+//  - Có file stream/movie/*.json (link phát KKPhim) → khai báo thêm resource
+//    "stream" để Stremio hỏi link phát khi bấm vào phim lẻ.
 // Chạy: node build.js
 // ============================================================
 const fs = require('fs');
@@ -22,6 +23,12 @@ function main() {
   const catalogs = [];
   const missing = [];
   let total = 0;
+
+  // Có file stream không? (fetch.js ghi stream/movie/{imdbId}.json)
+  const streamDir = path.join(__dirname, 'stream', 'movie');
+  const nStreamFiles = fs.existsSync(streamDir)
+    ? fs.readdirSync(streamDir).filter((f) => f.endsWith('.json')).length
+    : 0;
 
   for (const cat of C.CATALOGS) {
     const file = path.join(__dirname, 'catalog', cat.type, `${cat.id}.json`);
@@ -47,7 +54,7 @@ function main() {
     version,
     name: C.ADDON_NAME,
     description: C.ADDON_DESCRIPTION,
-    resources: ['catalog'],
+    resources: nStreamFiles > 0 ? ['catalog', 'stream'] : ['catalog'],
     types: ['movie', 'series'],
     idPrefixes: ['tt'],
     catalogs,
@@ -57,15 +64,16 @@ function main() {
   const out = path.join(__dirname, 'manifest.json');
   fs.writeFileSync(out, JSON.stringify(manifest, null, 2) + '\n', 'utf8');
 
-  console.log(`✔ manifest.json: ${catalogs.length} catalogs / ${total} items`);
+  console.log(`✔ manifest.json: ${catalogs.length} catalogs / ${total} items / resources [${manifest.resources.join(', ')}]${nStreamFiles ? ` / ${nStreamFiles} file stream` : ''}`);
   if (missing.length) console.warn(`[WARN] Catalog trống, không khai báo: ${missing.join(', ')}`);
 
   // ---- Tự kiểm tra tối thiểu theo schema manifest của Stremio ----
   const errors = [];
   if (!/^([a-zA-Z0-9-]+\.)+[a-zA-Z0-9-]+$/.test(manifest.id)) errors.push('id không đúng định dạng domain-like');
-  if (!Array.isArray(manifest.resources) || manifest.resources.length !== 1 || manifest.resources[0] !== 'catalog') {
-    errors.push('resources phải là ["catalog"]');
-  }
+  const resOk = Array.isArray(manifest.resources) && manifest.resources.length >= 1
+    && manifest.resources[0] === 'catalog'
+    && manifest.resources.every((r) => r === 'catalog' || r === 'stream');
+  if (!resOk) errors.push('resources chỉ được gồm "catalog" và "stream"');
   if (!manifest.types.includes('movie') || !manifest.types.includes('series')) errors.push('types thiếu movie/series');
   if (!manifest.idPrefixes.includes('tt')) errors.push('idPrefixes phải chứa "tt"');
   const ids = catalogs.map((c) => c.id);

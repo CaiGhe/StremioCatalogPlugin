@@ -5,6 +5,7 @@
 //  3) Poster là URL http(s), mô tả có tỉ lệ cao
 //  4) Manifest khớp với file catalog thực tế + schema tối thiểu Stremio
 //  5) Spot-check ngẫu nhiên 4 IMDb ID qua Cinemeta (ID còn sống)
+//  6) File stream/movie/*.json (nếu có): JSON parse, URL phát hợp lệ
 // Exit code 0 = PASS, 1 = FAIL (tiện cho CI).
 // ============================================================
 const fs = require('fs');
@@ -75,8 +76,15 @@ function getJson(url, redirectCount = 0) {
   const cfg = require(path.join(ROOT, 'config.js'));
   console.log(`  Config khai báo: ${cfg.CATALOGS.length} | Manifest có: ${manifest.catalogs.length}`);
   if (cfg.CATALOGS.length !== manifest.catalogs.length) warn('Số catalog manifest != config (có catalog trống là bình thường)');
-  if (manifest.resources.length !== 1 || manifest.resources[0] !== 'catalog') err('resources phải chỉ là ["catalog"]');
-  if (manifest.resources.includes('stream')) err('KHÔNG được khai báo stream');
+  if (manifest.resources.length !== 1 && manifest.resources.length !== 2) err('resources phải là ["catalog"] hoặc ["catalog", "stream"]');
+  if (!manifest.resources.includes('catalog')) err('resources phải chứa "catalog"');
+  if (manifest.resources.includes('stream')) {
+    // Nếu khai báo stream thì phải có ít nhất 1 file stream/movie/*.json
+    const sdir = path.join(ROOT, 'stream', 'movie');
+    const n = fs.existsSync(sdir) ? fs.readdirSync(sdir).filter((f) => f.endsWith('.json')).length : 0;
+    if (n === 0) err('Khai báo resource "stream" nhưng không có file stream/movie/*.json');
+    else console.log(`  Resource stream: OK — ${n} file stream/movie/*.json`);
+  }
   if (!Array.isArray(manifest.idPrefixes) || !manifest.idPrefixes.includes('tt')) err('idPrefixes phải chứa "tt"');
   if (!/^([a-zA-Z0-9-]+\.)+[a-zA-Z0-9-]+$/.test(manifest.id)) err('id manifest không đúng định dạng domain-like');
   // Catalog trong manifest phải trỏ tới file có thật và ngược lại
@@ -85,7 +93,38 @@ function getJson(url, redirectCount = 0) {
     if (!fs.existsSync(f)) err(`Manifest khai báo catalog không có file: ${c.id}`);
   }
 
-  console.log('\n=== 4) Spot-check 4 IMDb ID ngẫu nhiên qua Cinemeta ===');
+  console.log('\n=== 4) Kiểm tra file stream/movie/*.json (link phát KKPhim) ===');
+  const sdir = path.join(ROOT, 'stream', 'movie');
+  if (!fs.existsSync(sdir) || !fs.readdirSync(sdir).some((f) => f.endsWith('.json'))) {
+    console.log('  Không có file stream (chạy fetch.js để sinh, hoặc STREAMS=0 để tắt)');
+  } else {
+    let sErr = 0, sLinks = 0;
+    const catalogIds = new Set();
+    for (const cat of manifest.catalogs) {
+      try {
+        const d = JSON.parse(fs.readFileSync(path.join(ROOT, 'catalog', cat.type, `${cat.id}.json`), 'utf8'));
+        d.metas.forEach((m) => catalogIds.add(m.id));
+      } catch (e) { /* đã báo ở bước 1 */ }
+    }
+    for (const f of fs.readdirSync(sdir)) {
+      if (!f.endsWith('.json')) continue;
+      const imdb = f.replace(/\.json$/, '');
+      try {
+        const d = JSON.parse(fs.readFileSync(path.join(sdir, f), 'utf8'));
+        if (!Array.isArray(d.streams)) throw new Error('thiếu mảng streams');
+        if (d.streams.length === 0) throw new Error('streams rỗng');
+        for (const s of d.streams) {
+          if (!/^https?:\/\//.test(s.url || '')) throw new Error(`URL lạ: ${s.url}`);
+          if (!s.title) throw new Error('thiếu title');
+          sLinks++;
+        }
+        if (!catalogIds.has(imdb)) warn(`File stream ${f} không thuộc catalog nào (sẽ không ai bấm tới — vô hại)`);
+      } catch (e) { sErr++; err(`Stream file lỗi ${f}: ${e.message}`); }
+    }
+    console.log(`  ${fs.readdirSync(sdir).filter((f) => f.endsWith('.json')).length} file, ${sLinks} link phát, ${sErr} file lỗi`);
+  }
+
+  console.log('\n=== 5) Spot-check 4 IMDb ID ngẫu nhiên qua Cinemeta ===');
   const allMetas = [];
   for (const cat of manifest.catalogs) {
     const data = JSON.parse(fs.readFileSync(path.join(ROOT, 'catalog', cat.type, `${cat.id}.json`), 'utf8'));

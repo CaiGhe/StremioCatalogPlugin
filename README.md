@@ -1,9 +1,10 @@
 # Phim Theo Quốc Gia — Static Addon Catalog cho Stremio / Nuvio
 
-Addon **chỉ catalog (không stream)**, dạng **static** — chỉ gồm các file JSON tĩnh, host miễn phí trên **GitHub Pages**, không cần server. Cài bằng cách dán link manifest vào Stremio hoặc Nuvio.
+Addon dạng **static** — chỉ gồm các file JSON tĩnh, host miễn phí trên **GitHub Pages**, không cần server. Cài bằng cách dán link manifest vào Stremio hoặc Nuvio.
 
 - 16 danh mục phim theo quốc gia / thể loại, **poster + mô tả tiếng Việt**.
 - Mỗi phim đều có **IMDb ID thật** (`ttXXXXXXX`) → metadata + stream từ addon nguồn khác (Torrentio, MediaFusion…) hoạt động ngay.
+- **Phim lẻ phát được luôn**: link m3u8 Vietsub từ KKPhim được lấy kèm lúc fetch, probe lọc link chết, ghi thành file `stream/movie/{imdb}.json` — bấm vào phim là play, không cần addon nguồn (phim bộ vẫn cần addon nguồn khác).
 - Xây dựng từ dữ liệu mở của **KKPhim (phimapi.com)**, **NguonC (phim.nguonc.com)**, **TMDB** và **Cinemeta**.
 
 ---
@@ -54,6 +55,7 @@ Quy tắc dữ liệu được áp dụng:
 6. **Idempotent**: chạy lại `fetch.js` chỉ ghi đè file, không bao giờ tạo dữ liệu trùng.
 7. **Nguồn chết không chặn pipeline**: nguồn nào lỗi sẽ log `[WARN]` và bị bỏ qua, catalog vẫn xuất từ nguồn còn lại.
 8. **Tự fallback sang SCRAPE web**: API KKPhim bị chặn (403/429/lỗi mạng, kể cả lỗi nửa chừng) → tự động chuyển sang scrape web **kkphim.com** (domain khác với API, thường không bị chặn cùng lúc). Trang danh sách `kkphim.com/danh-sach/…` nhúng sẵn **IMDb ID + TMDB ID + loại phim** ngay trong bảng, nên scrape chỉ cần 3–4 trang list + vài chục trang chi tiết lấy mô tả tiếng Việt. Request đi qua **curl** (child_process) vì Cloudflare chặn TLS fingerprint của Node.js — curl có sẵn trên Linux/macOS/Windows 10+/GitHub Actions.
+9. **Link phát lấy kèm + lọc link chết**: khi gọi trang chi tiết KKPhim (bước lấy mô tả), link m3u8/mp4 nằm sẵn trong `episodes[].server_data[]` → thu thập KÈM, không tốn thêm request. Trước khi ghi file, **mỗi link được probe 1 lần** (curl + UA trình duyệt + Referer) — KKPhim vẫn trả link của phim đã bị gỡ khỏi CDN của họ (~40% chết sẵn ở nguồn, đã đo thực tế), link chết bị loại, người dùng không bấm trúng link lỗi.
 
 > **Ghi chú đã kiểm chứng thực tế (09/2025):** NguonC hiện **không trả `imdb_id`** (đã thử 10 phim chi tiết) nên không thể làm nguồn chính — nó được dùng làm **bộ bù mô tả tiếng Việt** ghép theo tên gốc + năm. KKPhim list **không kèm mô tả** nên script gọi thêm trang chi tiết `/phim/{slug}`; đồng thời `imdb.vote_average` của KKPhim chính là điểm IMDb thật (đối chiếu Ký Sinh Trùng = 8.5 ✓). Với phim KKPhim thiếu `imdb.id` nhưng có `tmdb.id` (rất phổ biến với phim Trung Quốc), script dùng TMDB API để resolve ra IMDb ID.
 
@@ -92,6 +94,9 @@ Các biến môi trường hữu ích (đều có trong `config.js`, không bắ
 | `SKIP_EXISTING` | `0` | `=1` → bỏ qua catalog đã có file (chạy tiếp khi bị gián đoạn) |
 | `RETRIES` | `3` | số lần retry mỗi request khi lỗi mạng/403/429/5xx |
 | `RETRY_403_BASE_MS` | `3000` | thời gian chờ cơ bản giữa các retry khi bị 403/429 (tăng dần 3s→6s→9s) |
+| `STREAMS` | `1` | `=0` → tắt sinh file stream (chỉ còn catalog) |
+| `STREAM_VERIFY` | `1` | `=0` → không probe link, ghi cả link chết (nhanh hơn ~vài phút) |
+| `STREAM_MAX_PER_TITLE` | `4` | số link phát tối đa ghi cho mỗi phim |
 | `HTTPS_PROXY` | — | đi qua proxy khi IP bị chặn cứng, vd `http://user:pass@host:port` |
 
 > Bị **HTTP 403** khi chạy `fetch.js`? → xem ngay mục 4 bên dưới.
@@ -143,6 +148,8 @@ phim-addon/
 │   ├── movie/korea-movie.json
 │   ├── series/viet-series.json
 │   └── … (16 file theo 16 catalog)
+├── stream/
+│   └── movie/tt6751668.json       # { "streams": [ { title, url, behaviorHints } … ] } — link phát phim lẻ
 ├── config.js              # cấu hình trung tâm: key TMDB, 16 catalog, URL nguồn, field-map
 ├── sources/               # kkphim.js, kkphimweb.js (scraper dự phòng), nguonc.js, tmdb.js, cinemeta.js
 ├── fetch.js               # điều phối tổng
@@ -180,9 +187,23 @@ phim-addon/
 
 **Nuvio:** **Settings → Addons (hoặc Stremio Addons)** → dán URL manifest → Add.
 
-**Quan trọng — addon này chỉ cung cấp danh sách:** để **xem được phim**, hãy cài thêm một addon nguồn stream như **Torrentio** (`https://torrentio.strem.fun/manifest.json`) hoặc **MediaFusion**, vì manifest này khai báo đúng `resources: ["catalog"]` và `idPrefixes: ["tt"]` nên catalog sẽ tự ghép stream từ các addon nguồn đó.
+**Xem phim:**
+- **Phim lẻ** (8 catalog movie): bấm vào phim → chọn server **KKPhim** (Vietsub/thuyết minh) → phát thẳng. Link được probe lúc fetch nên những gì hiển thị đều phát được tại thời điểm cập nhật; link hỏng sau đó (hiếm) → dùng addon nguồn khác.
+- **Phim bộ** (8 catalog series): addon này không có link từng tập (xem mục 7) → cần cài thêm addon nguồn như **Torrentio** (`https://torrentio.strem.fun/manifest.json`) hoặc **MediaFusion** — manifest khai báo `idPrefixes: ["tt"]` nên catalog tự ghép stream từ addon đó.
 
-## 7. Cập nhật catalog tự động (tuỳ chọn)
+## 7. Nguồn phát (stream) — chi tiết & giới hạn
+
+Cơ chế: `fetch.js` thu link m3u8/mp4 từ `episodes[].server_data[]` của trang chi tiết KKPhim (lấy kèm lúc lấy mô tả — 0 request thêm) → probe từng link → ghi `stream/movie/{imdbId}.json` theo đúng format `/stream/{type}/{id}.json` của Stremio. `build.js` thấy có file stream thì tự khai báo `resources: ["catalog", "stream"]`.
+
+Mỗi stream kèm `behaviorHints.proxyHeaders.request` (Chrome UA + `Referer: https://kkphim.com/`) — **bắt buộc**, vì CDN của KKPhim trả 404 nếu request không giống trình duyệt (đã probe thực tế: thiếu header → 404, đủ header → 200). Stremio/Nuvio đọc header này và tự đính kèm khi phát.
+
+Giới hạn đã biết (cố ý, để giữ addon static):
+- **Chỉ phim lẻ có link phát.** Phim bộ bị bỏ — Stremio hỏi stream theo từng tập (`…/stream/series/tt…:1:1.json`), filename chứa dấu `:` không tạo được trên Windows/git local. Muốn có, cần server động (Cloudflare Worker free tier là lựa chọn phù hợp nhất).
+- **Chỉ các catalog nguồn KKPhim** (Việt/Hàn/Trung/Âu Mỹ/Thái + một phần Hoạt hình) có link; catalog thuần TMDB (Anime/Tài liệu) không có — bấm vào sẽ rơi xuống addon nguồn khác (nếu cài).
+- **Link có thể hỏng theo thời gian** (CDN gỡ phim) → workflow cập nhật hằng ngày (mục 8) probe lại toàn bộ và loại link chết. Tần suất hỏng thực tế: link sống thường tồn tại nhiều tuần; link chết chủ yếu là chết sẵn ở nguồn (đã lọc).
+- Mỗi phim tối đa `STREAM_MAX_PER_TITLE` (mặc định 4) link — nhiều server VK/Vidcloud khác nhau của cùng phim.
+
+## 8. Cập nhật catalog tự động (tuỳ chọn)
 
 File `.github/workflows/update.yml` có sẵn: mỗi ngày 02:00 UTC sẽ chạy lại `fetch.js` + `build.js` rồi commit catalog mới lên repo — GitHub Pages tự phục vụ bản mới. Bật bằng cách:
 
@@ -190,7 +211,7 @@ File `.github/workflows/update.yml` có sẵn: mỗi ngày 02:00 UTC sẽ chạy
 2. (Nếu dùng TMDB) **Settings → Secrets and variables → Actions** → thêm secret `TMDB_API_KEY`.
 3. Tab **Actions** → chọn workflow "Cap nhat catalog" → **Enable** (có thể bấm **Run workflow** để chạy thử ngay).
 
-## 8. Tuỳ biến & xử lý sự cố
+## 9. Tuỳ biến & xử lý sự cố
 
 - **Thêm/bớt catalog**: sửa mảng `CATALOGS` trong `config.js` (đúng format khai báo), chạy lại `node fetch.js && node build.js`.
 - **Nguồn đổi API / đổi tên trường**: mọi URL nguồn nằm trong `config.js` (`KKPHIM_BASE`, `NGUONC_BASE`, `TMDB_BASE`…); tên trường dữ liệu nằm trong khối `FIELD MAP (F)` đầu mỗi file trong `sources/` — chỉ cần sửa đúng chỗ đó.
@@ -199,7 +220,7 @@ File `.github/workflows/update.yml` có sẵn: mỗi ngày 02:00 UTC sẽ chạy
 - **Chạy nhanh thử nghiệm**: `TARGET_PER_CATALOG=20 DELAY_MS=200 node fetch.js`.
 - **File catalog hỏng giữa chừng**: không xảy ra (ghi file tạm rồi rename), nhưng nếu có thì xoá file đó và chạy lại `SKIP_EXISTING=1 node fetch.js`.
 
-## 9. Định dạng dữ liệu đầu ra
+## 10. Định dạng dữ liệu đầu ra
 
 `catalog/{movie|series}/{id}.json`:
 
@@ -226,13 +247,30 @@ File `.github/workflows/update.yml` có sẵn: mỗi ngày 02:00 UTC sẽ chạy
   "id": "community.phim-quoc-gia",
   "version": "1.0.0",
   "name": "Phim Theo Quốc Gia",
-  "description": "Phim lẻ & bộ Việt, Hàn, Trung, Âu Mỹ, Thái + Anime, Hoạt hình, Tài liệu. Mô tả tiếng Việt. Cần cài addon nguồn (Torrentio/MediaFusion) để xem.",
-  "resources": ["catalog"],
+  "description": "Phim lẻ & bộ Việt, Hàn, Trung, Âu Mỹ, Thái + Anime, Hoạt hình, Tài liệu. Mô tả tiếng Việt. Phim lẻ phát thẳng link Vietsub KKPhim; phim bộ cần addon nguồn khác (Torrentio/MediaFusion).",
+  "resources": ["catalog", "stream"],
   "types": ["movie", "series"],
   "idPrefixes": ["tt"],
   "catalogs": [
     { "type": "movie", "id": "viet-movie", "name": "🇻🇳 Phim Lẻ Việt Nam" }
   ],
   "behaviorHints": { "configurable": false }
+}
+```
+
+`stream/movie/{imdbId}.json` (chỉ sinh cho phim lẻ có link sống sau probe):
+
+```json
+{
+  "streams": [
+    {
+      "title": "Vietsub #1\n1080p Vietsub\nKKPhim",
+      "url": "https://…/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true,
+        "proxyHeaders": { "request": { "User-Agent": "…Chrome…", "Referer": "https://kkphim.com/" } }
+      }
+    }
+  ]
 }
 ```

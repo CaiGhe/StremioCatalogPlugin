@@ -11,7 +11,7 @@ module.exports = {
   ADDON_VERSION: '1.0.0',
   ADDON_NAME: 'Phim Theo Quốc Gia',
   ADDON_DESCRIPTION:
-    'Phim lẻ & bộ Việt, Hàn, Trung, Âu Mỹ, Thái + Anime, Hoạt hình, Tài liệu. Mô tả tiếng Việt. Cần cài addon nguồn (Torrentio/MediaFusion) để xem.',
+    'Phim lẻ & bộ Việt, Hàn, Trung, Âu Mỹ, Thái + Anime, Hoạt hình, Tài liệu. Mô tả tiếng Việt. Phim lẻ phát thẳng link Vietsub KKPhim; phim bộ cần addon nguồn khác (Torrentio/MediaFusion).',
 
   // ---------- TMDB (tuỳ chọn nhưng nên có) ----------
   // Đăng ký key miễn phí: https://www.themoviedb.org/settings/api
@@ -20,7 +20,7 @@ module.exports = {
   // TMDB (Anime, Hoạt hình (Bộ), Tài liệu) sẽ trống và bị bỏ khỏi manifest.
   // CÓ key   → ngoài 6 catalog TMDB, còn resolve phim KKPhim thiếu IMDb ID
   //            qua tmdb_id (giúp catalog Trung Quốc đủ phim hơn).
-  TMDB_API_KEY: process.env.TMDB_API_KEY || '08e5c851a86686d0e53554133c91c1f5',
+  TMDB_API_KEY: process.env.TMDB_API_KEY || '',
   TMDB_BASE: 'https://api.themoviedb.org/3',
   TMDB_IMG: 'https://image.tmdb.org/t/p/w500',
   TMDB_LANGUAGE: 'vi-VN',           // ngôn ngữ mô tả
@@ -48,6 +48,22 @@ module.exports = {
   // → Vai trò: bù mô tả tiếng Việt/poster cho phim đã có IMDb ID từ
   //   KKPhim, ghép theo tên gốc + năm phát hành (xem sources/nguonc.js).
   NGUONC_INDEX_PAGES: Number(process.env.NGUONC_INDEX_PAGES) || 12, // số trang list mỗi quốc gia (10 phim/trang)
+
+  // ---------- Nguồn phát (stream) ----------
+  // Khi fetch chi tiết KKPhim, link phát (m3u8/mp4 Vietsub/thuyết minh) nằm sẵn
+  // trong movie.episodes[].server_data[] → lấy KÈM, KHÔNG tốn thêm request.
+  // Kết quả: file stream/movie/{imdbId}.json theo đúng format /stream/ của Stremio
+  // → bấm vào PHIM LẺ trong catalog là play được ngay, không cần addon nguồn.
+  // Phim BỘ (series) KHÔNG hỗ trợ: Stremio hỏi stream theo từng tập
+  // (…/stream/series/tt…:1:1.json) — filename chứa ':' không tạo được trên
+  // Windows/git local; xem README mục Nguồn phát. Tắt: STREAMS=0 node fetch.js
+  FETCH_STREAMS: process.env.STREAMS !== '0',
+  STREAM_MAX_PER_TITLE: Number(process.env.STREAM_MAX_PER_TITLE) || 4, // tối đa 4 link/phim
+  // KKPhim vẫn trả link của phim đã bị gỡ khỏi CDN (~40% chết sẵn ở nguồn —
+  // đã probe thực tế) → probe từng link lúc ghi file, chỉ giữ link phát được.
+  // Tốn thêm ~0.5s/link, đổi lại người dùng không bấm trúng link chết.
+  // Tắt: STREAM_VERIFY=0 node fetch.js
+  STREAM_VERIFY: process.env.STREAM_VERIFY !== '0',
 
   // ---------- Cinemeta (metadata dự phòng của Stremio) ----------
   CINEMETA_BASE: 'https://v3-cinemeta.strem.io/meta',

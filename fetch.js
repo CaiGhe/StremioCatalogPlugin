@@ -12,13 +12,25 @@ const kkphim = require('./sources/kkphim');
 const nguonc = require('./sources/nguonc');
 const tmdb = require('./sources/tmdb');
 const cinemeta = require('./sources/cinemeta');
-const { writeJsonSafe } = require('./util');
+const { writeJsonSafe, BROWSER_HEADERS, curlProbe, sleep } = require('./util');
+
+// Header trình phát cần khi mở link m3u8 KKPhim — CDN chặn 404 nếu thiếu
+// UA trình duyệt + Referer (đã probe thực tế: thiếu header → 404, đủ → 200).
+// Stremio/Nuvio đọc behaviorHints.proxyHeaders.request và tự đính kèm khi play.
+const STREAM_HEADERS = {
+  'User-Agent': BROWSER_HEADERS['User-Agent'],
+  Referer: `${C.KKPHIM_WEB_BASE}/`,
+};
 
 const SOURCES = { kkphim, nguonc, tmdb };
 const log = {
   info: (...a) => console.log('[INFO] ', ...a),
   warn: (...a) => console.log('[WARN] ', ...a),
 };
+
+// Chỉ mục stream: imdbId (movie) → mảng link phát lấy kèm từ KKPhim.
+// Sau vòng catalog sẽ ghi thành stream/movie/{imdbId}.json cho resource stream.
+const streamIndex = new Map();
 
 // KKPhim có thể resolve IMDb qua tmdb_id (chỉ khi có TMDB_API_KEY)
 kkphim.setTmdbResolver(tmdb.resolveImdb);
@@ -54,6 +66,7 @@ function mergeByImdb(entries) {
       if (!best.releaseInfo && other.releaseInfo) best.releaseInfo = other.releaseInfo;
       if (!best.imdbRating && other.imdbRating) best.imdbRating = other.imdbRating;
       if (!best.name && other.name) best.name = other.name;
+      if ((!best.streams || !best.streams.length) && other.streams && other.streams.length) best.streams = other.streams;
     }
     out.push(best);
   }
@@ -113,6 +126,11 @@ async function main() {
 
   const summary = [];
   let total = 0;
+  // Phục vụ dọn file stream:
+  //  - freshMovieIds: phim lẻ được fetch THẬT trong lần chạy này (dữ liệu mới là chuẩn)
+  //  - validMovieIds: mọi phim lẻ còn trong data (fresh + SKIP_EXISTING bỏ qua)
+  const freshMovieIds = new Set();
+  const validMovieIds = new Set();
 
   for (const cat of C.CATALOGS) {
     console.log(`\n=== ${cat.id} (${cat.type}) — ${cat.name} ===`);
@@ -125,6 +143,7 @@ async function main() {
           log.info(`Đã có ${n} items — bỏ qua.`);
           summary.push([cat.id, n]);
           total += n;
+          if (cat.type === 'movie') prev.metas.forEach((m) => m.id && validMovieIds.add(m.id));
           continue;
         }
       } catch (e) { /* file hỏng → fetch lại bình thường */ }
@@ -171,7 +190,13 @@ async function main() {
         log.warn(`Enrich lỗi ${e.imdbId}: ${e2.message} — vẫn giữ phim`);
         metas.push(orderMeta(m));
       }
+      // Lưu link phát lấy kèm từ KKPhim (chỉ phim lẻ — phim bộ xem README)
+      if (C.FETCH_STREAMS && cat.type === 'movie' && e.streams && e.streams.length) {
+        streamIndex.set(e.imdbId, e.streams);
+      }
     }
+    if (cat.type === 'movie') metas.forEach((m) => m.id && freshMovieIds.add(m.id));
+    if (cat.type === 'movie') metas.forEach((m) => m.id && validMovieIds.add(m.id));
 
     // 5) Ghi file catalog (chỉ ghi khi có item)
     if (metas.length) {
@@ -188,6 +213,68 @@ async function main() {
       log.warn(`Catalog ${cat.id} chỉ có ${metas.length} item (< ${C.MIN_PER_CATALOG}) — nên kiểm tra lại nguồn.`);
     }
     summary.push([cat.id, metas.length]);
+  }
+
+  // 6) Ghi file stream/movie/{imdbId}.json (resource stream của Stremio —
+  //    link phát lấy kèm từ KKPhim, không tốn thêm request nào)
+  if (C.FETCH_STREAMS) {
+    const sdir = path.join(__dirname, 'stream', 'movie');
+    fs.mkdirSync(sdir, { recursive: true });
+    let nStream = 0, nLink = 0, nDead = 0;
+
+    // 6a) Probe từng link mới lấy: chỉ giữ link thật sự phát được
+    //     (KKPhim vẫn trả link của phim bị gỡ khỏi CDN — ~40% chết sẵn)
+    const verified = new Map(); // imdbId → [{title,url}] còn sống
+    for (const [imdbId, streams] of streamIndex) {
+      let list = streams.slice(0, C.STREAM_MAX_PER_TITLE);
+      if (C.STREAM_VERIFY) {
+        const alive = [];
+        for (const s of list) {
+          if (await curlProbe(s.url, STREAM_HEADERS.Referer)) alive.push(s);
+          else nDead++;
+          await sleep(150); // đỡ dồn dập vào CDN khi probe hàng loạt
+        }
+        list = alive;
+      }
+      if (list.length) verified.set(imdbId, list);
+    }
+
+    // 6b) Giữ stream cũ của phim bị SKIP_EXISTING bỏ qua (không fetch lại lần này)
+    for (const f of fs.readdirSync(sdir)) {
+      if (!f.endsWith('.json')) continue;
+      const id = f.replace(/\.json$/, '');
+      if (validMovieIds.has(id) && !freshMovieIds.has(id) && !verified.has(id)) {
+        try {
+          const prev = JSON.parse(fs.readFileSync(path.join(sdir, f), 'utf8'));
+          if (Array.isArray(prev.streams) && prev.streams.length) {
+            verified.set(id, prev.streams.map((s) => ({ title: s.title, url: s.url })));
+          }
+        } catch (e) { /* file hỏng → dọn ở dưới */ }
+      }
+    }
+
+    // 6c) Dọn file: phim mồ côi + phim vừa fetch mà không còn link sống nào
+    //     (dữ liệu mới là chuẩn — đỡ giữ lại link chết của lần chạy trước)
+    for (const f of fs.readdirSync(sdir)) {
+      if (!f.endsWith('.json')) continue;
+      const id = f.replace(/\.json$/, '');
+      if (!validMovieIds.has(id) || (freshMovieIds.has(id) && !verified.has(id))) {
+        fs.rmSync(path.join(sdir, f));
+      }
+    }
+
+    // 6d) Ghi file stream (kèm header UA+Referer — CDN KKPhim chặn 404 nếu thiếu)
+    for (const [imdbId, list] of verified) {
+      writeJsonSafe(path.join(sdir, `${imdbId}.json`), {
+        streams: list.map((s) => ({
+          title: `${s.title}\nKKPhim`,
+          url: s.url,
+          behaviorHints: { notWebReady: true, proxyHeaders: { request: STREAM_HEADERS } },
+        })),
+      });
+      nStream++; nLink += list.length;
+    }
+    log.info(`Stream: ghi ${nStream} file (${nLink} link sống${nDead ? `, lọc bỏ ${nDead} link chết` : ''}) vào stream/movie/`);
   }
 
   console.log('\n================ TỔNG KẾT ================');
