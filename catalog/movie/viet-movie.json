@@ -1,0 +1,451 @@
+{
+  "metas": [
+    {
+      "id": "tt38934731",
+      "type": "movie",
+      "name": "Mùi Phở",
+      "poster": "https://phimimg.com/uploads/movies/20260902/mui-pho-poster.webp",
+      "description": "Câu chuyện về sự xung đột thế hệ và những va chạm giữa quan niệm cũ và lối sống hiện đại, xoay quanh món Phở - biểu tượng ẩm thực Việt. Đằng sau những mâu thuẫn và tranh cãi ấy, từng bí mật dần được hé lộ, mở ra hành trình tìm lại sự ấm áp của tình thân qua những tình tiết hài hước, dí dỏm và đầy duyên dáng.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt39254706",
+      "type": "movie",
+      "name": "Con Kể Ba Nghe",
+      "poster": "https://phimimg.com/uploads/movies/20260827/con-ke-ba-nghe-poster.webp",
+      "description": "Con Kể Ba Nghe là bộ phim chiếu rạp Việt Nam mang đậm màu sắc gia đình, theo chân một nghệ sĩ xiếc đi trên dây và cậu con trai sống khép kín trong hành trình tìm lại sự gắn kết đã dần phai nhạt theo năm tháng.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt38934710",
+      "type": "movie",
+      "name": "Cưới Vợ Cho Cha",
+      "poster": "https://phimimg.com/uploads/movies/20260712/cuoi-vo-cho-cha-poster.webp",
+      "description": "Ở một xóm nhỏ miền Tây, ông Sáu Sếu sống lủi thủi trong quán cà phê – karaoke, mong con trai Út Tửng từ Sài Gòn về thăm. Khi phát hiện mình mắc trọng bệnh, ông quyết “cưới vợ cho con” để trọn lời hứa với người vợ quá cố. Nhưng kế hoạch ấy đổ vỡ khi ông phát hiện Tửng có một bí mật động trời và che giấu mọi chuyện. Giữa những xung đột, hiểu lầm và nỗ lực hàn gắn, cha con họ dần học cách thấu hiểu, để rồi mỗi người đều tìm thấy hạnh phúc và bình yên trong chính cuộc hôn nhân của mình.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.1"
+    },
+    {
+      "id": "tt26491968",
+      "type": "movie",
+      "name": "Bạch Hồ Điệp",
+      "poster": "https://phimimg.com/uploads/movies/20260801/bach-ho-diep-poster.webp",
+      "description": "Mang dòng máu lai Việt - Hàn, May trở về Việt Nam sau khi nghe tin mẹ qua đời - người mẹ xa lạ với cô. Cuộc hội ngộ \"âm dương\" này khiến cô dần hiểu cuộc chia ly của bố mẹ còn rất nhiều góc khuất.",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt33735394",
+      "type": "movie",
+      "name": "Ánh Dương Nơi Trời Tận",
+      "poster": "https://phimimg.com/uploads/movies/20260801/anh-duong-noi-troi-tan-poster.webp",
+      "description": "Tại Sa Đéc, khi cô phát hiện một em bé bị bỏ rơi, nhiếp ảnh gia Lyn đã bắt đầu một hành trình sáng tạo đầy tranh cãi. Từ đó, vô tình đẩy cô vào những xung đột và thay đổi chẳng thể ngờ đến.",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt39634595",
+      "type": "movie",
+      "name": "TÀI",
+      "poster": "https://phimimg.com/uploads/movies/20260729/tai-poster.webp",
+      "description": "Tài đã trải qua hành trình đầy khó khăn, làm đủ mọi nghề, thậm chí là những phi vụ nguy hiểm phải đặt cược mạng sống để bảo vệ “tài sản” quý giá nhất đời mình. Liệu Tài có đủ nghị lực và tinh thần để vượt lên trên nghịch cảnh, trong gang tấc sự sống? Bộ phim đem đến tiếng cười, tình yêu và sự bao dung mạnh mẽ về những mối quan hệ tình thân và xã hội trong những ngày đầu xuân 2026.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": "tt7446638",
+      "type": "movie",
+      "name": "KFC",
+      "poster": "https://phimimg.com/upload/vod/20260620-1/bd8bc4633119f054280b074f60920864.jpg",
+      "description": "Nhân vật trung tâm là một cậu bé béo phì sống cùng cha. Người cha bên ngoài có vẻ bình thường nhưng thực chất là một kẻ biến thái, sát hại và ăn thịt người. Ông ta còn cho con trai ăn thịt người, góp phần khiến cậu bé ngày càng béo phì.",
+      "releaseInfo": "2016",
+      "imdbRating": "4.3"
+    },
+    {
+      "id": "tt39453759",
+      "type": "movie",
+      "name": "Báu vật trời cho",
+      "poster": "https://phimimg.com/upload/vod/20260618-1/e2e53013ccd1944bf8570ee9dbc233f2.jpg",
+      "description": "Khi cậu bé sáu tuổi trong một gia đình đơn thân vô tình tìm được “người cha trời cho” của mình. Hàng loạt bí mật và định mệnh trớ trêu bị lật mở, để rồi mỗi người phải tự hỏi: Điều gì mới thật sự là báu vật trời cho trong đời mình?",
+      "releaseInfo": "2026",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": "tt35929246",
+      "type": "movie",
+      "name": "Hoàng Tử Quỷ",
+      "poster": "https://phimimg.com/upload/vod/20260616-1/6676f7a2d0bdedf1447f7f73825b745b.jpg",
+      "description": "Hoàng Tử Quỷ xoay quanh Thân Đức - một hoàng tử được sinh ra nhờ tà thuật. Trốn thoát khỏi cung cấm, Thân Đức tham vọng giải thoát Quỷ Xương Cuồng khỏi Ải Mắt Người để khôi phục Xương Cuồng Giáo. Nhưng kế hoạch của Thân Đức chỉ thành hiện thực khi hắn có đủ cả hai “nguyên liệu” - Du Hồn Giả và Bạch Hổ Nguyên Âm. Đội lốt một lang y hiền lành, muốn chữa bệnh cứu người, Thân Đức lên đường đến làng Hủi và đụng độ trưởng làng Lỗ Đạt mạnh mẽ, liệu hắn có thể đạt được âm mưu tà ác của mình?",
+      "releaseInfo": "2025",
+      "imdbRating": "4.7"
+    },
+    {
+      "id": "tt4121306",
+      "type": "movie",
+      "name": "Lạc Giới",
+      "poster": "https://phimimg.com/upload/vod/20260605-1/731643d5c7304d6ef47c634bcf4c0654.jpg",
+      "description": "“Lạc giới” là một câu chuyện tình yêu hiện đại, lãng mạn, nhưng trĩu nặng tâm tư của những người trong cuộc, khiến người xem động lòng trắc ẩn. Thông qua câu chuyện éo le, đầy kịch tính về số phận của những người được coi là “lạc giới” trong đời sống xã hội, bộ phim nêu lên thông điệp: “Trong hành trình đi tìm hạnh phúc và hoàn thiện bản thân, con người cần được sống đúng với bản ngã của mình, miễn điều đó không làm tổn hại đến người khác và cả cộng đồng. Trong cuộc sống chúng ta hãy nên tôn trọng sự khác biệt”.",
+      "releaseInfo": "2014",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt10078822",
+      "type": "movie",
+      "name": "Ở Đây Có Nắng",
+      "poster": "https://phimimg.com/upload/vod/20260605-1/ef681897e5927f43c62e0b947c83740a.jpg",
+      "description": "Ở Đây Có Nắng xoay quanh nhân vật Tùng Nhân – một MC, đạo diễn chương trình truyền hình nổi tiếng đang sống yên vui với người yêu. Bỗng một ngày Tùng Nhân bàng hoàng phát hiện mình có đứa con trai “trên trời rơi xuống” - kết quả mối tình nhiều năm trước với người yêu cũ. Thừa nhận đứa trẻ đồng nghĩa với việc sẽ vướng vào tai tiếng, sự nghiệp có thể tiêu tan, nhưng nhìn thấy con sống bơ vơ, nhớ lại thân cảnh mồ côi của chính mình, Tùng Nhân quyết định nuôi con. Tình phụ tử vừa ấm áp thì éo le bất ngờ xảy đến.",
+      "releaseInfo": "2018",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt11080160",
+      "type": "movie",
+      "name": "Nhân Duyên: Người Yêu Tiên Kiếp",
+      "poster": "https://phimimg.com/upload/vod/20260605-1/030b88b4d23600324216c5f5b068a164.jpg",
+      "description": "Nhân Duyên: Người tình kiếp trước xoay quanh mối tình kéo dài nhiều kiếp giữa chàng trai si tình Trần Nhật và Quỳnh Mai, một cô gái xinh đẹp, dịu dàng. Chỉ vì không muốn quên đi mối tình dang dở với Mai từ kiếp trước, Trần Nhật đã quyết tâm chống lại luật luân hồi, tình nguyện ở bên Mai như một cái bóng vô hình bảo vệ cô khỏi những sóng gió cuộc đời. Rốt cuộc, mối tình kiếp trước này có vượt qua được mọi trở ngại để đến được với nhau không?",
+      "releaseInfo": "2019",
+      "imdbRating": "5.0"
+    },
+    {
+      "id": "tt6714544",
+      "type": "movie",
+      "name": "Lục Vân Tiên Tuyệt Đỉnh Kungfu",
+      "poster": "https://phimimg.com/upload/vod/20260604-1/ea8c25f991360fd18257222140122313.jpg",
+      "description": "Nguyên vào vai anh hùng lịch sử Lục Vân Tiên, người được dịch chuyển một cách kỳ diệu (và không thể giải thích được) đến Việt Nam trong tương lai. Anh kết bạn với một kẻ lừa đảo Tèo (Hữu Tiến), kẻ cố gắng lợi dụng Lục cho mục đích tiền bạc của riêng mình. Chẳng mấy chốc, cả hai bị cuốn vào một nhóm buôn người sau khi Lục cứu Nga (Kim Tuyền) khỏi chúng, và sân khấu được dựng lên cho sự điên rồ tột độ.",
+      "releaseInfo": "2017",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt0286498",
+      "type": "movie",
+      "name": "Bến Không Chồng",
+      "poster": "https://phimimg.com/upload/vod/20260604-1/5d295c8f1a7720144277f98178151d1e.jpg",
+      "description": "Bến không chồng là bộ phim tình cảm Việt Nam được chuyển thể từ tiểu thuyết cùng tên của nhà văn Dương Hướng. Bộ phim là câu chuyện về làng Đông – một làng quê được đặc tả với những nét văn hóa điển hình Bắc Bộ.",
+      "releaseInfo": "2001",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt0352987",
+      "type": "movie",
+      "name": "Vua Bãi Rác",
+      "poster": "https://phimimg.com/upload/vod/20260604-1/5e8e1003ff434564d40fe6d2d29b8e2e.jpg",
+      "description": "Vua Bãi Rác kể về những số phận dưới đáy xã hội, từ các ngả khác nhau quần tụ về bãi rác, hình thành một cộng đồng với đủ niềm vui, nỗi buồn lẫn đau khổ.",
+      "releaseInfo": "2002",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt35496209",
+      "type": "movie",
+      "name": "Mắt Nhắm Mắt Mở",
+      "poster": "https://phimimg.com/upload/vod/20260603-1/1ac2661e76f49cf430298910c65cfba0.jpg",
+      "description": "Phim chưa có nội dung.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt38934698",
+      "type": "movie",
+      "name": "Thỏ Ơi!!",
+      "poster": "https://phimimg.com/upload/vod/20260601-1/034afe4d9f1198904977bb7cd8297a56.jpg",
+      "description": "Với tâm thế luôn mang đến những điều mới để cho khán giả của mình không nhàm chán, Thỏ Ơi!! - bộ phim điện ảnh thứ 4 của đạo diễn Trấn Thành hứa hẹn sẽ mang đến một màu sắc hoàn toàn khác biệt.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.7"
+    },
+    {
+      "id": "tt2069105",
+      "type": "movie",
+      "name": "Vợ Chồng A Phủ",
+      "poster": "https://phimimg.com/upload/vod/20260518-1/803390f54ba5cc013f984d94343ce6e0.jpg",
+      "description": "Phim kể về Mỵ, một cô gái dân tộc H'Mông bị A Sử – con trai của thống lý Pá Tra – bắt về làm vợ vì bố cô nợ gia đình họ. Tại nhà Thống lý, Mỵ bị đối như một nô lệ, phải làm việc nặng, bị đánh đập. A Phủ là một thanh niên H'Mông tròn bản, vì căm ghét sự độc ác của nhà Thống lý nên anh đã đánh A Sử rồi bị bắt. A Phủ bị trói vào góc nhà và được Mỵ chăm nom, khi chứng kiến A Phủ bị đánh đập, Mỵ đã quyết định cởi trói và họ cùng nhau bỏ trốn khỏi nhà Thống lý. Hai người sau đó tham gia cách mạng, đánh đuổi quân đội Pháp ở địa phương và trừng phạt gia đình Thống lý.",
+      "releaseInfo": "1961",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt36616095",
+      "type": "movie",
+      "name": "Quán Kỳ Nam",
+      "poster": "https://phimimg.com/upload/vod/20260517-1/98c0b325481b7a5d89986f443e68934d.jpg",
+      "description": "Với sự nâng đỡ của người chú quyền lực, Khang được giao cho công việc dịch cuốn “Hoàng Tử Bé” và dọn vào căn hộ bỏ trống ở khu chung cư cũ. Anh làm quen với cô hàng xóm tên Kỳ Nam, một góa phụ từng nổi danh trong giới nữ công gia chánh và giờ lặng lẽ với nghề nấu cơm tháng. Một tai nạn xảy ra khiến Kỳ Nam không thể tiếp tục công việc của mình. Khang đề nghị giúp đỡ và mối quan hệ của họ dần trở nên sâu sắc, gắn bó. Liệu mối quan hệ của họ có thể tồn tại lâu dài giữa những biến động củа xã hội thời bấy giờ?",
+      "releaseInfo": "2025",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt1772864",
+      "type": "movie",
+      "name": "Cánh Đồng Bất Tận",
+      "poster": "https://phimimg.com/upload/vod/20260513-1/a676c06b9d30cacc6788f6cba8e1f71e.jpg",
+      "description": "Lấy bối cảnh ở đồng bằng sông Cửu Long của Việt Nam, bộ phim kể về câu chuyện của ông Võ và những người con của ông. Vô cùng tức giận vì sự không chung thủy của vợ, anh đã đốt nhà và tất cả những kỷ niệm của anh trong quá khứ.",
+      "releaseInfo": "2010",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt39313238",
+      "type": "movie",
+      "name": "Nhà Ba Tôi Một Phòng",
+      "poster": "https://phimimg.com/upload/vod/20260507-1/d67e0e2903442bb3f3b70eb8c1efc900.jpg",
+      "description": "Lấy bối cảnh một khu chung cư cũ với căn nhà chỉ vỏn vẹn một phòng, Nhà Ba Tôi Một Phòng khắc họa mối quan hệ “lệch pha” giữa người cha bảo thủ và cô con gái Gen Z đầy mơ ước. Khi những khác biệt thế hệ va chạm trong không gian chật chội, tình thân dần được thử thách và hàn gắn. Bộ phim mang đến một lát cắt gần gũi về gia đình Việt hiện đại, nơi yêu thương đôi khi bắt đầu từ sự thấu hiểu.",
+      "releaseInfo": "2026",
+      "imdbRating": "4.8"
+    },
+    {
+      "id": "tt39301159",
+      "type": "movie",
+      "name": "Nhà Hai Chủ",
+      "poster": "https://phimimg.com/upload/vod/20260505-1/4c29c1c9b3b5d893b35719977e5d22bc.jpg",
+      "description": "Một gia đình nhỏ vì không đủ điều kiện đã phải mua một căn nhà mà người dân xung quanh đồn đoán rằng có nhiều điều kỳ lạ tâm linh liệu gia đình sẽ đối mặt với ngôi nhà nhiều chủ sẽ như thế nào?",
+      "releaseInfo": "2025",
+      "imdbRating": "4.9"
+    },
+    {
+      "id": "tt39519385",
+      "type": "movie",
+      "name": "Nhà Mình Đi Thôi",
+      "poster": "https://phimimg.com/upload/vod/20260429-1/ab078333b569d2a7528cdfa03cede208.jpg",
+      "description": "Phương - chủ Startup trẻ đầy tham vọng, buộc phải thực hiện một chuyến du lịch tuyệt hảo giả tạo cho gia đình bất ổn của mình, để giành lấy khoản đầu tư cho dự án khởi nghiệp. Liệu cô có thể chinh phục thử thách, hàn gắn tình cảm gia đình và nắm bắt cơ hội thành công?",
+      "releaseInfo": "2026",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt34268350",
+      "type": "movie",
+      "name": "Địa Đạo: Mặt Trời Trong Bóng Tối",
+      "poster": "https://phimimg.com/upload/vod/20250519-1/9877afe853d8484edcbe040cb3221ced.jpg",
+      "description": "Năm 1967, giữa lúc Chiến tranh Việt Nam đang ở đỉnh điểm, đội du kích cách mạng 21 người trở thành mục tiêu “tìm và diệt” số 1 của quân đội Mỹ khi nhận nhiệm vụ bằng mọi giá phải bảo vệ một nhóm thông tin tình báo chiến lược mới đến ẩn náu tại căn cứ.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt21848644",
+      "type": "movie",
+      "name": "Người Đàn Bà Mộng Du",
+      "poster": "https://phimimg.com/upload/vod/20250403-1/0901573a2cc4f5b99760f267aba722a3.jpg",
+      "description": "Bộ phim đan xen giữa quá khứ và hiện tại. Trong chiến tranh, Quỳ là một nữ quân y trên chiến trường Trường Sơn, cô yêu Hòa -một đội trưởng- nhưng Hòa lại hy sinh trong chiến trận. Hòa bình lập lại, Quỳ có cuộc tình mới với Phiên -bạn của Hòa- dù được yêu thương hết mực nhưng Quỳ không thể quên được quá khứ cũng như không thể hòa mình vào cuộc sống mới.",
+      "releaseInfo": "2003",
+      "imdbRating": "5.3"
+    },
+    {
+      "id": "tt0156269",
+      "type": "movie",
+      "name": "Ai xuôi vạn lý",
+      "poster": "https://phimimg.com/upload/vod/20250401-1/445bfd62084ed76dfa42e97524bb8b09.jpg",
+      "description": "Ai xuôi vạn lý là bộ phim về đề tài thời hậu chiến của đạo diễn Lê Hoàng, phim được thực hiện năm 1996 do Hãng phim Giải Phóng sản xuất. Đây là một trong những bộ phim điện ảnh được đánh giá là thành công nhất của Lê Hoàng và là một trong những bộ phim kinh điển của nền điện ảnh Việt Nam trong thời kỳ Đổi mới",
+      "releaseInfo": "1996",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt0125129",
+      "type": "movie",
+      "name": "Hà Nội: Mùa Đông năm 46",
+      "poster": "https://phimimg.com/upload/vod/20250401-1/8d89cb7f7e7ce08c250e3e26bc390079.jpg",
+      "description": "“Hà Nội mùa đông 1946” là một phim ghi lại thời khắc lịch sử quan trọng của Hà Nội. Đó là vào mùa đông năm 1946, khi cuộc đàm phán trong Hội nghị Phông-ten-nơ-blô (Fontainebbeau) tại Pháp thất bại, Hồ Chủ tịch ký tạm ước với Pháp để tranh thủ thời gian chuẩn bị đối phó với tình hình. Phim khai thác mạnh khả năng đối nội và đối ngoại đầy trí tuệ của Bác Hồ và các nhà lãnh đạo chính quyền cách mạng trong thời khắc quan trọng đó.",
+      "releaseInfo": "1997",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt0328612",
+      "type": "movie",
+      "name": "Vĩ Tuyến 17 Ngày Và Đêm",
+      "poster": "https://phimimg.com/upload/vod/20250401-1/cfeb24a6e7e2478a04b49fcff8067ee8.jpg",
+      "description": "Vĩ tuyến 17 ngày và đêm là một bộ phim của đạo diễn Hải Ninh năm 1972. Đây là một bộ phim tiêu biểu của nền điện ảnh cách mạng Việt Nam trong thời kỳ Chiến tranh Việt Nam. Kịch bản Vĩ tuyến 17 ngày và đêm được Hải Ninh và Hoàng Tích Chỉ viết trong 5 năm. Đây cũng là kịch bản hai tập đầu tiên của điện ảnh cách mạng Việt Nam.",
+      "releaseInfo": "1973",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt0329566",
+      "type": "movie",
+      "name": "Sao Tháng 8",
+      "poster": "https://phimimg.com/upload/vod/20250401-1/04b693960bfee1cf978fc08015c40875.jpg",
+      "description": "\"Sao Tháng Tám\" phản ánh thành công những ngày sôi sục trước cách mạng tháng Tám năm 1945 và nạn đói kinh hoàng năm ấy. Bộ phim giúp khán giả hiểu được cuộc sống lầm than của dân ta mà không trang viết nào tái hiện chân thực bằng.",
+      "releaseInfo": "1977",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": "tt2136824",
+      "type": "movie",
+      "name": "Chung Một Dòng Sông",
+      "poster": "https://phimimg.com/upload/vod/20250401-1/6ad2f82d64f2a73fa5eca3fc4dd526d6.jpg",
+      "description": "Theo Hiệp định Genève 1954, sông Bến Hải trở thành giới tuyến tạm thời phân chia hai miền Nam – Bắc của Việt Nam. Hai nhân vật Hoài và Vận yêu nhau từ hồi cùng trong Chiến tranh Việt-Pháp. Sau 1954 họ định làm lễ cưới, nhưng khi thuyền của nhà trai sang bờ Nam đón dâu thì cảnh sát phía Nam không cho họ lên bờ. Mối tình của họ bị ngăn cản.",
+      "releaseInfo": "1959",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt8101316",
+      "type": "movie",
+      "name": "Giải Phóng Sài Gòn",
+      "poster": "https://phimimg.com/upload/vod/20250401-1/5d69eb577c1f41d25071eca1cda63594.jpg",
+      "description": "bộ phim truyện sử thi hoành tráng và đầy xúc động. Bối cảnh sinh động, tái hiện chân thực, bộ phim đã kể lại những dấu mốc chính của Chiến dịch Hồ Chí Minh lịch sử giải phóng Sài Gòn và hoàn toàn miền Nam, thống nhất đất nước. Phim có sự tham gia diễn xuất của các diễn viên như Hà Văn Trọng, Đức Nhuận, Hoàng Quân Tạo, Dương Trọng Hiếu, Thành Hội, Lan Hương, Thanh Thúy,...",
+      "releaseInfo": "2005",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt0327681",
+      "type": "movie",
+      "name": "Em bé Hà Nội",
+      "poster": "https://phimimg.com/upload/vod/20250401-1/a8f7b3617f2d371798385e0b564eb96d.jpg",
+      "description": "Phim xoay quanh hành trình một bé gái từ nơi sơ tán lên thành phố tìm bố trong thời gian diễn ra chiến dịch rải bom Linebacker II.",
+      "releaseInfo": "1974",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt9602374",
+      "type": "movie",
+      "name": "Đường Thư",
+      "poster": "https://phimimg.com/upload/vod/20250401-1/58b916f66e7f43ff096c9417c10c331a.jpg",
+      "description": "Đường Thư là bộ phim chiến tranh Việt Nam của đạo diễn Bùi Tuấn Dũng với sự tham gia của diễn viên Quốc Tuấn, Tuấn Tú. Trong phim, Tân (Quốc Tuấn đóng) và An (Tuấn Tú đóng) là hai chiến sĩ quân bưu mặt trận, nhận lệnh vận chuyển một công văn thượng khẩn giữa chiến trường ác liệt. Bằng mọi giá họ phải chuyển mật lệnh của cấp trên đến một đơn vị quân giải phóng đang bị địch bao vây ở cao điểm 861, cách chỉ huy sở nhiều ngày đường. Nếu lệnh đến chậm hoặc không đến được, thì cả đơn vị này có nguy cơ bị tiêu diệt. Trên đường đến cao điểm 861, hai chiến sĩ quân bưu – một đã dạn dày trận mạc (Tân) và một là “lính mới” (An) – đã phải đối mặt với muôn vàn khó khăn, gian khổ, hiểm nguy. Phẩm chất gan dạ, mưu trí, dũng cảm và ý thức trách nhiệm của người chiến sĩ quân bưu được bộc lộ qua việc họ xử lý những tình huống, những trở ngại trên “đường thư”. Và họ đã hoàn thành xuất sắc nhiệm vụ, dù phải chấp nhận những hy sinh, tổn thất to lớn…",
+      "releaseInfo": "2006",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt2819812",
+      "type": "movie",
+      "name": "Hà Nội 12 Ngày Đêm",
+      "poster": "https://phimimg.com/upload/vod/20250401-1/e78b598e7a8cb3f454639835a9fa2b19.jpg",
+      "description": "Hà Nội 12 ngày đêm được thể hiện rất công phu với mục đích tái hiện một phần trận Điện Biên Phủ trên không – một cuộc chiến đấu ác liệt của nhân dân Hà Nội chống lại cuộc tập kích chiến lược bằng máy bay B-52 của đế quốc Mỹ vào cuối tháng 12 năm 1972, buộc Chính phủ Hoa Kỳ phải ký Hiệp định Paris đem lại hòa bình ở miền Bắc Việt Nam.",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt0300606",
+      "type": "movie",
+      "name": "Vào Nam Ra Bắc",
+      "poster": "https://phimimg.com/upload/vod/20250401-1/5a055e37b5fc85fad4e88516087c2006.jpg",
+      "description": "Bộ phim kể về cuộc hội ngộ bất ngờ giữa một người lính năm xưa và người vũ nữ. Câu chuyện lôi kéo người xem trở về những năm tháng kháng chiến ác liệt ở miền Bắc. Rời Hà Nội để vào Nam chiến đấu, Quang- trắng trẻo, thư sinh và trong sáng như bao chàng trai khác thời chiến tranh – bỗng nhụt chí khi các đồng đội từng trải kể về sự ác liệt của chiến tranh, nỗi ám ảnh rồi đây sẽ chết thảm trên chiến trường mà chưa biết tí gì về mùi đàn bà và sự thật trước mắt hiển hiện khi trên đường hành quân nhiều đồng đội cùng trang lứa đã phải nằm xuống bởi bom đạn. Thế là Quang quyết định đào ngũ trong đêm tối lẫn trốn vào ruộng khoai mì chờ tàu trở ngược ra Bắc và gặp bé Nụ.",
+      "releaseInfo": "2000",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt2424534",
+      "type": "movie",
+      "name": "Mùi cỏ cháy",
+      "poster": "https://phimimg.com/upload/vod/20250401-1/9572a5005594738f465fe9ec1da18722.jpg",
+      "description": "\"Mùi cỏ cháy\" lấy bối cảnh chính là sự kiện Mùa hè đỏ lửa 1972 với trận chiến tại Thành cổ Quảng Trị. Nhân vật chính trong phim là bốn sinh viên Trường Đại học Tổng hợp Hà Nội là: Hoàng, Thành, Thăng và Long theo lệnh tổng động viên lên đường nhập ngũ năm 1971, được huấn luyện tốc hành và sau cùng đã tham gia chiến đấu tại Thành cổ Quảng Trị năm 1972. Tại đây, Thành, Thăng và Long đã hi sinh còn Hoàng thì may mắn sống sót trở về. Bộ phim được kể lại từ ký ức của Hoàng, khi ông thăm lại chiến trường xưa.",
+      "releaseInfo": "2012",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt8890594",
+      "type": "movie",
+      "name": "Bài ca ra trận",
+      "poster": "https://phimimg.com/upload/vod/20250401-1/3a88bc977a09fec193dc490fc176af0e.jpg",
+      "description": "Bài ca ra trận là một bộ phim mô tả cuộc kháng chiến chống Mỹ cứu nước dưới góc nhìn lãng mạn của đạo diễn Trần Đắc. Trong phim, Nam là một chiến sĩ trẻ – bị thương nặng trong một trận đánh được đưa về quân y viện chữa trị, anh đối mặt với những ngày tháng đen tối nhất trong đời: Đôi mắt không còn nhìn thấy được ánh sáng, xung quanh là những thương binh nặng vật vã đau đớn suốt ngày đêm. Hoài bão, những hồi ức trong sáng và sự gần gũi chăm sóc của cô y tá xinh đẹp Mai dần dần đưa anh vượt qua cú sốc này.",
+      "releaseInfo": "1973",
+      "imdbRating": "5.1"
+    },
+    {
+      "id": "tt0118148",
+      "type": "movie",
+      "name": "Bao giờ cho đến tháng Mười",
+      "poster": "https://phimimg.com/upload/vod/20250401-1/9fd9493189e5144c085edba26175a130.jpg",
+      "description": "Bao giờ cho đến tháng Mười được sản xuất năm 1984 đã được coi là một trong những bộ phim kinh điển của nền điện ảnh Việt Nam. Ngày 15 tháng 9 năm 2008, CNN đánh giá “Bao giờ cho đến tháng Mười” là một trong 18 bộ phim châu Á xuất sắc mọi thời đại. Bao giờ cho đến tháng mười là một bộ phim mang nhiều bản sắc dân tộc khi lấy nhân vật chính là người phụ nữ, đạo diễn Đặng Nhật Minh đã góp phần làm tăng vẻ đẹp thầm kín cao cả trong tâm hồn người phụ nữ Việt Nam.",
+      "releaseInfo": "1984",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt0300263",
+      "type": "movie",
+      "name": "Ngã Ba Đồng Lộc",
+      "poster": "https://phimimg.com/upload/vod/20250401-1/0478730ee25d5c1e12b7136438ee6d49.jpg",
+      "description": "Ngã ba Đồng Lộc là bộ phim điện ảnh Việt Nam về đề tài chiến tranh do Lưu Trọng Ninh đạo diễn và kịch bản của Nguyễn Quang Vinh. Phim dựa trên sự kiện có thật về 10 cô gái thanh niên xung phong thuộc Tiểu đội 4, Đại đội 552, thuộc Tổng đội Thanh niên xung phong ở Ngã ba Đồng Lộc, huyện Can Lộc, Hà Tĩnh.",
+      "releaseInfo": "1997",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt38275436",
+      "type": "movie",
+      "name": "Cục Vàng Của Ngoại",
+      "poster": "https://phimimg.com/upload/vod/20260403-1/302beeb411b719a89f3678638ab48fe7.jpg",
+      "description": "Lấy cảm hứng từ những ký ức tuổi thơ ngọt ngào, “Cục Vàng Của Ngoại” kể câu chuyện ấm áp về tình bà cháu trong một xóm nhỏ đầy nghĩa tình. Bà Hậu – người phụ nữ cả đời tần tảo – trở thành chỗ dựa duy nhất của cháu ngoại khi con gái bỏ đi. Dẫu cuộc sống còn nhiều nhọc nhằn, tình thương bà dành cho cháu vẫn trọn vẹn, đưa khán giả trở về những khoảnh khắc đời thường: nụ cười hồn nhiên của trẻ, vòng tay chở che của bà, và sự đùm bọc của hàng xóm. Một bức tranh tuổi thơ bình yên, ấm áp và chan chứa tình người.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt36414938",
+      "type": "movie",
+      "name": "Út Lan: Oán Linh Giữ Của",
+      "poster": "https://phimimg.com/upload/vod/20260320-1/8da22e7ddd10639ab76bba823b7a743b.jpg",
+      "description": "Sau sự ra đi của cha, Lan (Phương Thanh) về một vùng quê và ở đợ cho nhà ông Danh (Mạc Văn Khoa) - một người đàn ông góa vợ, không con cái. Ngay sau khi bước chân vào căn nhà, Lan phải đối mặt với hàng loạt hiện tượng kỳ dị và những cái chết bí ẩn liên tục xảy ra. Cùng với Sơn (Quốc Trường) - một nhà văn chuyên viết truyện kinh dị, Lan bắt đầu lật mở những bí mật kinh hoàng, khám phá lịch sử đen tối của căn nhà.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.0"
+    },
+    {
+      "id": "tt38866268",
+      "type": "movie",
+      "name": "Truy Tìm Long Diên Hương",
+      "poster": "https://phimimg.com/upload/vod/20260305-1/f27e602f78ac25f30a12c985e91ede32.jpg",
+      "description": "Một hành trình tìm lại bảo vật Long Diên Hương siêu quậy và siêu lầy lội đang chờ bạn ở phía trước. Quang Tuấn, Ma Ran Đô, Nguyên Thảo, Hoàng Tóc Dài, Doãn Quốc Đam,... đã sẵn sàng lên đường Truy Tìm Long Diên Hương.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt35676748",
+      "type": "movie",
+      "name": "Nụ Hôn Bạc Tỷ",
+      "poster": "https://phimimg.com/upload/vod/20260305-1/277fff3f8a3f09efd03218b2ba176e5e.jpg",
+      "description": "Câu chuyện xoay quanh Thúy Vân (Thiên Ân) và người chị \"trời đánh\" Thúy Kiều (Thu Trang) đang phải đối mặt với món nợ lớn do người tình gây ra. Đứng trước nguy cơ mất trắng, cả hai buộc phải vạch kế hoạch chinh phục \"Nụ Hôn Bạc Tỷ\" từ hai chàng thiếu gia Quang (Lê Xuân Tiền) và Tú (Ma Ran Đô).",
+      "releaseInfo": "2025",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt17508394",
+      "type": "movie",
+      "name": "Mưu Kế Thượng Lưu",
+      "poster": "https://phimimg.com/upload/vod/20260210-1/101ac661ec916cbd58562ffcb3ab5d47.jpg",
+      "description": "Mưu Kế Thượng Lưu kế về hành trình của Ngân (Thiên An thủ vai) – một cô gái nghèo – bước chân vào thế giới “con nhà người ta” và khám phá ra những góc khuất ít người biết đằng sau vẻ hào nhoáng của những rich kid sinh ra ở vạch đích.",
+      "releaseInfo": "2022",
+      "imdbRating": "3.8"
+    },
+    {
+      "id": "tt38132338",
+      "type": "movie",
+      "name": "Tử Chiến Trên Không",
+      "poster": "https://phimimg.com/upload/vod/20260131-1/4e3b2c7d88c55d852dfe756e4acc56c1.jpg",
+      "description": "Tử Chiến Trên Không là phim điện ảnh hành động - kịch tính, được lấy cảm hứng từ vụ cướp máy bay có thật tại Việt Nam sau năm 1975.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt36121849",
+      "type": "movie",
+      "name": "Quỷ Nhập Tràng",
+      "poster": "https://phimimg.com/upload/vod/20260129-1/4d420dcef0d8f183b115788140d02614.jpg",
+      "description": "Phim lấy cảm hứng từ \"truyền thuyết kinh dị nhất về người chết sống lại\", kể về vợ chồng Quang và Như sống bằng nghề mai táng ở một ngôi làng vùng cao. Cuộc sống yên bình của họ bị xáo trộn khi phát hiện một cỗ quan tài vô chủ trên mảnh đất nhà mình. Từ đây, những hiện tượng kỳ lạ bắt đầu xảy ra và ám ảnh cả ngôi làng.",
+      "releaseInfo": "2025",
+      "imdbRating": "5.7"
+    },
+    {
+      "id": "tt13326736",
+      "type": "movie",
+      "name": "Tiệc Trăng Máu",
+      "poster": "https://phimimg.com/upload/vod/20260123-1/978e6060f811ed9903c2c1e2f9b6f4f0.jpg",
+      "description": "Trong buổi họp mặt của nhóm bạn thân, một thành viên bất ngờ đề xuất trò chơi chia sẻ điện thoại nhằm tăng tinh thần “đoàn kết”. Từ đó, những góc khuất của từng người dần hé lộ và khiến cho mối quan hệ vốn khắng khít của họ bắt đầu lay chuyển.",
+      "releaseInfo": "2020",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt10575710",
+      "type": "movie",
+      "name": "Ngôi Nhà Bươm Bướm",
+      "poster": "https://phimimg.com/upload/vod/20260123-1/ea656687938967a0f0bdc295616efe7f.jpg",
+      "description": "Ngôi nhà bươm bướm xoay quanh câu chuyện tình của Hoàng (Liên Bỉnh Phát) và Mai (Hoàng Yến Chibi). Yêu nhau trong lúc cùng du học ở Mỹ, cả hai quyết định tiến đến hôn nhân. Rắc rối nằm ở chỗ ba mẹ của Hoàng - ông Cường (Quang Minh) và dì Hân (NSƯT Thành Lộc) - là một đôi đồng tính. Trong khi đó, phía sui gia là ông Thịnh (Xuân Trường) chuẩn bị lên chức hiệu trưởng một ngôi trường cấp III có tiếng ở Hà Nội, và mang quan niệm sống truyền thống, khắt khe. Sau vài lần thuyết phục, Mai mới có thể đưa cha và mẹ (Hồng Đào) vào Sài Gòn để gặp gỡ gia đình Hoàng. Từ đây, hàng loạt sự kiện dở khóc dở cười xảy ra khiến cuộc hôn nhân của đôi trẻ đứng trước nguy cơ tan vỡ.",
+      "releaseInfo": "2019",
+      "imdbRating": "5.6"
+    },
+    {
+      "id": "tt4669954",
+      "type": "movie",
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "poster": "https://phimimg.com/upload/vod/20260123-1/fc1b1379882e1af185f25791c4e5496a.jpg",
+      "description": "Lấy bối cảnh tại vùng quê Việt Nam, bộ phim kể về câu chuyện tình cảm ngây thơ trong sáng, tình bạn đẹp và tình làng xóm.",
+      "releaseInfo": "2015",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt3701078",
+      "type": "movie",
+      "name": "Để Mai Tính 2",
+      "poster": "https://phimimg.com/upload/vod/20260123-1/8fe265f8cbf2898c813377e4976d47c6.jpg",
+      "description": "Phim Để Mai Tính 2 (tên cũ: Để Hội Tính) của đạo diễn Charlie Nguyễn là phần ngoại truyện hài hước chưa kể của Để Mai Tính. Xoay quanh nhân vật Phạm Hương Hội (Thái Hòa). Từ một nhân vật phụ đã rất ấn tượng trong Để Mai Tính, nay còn tỏa sáng hơn với diện mạo mới, lý lịch mới, trong vai chính của phim Để Hội Tính. Là chủ tịch của một tập đoàn lớn, giàu có, nhưng Hội lại đem lòng yêu anh chàng họa sĩ phong trần tên Nam (Quang Sự). Dưới sự chỉ dẫn của trợ lý đắc lực (Huy Khánh), Hội đã \"giả trai\" để tiếp cận Nam. Nhưng Nam đang rất ngọt ngào bên người yêu Thư Lê (Diễm My 9x). Tan vỡ trong Để Mai Tính, liệu lần này Hội có chấp nhận tiếp tục thất bại trong tình yêu? Hội sẽ làm gì để loại bỏ tình địch Thư Lê và giành lấy tình yêu của mình?",
+      "releaseInfo": "2014",
+      "imdbRating": "5.7"
+    }
+  ]
+}
