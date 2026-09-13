@@ -1,8 +1,8 @@
 {
   "id": "community.phim-quoc-gia",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "name": "Phim Theo Quốc Gia",
-  "description": "Phim lẻ & bộ Việt, Hàn, Trung, Âu Mỹ, Thái + Anime, Hoạt hình, Tài liệu. Mô tả tiếng Việt. Cần cài addon nguồn (Torrentio/MediaFusion) để xem.",
+  "description": "Phim lẻ & bộ Việt, Hàn, Trung, Âu Mỹ, Thái + Anime, Hoạt hình, Tài liệu. Mô tả tiếng Việt. Phim lẻ phát thẳng link Vietsub KKPhim; phim bộ cần addon nguồn khác (Torrentio/MediaFusion).",
   "resources": [
     "catalog"
   ],
