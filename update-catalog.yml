@@ -1,0 +1,71 @@
+name: Update Catalog & Deploy
+
+# Cách dùng từ điện thoại: vào tab "Actions" trên GitHub (web hoặc app) ->
+# chọn workflow này -> bấm "Run workflow". Không cần cài gì trên máy/điện thoại.
+# Muốn tự động cập nhật định kỳ: đã bật sẵn lịch chạy mỗi ngày (dòng cron bên dưới).
+
+on:
+  workflow_dispatch: {} # cho phép bấm chạy tay từ web/app GitHub
+  schedule:
+    - cron: '0 18 * * *' # 18:00 UTC = 01:00 sáng giờ Việt Nam mỗi ngày
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Không cho 2 lần deploy chạy chồng nhau
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Giải nén nếu repo chỉ có file .zip (trường hợp upload từ điện thoại, chưa git push code)
+        run: |
+          if ls ./*.zip >/dev/null 2>&1 && [ ! -f package.json ]; then
+            echo "Tìm thấy .zip ở gốc repo, đang giải nén..."
+            unzip -o ./*.zip -d /tmp/extracted
+            SRC=$(find /tmp/extracted -mindepth 1 -maxdepth 1 -type d | head -1)
+            if [ -n "$SRC" ]; then cp -a "$SRC"/. ./; else cp -a /tmp/extracted/. ./; fi
+            rm -rf /tmp/extracted
+          fi
+
+      - name: Cài Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Khôi phục cache dữ liệu lần fetch trước (để đỡ gọi lại API đã có)
+        uses: actions/cache@v4
+        with:
+          path: cache
+          key: catalog-cache-${{ github.run_id }}
+          restore-keys: |
+            catalog-cache-
+
+      - name: Fetch dữ liệu từ KKPhim/NguonC/TMDB
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          ITEMS_PER_CATALOG: '50'
+        run: npm run fetch
+
+      - name: Build catalog tĩnh (manifest.json + catalog/**/*.json)
+        run: npm run build
+
+      - name: Đóng gói thư mục public/ thành Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Deploy lên GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
