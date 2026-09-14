@@ -1,0 +1,898 @@
+{
+  "metas": [
+    {
+      "id": "tt31704157",
+      "type": "series",
+      "name": "Soundtrack #2",
+      "poster": "https://phimimg.com/upload/vod/20260401-1/0d2e8f1bd6c051e010b94d4e9701abb2.jpg",
+      "description": "Su-ho và Hyeon-seo, cặp đôi từng có 6 năm mặn nồng bên nhau, tình cờ tái ngộ trong hoàn cảnh hoàn toàn khác biệt: một người giờ đây là vị CEO trẻ tuổi giàu có, người kia là một giáo viên dạy piano. Mối nhân duyên trỗi dậy khi K – một nhạc sĩ tài năng – cùng Su-ho thực hiện một dự án âm nhạc chung và đã mời Hyeon-seo tham gia. Từ đây, Su-ho và Hyeon-seo bắt đầu một hành trình tình yêu đầy gập ghềnh với những nút thắt và biến cố bất ngờ. Liệu lịch sử có lặp lại một lần nữa hay họ sẽ có một cái kết khác cho bản nhạc tình này?",
+      "releaseInfo": "2023",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt18970038",
+      "type": "series",
+      "name": "Soundtrack #1",
+      "poster": "https://phimimg.com/upload/vod/20260401-1/f8dcca45fed48ed351b2add363081730.jpg",
+      "description": "Han Sun-Woo (Park Hyung-Sik) là một nhiếp ảnh gia trẻ. Anh ấy ít nói nhưng là một người đàn ông tốt bụng và ấm áp. Anh ấy là bạn với Lee Eun-Soo (Han So-Hee). Họ là bạn thân của nhau được 20 năm. Trong khi đó, Lee Eun Soo làm công việc viết lời bài hát để kiếm sống. Cô ấy có một tính cách trung thực và tươi sáng. Vì một lý do, Han Sun-Woo và Lee Eun-Soo bắt đầu sống chung một nhà trong 2 tuần. Ở bên nhau, mối quan hệ của họ phát triển một cách lãng mạn.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt40374606",
+      "type": "series",
+      "name": "Lúc Nào Ta Cũng Sẽ Gặp Lại",
+      "poster": "https://phimimg.com/upload/vod/20260330-1/ed82ccdb08236710bb238f3def1a9735.jpg",
+      "description": "Sau khi tỉnh dậy và thấy mình trở lại tuổi 18, một họa sĩ nổi tiếng đã được đoàn tụ với mối tình đầu của mình và đối mặt với cơ hội hiếm có để viết lại câu chuyện của hai người.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt38453141",
+      "type": "series",
+      "name": "Sẵn Sàng Chưa Texas",
+      "poster": "https://phimimg.com/upload/vod/20260329-1/51f7a024a52f3e0d40aa8769fe542f2f.jpg",
+      "description": "Không kế hoạch, chỉ có những trải nghiệm ngẫu hứng. Khi hai người bạn thân cùng hội anh em bắt đầu chuyến hành trình tới Texas mà không hề có kịch bản trước, chẳng ai biết điều gì đang chờ đợi họ ở phía trước.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt4449190",
+      "type": "series",
+      "name": "Người Vợ Dũng Cảm",
+      "poster": "https://phimimg.com/upload/vod/20260327-1/b8c8984ed3ef978091de833f0f359e49.jpg",
+      "description": "4 nữ phạm nhân bị kết án oan cùng hợp lực trả thù một tập đoàn lớn đã đẩy họ vào vòng lao lý. Dù là nạn nhân của các vụ việc khác nhau nhưng sự đồng cảm, sẻ chia đã khiến 4 người phụ nữ trở thành chị em một nhà.",
+      "releaseInfo": "2014",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt39014301",
+      "type": "series",
+      "name": "Thủy Triều Tình Yêu (Phần 2)",
+      "poster": "https://phimimg.com/upload/vod/20260206-1/f38225ffd928c85e486a044f88b6ad6e.jpg",
+      "description": "Một người thừa kế giàu có và một sinh viên nghệ thuật bước vào một thỏa thuận mang tính giao dịch. Thế nhưng, mối quan hệ ấy dần dần nảy sinh tình cảm thật lòng, buộc cả hai phải đối mặt với những khao khát thực sự của bản thân.",
+      "releaseInfo": "2026",
+      "imdbRating": "3.8"
+    },
+    {
+      "id": "tt40002799",
+      "type": "series",
+      "name": "Hội Chứng Sợ Yêu",
+      "poster": "https://phimimg.com/upload/vod/20260228-1/61331adaf8959d15b132eaf69d7987d2.jpg",
+      "description": "Một CEO của công ty hẹn hò thực tế ảo, người ghét tình yêu, gặp gỡ một nhà văn hoàn toàn không hiểu gì về chuyện tình cảm. Khi họ xung đột giữa đam mê do trí tuệ nhân tạo điều khiển và cảm xúc đời thực, một câu chuyện ngọt ngào nhưng cũng đầy rắc rối về sự hàn gắn và kết nối bất ngờ dần hé mở.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": "tt39453765",
+      "type": "series",
+      "name": "Trao Em Cả Vũ Trụ",
+      "poster": "https://phimimg.com/upload/vod/20260209-1/6244cc481b717b579d553961a2d013fb.jpg",
+      "description": "Hai người họ hàng bên nội và bên ngoại, sau một biến cố đau lòng, bị buộc phải cùng nhau nuôi dạy đứa cháu nhỏ mồ côi. Sống chung dưới một mái nhà, họ dần vượt qua những hiểu lầm và định kiến về nhau. Thông qua hành trình cùng làm cha mẹ, cả hai không chỉ tìm thấy sự trưởng thành cho bản thân mà còn nảy sinh một tình cảm lãng mạn không ngờ tới.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt39301725",
+      "type": "series",
+      "name": "Danh Dự Cuối Cùng",
+      "poster": "https://phimimg.com/upload/vod/20260203-1/7251f3abb5ced08c44f7c990993ebb3b.jpg",
+      "description": "Bộ phim xoay quanh ba nữ luật sư buộc phải đối diện trực tiếp với một vụ bê bối nghiêm trọng bị chôn vùi trong quá khứ. Lee Na Young, Jung Eun Chae và Lee Chung Ah vào vai những đối tác sáng lập của hãng luật L&J – nơi chuyên bảo vệ và đại diện cho các nạn nhân của những tội ác nhằm vào phụ nữ.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt39219419",
+      "type": "series",
+      "name": "Điều Tra Viên Hong",
+      "poster": "https://phimimg.com/upload/vod/20260117-1/22756a81f9eb77a599c5d6205b4b96d0.jpg",
+      "description": "Nữ điều tra viên kiên cường nọ cải trang thâm nhập vào một công ty chứng khoán để phanh phui tham nhũng, nhưng nhiệm vụ của cô trở nên rắc rối khi CEO mới lại là người yêu cũ.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt19851552",
+      "type": "series",
+      "name": "Chạy Đến Bên Em Với Vận Tốc 493Km",
+      "poster": "https://phimimg.com/upload/vod/20260308-1/f0d84b5054b0a7dba0742afb0f186419.jpg",
+      "description": "Bộ phim tình cảm thể thao miêu tả niềm đam mê và tình cảm với cầu lông của một nam và nữ nhân vật chính là một nhóm đôi nam nữ với những người chơi từ đội kinh doanh cầu lông. Park Tae Joon, người tự nhiên bén duyên với thế giới cầu lông vì công việc kinh doanh thiết bị cầu lông của cha mẹ anh. Mặc dù anh ấy đã bắt đầu coi môn thể thao này là công việc, nhưng niềm đam mê cầu lông của anh ấy lại được khơi dậy do mong muốn gây ấn tượng với một người phụ nữ. Park Tae Yang là cựu vận động viên điền kinh, người đã phải rời bỏ làng cầu lông thế giới trong ba năm vì một vụ bê bối hối lộ.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt35848827",
+      "type": "series",
+      "name": "Bạn Trai Theo Yêu Cầu",
+      "poster": "https://phimimg.com/upload/vod/20260307-1/903ea6483ca481d7210d81a56cfce3a0.jpg",
+      "description": "Kiệt sức vì công việc, tình yêu là điều cuối cùng Seo Mi Rae nghĩ đến. Thế rồi một dịch vụ hẹn hò ảo khơi dậy những rung động – và có thể mở ra cơ hội thật sự để tìm thấy tình yêu.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt39137681",
+      "type": "series",
+      "name": "Cơn Say Mùa Xuân",
+      "poster": "https://phimimg.com/upload/vod/20260106-1/deeaf96194e9eb72cc990cb4747536e6.jpg",
+      "description": "Yun Bom (Lee Joo Bin) là một nữ giáo viên trung học ở Seoul. Sau khi trải qua nhiều biến cố, cô chuyển đến một ngôi trường nhỏ ở vùng quê. Ban đầu, cô cảm thấy xa cách với mọi người, nhưng dần dần mở lòng sau khi gặp Seon Jae Gyu (Ahn Bo Hyun). Mặc dù có vẻ ngoài thô ráp, nhưng thực ra bên trong anh ấy rất tốt bụng và quan tâm đến người khác.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt33429144",
+      "type": "series",
+      "name": "Từ Hôm Nay, Tôi Là Con Người",
+      "poster": "https://phimimg.com/upload/vod/20260117-1/2a3caceda2e1ac37ef188251faf77766.jpg",
+      "description": "Một sinh vật huyền bí đầy phóng túng. Một ngôi sao bóng đá tự mãn. Khi số phận đảo lộn cuộc sống của họ, liệu cả hai có thể thay đổi nhau theo hướng tốt đẹp hơn?",
+      "releaseInfo": "2026",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt39306333",
+      "type": "series",
+      "name": "Hoa Máu",
+      "poster": "https://phimimg.com/upload/vod/20260205-1/50a279c9ab6a570c8a60f2b672efc30a.jpg",
+      "description": "Bộ phim kể về Lee U Gyeom, kẻ sát nhân hàng loạt nắm giữ công nghệ y học cứu người. Phim xoay quanh cuộc đấu trí giữa luật sư muốn cứu con và công tố viên đòi công lý. Liệu hắn là tội đồ hay hy vọng cuối cùng? Một tác phẩm tâm lý tội phạm đầy gai góc về đạo đức và sự sống.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt39375130",
+      "type": "series",
+      "name": "Baby Đến Rồi!",
+      "poster": "https://phimimg.com/upload/vod/20260119-1/d86e4511a783ac1a47f1514cc5e1b7c6.jpg",
+      "description": "Kang Doo Jun - một tài phiệt lạnh lùng và hoàn hảo, thề sẽ không bao giờ kết hôn. Jang Hee Won - một phụ nữ xinh đẹp tập trung vào sự nghiệp, cũng khép kín bản thân với tình yêu. Sau một “tai nạn\" bất ngờ, cuộc sống của họ bị đảo lộn, buộc họ phải tìm hiểu cách trở thành cha mẹ. Và con đường không nằm trong kế hoạch này cuối cùng lại dẫn họ đến tình yêu.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt39303266",
+      "type": "series",
+      "name": "Tên Trộm Dấu Yêu",
+      "poster": "https://phimimg.com/upload/vod/20260105-1/0adea2e823ede3d6a2bca22d1f0ac286.jpg",
+      "description": "Lấy bối cảnh thời Joseon, phim kể về Hong Eun Jo (Nam Ji Hyun), một cô gái sống cuộc đời “hai mặt”. Ban ngày, cô là một thầy thuốc giỏi, nhưng ban đêm cô trở thành một tên trộm huyền thoại cướp của người giàu chia cho người nghèo. Cuộc sống của cô trở nên phức tạp hơn khi hoàng tử Yi Yeol (Moon Sang Min) nhập vai thám tử điều tra, quyết tâm tìm ra thân phận thật của tên trộm lừng danh.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt38973594",
+      "type": "series",
+      "name": "Thẩm Phán Trùng Sinh",
+      "poster": "https://phimimg.com/upload/vod/20260103-1/554f1cc080753e7c1b6a600ad51afd77.jpg",
+      "description": "Lee Han Young (Ji Sung) – một thẩm phán từng lún sâu vào tham nhũng để rồi bị hãm hại bởi chính những người anh từng phục vụ. Trong khoảnh khắc đối mặt với cái chết, một sự kiện siêu nhiên đã xảy ra, đưa linh hồn anh trở về thời điểm 10 năm trước, khi anh vẫn còn là một tân binh trong ngành tư pháp. Được trao cơ hội thứ hai, anh quyết tâm tìm lại công lý bằng cách trừng phạt cái ác.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt21631058",
+      "type": "series",
+      "name": "Tội Ác Vô Hình (Công Lý Mù)",
+      "poster": "https://phimimg.com/upload/vod/20260218-1/4aec5178300ef5a8de3179f249b72b74.jpg",
+      "description": "Ryu Sung Joon là một thanh tra đầy nhiệt huyết và quyết tâm truy bắt những kẻ xấu. Jo Eun Ki là nhân viên xã hội với một trái tim ấm áp, luôn tin vào công lý. Còn Ryu Sung Hoon, anh trai của Sung Joon, là một vị thẩm phán đầy tài năng, luôn đưa ra những phán xét công bằng. Ba người vô tình dính vào một vụ án giết người hàng loạt mà nạn nhân là các thành viên của bồi thẩm đoàn và cùng nhau giải mã bí ẩn đằng sau những vụ án này.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt5320412",
+      "type": "series",
+      "name": "Người Tình Ánh Trăng",
+      "poster": "https://phimimg.com/upload/vod/20250907-1/d0395e8cd4b62b13d60dd939ab043890.jpg",
+      "description": "Bộ phim xoay quanh câu chuyện về một cô gái đến từ tương lai đã gây nên những cuộc nội chiến giữa các hoàng tử dưới thời đại Goryeo. Trong phim Người Tình Ánh Trăng (Moon Lovers) lấy cớ tranh giành tình yêu của cô gái này các chàng hoàng tử đã chính thức công khai tham vọng tranh giành ngai vàng của mình và trong đó vị bát hoàng tử là một ứng cử viên sáng giá nhất cho ngôi vị Hoàng Đế cũng như trong tình yêu.",
+      "releaseInfo": "2016",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt0477524",
+      "type": "series",
+      "name": "Tên Tôi Là Kim Sam Soon",
+      "poster": "https://phimimg.com/upload/vod/20260215-1/777149ece2a671254448d0a709faef28.jpg",
+      "description": "Sam Soon là một thợ làm bánh 29 tuổi, ngoại hình bình thường, vừa thất tình thì gặp công tử nhà giàu Jin Heon. Cả hai ký hợp đồng yêu giả để đối phó gia đình, nhưng sau đó nảy sinh tình cảm thật qua những màn \"oan gia ngõ hẹp\". Phim đề cao sự tự tin và hành trình tìm lại chính mình của phụ nữ hiện đại.",
+      "releaseInfo": "2005",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt35149250",
+      "type": "series",
+      "name": "Nghệ Thuật Lừa Dối Của Sarah",
+      "poster": "https://phimimg.com/upload/vod/20260213-1/6f8288b9cee4ae457be84bf97d951bea.jpg",
+      "description": "Một thi thể giữa thị trấn. Một thương hiệu xa xỉ đang lên. Một thanh tra điều tra mọi chi tiết trong câu chuyện liên tục thay đổi của một người phụ nữ. Thực sự đã xảy ra chuyện gì?",
+      "releaseInfo": "2026",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt39375564",
+      "type": "series",
+      "name": "Liều Thuốc Cho Tình Yêu",
+      "poster": "https://phimimg.com/upload/vod/20260203-1/c65d018cf7b9b5ec469fc42e15a0c60f.jpg",
+      "description": "Tại thị trấn Onjeong, nơi hai dòng họ lớn đã cắt đứt quan hệ suốt nhiều thập kỷ. Kong Ju A nỗ lực đối đầu với áp lực từ người mẹ nghiêm khắc để tuyên bố từ bỏ sự nghiệp y khoa ngay sau khi vừa nhận được giấy phép hành nghề. Cô quyết định quay trở lại với chiếc máy khâu và những bản thiết kế dang dở, vốn là năng khiếu thiên bẩm mà cô được thừa hưởng từ người ông vốn là bác sĩ phẫu thuật tài hoa. Yang Hyeon Bin là quản lý cấp cao của tập đoàn thời trang Taehan SNC, anh trở về quê hương để thực hiện một dự án nghiên cứu thị trường mới. Hai đứa con đến từ hai dòng họ mâu thuẫn suốt nhiều năm hứa hẹn mang lại những thước phim gia đình, đời thường hấp dẫn cho dòng phim cuối tuần.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": "tt22353836",
+      "type": "series",
+      "name": "Công Tố Viên Lách Luật",
+      "poster": "https://phimimg.com/upload/vod/20260202-1/d6144f4394c91d656c5d2e05f6cc9db5.jpg",
+      "description": "Jin Jung là một công tố viên chuyên gây rối của Văn phòng Quận Trung tâm. Với một ý chí mạnh mẽ về công lý và sự điên cuồng, anh ta trừng phạt những kẻ tội phạm nhiều hơn những gì họ đáng phải nhận. A Ra là cộng sự của Jung, một công tố viên có năng lực, người luôn đánh giá các vấn đề một cách khách quan và xử lý chúng một cách dứt điểm. Cũng tại Văn phòng Quận trung tâm là công tố viên ưu tú Do Hwan, người tin rằng tiền bạc và quyền lực là tất cả. Anh ấy là một người đàn ông sẵn sàng làm bất cứ điều gì cần thiết để vươn lên cao hơn. Trong một thế giới bị thối nát bởi sự giàu có và xấu xa, câu chuyện về những công tố viên này sẽ mở ra.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt37876545",
+      "type": "series",
+      "name": "Thời Vàng Son",
+      "poster": "https://phimimg.com/upload/vod/20250811-1/cf8aded73a79cd81817fd43f0b71cc2b.jpg",
+      "description": "Ai cũng có những tháng ngày huy hoàng của riêng mình. Dù là hiện tại, quá khứ hay tương lai.\" Một bộ phim tâm lý gia đình chạm đến nhiều thế hệ, kể về những tháng ngày vàng son mang ý nghĩa khác nhau với mỗi người. Ji Hyuk có tất cả phẩm chất của “người chồng trong mơ”: thông minh, thành đạt và điển trai. Nhưng anh tin rằng độc thân mới là cuộc sống lý tưởng. Ngày thường, anh cống hiến trọn vẹn cho công việc; cuối tuần, anh tự thưởng cho mình những thú vui bằng chính đồng lương kiếm được. Mọi thứ đảo lộn khi Eun Oh - cô đàn em rạng rỡ và kiên cường thời đại học, từng một lần tỏ tình nhưng bị anh từ chối - bất ngờ quay lại. Sự xuất hiện của cô không chỉ khiến trái tim Ji Hyuk rung động trở lại, mà còn buộc anh đối diện với mối quan hệ gia đình mà anh đã cố quên. Trong khi đó, người bạn thân Seong Jae - sinh ra đã ngậm thìa vàng và tưởng chừng nắm trong tay tất cả - lại đang âm thầm chiến đấu với những nỗi niềm riêng. Cả ba, mỗi người mang một vết thương, cùng bước vào hành trình đối diện với tình thân, cuộc sống và tình yêu theo cách của riêng mình.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt39068875",
+      "type": "series",
+      "name": "Luật Sư Của Thần Tượng",
+      "poster": "https://phimimg.com/upload/vod/20251223-1/410770956f55c34fafaaa5d297173ad5.jpg",
+      "description": "Luật sư hình sự hàng đầu Maeng Se Na lại âm thầm là fan cứng của một nhóm nhạc nam. Nhưng công việc và đam mê xung đột khi thần tượng cô yêu thích trở thành nghi phạm giết người.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt35451747",
+      "type": "series",
+      "name": "Bước Vào Tim Em",
+      "poster": "https://phimimg.com/upload/vod/20251221-1/11352defef012cabcfc2a7e6161f7348.jpg",
+      "description": "Bộ phim xoay quanh Seo Jun Gyeong, một nữ bác sĩ phụ khoa xinh đẹp và thành công, nhưng không ai biết phía sau bề ngoài tưởng chừng như hoàn hảo đó lại ẩn chứa một tâm hồn vô cùng cô đơn. Sau khi bỏ trốn khỏi gia đình đã tan vỡ sau một tai nạn bất ngờ cách đây bảy năm, cô ôm trong mình một bí mật không dám thổ lộ cùng ai. Để bảo vệ bí mật đó, Jun Gyeong luôn phải cố gắng tỏ ra mạnh mẽ, cho đến khi một người đàn ông bước vào đời cô và nhìn thấu nỗi cô đơn mà cô giấu kín suốt bấy lâu nay.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt38644602",
+      "type": "series",
+      "name": "Những Ông Bố Của Marrie",
+      "poster": "https://phimimg.com/upload/vod/20251027-1/99664ba2ff38b218f9568d2d439188af.jpg",
+      "description": "Phim xoay quanh hành trình của Kang Ma Ri trong cuộc kiếm tìm người cha ruột và khát vọng tìm lại một gia đình thực sự. Thế nhưng, càng đi sâu vào quá khứ, cô càng nhận ra rằng gia đình không chỉ là sự kết nối về huyết thống, mà còn là tình yêu, sự chấp nhận và những vòng tay luôn dang rộng chờ đón mình. Từ đó, Kang Ma-ri học cách trân trọng những người đã âm thầm đồng hành và yêu thương cô vô điều kiện suốt bao năm qua.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt38689499",
+      "type": "series",
+      "name": "Mật Ngọt Chết Ruồi",
+      "poster": "https://phimimg.com/upload/vod/20251002-1/7a26d994bb2583fb46a085d6bcca9292.jpg",
+      "description": "Câu chuyện xoay quanh hai người phụ nữ đầy tham vọng, vốn gắn kết bằng huyết thống, nay lại đối đầu trong vai mẹ chồng – nàng dâu. Giữa cuộc chiến dối trá và toan tính, họ lao vào trận chiến khốc liệt để giành lấy 'hoàng cung vàng' quyền lực.",
+      "releaseInfo": "2025",
+      "imdbRating": "5.1"
+    },
+    {
+      "id": "tt12873628",
+      "type": "series",
+      "name": "Xứ Sở Alice",
+      "poster": "https://phimimg.com/upload/vod/20260122-1/dea25724c584ed0d1c47f5c5da40ce4a.jpg",
+      "description": "Alice bắt đầu với sự u ám của cái chết, khiến hai người hoàn toàn phải chia xa mãi mãi trước khi được gặp lại nhau lần nữa như phép màu. Park Jin Gyum (Joo Won) là một thanh tra không bao giờ thể hiện cảm xúc, luôn giữ trong mình ý định sẽ trả thù cho cái chết tức tưởi của mẹ. Khi điều tra cho một vụ án bí ẩn, anh đã nhận ra sự tồn tại của những người du hành thời gian. Họ đến từ tương lai thông qua một không gian vũ trụ được gọi là Alice. Dần dần, anh trở thành người ngăn chặn những điều tiêu cực xảy ra thông qua nơi này.",
+      "releaseInfo": "2020",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt39068271",
+      "type": "series",
+      "name": "Ác Nhân",
+      "poster": "https://phimimg.com/upload/vod/20251218-1/10a1719c4c03ce36031e4dbc41d8e48b.jpg",
+      "description": "Khi những kẻ phản diện chính thức lộ diện. Một bộ phim chính kịch tội phạm xoay quanh những cuộc đụng độ đẫm máu và đối đầu khốc liệt giữa các băng nhóm tội phạm vì những tờ tiền giả ‘siêu hoàn hảo'.",
+      "releaseInfo": "2025",
+      "imdbRating": "5.2"
+    },
+    {
+      "id": "tt38221085",
+      "type": "series",
+      "name": "Mong Ngày Mai Đến",
+      "poster": "https://phimimg.com/upload/vod/20251208-1/806c8c249b84e258572f5af1d74d5c48.jpg",
+      "description": "Lee Gyeong Do và Seo Ji Woo gặp nhau lần đầu năm 20 tuổi tại một câu lạc bộ kịch và nảy sinh tình cảm nhưng chia tay sau đó. 8 năm sau, cả hai hẹn hò lại nhưng lại tiếp tục rời xa. Nhiều năm sau, họ gặp lại nhau, khi Gyeong Do là phóng viên đưa tin về một vụ bê bối ngoại tình và Ji Woo là vợ của người đàn ông trung tâm của vụ việc.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt38810320",
+      "type": "series",
+      "name": "Phi Công Trẻ Theo Đuổi Tình Yêu",
+      "poster": "https://phimimg.com/upload/vod/20251101-1/d208db8aefb6c6ecc0fb146281a72a8e.jpg",
+      "description": "Những chàng phi công trẻ trong công cuộc tán tỉnh các chị gái hơn tuổi, hứa hẹn mang tới 1 luồng gió mới cho show hẹn hò mới nhất này.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt30293074",
+      "type": "series",
+      "name": "Tiếng Yêu Này, Anh Dịch Được Không?",
+      "poster": "https://phimimg.com/upload/vod/20260116-1/8b1201713adc08736e33e45ab1c1f2e4.jpg",
+      "description": "Đi khắp thế giới để quay chương trình truyền hình, cảm xúc của một người nổi tiếng và phiên dịch viên của cô lại chẳng thể nào thông dịch. Liệu tình yêu có tìm được ngôn ngữ riêng?",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt39012462",
+      "type": "series",
+      "name": "Luật Sư Công Ích",
+      "poster": "https://phimimg.com/upload/vod/20251207-1/f5049d137ddf6436f15279fada08d881.jpg",
+      "description": "Cuộc đời sụp đổ sau một đêm, vị thẩm phán được kính trọng gia nhập nhóm luật sư công ích của một hãng luật hàng đầu, nơi hi vọng và lẽ sống chờ ông ở chốn khiêm nhường và bất ngờ.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt13759970",
+      "type": "series",
+      "name": "Tài Xế Ẩn Danh (Phần 3)",
+      "poster": "https://phimimg.com/upload/vod/20251122-1/98a195e46ee8549833c3d8d15008c430.jpg",
+      "description": "Bộ phim diễn ra xung quanh một công ty taxi bí mật có tên Rainbow Taxi chuyên trả thù những nạn nhân của tội ác không được pháp luật bảo vệ. Lee Je Hoon vào vai một cựu sĩ quan đặc nhiệm, hiện là tài xế taxi Kim Do Ki, người có trực giác bẩm sinh nhưng cũng có óc phán đoán lạnh lùng và tính cách táo bạo. Esom vào vai công tố viên Kang Ha Na thông minh và tinh ranh. Kim Eui Sung vào vai Jang Sung Chul, người sáng lập ra Rainbow Taxi . Và Lee Na Eun vào vai chuyên gia IT Go Eun, người đang làm việc cho Rainbow Taxi và tìm ra thông tin cá nhân để giúp giải quyết các vụ việc.",
+      "releaseInfo": "2025",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt6516076",
+      "type": "series",
+      "name": "Vũ Khí Nhà Văn",
+      "poster": "https://phimimg.com/upload/vod/20260110-1/ceacf11ca6c6a3282c0c7264790f5faa.jpg",
+      "description": "Bộ phim với sự tham gia của dàn diễn viên siêu HOT của Đại Hàn Dân Quốc như Yoo Ah In, Im Soo Jung, Go Kyung Pyo, Kwak Si Yang. Vũ Khí Nhà Văn là câu chuyện về 3 nhà văn sống ở những năm 1930, khi Hàn Quốc còn là thuộc địa của Nhật. Họ được đầu thai và sống ở hiện tại, trong đó có một người là nhà văn có tiếng nhưng đang gặp khủng hoảng, hai người còn lại là người viết thuê và anti-fan của anh ta.Yoo Ah In thủ vai Han Se Joo, một nhà văn nổi tiếng, chủ nhân của hàng loạt cuốn sách ăn khách, kèm theo đó là diện mạo ngôi sao khiến anh ta đã nổi lại càng nổi hơn. Không chỉ là thần tượng của giới văn học, chàng trai này còn sở hữu một lượng fan đông đảo tới mức anh ta có hẳn fanfic (truyện do fan viết) cho riêng mình. Về tính cách, anh ta được miêu tả là một kẻ nhạy cảm, dễ cáu giận nhưng cũng rụt rè, nhút nhát và hay u sầu.",
+      "releaseInfo": "2017",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt39165989",
+      "type": "series",
+      "name": "Chợ Đen Thời Tận Thế",
+      "poster": "https://phimimg.com/upload/vod/20251225-1/5b1903e5f16b8aab2c1e3d34db208957.jpg",
+      "description": "Sau đại địa chấn xóa sổ thế giới, hy vọng mong manh len lỏi giữa toà chung cư cuối cùng biến thành “chợ đen”- Nơi mạng đổi mạng và niềm tin là món đồ xa xỉ.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt39325343",
+      "type": "series",
+      "name": "Những Bản Nhạc Tình",
+      "poster": "https://phimimg.com/upload/vod/20251220-1/8369375682e9a38d51df2448315aeb4d.jpg",
+      "description": "Một tuyển tập phim lãng mạn gồm 10 câu chuyện tình yêu khác nhau, mỗi câu chuyện mang sắc thái và sức hút riêng. Phim quy tụ dàn diễn viên đông đảo.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt37506062",
+      "type": "series",
+      "name": "Lọt Hố Gã Khó Ưa (Rất Vui Không Gặp Em)",
+      "poster": "https://phimimg.com/upload/vod/20251104-1/5776a34237e13a5a511f0f173f83eafc.jpg",
+      "description": "Mối tình man mát, hâm hâm giữa một nam diễn viên chuyên đóng vai chính trực đạo mạo muốn chinh phục dòng phim melodrama — và một nữ phóng viên mảng chính trị, từng đoạt được giải thưởng danh giá với loạt phóng sự điều tra đầy chân thực bị điều chuyển xuống làm mảng giải trí.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt8067818",
+      "type": "series",
+      "name": "Ôm Em Thật Chặt",
+      "poster": "https://phimimg.com/upload/vod/20260104-1/c225a0843b17b1628888f4f2ab15c1b3.jpg",
+      "description": "Cuộc sống hạnh phúc bên chồng con của Nam Hyun Joo bỗng đảo lộn khi cô nhận được tin mình mắc bệnh hiểm nghèo và chỉ còn sống được sáu tháng. Đối mặt với cái chết cận kề, thay vì sống trọn vẹn những ngày cuối cùng bên người thân, cô lại che giấu bệnh tình và thậm chí còn quyết định ly hôn với chồng. Với Hyun Joo, sáu tháng còn lại không phải là kết thúc, mà là cơ hội để cô làm lại cuộc đời, thực hiện nốt những tâm nguyện còn dang dở và sống vì bản thân sau nhiều năm hy sinh cho gia đình.",
+      "releaseInfo": "2018",
+      "imdbRating": "4.0"
+    },
+    {
+      "id": "tt38353551",
+      "type": "series",
+      "name": "Nụ Hôn Bùng Nổ",
+      "poster": "https://phimimg.com/upload/vod/20251113-1/e1f3ffbc9759bc3bfaa1add317a477ce.jpg",
+      "description": "Một người phụ nữ đang chật vật mưu sinh giả vờ làm bà mẹ đã kết hôn ở chỗ làm. Nhưng rắc rối nảy sinh khi sếp mới của cô lại là người thừa kế từng trao cô nụ hôn định mệnh năm xưa.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt4999822",
+      "type": "series",
+      "name": "Nước Mắt Phụ Nữ",
+      "poster": "https://phimimg.com/upload/vod/20251230-1/c9d4a65ddee209ef998c8bca525482f4.jpg",
+      "description": "Một trong những khác biệt lớn nhất giữa con người và loài vật chính là cảm xúc. Vì vậy, việc lột tả tâm lý của các nhân vật khác nhau trong một bộ phim truyền hình là phần tối quan trọng của quá trình kể chuyện. Cảm giác khi một người yêu một người khác sẽ ra sao? Cảm giác khi ta tha thứ cho một ai đó sẽ thế nào? Bộ phim này được tạo ra với mong muốn truyền cảm hứng để mỗi chúng ta trở nên dịu dàng hơn và mạnh mẽ hơn.",
+      "releaseInfo": "2015",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt28719842",
+      "type": "series",
+      "name": "Tình Yêu Chân Thật (Phần 4)",
+      "poster": "https://phimimg.com/upload/vod/20251230-1/fd9f75e9185497f84b834f96dd50df85.jpg",
+      "description": "Sau 10 năm làm bạn thân, họ đã chính thức trở thành một cặp đôi chân thành và tin cậy được 6 tháng. Thế nhưng, chỉ vì một sai lầm mà cả hai phải bắt đầu một mối quan hệ lén lút? Một bộ web-sitcom về tình yêu đích thực của những cô cậu học trò tuổi 19.",
+      "releaseInfo": "2020",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt12458252",
+      "type": "series",
+      "name": "Gia Đình Xa Lạ Của Tôi (Gia Đình Không Quen Biết Của Tôi)",
+      "poster": "https://phimimg.com/upload/vod/20251228-1/6491794a130230622ecb1d1fadd3b64d.jpg",
+      "description": "Một gia đình ly tán nhiều năm cố gắng hàn gắn mối quan hệ của họ trong khi đương đầu với những trở ngại trong cuộc sống.",
+      "releaseInfo": "2020",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt4741110",
+      "type": "series",
+      "name": "Bẫy Tình Yêu",
+      "poster": "https://phimimg.com/upload/vod/20251228-1/00c503583f04a9de92be321226dfd525.jpg",
+      "description": "Bản chuyển thể từ truyện tranh động này nói về cô nữ sinh nghèo cố gắng theo đuổi ước mơ đại học và vô tình thu hút anh chàng thượng lưu nhưng cũng có nhiều góc khuất. Phim Bẫy tình yêu xoay quanh mối quan hệ giữa cô sinh viên đại học Hong Seol (Kim Go Eun) và tiền bối cùng trường Yoo Jung (Park Hae Jin). Hong Seol là vai diễn truyền hình đầu tiên của Kim Go Eun. Nhân vật này được mô tả là một sinh viên chăm chỉ, cô trở lại trường học sau thời gian dài bị gián đoạn. Vì hoàn cảnh khốn khó mà Hong Seol phải đi làm thêm để trang trải cuộc sống. Trong khi đó, chàng trai nam thứ Park Hae Jin sẽ vào vai Yoo Jung, một quý ngài hoàn hảo. Anh ta có mọi thứ: gia thế, học thức, ngoại hình, sức khỏe, kể cả tính cách. Thế nhưng, ẩn sau những điều tưởng như hoàn mĩ đó là góc khuất đen tối trong tâm hồn chàng thanh niên này. Người sẽ hóa giải cho những vấn đề của anh chính là cô nữ sinh hạng thường Hong Seol.",
+      "releaseInfo": "2016",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt30413044",
+      "type": "series",
+      "name": "Anh Hùng Tiền Mặt",
+      "poster": "https://phimimg.com/upload/vod/20251226-1/2c8f6e0fff520fbe77bbdb731cf81f46.jpg",
+      "description": "Một người đàn ông bình thường thừa hưởng siêu năng lực rồi phát hiện một thế lực hiểm ác đang tìm cách cướp sức mạnh đó. Nhưng mỗi lần anh ra tay là tiền bay khỏi ví.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt2942950",
+      "type": "series",
+      "name": "Ban Nhạc Mỹ Nam",
+      "poster": "https://phimimg.com/upload/vod/20251226-1/88e6c1f234ff7ab9f17304c9395d5ab9.jpg",
+      "description": "Đây là bộ phim mới xoay quanh đề tài về một band nhạc rock, vậy nên đã chọn ra những gương mặt hoàn toàn mới để tham gia diễn xuất. Tên của bộ phim là \"Ban Nhạc Mỹ Nam\" kể câu chuyện về tình bạn, niềm đam mê âm nhạc, và tình yêu xoay quanh ban nhạc gồm những anh chàng học sinh trung học đẹp trai, có tâm hồn tự do, phóng khoáng : Ji Hyuk, Hyun Soo, Ha Jin, Do Il, Kyung Jong. Dù chỉ là những nam sinh còn ngồi trên ghế nhà trường, nhưng cả năm chàng trai luôn có cùng một đam mê cháy bỏng với âm nhạc, họ thành lập ban nhạc rock underground Eye Candy và mong muốn sẽ trở nên nổi tiếng.",
+      "releaseInfo": "2012",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt37366796",
+      "type": "series",
+      "name": "Người Phụ Nữ Nuốt Chửng Mặt Trời",
+      "poster": "https://phimimg.com/upload/vod/20251023-1/b35bf561c3e56adbaf5368af25f9344e.jpg",
+      "description": "Baek Seol Hui, một người mẹ đơn thân kiên cường, vừa gánh vác quán ăn nhỏ vừa chăm sóc con gái. Nhưng khi bi kịch ập đến với con, Seol Hui buộc phải dấn thân vào cuộc chiến không khoan nhượng với một gia đình tài phiệt, để đòi lại công bằng.",
+      "releaseInfo": "2025",
+      "imdbRating": "5.6"
+    },
+    {
+      "id": "tt38221197",
+      "type": "series",
+      "name": "Sông Trăng Hoán Mệnh",
+      "poster": "https://phimimg.com/upload/vod/20251109-1/dc76caa9206777cc65d6c49e67a6ab33.jpg",
+      "description": "Bộ phim là câu chuyện hoán thân đổi xác giữa một thế tử cao quý và một cô gái bán hàng rong. Từ khi thế tử phi qua đời, Thế tử Yi Gang mất đi nụ cười và chỉ một lòng muốn báo thù cho người thương. Thế nhưng, ngay khi kế hoạch trả thù đã tính toán từ lâu vừa có bước tiến đầu tiên thì Yi Gang gặp được Park Dal Yi, một cô gái bán hàng rong bị mất trí nhớ có dung mạo y hệt thế tử phi quá cố. Hai người bị hoán đổi linh hồn, buộc phải sống trong thân xác của nhau, mở ra chuỗi tình huống dở khóc dở cười khiến cuộc đời cả hai đảo lộn.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt4803738",
+      "type": "series",
+      "name": "Xin Chào Quái Vật (Nhớ Em)",
+      "poster": "https://phimimg.com/upload/vod/20251223-1/b5577a4f553245163fb3db74f8ff7a87.jpg",
+      "description": "Lee Hyun (do Seo In Guk đóng) từ nhỏ đã có trí thông minh tuyệt đỉnh, nhưng một mặt nào đó lại giống như quái vật, do đó bị cha mình là Lee Joong Min (do Jun Kwang Ryul đóng) quản thúc rất nghiêm khắc. Sau khi trưởng thành, Lee Hyun trở thành một nhà phân tích tâm lý tội phạm. Một ngày nọ, Lee Hyun tình cờ gặp một cảnh sát hình sự non trẻ là Cha Ji An (do Jang Na Ra đóng) tại hiện trường vụ án. Duyên phận gắn kết Lee Hyun và Cha Ji An lại với nhau, viết nên một câu chuyện tình đẹp như mơ.",
+      "releaseInfo": "2015",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt38839105",
+      "type": "series",
+      "name": "Đời Chỉ Sống Một Lần",
+      "poster": "https://phimimg.com/upload/vod/20251111-1/5aab1b480ef7c20c19d61d22692abc00.jpg",
+      "description": "Câu chuyện về ba người bạn 41 tuổi. Cho Na Jeong (Kim Hee Sun) từng là người dẫn chương trình mua sắm tại nhà trên truyền hình và kiếm được hàng trăm triệu won từ công việc của mình. Giờ đây, cô là một bà nội trợ toàn thời gian và là mẹ của hai cậu con trai. Cô cố gắng quay trở lại với công việc với mức lương cao ngất ngưởng mà cô từng có. Koo Ju Yeong (Han Hye Jin) làm quản lý kế hoạch tại một trung tâm nghệ thuật, nơi trưng bày những màn trình diễn chất lượng cao. Cô dường như có một cuộc sống hoàn hảo cả về đời tư lẫn sự nghiệp. Nhưng thực tế, cô phải chịu đựng nỗi đau khi cố gắng sinh con với người chồng vô tính của mình. Lee Il Ri (Jin Seo Yun) độc thân và làm phó tổng biên tập cho một tạp chí thời trang. Cô bắt đầu sự nghiệp với tư cách là biên tập viên thời trang và đã nỗ lực hết mình để trở thành phó tổng biên tập. Cô vẫn ấp ủ một giấc mơ về hôn nhân, một giấc mơ mà cô vẫn chưa thực hiện được.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt7418578",
+      "type": "series",
+      "name": "Cặp Đôi Vượt Thời Gian",
+      "poster": "https://phimimg.com/upload/vod/20251221-1/003783fe3890b6ae507c916f3161bc63.jpg",
+      "description": "Choi Ban Do và Ma Jin Joo đều 38 tuổi, là một cặp vợ chồng trung niên. Choi Ban Do lo gánh nặng kiếm tiền còn Ma Jin Joo là một bà nội trợ luôn cảm thấy mặc cảm. Mặc dù họ đã từng yêu nhau rất nhiều khi kết hôn, nhưng giờ họ quyết định ly dị. Cả hai đều hối tiếc vì kết hôn ở tuổi quá trẻ như vậy. Bỗng hai vợ chồng vượt thời gian và thấy mình là sinh viên đại học 20 tuổi, thời điểm họ gặp nhau lần đầu tiên.",
+      "releaseInfo": "2017",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt39000008",
+      "type": "series",
+      "name": "Lôi Vân Phong Vũ",
+      "poster": "https://phimimg.com/upload/vod/20251130-1/2b907377690e4f52e4ef0cfa8be24f0b.jpg",
+      "description": "Bị ràng buộc bởi một món nợ, một người con ngoài giá thú chuyển đến sống chung với người anh họ lạnh lùng của mình. Anh không hề hay biết rằng thỏa thuận miễn cưỡng ban đầu của họ sẽ dần dần phát triển thành một mối ám ảnh sâu sắc và nguy hiểm.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt38839163",
+      "type": "series",
+      "name": "Biệt Đội Nhà Bên",
+      "poster": "https://phimimg.com/upload/vod/20251118-1/8df208822581a9dae6e43c5aaf7e7042.jpg",
+      "description": "Bộ phim xoay quanh một nhóm các cựu quân nhân đặc biệt (UDT, chống khủng bố...) đang cố gắng sống một cuộc đời bình dị như những người hàng xóm bình thường. Tuy nhiên, khi gia đình và khu phố của họ bị đe dọa, bản năng anh hùng \"ngủ quên\" của họ trỗi dậy. Một tổ đội \"bất đắc dĩ\" được thành lập, bao gồm cựu đặc nhiệm Choi Kang (Yoon Kye Sang), cựu lính chống khủng bố Kwak Byeong Nam (Jin Sun Kyu), bà chủ siêu thị \"hổ báo\" Jung Nam Yeon (Kim Ji Hyun), võ sư \"nửa mùa\" Lee Yong Hee (Go Gyu Pil) và thiên tài kỹ thuật Park Jung Hwan (Lee Jung Ha). Họ cùng nhau chiến đấu để bảo vệ những gì thân yêu nhất.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt38119083",
+      "type": "series",
+      "name": "Mùa Hạ Cuối (Anh Đến Cùng Mùa Hạ)",
+      "poster": "https://phimimg.com/upload/vod/20251102-1/25d952621da1f9f6ac4df556acef5d26.jpg",
+      "description": "Một cậu bé đến thăm anh trai sinh đôi và bố mình mỗi mùa hè rồi phải lòng cô bé hàng xóm. Nhưng nhiều năm sau, một bí mật đau lòng chia cắt họ.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt38570528",
+      "type": "series",
+      "name": "Cuộc Sống Trong Mơ Của Ông Kim",
+      "poster": "https://phimimg.com/upload/vod/20251026-1/043471199080589b7f41288758a36b14.jpg",
+      "description": "Sau khi làm tròn vai trò quản lý doanh nghiệp, người đàn ông trung niên nọ bắt đầu hành trình tự khám phá sau biến cố bất ngờ – học lại những điều mang cho ông niềm vui thực sự.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt14136390",
+      "type": "series",
+      "name": "Cách Mạng Tình Yêu",
+      "poster": "https://phimimg.com/upload/vod/20251208-1/b78c8c0f218aaee87ea4f23375950258.jpg",
+      "description": "Cách Mạng Tình Yêu kể về Gong Joo Yong quên ví tiền vào ngày đầu tiên đi học và không thể bắt xe buýt. Một nữ sinh giúp anh ta trả tiền vé xe lúc nguy cấp. Anh ta lập tức trúng tiếng sét ái tình với cô nhưng không được đáp lại dù cố gắng theo đuổi đến đâu. Dù vậy, Goo Joo Young vẫn không hề nản chí… Và một câu chuyện tình cảm hài hước mở ra!",
+      "releaseInfo": "2020",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt36188448",
+      "type": "series",
+      "name": "Trò Chơi Thao Túng",
+      "poster": "https://phimimg.com/upload/vod/20251106-1/f3e2f2a3e1ccb10144eb3242121e1076.jpg",
+      "description": "Tae Joong là một người đàn ông bình thường, đang sống cuộc đời yên ổn nhưng tất cả bỗng đảo lộn khi anh bị kết án tù oan với tội danh nghiêm trọng. Ở trong tù, anh phát hiện ra mọi thứ đều đã bị sắp đặt bởi Yo Han – kẻ giật dây phía sau. Vì vậy khi được trả tự do, Tae Joong bắt đầu con đường báo thù, trả lại công lý cho bản thân và đối mặt với kẻ đã thao túng cuộc đời anh.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt36856846",
+      "type": "series",
+      "name": "Gia Đình Bão Tố",
+      "poster": "https://phimimg.com/upload/vod/20251012-1/d4699ed181d717215a974193527143e4.jpg",
+      "description": "Một vị sếp mới thừa kế công việc kinh doanh của bố. Một kế toán viên tham vọng mơ ước thành công. Cùng nhau, họ học hỏi tinh thần kinh doanh và trưởng thành giữa khủng hoảng.",
+      "releaseInfo": "2025",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt26773414",
+      "type": "series",
+      "name": "Năm Ngón Tay Diệu Kỳ",
+      "poster": "https://phimimg.com/upload/vod/20251031-1/fd8fba19e7d4e995dcc2885e43eadc5e.jpg",
+      "description": "Song Woo Yeon (Park Ji Hu), một nữ sinh trung học nhút nhát và sống khép kín, không rõ mục đích sống cũng như khó thể hiện cảm xúc. Cuộc đời cô thay đổi khi được mời làm người mẫu cho câu lạc bộ vẽ “Spirit Fingers”, nơi cô gặp những con người chân thành và cởi mở. Nhờ sự khích lệ của phó chủ tịch Nam Geu Rin, Woo Yeon gia nhập câu lạc bộ. Tại đây, cô gặp Nam Ki Jeong (Jo Joon Young thủ vai) – em trai Geu Rin, một người mẫu có ngoại hình nổi bật nhưng bối rối về giá trị bản thân. Gặp Woo Yeon, Ki Jeong bắt đầu nuôi dưỡng những giấc mơ và cảm xúc mới mẻ về tình yêu.",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt37218592",
+      "type": "series",
+      "name": "Cái Giá Của Lời Thú Tội",
+      "poster": "https://phimimg.com/upload/vod/20251207-1/a3fe0d57d1834e414cfe1d52b9e47ac1.jpg",
+      "description": "Bị buộc tội giết chồng, người phụ nữ nọ được một người lạ mặt bí ẩn đề xuất một lối thoát. Theo đó, cô phải phạm tội giết người, đổi lại, người nọ sẽ nhận tội thay cô.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt38839138",
+      "type": "series",
+      "name": "Cách Mạng Tình Yêu 4.0",
+      "poster": "https://phimimg.com/upload/vod/20251114-1/856059aa749a5292fee1ed83657bdd3e.jpg",
+      "description": "Sau khi trường đại học sáp nhập hai khoa người mẫu và kỹ thuật máy tính, chàng người mẫu cuốn hút Min-hak và cô lập trình viên cầu toàn Yeon-san – hai con người hoàn toàn đối lập – lại bất ngờ phải lòng nhau. Khi sàn catwalk gặp màn hình máy tính, khi sự quyến rũ chạm trán với sự chính xác — định mệnh đã viết nên một câu chuyện tình không ai ngờ tới.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt11180882",
+      "type": "series",
+      "name": "Không Có Lần Hai",
+      "poster": "https://phimimg.com/upload/vod/20251203-1/4584a091a74d4fc5f92d2f7170598c96.jpg",
+      "description": "Nằm giữa Seoul hoa lệ, có một quán trọ từng là nơi ẩn mình của các văn nghệ sĩ nổi tiếng. Nhiều năm qua đi, nơi này giờ đã xuống cấp và trở thành chốn dừng chân của những người không còn nơi nào để đi, những người có cuộc sống phức tạp hoặc đang mang trong mình những vết thương tinh thần chưa lành hẳn. Và cũng ở chính nơi đây, những vị khách trọ tìm thấy sự kết nối kỳ diệu giữa người với người và từ đó dần tìm lại được phương hướng cho cuộc đời lạc lối của mình.",
+      "releaseInfo": "2019",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt38882489",
+      "type": "series",
+      "name": "Hoa Đào Nở",
+      "poster": "https://phimimg.com/upload/vod/20251107-1/838fa053b5c6e79e5d9dda3636837388.jpg",
+      "description": "Vào khoảnh khắc Yoo Do Ha rơi vào khủng hoảng lớn nhất cuộc đời, ba chàng trai bất ngờ xuất hiện bên cạnh anh! Từ đó, Do Ha bị cuốn vào cơn lốc “tín hiệu tình yêu” với cả ba người cùng lúc! Một vòng xoáy định mệnh xoay quanh Do Ha — liệu mũi tên tình yêu cuối cùng sẽ hướng về ai? Đây là một bộ phim hài lãng mạn vui tươi, tràn đầy năng lượng, kể về hành trình tìm kiếm người bạn trai đích thực của Do Ha.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt38220632",
+      "type": "series",
+      "name": "Hãy Lấy Em Đi (Anh Có Muốn Cưới Em Không?)",
+      "poster": "https://phimimg.com/upload/vod/20251011-1/ce7496f6ba1a4d6024d804813c226bc1.jpg",
+      "description": "Một người đàn ông và một người phụ nữ cùng bước vào cuộc hôn nhân giả kéo dài 90 ngày để giành được một ngôi nhà tân hôn sang trọng .",
+      "releaseInfo": "2025",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt35664835",
+      "type": "series",
+      "name": "Thể Chất: Châu Á",
+      "poster": "https://phimimg.com/upload/vod/20251030-1/413c9587bd01f63470b1355f2887accf.jpg",
+      "description": "Các vận động viên xuất sắc nhất châu Á tham gia vào một cuộc tranh tài đầy kịch tính, nơi sức mạnh thể chất, ý chí và niềm tự hào dân tộc được đẩy lên đến đỉnh điểm. Họ chiến đấu hết mình vì vinh quang quốc gia, và cuối cùng — chỉ có một lá cờ được tung bay chiến thắng.",
+      "releaseInfo": "2025",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt15026724",
+      "type": "series",
+      "name": "Mùa Hè Yêu Dấu Của Chúng Ta (Những Ngày Hè Rực Nắng Của Chúng Mình)",
+      "poster": "https://phimimg.com/upload/vod/20250326-1/85adfabf64eb3a7c14c998f954fbf9b7.jpg",
+      "description": "Nhiều năm sau khi quay một bộ phim tài liệu đình đám ở trường cấp ba, hai người yêu cũ hay cãi vã nay bị kéo đến trước ống kính cùng nhau — và lại vướng vào nhau.",
+      "releaseInfo": "2021",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt36449057",
+      "type": "series",
+      "name": "Giữ Chặt Vận May",
+      "poster": "https://phimimg.com/upload/vod/20251027-1/20bc69429d13b3d28067f09a538dd700.jpg",
+      "description": "Ba người bạn: một người có nhiều tiền, một người không có tiền và một người muốn có thật nhiều tiền. Trong vòng xoay số mệnh, người có nhiều tiền bỗng trở thành kẻ cháy túi. Người không có tiền trở thành nhà giàu xổi. Người muốn có thật nhiều tiền thì giấu diếm tiền đen. Có người phải bất hạnh, có người được hạnh phúc. Tình thân gia đình tưởng chừng chỉ cần có tiền là đủ, nhưng lại rạn nứt. Gia đình mà trước đây tưởng như sẽ chết nếu không có tiền thì từng người một bắt đầu trưởng thành. Hai gia đình bỗng hoán đổi vị trí cho nhau. Để rồi cuối cùng, thứ hiện hữu quan trọng nhất không phải tiền, mà là \"con người\" trong cuộc sống kim tiền ấy. Rốt cuộc đã xảy ra chuyện gì với những người bạn thân trung niên bụng phệ này?",
+      "releaseInfo": "2025",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt6234380",
+      "type": "series",
+      "name": "Bố Là Tất Cả",
+      "poster": "https://phimimg.com/upload/vod/20251110-1/412e138124ad5ccbfa82915ff6793bb2.jpg",
+      "description": "Bộ phim kể về một cặp vợ chồng già dành cả đời để nuôi dạy bốn người con trở thành những đứa trẻ tự lập, mạnh mẽ. Khi cả bốn người con đều đã khôn lớn và ra ở riêng, hai vợ chồng nghĩ rằng giờ đây họ có thể bắt đầu lại cuộc sống của mình như những gì từng diễn ra trước khi lập gia đình và có con. Tuy nhiên, đúng lúc ước nguyện của họ sắp thành hiện thực thì cả bốn người con bất ngờ cùng quay trở lại ngôi nhà. Bộ phim cho thấy quá trình phát triển của bốn chị em ích kỷ, chỉ quan tâm đến bản thân mình, Bộ phim cũng cho thấy vấn đề của xã hội hiện tại ở Hàn Quốc, khi mà chi phí nhà ở tăng cao đã khuyến khích những cặp vợ chồng trẻ sống cùng với bố mẹ. Do vậy những phát sinh trong cuộc sống hàng ngày giữa những người trẻ lãng mạn với thế hệ cũ.",
+      "releaseInfo": "2016",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt8992866",
+      "type": "series",
+      "name": "Hai Cuộc Đời Một Trái Tim (Bác Sĩ Tim)",
+      "poster": "https://phimimg.com/upload/vod/20250916-1/0207ea115f4bfe35d90af8f8807d4cbe.jpg",
+      "description": "Bộ phim xoay quanh cuộc sống hỗn loạn của Park Tae Soo (Go Soo), một bác sĩ phẫu thuật tim tận tâm, chăm chỉ nhưng lại luôn bị coi thường chỉ vì tốt nghiệp một trường đại học không mấy danh tiếng. Trong một tình huống đầy cấp bách, Park Tae Soo đã gặp Choi Seok Han (Uhm Ki Joon), một giáo sư phẫu thuật giỏi tay nghề nhưng cũng có một cuộc đời đầy bất hạnh. Cuộc gặp gỡ định mệnh này đã giúp Park Tae Soo có được cơ hội làm việc tại một bệnh viện lớn ngay giữa thủ đô Seoul tráng lệ. Tưởng rằng cuộc đời đã bước sang một trang mới tươi sáng hơn nhưng rốt cuộc, Park Tae Soo liên tục phải đối mặt với vô vàn rắc rối khi anh dần phát hiện ra những góc tối trong công việc lương y mà mình đang theo đuổi.",
+      "releaseInfo": "2018",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt38255434",
+      "type": "series",
+      "name": "Đệ Nhất Phu Nhân",
+      "poster": "https://phimimg.com/upload/vod/20250925-1/72550efa036d98ed57ea44d0cfc00d87.jpg",
+      "description": "Khi sắp trở thành đệ nhất phu nhân, đời tư của Cha Soo Yeon trở thành vụ bê bối công khai khi người chồng vừa đắc cử tổng thống đòi ly hôn.",
+      "releaseInfo": "2025",
+      "imdbRating": "5.4"
+    },
+    {
+      "id": "tt38257806",
+      "type": "series",
+      "name": "Vươn Tới Mặt Trăng",
+      "poster": "https://phimimg.com/upload/vod/20250920-1/8a8cbd011b0dd30c1b1a22eef7b6c3eb.jpg",
+      "description": "Vươn Tới Mặt Trăng (To The Moon) xoay quanh những nỗ lực kiếm tiền để đổi đời của ba nữ nhân viên văn phòng Da Hae, Eun Sang và Ji Song. Xuất thân nghèo khó và sống dựa vào đồng lương eo hẹp, họ quyết định đầu tư vào tiền ảo với hy vọng có thể thay đổi số phận. Trong hành trình đó, họ gặp Ham Ji U, một anh chàng giàu có và thành công, nhưng lại luôn cảm thấy cô đơn trong thế giới xa hoa. Cuộc gặp gỡ đã đánh thức nơi anh niềm tin và những ước mơ tưởng chừng đã lãng quên từ lâu.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt36593587",
+      "type": "series",
+      "name": "Quý Cô Ẩn Danh",
+      "poster": "https://phimimg.com/upload/vod/20250930-1/46ef1e773843dd43ca0d79bdc2bfb387.jpg",
+      "description": "Một quý cô sắc lạnh, một nhân vật quyền lực ẩn giấu bí mật khủng khiếp – tất cả cuốn bạn vào vòng xoáy điều tra nghẹt thở, nơi ranh giới giữa chính nghĩa và tội ác mong manh hơn bao giờ hết.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt33201866",
+      "type": "series",
+      "name": "Lãng Mạn, Trò Chuyện",
+      "poster": "https://phimimg.com/upload/vod/20251103-1/f2e9409481ce148fc025222ca6922ad4.jpg",
+      "description": "Phim kể về một nữ sinh đại học trẻ tuổi có thần tượng là một streamer nổi tiếng chuyên tư vấn tình cảm. Bất ngờ, chàng streamer ấy chuyển đến học cùng trường và dường như còn bắt đầu chú ý đến cô. Từ đây, cô phải đối mặt với câu hỏi: Làm sao để đến gần người mình ngưỡng mộ? Và quan trọng hơn — liệu một mối quan hệ với người nổi tiếng trên mạng có thể thật sự bền vững?",
+      "releaseInfo": "2020",
+      "imdbRating": "4.4"
+    },
+    {
+      "id": "tt37841222",
+      "type": "series",
+      "name": "Ngày Lành Của Eun Soo",
+      "poster": "https://phimimg.com/upload/vod/20250922-1/b64c3cd486edda0bf9f0aa63094031f0.jpg",
+      "description": "Eun-soo là một người nội trợ, chật vật xoay xở để trang trải chi phí chữa bệnh cho người chồng mắc bệnh nan y. Trong lúc tuyệt vọng, cô vô tình dính líu đến một túi ma túy cùng với Yi-kyeong – một thầy giáo bí ẩn. Từ đó, Eun-soo và Yi-kyeong bị truy đuổi gắt gao bởi Tae-gu, một viên cảnh sát kỳ cựu.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt37812765",
+      "type": "series",
+      "name": "Shin Cầm Chảo, Phá Đảo Khu Phố (Bậc Thầy Hòa Giải)",
+      "poster": "https://phimimg.com/upload/vod/20250916-1/6f13a503a95efdbdd1413e8668a4413b.jpg",
+      "description": "Bậc Thầy Hòa Giải (Shin's Project) theo chân một chuyên gia đàm phán tiếng tăm lẫy lừng nhưng hiện đã giải nghệ về làm chủ một quán gà rán bình dân. Dù đã giấu kín thân phận và quá khứ, ông vẫn liên tục bị cuốn vào đủ loại tranh chấp trong khu phố, từ những người hàng xóm ồn ào, các vụ kiện phiền toái đến cả xung đột tình cảm. Với tài ăn nói điêu luyện, ông hóa giải mọi mâu thuẫn và còn đứng lên chống lại những bất công, mang đến nguồn năng lượng tích cực cho cộng đồng.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt31472425",
+      "type": "series",
+      "name": "Dòng Nước Đục",
+      "poster": "https://phimimg.com/upload/vod/20250926-1/b5c5d96d9661a1a31726e32b07d49108.jpg",
+      "description": "Joseon, thời kỳ mà Gyeonggang vốn yên bình, nay lại chìm trong hỗn loạn. Câu chuyện xoay quanh ba nhân vật chính với số phận đan xen: Si Yul, một người đàn ông che giấu quá khứ và thể hiện sự bất lương; Choi Eun, một thương gia chính trực và sắc sảo; và Jeong Cheon, thể hiện hình tượng một viên quan chính trực. Niềm tin, khát vọng và số phận khác biệt đã kéo ba nhân vật chính vào một vòng xoáy xung đột trong bối cảnh thời đại đầy biến động.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt35934360",
+      "type": "series",
+      "name": "Vạch Tội",
+      "poster": "https://phimimg.com/upload/vod/20250926-1/9616f9e88b7ec44e177deb35b0c51d7b.jpg",
+      "description": "Han So Min – một nữ diễn viên vô danh chỉ còn lại ý chí để bám trụ. Bi kịch ập đến khi cô mất cả cha lẫn mẹ trong một vụ lừa đảo qua điện thoại. Nuốt nước mắt vào trong, So Min quyết tâm thâm nhập vào tập đoàn tội phạm khổng lồ đứng sau, dùng chính công nghệ deepfake để đánh lừa chúng… và hủy diệt cả đường dây từ bên trong.",
+      "releaseInfo": "2025",
+      "imdbRating": "5.6"
+    },
+    {
+      "id": "tt36832428",
+      "type": "series",
+      "name": "Ngôi Nhà Của Nữ Hoàng",
+      "poster": "https://phimimg.com/upload/vod/20251023-1/5942d7cbcb27b97e3b4fbfe151069da7.jpg",
+      "description": "Bộ phim kể về câu chuyện của một người phụ nữ có cuộc sống tưởng chừng hoàn hảo bị phá vỡ, dẫn cô vào con đường báo thù.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt33475769",
+      "type": "series",
+      "name": "Trăm Mảnh Ký Ức",
+      "poster": "https://phimimg.com/upload/vod/20250914-1/713c237a2213d21f3496a604c3b22ced.jpg",
+      "description": "Bộ phim khắc họa tình bạn rực rỡ và câu chuyện tình yêu đầy trắc trở của hai người phụ nữ từng là hướng dẫn viên xe buýt những năm 1980.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt37436162",
+      "type": "series",
+      "name": "Thanh Xuân Của Tôi",
+      "poster": "https://phimimg.com/upload/vod/20250906-1/2b935b8b695a42fd24a00c7bcf17c5a8.jpg",
+      "description": "Sun Woo Hae từng là một diễn viên nhí nổi tiếng, tỏa sáng rực rỡ. Nhưng vì lòng tham của những người lớn xung quanh, anh đã mất đi ánh hào quang.Anh vật lộn vượt qua biến cố và giờ đây sống một cuộc đời bình yên với nghề tiểu thuyết gia và người bán hoa. Cuộc sống tĩnh lặng của anh đột nhiên bị phá vỡ khi Seong Je Yeon xuất hiện. Cô là mối tình đầu của anh, người đã cùng anh vượt qua những tháng ngày tăm tối nhất của cuộc đời. Sau 10 năm xa cách, họ gặp lại nhau. Sự trở lại của Je Yeon cũng gợi lại cho anh những ký ức đã ngủ quên. Trong khi đó, Je Yeon đang là trưởng nhóm tại công ty Feel Entertainment. Từng sinh ra trong một gia đình giàu có, không phải lo nghĩ điều gì, nhưng gia đình cô bất ngờ phá sản. Giờ đây, cô sống một cuộc đời đầy tham vọng, chỉ hướng đến thành công. Để đạt được mục tiêu, cô đã tìm đến Sun Woo Hae - mối tình đầu của mình - và phá vỡ sự bình yên của anh. Khi dấn thân vào mối quan hệ này, cô cũng dần thay đổi khi đối diện với chính con người hồn nhiên, ngây thơ của mình trong quá khứ.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt37262316",
+      "type": "series",
+      "name": "Nữ Hoàng Lừa Đảo",
+      "poster": "https://phimimg.com/upload/vod/20250908-1/0522ebb7143b6468be95a4650bd04e16.jpg",
+      "description": "Phim xoay quanh ba kẻ lừa đảo với kỹ năng siêu việt, chuyên thực hiện các phi vụ tinh vi nhắm vào những kẻ giàu có và tham lam. Yoon Yi Rang – thủ lĩnh của nhóm, sở hữu IQ 165 và tư duy thiên tài. Cô lập một đội với James và Gu-ho để tước đoạt tiền bất hợp pháp của những kẻ xấu và xây dựng sự giàu có cho riêng mình.",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt8243374",
+      "type": "series",
+      "name": "Nữ Công Tố Viên (Phần 2)",
+      "poster": "https://phimimg.com/upload/vod/20250418-1/a3458da5d8c471e059a2bc0c089fd173.jpg",
+      "description": "Xác chết không bao giờ nói dối. Tuy nhiên, những người sống vì công lý không từ bỏ qua sự thật một cách dễ dàng. Baek Beom, một bác sĩ pháp y bị ám ảnh bởi sự thật ẩn giấu, là một thiên tài hiểu biết về pháp y. Anh không quan tâm đến cuộc sống và chỉ quan tâm đến người chết.",
+      "releaseInfo": "2019",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt6212854",
+      "type": "series",
+      "name": "Âm thanh tội phạm (Giọng nói) (Phần 4)",
+      "poster": "https://phimimg.com/upload/vod/20251009-1/3d6d856a901d61213b11344829ad5f0c.jpg",
+      "description": "Cuộc sống của cảnh sát Moo Jin Hyuk bị mất kiểm soát sau cái chết thương tâm của vợ. Anh bắt đầu truy tìm hung thủ sau khi gặp Kang Kwon Joo, một cảnh sát có khả năng phân tích giọng nói và vô tình bố cô cũng từng bị sát hại bởi tên sát nhân đó. Hai con người, một mục tiêu, họ sẽ sát cánh cùng nhau để truy tìm kẻ thủ ác.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt37492797",
+      "type": "series",
+      "name": "Mười Hai Con Giáp",
+      "poster": "https://phimimg.com/upload/vod/20250824-1/ea3decaa64872d14f5e165bcd139beca.jpg",
+      "description": "Lấy cảm hứng từ truyền thuyết 12 con giáp phương Đông, “Twelve” kể về 12 thiên thần – mỗi người tượng trưng cho một con giáp – sống dưới lốt người giữa thế giới loài người, với sứ mệnh bảo vệ bán đảo Triều Tiên khỏi ác linh cổ xưa. Từ hàng ngàn năm trước, những thiên thần này đã hy sinh để phong ấn tà khí trong Cánh Cổng Địa Ngục. Nhưng khi ác linh bắt đầu tỉnh giấc, hỗn loạn quay trở lại – và các thiên thần buộc phải tái hợp để chiến đấu một lần nữa.",
+      "releaseInfo": "2025",
+      "imdbRating": "5.3"
+    },
+    {
+      "id": "tt37536325",
+      "type": "series",
+      "name": "Tựa Như Tình Đầu (Thêm Một Lần Yêu)",
+      "poster": "https://phimimg.com/upload/vod/20250806-1/aecadc284bf0abe59b752cac66913846.jpg",
+      "description": "Lee Ji An - một bà mẹ đơn thân mạnh mẽ, cùng Lee Hyo Ri - con gái đang học ngành y, cùng chuyển về vùng quê để bắt đầu cuộc sống mới. Tại đây, họ vô tình gặp lại mối tình đầu của Ji An – Ryu Jeong Seok, một ông bố đơn thân sống cùng con trai Ryu Bo Hyun, người điều hành một trang trại hoa. Những va chạm đời thường, sự thay đổi trong mối quan hệ mẹ con, và cảm xúc mới chớm nở giữa thế hệ trẻ mở ra một hành trình nhẹ nhàng nhưng sâu sắc về tình thân, tình yêu và sự trưởng thành.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt8523042",
+      "type": "series",
+      "name": "Lãng Khách",
+      "poster": "https://phimimg.com/upload/vod/20251007-1/92cdb162d7fd307ece49017a46ca4f66.jpg",
+      "description": "Mất đi cháu trai trong vụ tai nạn máy bay, diễn viên đóng thế Cha Dal Geon quyết tâm tìm hiểu nguyên nhân vụ việc với sự giúp đỡ của mật vụ Go Hae Ri.",
+      "releaseInfo": "2019",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt4209056",
+      "type": "series",
+      "name": "Tình Mẹ",
+      "poster": "https://phimimg.com/upload/vod/20251007-1/407b6a9945278d99299f62b3d902d5e2.jpg",
+      "description": "Seung Hee là một người mẹ đơn thân chỉ lo kiếm tiền mà bỏ bê việc chăm sóc cậu con trai Geu Ru. Đến khi nhận được tin mình mắc bệnh nan y và không còn sống được bao lâu nữa, cô mới quyết tâm dành hết khoảng thời gian còn lại ở bên con mình. Không những thế, Seung Hee còn phải gạt bỏ hận thù để tìm lại bố của Geu Ru, người đàn ông từng bỏ rơi cô trước kia, và nghĩ cách thuyết phục gia đình mới của anh thu nhận con trai mình.",
+      "releaseInfo": "2014",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt27368147",
+      "type": "series",
+      "name": "Giông Tố",
+      "poster": "https://phimimg.com/upload/vod/20250911-1/8d16cd2e8916a8c8985d48e275860550.jpg",
+      "description": "Moon Ju, một nhà ngoại giao từng là đại sứ tại Hoa Kỳ, và San Ho, một đặc vụ bí ẩn với quá khứ không rõ ràng. Baek San Ho từng là lính đánh thuê và mọi điều liên quan đến quá khứ của anh ta đều bị che giấu. Cả hai cùng nhau truy tìm sự thật về một vụ án cực lớn.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt9278396",
+      "type": "series",
+      "name": "Vật Chứng",
+      "poster": "https://phimimg.com/upload/vod/20251004-1/239e52914fe8967671c07c63182af3cb.jpg",
+      "description": "Kang Gon chuyên truy đuổi những món đồ siêu nhiên, đã cùng So Young đối đầu thế lực đen tối tàn độc. Cuộc chiến giữa công lý và tội ác bắt đầu và cái giá tham chiến có khi lại là mạng sống.",
+      "releaseInfo": "2019",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt32409807",
+      "type": "series",
+      "name": "Thần Đèn Ơi, Ước Đi",
+      "poster": "https://phimimg.com/upload/vod/20251003-1/c6c1e14a1dd9432dd9c19574aa808145.jpg",
+      "description": "Một thần đèn cám dỗ con người bằng những ham muốn đen tối nhất của họ. Một người phụ nữ vô cảm. Liệu tình yêu có thể thực sự nảy nở từ mối liên kết nguy hiểm, rối ren này?",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt35934396",
+      "type": "series",
+      "name": "Sát Nhân Bọ Ngựa",
+      "poster": "https://phimimg.com/upload/vod/20250906-1/b1467ae3395d4c8c806c14b42193d634.jpg",
+      "description": "Để ngăn chặn tên tội phạm bắt chước, viên cảnh sát nọ phải bắt tay với chính tên sát nhân hàng loạt đứng sau những vụ án ban đầu – cũng là người mẹ mà anh cố quên đi bấy lâu nay.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt37600136",
+      "type": "series",
+      "name": "Ngự Trù Của Bạo Chúa",
+      "poster": "https://phimimg.com/upload/vod/20250823-1/6cecd0755934def609b834127974dab8.jpg",
+      "description": "Xuyên không về thời Joseon, đầu bếp tài năng nọ gặp vị quân chủ bạo chúa. Các món ăn hiện đại của cô chinh phục khẩu vị của ngài, song thử thách chốn hoàng cung cũng đang chờ đợi.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt13660270",
+      "type": "series",
+      "name": "Giai Điệu Của Bạn, Tiếng Lòng Của Tôi",
+      "poster": "https://phimimg.com/upload/vod/20251002-1/70591ef9624ffb92d6f97452f344ca9a.jpg",
+      "description": "In Soo, một người hát rong có tinh thần tự do, ca hát là tất cả trong cuộc sống của anh ấy, bắt đầu sống với Sang Yi - người mà anh ấy đã gặp sau khi nhận được một cuộc gọi tình yêu từ một công ty thu âm.",
+      "releaseInfo": "2020",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt33256667",
+      "type": "series",
+      "name": "Romance Bible",
+      "poster": "https://phimimg.com/upload/vod/20251002-1/d65dd1b5403a8f99b376c1f4cc9d57e0.jpg",
+      "description": "Câu chuyện thú vị về cặp đôi đã chia tay nhau nhưng lại gặp gỡ trên phim trường với tư cách là nữ chính và đạo diễn vở kịch ngắn.",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt13911962",
+      "type": "series",
+      "name": "Bước Nhảy Chạm Đến Tim Anh",
+      "poster": "https://phimimg.com/upload/vod/20251001-1/b5762df73268bb22911d0a807d96c633.jpg",
+      "description": "Song Shi On là một vũ công đương đại đầy tham vọng và bị gia đình đuổi ra khỏi nhà, trong khi Jin Hong Seok từ bỏ giấc mơ khiêu vũ và hiện sống nhờ vào các khoản đầu tư của mình với tư cách là một nhà thu thế chấp. Hai người này chia sẻ một địa điểm và câu chuyện bắt đầu từ đó.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt14322370",
+      "type": "series",
+      "name": "Hôn Lễ Của Chàng Học Giả",
+      "poster": "https://phimimg.com/upload/vod/20250930-1/5ff0462a47a2816e679c5f990375dea7.jpg",
+      "description": "Choi Hwa Jin không muốn phải chịu đựng một cuộc hôn nhân không có tình yêu, nên đã trốn đi trước khi hôn lễ bắt đầu. Trước tình cảnh này, chàng Choi Ki Wan đành phải ngậm ngùi cải trang thành cô dâu để lên kiệu hoa…",
+      "releaseInfo": "2021",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt37675508",
+      "type": "series",
+      "name": "Ngôi Sao Rắc Rối của Tôi",
+      "poster": "https://phimimg.com/upload/vod/20250820-1/5fd72123615ee6b9c6f08e6327fc76ea.jpg",
+      "description": "Nếu một ngày bạn vô tình đánh mất 25 năm đời người, liệu bạn còn có thể nhận ra chính mình trong gương? Im Se Ra (Jang Da Ah thủ vai) là một ngôi sao đình đám, từng chạm đến đỉnh cao danh vọng. Thế nhưng, khi ánh hào quang vẫn đang rực rỡ, cô bất ngờ biến mất không dấu vết. Hai mươi lăm năm sau, Se Ra tỉnh dậy với một thân phận hoàn toàn xa lạ: một người phụ nữ trung niên mang tên Bong Cheong Ja (Uhm Jung Hwa thủ vai), không còn ký ức, không danh tiếng, thậm chí không còn biết mình là ai. Giữa một thế giới giải trí vốn khắc nghiệt với phụ nữ ngoài bốn mươi, cô không chỉ đối diện với nỗi sợ bị lãng quên mà còn phải học cách định nghĩa lại bản thân từ những mảnh vỡ của quá khứ.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt37660730",
+      "type": "series",
+      "name": "Giấc Mơ Người Luật Sư",
+      "poster": "https://phimimg.com/upload/vod/20250805-1/11331d30aec05eaaa914acb35d6b3a7e.jpg",
+      "description": "Một luật sư trẻ mới vào nghề có tinh thần công lý mạnh mẽ gia nhập một hãng luật hàng đầu, xoay xở trong giới pháp lý phức tạp dưới sự dẫn dắt của người cố vấn lạnh lùng, khắt khe.",
+      "releaseInfo": "2025",
+      "imdbRating": "8.1"
+    }
+  ]
+}

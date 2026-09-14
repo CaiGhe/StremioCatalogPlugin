@@ -1,0 +1,43 @@
+{
+  "streams": [
+    {
+      "title": "Vietsub\nFHD Vietsub + Thuyết Minh\nKKPhim",
+      "url": "https://s6.kkphimplayer6.com/20260108/0BRCw4ui/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true,
+        "proxyHeaders": {
+          "request": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "Referer": "https://kkphim.com/"
+          }
+        }
+      }
+    },
+    {
+      "title": "Thuyết Minh (giọng Bắc)\nFHD Vietsub + Thuyết Minh\nKKPhim",
+      "url": "https://s6.kkphimplayer6.com/20260108/IRW1zZVo/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true,
+        "proxyHeaders": {
+          "request": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "Referer": "https://kkphim.com/"
+          }
+        }
+      }
+    },
+    {
+      "title": "Thuyết Minh (giọng Nam)\nFHD Vietsub + Thuyết Minh\nKKPhim",
+      "url": "https://s6.kkphimplayer6.com/20260108/SDOOV6P9/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true,
+        "proxyHeaders": {
+          "request": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "Referer": "https://kkphim.com/"
+          }
+        }
+      }
+    }
+  ]
+}
