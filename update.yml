@@ -18,15 +18,18 @@ jobs:
         with:
           node-version: 20
       - run: npm install
-      - name: Fetch catalog + link phát (200 phim/catalog)
+      - name: Fetch catalog + link phát
         run: node fetch.js
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-          # Muốn điều chỉnh số phim: thêm dòng, vd
+          # QUAN TRỌNG: tắt probe link phát khi chạy trên GitHub Actions —
+          # CDN KKPhim chặn IP datacenter của runner → probe luôn fail → mất
+          # sạch link. Người dùng bấm phát là Stremio tự thử link thật.
+          STREAM_VERIFY: '0'
+          # Muốn nhiều phim hơn nữa: thêm dòng dưới env, vd
           #   TARGET_PER_CATALOG: 300
-          #   MAX_PAGES_PER_SOURCE: 50
       - run: node build.js
-      - name: Commit & push catalog + stream mới
+      - name: Commit & push catalog + stream + trang skip
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

@@ -26,15 +26,22 @@ module.exports = {
   TMDB_LANGUAGE: 'vi-VN',           // ngôn ngữ mô tả
   TMDB_VI_POSTER: true,             // ưu tiên poster tiếng Việt (kèm trong request chi tiết)
   TMDB_EN_OVERVIEW_FALLBACK: true,  // mô tả vi rỗng → lấy mô tả tiếng Anh
-  TMDB_MAX_PAGES: Number(process.env.TMDB_MAX_PAGES) || 4, // mỗi catalog TMDB lấy tối đa 4 trang (20 phim/trang)
+  TMDB_MAX_PAGES: Number(process.env.TMDB_MAX_PAGES) || 15, // mỗi catalog TMDB lấy tối đa 15 trang (20 phim/trang = 300 ứng viên)
 
   // ---------- Giới hạn & tốc độ ----------
   // (mọi giá trị đều có thể override bằng biến môi trường khi chạy,
   //  ví dụ: TARGET_PER_CATALOG=40 DELAY_MS=250 node fetch.js)
-  TARGET_PER_CATALOG: Number(process.env.TARGET_PER_CATALOG) || 50, // mục tiêu 40–60 item/catalog
+  // "FETCH LIÊN TỤC": lấy NHIỀU nhất có thể, không cố định 50 nữa.
+  //  - Cứ page mãi cho tới khi đủ TARGET hoặc nguồn HẾT PHIM (hết trang tự dừng).
+  //  - Muốn nhiều hơn nữa: TARGET_PER_CATALOG=300 node fetch.js
+  //  - Muốn quay về nhanh/gọn: TARGET_PER_CATALOG=50 MAX_PAGES_PER_SOURCE=5 node fetch.js
+  //  - Đổi mặc định hằng ngày trên GitHub Actions: sửa thẳng số dưới đây.
+  //  Đổi lại: số phim càng lớn → lần fetch càng lâu (~15 phút ở mức 50,
+  //  ~45–60 phút ở mức 200) và repo nặng hơn.
+  TARGET_PER_CATALOG: Number(process.env.TARGET_PER_CATALOG) || 200,
   MIN_PER_CATALOG: 10,      // dưới mốc này sẽ cảnh báo
-  MAX_PAGES_PER_SOURCE: Number(process.env.MAX_PAGES_PER_SOURCE) || 5, // số trang tối đa mỗi nguồn/catalog
-  DETAIL_CALL_CAP: Number(process.env.DETAIL_CALL_CAP) || 120, // giới hạn gọi API chi tiết (KKPhim) mỗi catalog
+  MAX_PAGES_PER_SOURCE: Number(process.env.MAX_PAGES_PER_SOURCE) || 40, // số trang tối đa mỗi nguồn/catalog (~24 phim/trang)
+  DETAIL_CALL_CAP: Number(process.env.DETAIL_CALL_CAP) || 320, // giới hạn gọi API chi tiết (KKPhim) mỗi catalog
   DELAY_MS: Number(process.env.DELAY_MS) || 350, // delay giữa 2 request (rate limit)
   RETRIES: Number(process.env.RETRIES) || 3, // số lần retry khi lỗi (403/429/5xx/mạng)
   RETRY_BACKOFF_MS: Number(process.env.RETRY_BACKOFF_MS) || 800, // chờ giữa các retry thường
