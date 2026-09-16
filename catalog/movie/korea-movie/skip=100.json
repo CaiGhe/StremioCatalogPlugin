@@ -1,6 +1,96 @@
 {
   "metas": [
     {
+      "id": "tt2290840",
+      "type": "movie",
+      "name": "Hoàng Đế Giả Mạo",
+      "poster": "https://phimimg.com/upload/vod/20260109-1/fe5a9dd2997b50b5e1ce03463175d53c.jpg",
+      "description": "Hoàng Đế Giả Mạo dựa vào câu chuyện có thật về một vị vua bạo chúa khét tiếng nhưng lại là một chính trị gia rất tốt mang tê Gwanghae, vị vua thứ 15 của đế chế Chosun huyền thoại. Gwanghae thật bị một nhóm gian thần bày mưu ám sát nên phải tạm “quy ẩn” một thời gian. Vì đất nước một ngày không thể không có vua nên Gwanghae đã sai cận thần tìm một kẻ thế mạng ngồi tạm vào ngôi báu để đánh lạc hướng.",
+      "releaseInfo": "2012",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt0821470",
+      "type": "movie",
+      "name": "Thành Phố Bạo Lực",
+      "poster": "https://phimimg.com/upload/vod/20260109-1/8002350b2e877f0a2896ea095039de7e.jpg",
+      "description": "Taesu, một cảnh sát điều tra tội phạm tại Seoul, không bao giờ quên những tháng ngày sôi động một thời: trốn học, quậy phá, đánh nhau cùng bốn thằng bạn chí cốt Pil Ho, Dong Wan, Seok Hwan, và Wang Jae.Nhận được tin cái chết của Wang Jae, Taesu lập tức rời Seoul quay trở về quê nhà. Mọi thứ đã thay đổi. Kể từ khi Wang Jae trao quyền hành vào tay Pil Ho, sòng bạc trong vùng mọc lên khắp nơi, bọn nhóc côn đồ ngang nhiên quậy phá, hành hung, nghiện ngập.Trước cái chết gây nhiều hoài nghi của người bạn thân, Taesu và Seok Hwan bắt đầu cuộc điều tra tìm kiếm thủ phạm. Hai người không khỏi bất ngờ khi phát hiện ra những việc làm lâu nay người bạn thân thiết của họ Pil Ho ngầm theo đuổi…",
+      "releaseInfo": "2006",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt32628369",
+      "type": "movie",
+      "name": "Hỏa Thần",
+      "poster": "https://phimimg.com/upload/vod/20250416-1/96f9411e83de73829a71574cedb14ed5.jpg",
+      "description": "Đội cứu hoả khu Tây Seoul luôn phải làm việc trong điều kiện thiếu thốn và khắc nghiệt. Ngày nào họ cũng phải lặp lại câu hỏi: đây có phải là lần làm nhiệm vụ cuối cùng? Phải tập trung cứu người hay bảo vệ mạng sống của chính mình? Một ngày, đường dây khẩn báo động về một đám cháy tại Hongje-dong. Ngay lập tức, cả đội cảm nhận được sự nghiêm trọng của tình hình…",
+      "releaseInfo": "2024",
+      "imdbRating": "5.7"
+    },
+    {
+      "id": "tt38667070",
+      "type": "movie",
+      "name": "Trung Gian Giới",
+      "poster": "https://phimimg.com/upload/vod/20260105-1/84f7090f3868c1f80674f96802aa8aec.jpg",
+      "description": "Bộ phim kể về một nhóm người vô tình lạc vào chiều không gian bí ẩn nằm giữa ranh giới sinh tử. Để tìm đường trở về thế giới thực, họ buộc phải dấn thân vào một cuộc rượt đuổi nghẹt thở về phía Tây, đối mặt với những thực thể siêu nhiên và những cạm bẫy chết người. Với sự dẫn dắt của Kim Kang-woo và Kwon Yu-ri, hành trình này không chỉ là cuộc chiến sinh tồn mà còn là sự đối diện với những góc tối trong chính tâm hồn mỗi người.",
+      "releaseInfo": "2025",
+      "imdbRating": "4.7"
+    },
+    {
+      "id": "tt6413410",
+      "type": "movie",
+      "name": "Theo Dấu Sát Nhân (Yếu Nhân)",
+      "poster": "https://phimimg.com/upload/vod/20260101-1/09b588462536419502fc4a7b8ed1c699.jpg",
+      "description": "Theo Dấu Sát Nhân là bộ phim xoay quanh Gwang Il (Lee Jong Suk), con trai của một quan chức Triều Tiên máu mặt, kẻ bị tình nghi là thủ phạm của vụ án giết người hàng loạt xảy ra trên khắp thế giới. Tham gia vào cuộc truy bắt Gwang Il là các đặc vụ tới từ Hàn Quốc, Triều Tiên và Tổ chức Cảnh sát Hình sự Quốc Tế.",
+      "releaseInfo": "2017",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt38225427",
+      "type": "movie",
+      "name": "Tay Anh Giữ Một Vì Sao",
+      "poster": "https://phimimg.com/upload/vod/20260101-1/1f84d38287b85555cfefd5bbd36798ee.jpg",
+      "description": "Siêu sao Kang Jun Woo – “Hoàng tử Châu Á” – rơi vào tình cảnh “mắc kẹt” tại Việt Nam sau một loạt sự cố dở khóc dở cười, nơi anh gặp Thảo – một cô gái bán cà phê đầy đam mê, quyết tâm theo đuổi ước mơ của mình.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt31645750",
+      "type": "movie",
+      "name": "Đại Ca Ha Ha Ha",
+      "poster": "https://phimimg.com/upload/vod/20251228-1/2fe8766632c86e7f6e56f296438d5fd4.jpg",
+      "description": "Soon Tae nuôi mộng mở chuỗi nhà hàng tiếng tăm, quyết rửa tay gác kiếm nhưng bất đắc dĩ bị chỉ định làm đại ca xã đoàn. Anh nhanh chóng tìm cách đẩy trách nhiệm này cho Kang Pyo, cháu trai của ông trùm quá cố, nhưng đời không như mơ, Kang Pyo lại ôm ấp giấc mơ trở thành vũ công tango, chẳng buồn ngó lại nghiệp giang hồ. Chỉ riêng Pan Ho, kẻ chuyên gây rối lại là người duy nhất tha thiết muốn làm đại ca… nhưng tréo ngoe là chẳng ai tin tưởng. Thế là một cuộc \"đại chiến né chức\" nổ ra với mục tiêu tối thượng: Thua đường vote là thắng đường đời!",
+      "releaseInfo": "2025",
+      "imdbRating": "5.7"
+    },
+    {
+      "id": "tt37515699",
+      "type": "movie",
+      "name": "Song Sinh Đổi Mạng",
+      "poster": "https://phimimg.com/upload/vod/20251227-1/6a368fb601160f561b1d519b11bc54dc.jpg",
+      "description": "\"Chẳng lẽ tất cả chúng ta không thể cùng nhau chung sống hay sao?\" Đó là một mong ước tốt đẹp, nhưng đối với hai anh em sinh đôi Il-do và Yi-do, điều đó chỉ là suy nghĩ hão huyền. Mang trong mình lời nguyền nghiệt ngã do tội lỗi của cha mẹ để lại, một trong hai người phải chết thì người kia mới có thể tồn tại. Để tránh khỏi định mệnh này, họ đã chủ động cắt đứt mọi liên lạc. Thế nhưng, khi Yi-do — người đang làm việc cho một băng đảng — bị đâm trọng thương, Il-do bằng cách nào đó đã hay tin và vội vã đến hiến máu để cứu sống em trai mình. Vậy mà, thay vì lòng biết ơn, Yi-do đã lao vào tấn công anh trai ngay khoảnh khắc họ vừa chạm mặt.",
+      "releaseInfo": "2025",
+      "imdbRating": "5.2"
+    },
+    {
+      "id": "tt4462226",
+      "type": "movie",
+      "name": "Mượn Rượu Đẩy Kèo",
+      "poster": "https://phimimg.com/upload/vod/20250705-1/fcfca0887f26ade9f95dc528d86472d1.jpg",
+      "description": "Mượn Rượu Đẩy Kèo lấy bối cảnh Hàn Quốc vào năm 1997, khi cuộc khủng hoảng kinh tế tài chính đang hoành hành khắp châu Á khiến Gukbo - công ty sản xuất Soju số 1 đất nước rơi vào tình trạng cận kề phá sản. In-beom (Lee Je-hoon) - chàng trai trẻ đầy tham vọng đại diện cho tập đoàn đầu tư toàn cầu Solquin đã trở về quê hương với quyết tâm thâu tóm Gukbo. Để thực hiện âm mưu này, In-beom đội lốt một chuyên gia tư vấn ngây thơ, tiếp cận Jong-rok (Yoo Hai-jin) - giám đốc vô cùng trung thành với Gukbo, đang khao khát đưa công ty quay lại thời hoàng kim. Nhưng càng đào sâu vào đế chế Gukbo, In-beom càng nhận ra đây thực sự là một cuộc chiến xảo quyệt với rất nhiều “cú twist”, dẫn đến kết cục không ngờ dành cho tất cả.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt12485966",
+      "type": "movie",
+      "name": "Căn Phòng Đẫm Máu (Khách Sạn Đẫm Máu)",
+      "poster": "https://phimimg.com/upload/vod/20251227-1/426e7c5a725c303d51ed2163aba0c1e1.jpg",
+      "description": "Khi Yoo-mi tìm đến một khách sạn để gửi gắm em gái mình cho người bạn của mẹ, cô đã vô tình rơi vào một chuỗi những sự kiện bí ẩn và kinh hoàng không thể lường trước.",
+      "releaseInfo": "2020",
+      "imdbRating": "4.9"
+    },
+    {
       "id": "tt29927663",
       "type": "movie",
       "name": "Đại Hồng Thủy",
@@ -70,7 +160,7 @@
       "poster": "https://phimimg.com/upload/vod/20251031-1/651e2b41fa94dfffce9d32c9fca8f495.jpg",
       "description": "Baek Sun-ju (CHO Yeo-jeong) – một nữ phóng viên đang tuyệt vọng tìm kiếm một tin độc quyền, nhận được lời đề nghị phỏng vấn rùng rợn từ bác sĩ tâm thần Lee Young-hoon (JUNG Sung-il), người tự nhận mình là một kẻ giết người hàng loạt và cảnh báo rằng một vụ án mạng khác sắp xảy ra. Sau nhiều do dự, Sun-ju bắt đầu buổi phỏng vấn với tên sát nhân trong một phòng khách sạn. Trong cuộc trò chuyện căng thẳng đó, Young-hoon tiết lộ một sự thật gây sốc: những vụ giết người của hắn bắt đầu như một cách để “chữa trị” cho bệnh nhân của mình. Khi cuộc phỏng vấn tiếp diễn, Sun-ju cảm nhận có điều gì đó vô cùng sai trái và cố gắng bỏ chạy. Nhưng hắn lại tung ra một “quả bom” khác: nếu cô dừng buổi phỏng vấn lại, sẽ có thêm một người chết. “Nếu cuộc phỏng vấn này dừng lại, sẽ có người mất mạng.” Liệu cuộc chạm trán định mệnh này sẽ kết thúc như thế nào?",
       "releaseInfo": "2025",
-      "imdbRating": "6.5"
+      "imdbRating": "6.6"
     },
     {
       "id": "tt21109580",
@@ -482,7 +572,7 @@
       "poster": "https://phimimg.com/upload/vod/20250520-1/eb74244b20279a883f5100975835c6a1.jpg",
       "description": "Đêm Thánh Đội Săn Quỷ là bộ phim Hàn mới nhất với sự góp mặt của ông chú Ma Dong Seok. Seoul chìm trong hỗn loạn khi một mạng lưới tội phạm tôn thờ ma quỷ xuất hiện. Trong sự cầu xin tuyệt vọng để được cứu rỗi, cảnh sát buộc phải nhờ đến ‘Đêm Thánh', một bộ ba thợ săn quỷ được trang bị sức mạnh siêu nhiên. Liệu ‘Đêm Thánh' có thể chinh phục ách thống trị của quỷ dữ và khôi phục trật tự cho thành phố?",
       "releaseInfo": "2025",
-      "imdbRating": "4.7"
+      "imdbRating": "4.8"
     },
     {
       "id": "tt26422301",
@@ -806,96 +896,6 @@
       "description": "Đưa các con đi học, giám đốc ngân hàng Sung Gyu nhận được cuộc gọi đe dọa gài bom trên xe từ một người bí ẩn. Tưởng trò lừa đảo, Sung Gyu bắt đầu hoảng sợ khi xe đồng nghiệp bất ngờ phát nổ.",
       "releaseInfo": "2021",
       "imdbRating": "6.3"
-    },
-    {
-      "id": "tt26762096",
-      "type": "movie",
-      "name": "Phát Trực Tuyến",
-      "poster": "https://phimimg.com/upload/vod/20250626-1/88caee80b8c521719d4e018840225848.jpg",
-      "description": "Woo Sang là một streamer nổi tiếng trên mạng. Trong các video của mình, anh chuyên phân tích tâm lý tội phạm và là người có lượng người theo dõi cao nhất trên nền tảng trực tuyến mà anh sử dụng. Trong một lần livestream, Woo Sang bắt đầu điều tra các manh mối liên quan đến một vụ án mạng liên hoàn chưa có lời giải. Quá trình điều tra của anh được phát sóng trực tiếp trên mạng, khiến sự thật dần được hé lộ trước mắt hàng triệu khán giả.",
-      "releaseInfo": "2025",
-      "imdbRating": "4.9"
-    },
-    {
-      "id": "tt7160070",
-      "type": "movie",
-      "name": "Thử Thách Thần Chết: Giữa Hai Thế Giới",
-      "poster": "https://phimimg.com/upload/vod/20250701-1/8ed1e20265e06bac81be10aef1cc828c.jpg",
-      "description": "Thần hộ vệ Kang Rim được giao nhiệm vụ đưa Ja Hong đến 7 thử thách trong vòng 49 ngày trước khi về với Thế giới của Thần Chết Yeomra. Cuộc hành trình sau cái chết này chính là bài khảo sát cho Thần Chết Yeomra thấy được bản chất linh hồn của Ja Hong và sẽ đưa ra quyết định phán xét cuối cùng cho anh ta.",
-      "releaseInfo": "2017",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt32110933",
-      "type": "movie",
-      "name": "Ma Nữ Chung Cư",
-      "poster": "https://phimimg.com/upload/vod/20250701-1/c5360b55caa28e3b239b8ae05559b785.jpg",
-      "description": "Ji Yeon là một sinh viên đại học xinh đẹp, theo học chuyên ngành âm nhạc. Cô hẹn hò với Dong Seok - chàng trai đang bị bố mẹ ép đi du học. Một ngày trước khi rời Hàn Quốc, Dong Seok đã chuẩn bị một sự kiện cầu hôn bạn gái nhưng cô không xuất hiện. Trong khi đó, có tin đồn về một con ma xuất hiện ở khu chung cư cũ nơi Ji Yeon sinh sống.",
-      "releaseInfo": "2019",
-      "imdbRating": "6.2"
-    },
-    {
-      "id": "tt36097466",
-      "type": "movie",
-      "name": "Bóng Ma Cõi Mạng",
-      "poster": "https://phimimg.com/upload/vod/20250701-1/cc986f96790d1a9f8ac4249e271d400e.jpg",
-      "description": "Trong nỗ lực cứu vãn kênh Youtube tâm huyết, Jyujuring quyết định tổ chức livestream ngay tại một ngôi nhà hoang bí ẩn, nơi mà chưa ai từng dám đặt chân đến. Giây phút cánh cửa mở ra cũng là lúc trò \"câu view\" hóa thành cơn ác mộng tồi tệ nhất cho những kẻ phạm phải điều cấm kỵ.",
-      "releaseInfo": "2025",
-      "imdbRating": "3.4"
-    },
-    {
-      "id": "tt2967578",
-      "type": "movie",
-      "name": "Ẩn Thân",
-      "poster": "https://phimimg.com/upload/vod/20250626-1/b90545174b0781906e5daaeb3164dfda.jpg",
-      "description": "Ẩn Thân - Secretly Greatly phim xoay quanh ba điệp viên Triều Tiên trở thành những người di cư bí mật đến hội phủ ở một ngôi làng nhỏ ở Hàn Quốc để thực hiện nhiệm vụ. Ba điệp viên có hai lần tên là Won Ryu-hwan, Ri Hae-rang và Lee Hae-jin. Họ giả dạng thành những người di dân bình thường và sống trong đó như một gia đình. Tuy nhiên, cuộc sống an lành của họ bị đảo lộn khi những khía cạnh đen tối của công việc điệp viên bắt đầu xuất hiện. Không chỉ đơn thuần là một bộ phim hành động, Secretly Greatly cũng mang đậm yếu tố tình cảm và hài hước. Ba điệp viên phải đối mặt với các thử thách và nguy hiểm không ngừng từ công việc của họ, trong khi cố gắng hòa nhập vào cuộc sống hàng ngày và tạo dựng một mối quan hệ thân thiết với những người dân trong ngôi làng.",
-      "releaseInfo": "2013",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt26736976",
-      "type": "movie",
-      "name": "Bạn Muốn Đi Đâu",
-      "poster": "https://phimimg.com/upload/vod/20250624-1/825ca0d786c029191048a5fbf4b98045.jpg",
-      "description": "Định mệnh đã đưa ba tâm hồn đều vừa mất đi một mảnh ghép cùng gặp gỡ ở vùng đất Warsaw, Ba Lan. Để rồi từ đó, thay vì tự nhặt nhạnh vụn vỡ của riêng mình, họ đã chữa lành vết thương cho nhau.",
-      "releaseInfo": "2023",
-      "imdbRating": "6.1"
-    },
-    {
-      "id": "tt2659414",
-      "type": "movie",
-      "name": "Điều Kì Diệu Ở Phòng Giam Số 7",
-      "poster": "https://phimimg.com/upload/vod/20250621-1/d82d491346e2e2984d5911bb61dba007.jpg",
-      "description": "Bộ phim hài ấm áp này kể về câu chuyện của Yong Gu, một ông bố thiểu năng phải ngồi tù vì bị vu oan là đã giết một bé gái.",
-      "releaseInfo": "2013",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt3404158",
-      "type": "movie",
-      "name": "Truy Lùng",
-      "poster": "https://phimimg.com/upload/vod/20250619-1/0b275ea9269bc25214d1e22e8d505411.jpg",
-      "description": "Với lòng cống hiến, Dong Chul trở thành đặc vụ xuất sắc nhất ở Triều Tiên. Rồi bi kịch ập đến khi anh bị đồng đội bỏ rơi, còn gia đình bị sát hại. Anh phải lựa chọn trả thù hay thầm lặng trốn thoát?",
-      "releaseInfo": "2013",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt8081830",
-      "type": "movie",
-      "name": "Thời Kỳ Phiến Loạn",
-      "poster": "https://phimimg.com/upload/vod/20250619-1/d26d789b2cc35199f4ab292daf07b455.jpg",
-      "description": "Kim Ho, tay kiếm đệ nhất thời Joseon, đã biết toàn bộ âm mưu tạo phản của Yi In Jwa cùng đồng bọn. Từ đó, anh phải đơn độc cố sức bảo vệ vua Yeong Jo vì chẳng thể tin tưởng được bất cứ ai.",
-      "releaseInfo": "2017",
-      "imdbRating": "5.6"
-    },
-    {
-      "id": "tt6273736",
-      "type": "movie",
-      "name": "Thời Gian Biến Mất: Cậu Bé Trở Lại",
-      "poster": "https://phimimg.com/upload/vod/20250619-1/c8e5c830435ae90a1a94587c14b9b30c.jpg",
-      "description": "Với \"hoàng tử điện ảnh\" Gang Dong Won chủ diễn, khán giả chắc chắn sẽ có trải nghiệm đáng giá. Ẩn dưới những thước phim nên thơ chính là bi kịch mất tích bí ẩn của cậu bé Sung Min và hai người bạn.",
-      "releaseInfo": "2016",
-      "imdbRating": "7.3"
     }
   ]
 }

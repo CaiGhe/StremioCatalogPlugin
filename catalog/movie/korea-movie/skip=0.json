@@ -1,6 +1,96 @@
 {
   "metas": [
     {
+      "id": "tt1565032",
+      "type": "movie",
+      "name": "Vươn Tới Thiên Đàng",
+      "poster": "https://phimimg.com/uploads/movies/20260915/vuon-toi-thien-dang-poster.webp",
+      "description": "Một nữ nhân viên dịch vụ tang lễ gặp gỡ một người đàn ông đã phải chống chọi với căn bệnh hiểm nghèo Lou Gehrig (xơ cứng cột bên teo cơ) từ khi còn trẻ. Cả hai đem lòng yêu nhau và luôn giữ vững hy vọng tìm ra phương thuốc chữa trị có thể níu giữ sự sống cho anh.",
+      "releaseInfo": "2009",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt0153930",
+      "type": "movie",
+      "name": "Tình Yêu Ở Woomukbaemi",
+      "poster": "https://phimimg.com/uploads/movies/20260915/tinh-yeu-o-woomukbaemi-poster.webp",
+      "description": "Cảm thấy không được coi trọng ở quê nhà, Bae Il-do bỏ trốn lên thành phố và làm thợ may. Vợ anh từng sống dưới sự khắc nghiệt của mẹ kế, làm người giúp việc và tiếp viên quán bar trước khi gặp Il-do rồi sinh cho anh một đứa con. Cô gái trẻ trung, quyến rũ Gong-rye xuất hiện chen ngang giữa họ, lén lút ngoại tình với Il-do trong thời gian cả hai cùng làm việc tại một xưởng may. Những cuộc hẹn hò bí mật của họ chẳng mấy chốc bị lộ và người vợ của Il-do cuối cùng cũng phát hiện ra sự thật...",
+      "releaseInfo": "1990",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt8865562",
+      "type": "movie",
+      "name": "Người Chứng Kiến",
+      "poster": "https://phimimg.com/uploads/movies/20260915/nguoi-chung-kien-poster.webp",
+      "description": "Sang-hoon, một người đàn ông bình thường vừa mua được căn hộ cao cấp tại một khu chung cư mới để ổn định cuộc sống cho gia đình. Một đêm nọ, anh vô tình nghe thấy tiếng động và nhìn qua ban công, chứng kiến cảnh một kẻ sát nhân máu lạnh đang tàn nhẫn ra tay sát hại một phụ nữ ngay tại sân chung cư.",
+      "releaseInfo": "2018",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt0121755",
+      "type": "movie",
+      "name": "Một Tia Lửa Duy Nhất",
+      "poster": "https://phimimg.com/uploads/movies/20260915/mot-tia-lua-duy-nhat-poster.webp",
+      "description": "Kim — một nhà hoạt động xã hội kiêm cử nhân luật — đang bị chính quyền độc tài Park Chung-hee đàn áp, truy bắt gắt gao vào giữa thập niên 1970 vì cố gắng viết một cuốn sách về Jeon Tae-il, một nhà hoạt động công nhân trẻ tuổi đã tự thuẫn ở tuổi 22 nhằm phản đối sự bóc lột công nhân tàn nhẫn và sự giả dối của chính phủ.",
+      "releaseInfo": "1995",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt1173686",
+      "type": "movie",
+      "name": "Đẹp",
+      "poster": "https://phimimg.com/uploads/movies/20260915/dep-poster.webp",
+      "description": "Eun-young là một người phụ nữ mang bi kịch từ chính nhan sắc tuyệt mỹ của mình. Dù đi đến đâu, cô cũng phải chịu đựng những ánh nhìn si mê không mong muốn từ đàn ông và sự đố kỵ, ganh ghét từ phụ nữ. Cho đến một ngày, một kẻ bám đuôi biến thái đã đột nhập và xâm hại không gian riêng tư của cô.",
+      "releaseInfo": "2008",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt0475711",
+      "type": "movie",
+      "name": "Chuyện Tình Buồn",
+      "poster": "https://phimimg.com/uploads/movies/20260915/chuyen-tinh-buon-poster.webp",
+      "description": "Những câu chuyện lồng ghép vào nhau về tình yêu và sự chia ly này theo chân một anh chàng lính chữa cháy luôn bỏ lỡ thời điểm thích hợp để cầu hôn bạn gái, một cô gái làm việc tại công viên giải trí nhút nhát đem lòng yêu một họa sĩ, một người mẹ và người con trai vốn xa cách bấy lâu, cùng một người đàn ông nỗ lực tìm cách giành lại tình yêu đã mất của mình.",
+      "releaseInfo": "2005",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt0150090",
+      "type": "movie",
+      "name": "Con Trai Của Tướng Quân 3",
+      "poster": "https://phimimg.com/uploads/movies/20260915/con-trai-cua-tuong-quan-3-poster.webp",
+      "description": "Tiếp nối các sự kiện cuối phần 2, Kim Du-han buộc phải trốn chạy khỏi sự truy nã của cảnh sát Nhật Bản. Sau một thời gian dạt về vùng quê ẩn nấp, anh cuối cùng quyết định trở lại khu phố Jongro. Tại đây, Du-han tập hợp lại những anh em chiến hữu còn sống sót và giữ trọn lòng trung thành để gầy dựng lại băng nhóm, quyết chiến một mất một còn nhằm đánh bại phe Yakuza của Hayashi một lần và mãi mãi.",
+      "releaseInfo": "1992",
+      "imdbRating": "5.4"
+    },
+    {
+      "id": "tt0101564",
+      "type": "movie",
+      "name": "Con Trai Của Tướng Quân 2",
+      "poster": "https://phimimg.com/uploads/movies/20260915/con-trai-cua-tuong-quan-2-poster.webp",
+      "description": "Ngay sau khi được trả do tự do khỏi nhà tù, Kim Du-han bắt đầu hành trình khôi phục và xây dựng lại băng nhóm đường phố của mình trước sự bành trướng hung hãn từ các thế lực Yakuza của Hayashi cùng ảnh hưởng đô hộ ngày càng đè nặng của quân phiệt Nhật Bản.",
+      "releaseInfo": "1991",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": "tt0099240",
+      "type": "movie",
+      "name": "Con Trai Của Tướng Quân",
+      "poster": "https://phimimg.com/uploads/movies/20260915/con-trai-cua-tuong-quan-poster.webp",
+      "description": "Lấy bối cảnh Triều Tiên thời kỳ thuộc địa Nhật Bản, một thanh niên trẻ vừa mới ra tù nhờ khả năng chiến đấu phi thường đã được thu nhận vào một băng nhóm tội phạm địa phương và nhanh chóng vươn lên vị trí đứng đầu. Tác phẩm dựa trên cuộc đời thực của trùm xã hội đen kiêm chính khách nổi tiếng Triều Tiên — Kim Du-han.",
+      "releaseInfo": "1990",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt0112257",
+      "type": "movie",
+      "name": "Phòng 301, 302",
+      "poster": "https://phimimg.com/uploads/movies/20260915/phong-301-302-poster.webp",
+      "description": "Hai người phụ nữ mắc chứng rối loạn ám ảnh cưỡng chế — một nữ đầu bếp cuồng ăn và một nhà văn mắc chứng biếng ăn — sống đối diện nhau trong cùng một chung cư. Người phụ nữ ở phòng 301 liên tục chế biến những món ăn thịnh soạn nhằm dụ dỗ người hàng xóm ăn uống. Ngược lại, nhà văn ở phòng 302 kiên quyết từ chối thực phẩm, và sự cự tuyệt này khởi đầu cho một mối quan hệ đầy sóng gió, buộc cả hai phải đối mặt với những quá khứ đau thương, bị chôn giấu của mình.",
+      "releaseInfo": "1995",
+      "imdbRating": "6.4"
+    },
+    {
       "id": "tt5961314",
       "type": "movie",
       "name": "Công Chúa Và Chàng Mai",
@@ -471,7 +561,7 @@
       "poster": "https://phimimg.com/upload/vod/20260423-1/cc318a84d18ce0694faa66d5618e0396.jpg",
       "description": "Tai nạn ập đến, bạn thân Soo Yin biến mất không dấu vết, còn nữ hoàng bơi bội Yi Young tuy may mắn sống sót nhưng lại mất sạch ký ức. Từ đây, cô luôn mắc kẹt trong những mảnh ghép kỳ lạ về Soo Yin.",
       "releaseInfo": "2020",
-      "imdbRating": "5.5"
+      "imdbRating": "5.4"
     },
     {
       "id": "tt11135814",
@@ -803,96 +893,6 @@
       "description": "Ở tương lai gần hậu tận thế, một nhà nghiên cứu tại phòng thí nghiệm AI dẫn đầu nỗ lực chấm dứt nội chiến bằng cách nhân bản bộ não của một người lính anh hùng: mẹ của bà.",
       "releaseInfo": "2023",
       "imdbRating": "5.5"
-    },
-    {
-      "id": "tt2290840",
-      "type": "movie",
-      "name": "Hoàng Đế Giả Mạo",
-      "poster": "https://phimimg.com/upload/vod/20260109-1/fe5a9dd2997b50b5e1ce03463175d53c.jpg",
-      "description": "Hoàng Đế Giả Mạo dựa vào câu chuyện có thật về một vị vua bạo chúa khét tiếng nhưng lại là một chính trị gia rất tốt mang tê Gwanghae, vị vua thứ 15 của đế chế Chosun huyền thoại. Gwanghae thật bị một nhóm gian thần bày mưu ám sát nên phải tạm “quy ẩn” một thời gian. Vì đất nước một ngày không thể không có vua nên Gwanghae đã sai cận thần tìm một kẻ thế mạng ngồi tạm vào ngôi báu để đánh lạc hướng.",
-      "releaseInfo": "2012",
-      "imdbRating": "7.8"
-    },
-    {
-      "id": "tt0821470",
-      "type": "movie",
-      "name": "Thành Phố Bạo Lực",
-      "poster": "https://phimimg.com/upload/vod/20260109-1/8002350b2e877f0a2896ea095039de7e.jpg",
-      "description": "Taesu, một cảnh sát điều tra tội phạm tại Seoul, không bao giờ quên những tháng ngày sôi động một thời: trốn học, quậy phá, đánh nhau cùng bốn thằng bạn chí cốt Pil Ho, Dong Wan, Seok Hwan, và Wang Jae.Nhận được tin cái chết của Wang Jae, Taesu lập tức rời Seoul quay trở về quê nhà. Mọi thứ đã thay đổi. Kể từ khi Wang Jae trao quyền hành vào tay Pil Ho, sòng bạc trong vùng mọc lên khắp nơi, bọn nhóc côn đồ ngang nhiên quậy phá, hành hung, nghiện ngập.Trước cái chết gây nhiều hoài nghi của người bạn thân, Taesu và Seok Hwan bắt đầu cuộc điều tra tìm kiếm thủ phạm. Hai người không khỏi bất ngờ khi phát hiện ra những việc làm lâu nay người bạn thân thiết của họ Pil Ho ngầm theo đuổi…",
-      "releaseInfo": "2006",
-      "imdbRating": "6.6"
-    },
-    {
-      "id": "tt32628369",
-      "type": "movie",
-      "name": "Hỏa Thần",
-      "poster": "https://phimimg.com/upload/vod/20250416-1/96f9411e83de73829a71574cedb14ed5.jpg",
-      "description": "Đội cứu hoả khu Tây Seoul luôn phải làm việc trong điều kiện thiếu thốn và khắc nghiệt. Ngày nào họ cũng phải lặp lại câu hỏi: đây có phải là lần làm nhiệm vụ cuối cùng? Phải tập trung cứu người hay bảo vệ mạng sống của chính mình? Một ngày, đường dây khẩn báo động về một đám cháy tại Hongje-dong. Ngay lập tức, cả đội cảm nhận được sự nghiêm trọng của tình hình…",
-      "releaseInfo": "2024",
-      "imdbRating": "5.7"
-    },
-    {
-      "id": "tt38667070",
-      "type": "movie",
-      "name": "Trung Gian Giới",
-      "poster": "https://phimimg.com/upload/vod/20260105-1/84f7090f3868c1f80674f96802aa8aec.jpg",
-      "description": "Bộ phim kể về một nhóm người vô tình lạc vào chiều không gian bí ẩn nằm giữa ranh giới sinh tử. Để tìm đường trở về thế giới thực, họ buộc phải dấn thân vào một cuộc rượt đuổi nghẹt thở về phía Tây, đối mặt với những thực thể siêu nhiên và những cạm bẫy chết người. Với sự dẫn dắt của Kim Kang-woo và Kwon Yu-ri, hành trình này không chỉ là cuộc chiến sinh tồn mà còn là sự đối diện với những góc tối trong chính tâm hồn mỗi người.",
-      "releaseInfo": "2025",
-      "imdbRating": "4.7"
-    },
-    {
-      "id": "tt6413410",
-      "type": "movie",
-      "name": "Theo Dấu Sát Nhân (Yếu Nhân)",
-      "poster": "https://phimimg.com/upload/vod/20260101-1/09b588462536419502fc4a7b8ed1c699.jpg",
-      "description": "Theo Dấu Sát Nhân là bộ phim xoay quanh Gwang Il (Lee Jong Suk), con trai của một quan chức Triều Tiên máu mặt, kẻ bị tình nghi là thủ phạm của vụ án giết người hàng loạt xảy ra trên khắp thế giới. Tham gia vào cuộc truy bắt Gwang Il là các đặc vụ tới từ Hàn Quốc, Triều Tiên và Tổ chức Cảnh sát Hình sự Quốc Tế.",
-      "releaseInfo": "2017",
-      "imdbRating": "6.6"
-    },
-    {
-      "id": "tt38225427",
-      "type": "movie",
-      "name": "Tay Anh Giữ Một Vì Sao",
-      "poster": "https://phimimg.com/upload/vod/20260101-1/1f84d38287b85555cfefd5bbd36798ee.jpg",
-      "description": "Siêu sao Kang Jun Woo – “Hoàng tử Châu Á” – rơi vào tình cảnh “mắc kẹt” tại Việt Nam sau một loạt sự cố dở khóc dở cười, nơi anh gặp Thảo – một cô gái bán cà phê đầy đam mê, quyết tâm theo đuổi ước mơ của mình.",
-      "releaseInfo": "2025",
-      "imdbRating": "6.4"
-    },
-    {
-      "id": "tt31645750",
-      "type": "movie",
-      "name": "Đại Ca Ha Ha Ha",
-      "poster": "https://phimimg.com/upload/vod/20251228-1/2fe8766632c86e7f6e56f296438d5fd4.jpg",
-      "description": "Soon Tae nuôi mộng mở chuỗi nhà hàng tiếng tăm, quyết rửa tay gác kiếm nhưng bất đắc dĩ bị chỉ định làm đại ca xã đoàn. Anh nhanh chóng tìm cách đẩy trách nhiệm này cho Kang Pyo, cháu trai của ông trùm quá cố, nhưng đời không như mơ, Kang Pyo lại ôm ấp giấc mơ trở thành vũ công tango, chẳng buồn ngó lại nghiệp giang hồ. Chỉ riêng Pan Ho, kẻ chuyên gây rối lại là người duy nhất tha thiết muốn làm đại ca… nhưng tréo ngoe là chẳng ai tin tưởng. Thế là một cuộc \"đại chiến né chức\" nổ ra với mục tiêu tối thượng: Thua đường vote là thắng đường đời!",
-      "releaseInfo": "2025",
-      "imdbRating": "5.7"
-    },
-    {
-      "id": "tt37515699",
-      "type": "movie",
-      "name": "Song Sinh Đổi Mạng",
-      "poster": "https://phimimg.com/upload/vod/20251227-1/6a368fb601160f561b1d519b11bc54dc.jpg",
-      "description": "\"Chẳng lẽ tất cả chúng ta không thể cùng nhau chung sống hay sao?\" Đó là một mong ước tốt đẹp, nhưng đối với hai anh em sinh đôi Il-do và Yi-do, điều đó chỉ là suy nghĩ hão huyền. Mang trong mình lời nguyền nghiệt ngã do tội lỗi của cha mẹ để lại, một trong hai người phải chết thì người kia mới có thể tồn tại. Để tránh khỏi định mệnh này, họ đã chủ động cắt đứt mọi liên lạc. Thế nhưng, khi Yi-do — người đang làm việc cho một băng đảng — bị đâm trọng thương, Il-do bằng cách nào đó đã hay tin và vội vã đến hiến máu để cứu sống em trai mình. Vậy mà, thay vì lòng biết ơn, Yi-do đã lao vào tấn công anh trai ngay khoảnh khắc họ vừa chạm mặt.",
-      "releaseInfo": "2025",
-      "imdbRating": "5.2"
-    },
-    {
-      "id": "tt4462226",
-      "type": "movie",
-      "name": "Mượn Rượu Đẩy Kèo",
-      "poster": "https://phimimg.com/upload/vod/20250705-1/fcfca0887f26ade9f95dc528d86472d1.jpg",
-      "description": "Mượn Rượu Đẩy Kèo lấy bối cảnh Hàn Quốc vào năm 1997, khi cuộc khủng hoảng kinh tế tài chính đang hoành hành khắp châu Á khiến Gukbo - công ty sản xuất Soju số 1 đất nước rơi vào tình trạng cận kề phá sản. In-beom (Lee Je-hoon) - chàng trai trẻ đầy tham vọng đại diện cho tập đoàn đầu tư toàn cầu Solquin đã trở về quê hương với quyết tâm thâu tóm Gukbo. Để thực hiện âm mưu này, In-beom đội lốt một chuyên gia tư vấn ngây thơ, tiếp cận Jong-rok (Yoo Hai-jin) - giám đốc vô cùng trung thành với Gukbo, đang khao khát đưa công ty quay lại thời hoàng kim. Nhưng càng đào sâu vào đế chế Gukbo, In-beom càng nhận ra đây thực sự là một cuộc chiến xảo quyệt với rất nhiều “cú twist”, dẫn đến kết cục không ngờ dành cho tất cả.",
-      "releaseInfo": "2025",
-      "imdbRating": "6.3"
-    },
-    {
-      "id": "tt12485966",
-      "type": "movie",
-      "name": "Căn Phòng Đẫm Máu (Khách Sạn Đẫm Máu)",
-      "poster": "https://phimimg.com/upload/vod/20251227-1/426e7c5a725c303d51ed2163aba0c1e1.jpg",
-      "description": "Khi Yoo-mi tìm đến một khách sạn để gửi gắm em gái mình cho người bạn của mẹ, cô đã vô tình rơi vào một chuỗi những sự kiện bí ẩn và kinh hoàng không thể lường trước.",
-      "releaseInfo": "2020",
-      "imdbRating": "4.9"
     }
   ]
 }
