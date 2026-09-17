@@ -10,14 +10,6 @@
       "imdbRating": "6.7"
     },
     {
-      "id": "tt34771509",
-      "type": "movie",
-      "name": "Totems",
-      "poster": "https://image.tmdb.org/t/p/w500/rbADUUCJgQLpMY0LL3tOxsMtnTt.jpg",
-      "description": "For Indigenous peoples the totem pole is the symbol of life, portraying the relationship between humans and animals. Fitting into the landscape of British Columbia, these monuments, witnesses to an ancient and powerful culture, look down at us. The group \"Indians of British Columbia\" singing group provide a powerful soundtrack as Haida and Tsimshian people talk about poles in their communities.",
-      "releaseInfo": "1944"
-    },
-    {
       "id": "tt0066300",
       "type": "movie",
       "name": "Right On!",
@@ -27,12 +19,38 @@
       "imdbRating": "7.8"
     },
     {
+      "id": "tt34771509",
+      "type": "movie",
+      "name": "Totems",
+      "poster": "https://image.tmdb.org/t/p/w500/rbADUUCJgQLpMY0LL3tOxsMtnTt.jpg",
+      "description": "For Indigenous peoples the totem pole is the symbol of life, portraying the relationship between humans and animals. Fitting into the landscape of British Columbia, these monuments, witnesses to an ancient and powerful culture, look down at us. The group \"Indians of British Columbia\" singing group provide a powerful soundtrack as Haida and Tsimshian people talk about poles in their communities.",
+      "releaseInfo": "1944"
+    },
+    {
+      "id": "tt7758540",
+      "type": "movie",
+      "name": "Among Neighbors",
+      "poster": "https://image.tmdb.org/t/p/w500/bz8toDcg1qrbeoFLwScC7ydR3Ts.jpg",
+      "description": "Combining magical realism and evocative hand-drawn animation with revelatory interviews and verité footage, \"Among Neighbors\" examines the story of a small, rural town where Jews and Polish Catholics lived side by side for centuries before World War II. The film brings the Polish response to the Holocaust to life through the last living eyewitnesses, revealing both love and betrayal as it zeroes in on one of the last living Holocaust survivors from the town, and an aging eyewitness who saw Jews murdered there — not by Nazis, but by her own Polish neighbors. Produced and directed by award-winning filmmaker Yoav Potash (\"Crime After Crime,\" Sundance Film Festival).",
+      "releaseInfo": "2024",
+      "imdbRating": "8.5"
+    },
+    {
       "id": "tt33510831",
       "type": "movie",
       "name": "Band of Brothers: Legacy",
       "poster": "https://image.tmdb.org/t/p/w500/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
       "description": "This tribute to the groundbreaking series that helped preserve the story of Easy Company and deepened public appreciation for the sacrifices of the Greatest Generation features new interviews with cast members Damian Lewis, Ron Livingston, Michael Cudlitz, Capt. Dale Dye, USMC (Ret.), David Schwimmer, and more. Through personal reflections and behind-the-scenes stories, participants revisit the experience of making the series and explore its lasting cultural resonance, and also includes never-before-seen archival footage and photographs of Easy Company and World War II.",
-      "releaseInfo": "2026"
+      "releaseInfo": "2026",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt0326520",
+      "type": "movie",
+      "name": "Box of Treasures",
+      "poster": "https://image.tmdb.org/t/p/w500/mokOVaMPC7SC7u89V1qReeWVex2.jpg",
+      "description": "In 1921 the Kwakiut'l people of Alert Bay, British Columbia, held their last secret potlatch. In 1980 at Alert Bay, the U'mista Cultural Centre (U'mista means \"something of great value that has come back\") opened its doors to receive and house the cultural treasures which were seized decades earlier and only then returned to the people. The center also took up activities such as recording stories told by elders so that some part of the past would always be alive and teaching children about their heritage in order to make them feel connected to their ancestors.  This film documents the cultural significance of these events for today's Kwakiut'l people. It is an eloquent testimony to the persistence and complexity of Kwakiut'l society and to the struggle for redefining cultural identity for them.",
+      "releaseInfo": "1983"
     },
     {
       "id": "tt7497376",
@@ -44,31 +62,6 @@
       "imdbRating": "7.9"
     },
     {
-      "id": "tt2195922",
-      "type": "movie",
-      "name": "My Other Me: A Film About Cosplayers",
-      "poster": "https://image.tmdb.org/t/p/w500/bmcq1enzJ3h6p4GkwTTqw6XFDNh.jpg",
-      "description": "An eye-opening look at the 'costume play' subculture known as cosplay. \"My Other Me\" chronicles a year in the life of three different cosplayers, following the subjects as they travel the convention circuit, balancing their home lives with their cosplay alter egos, revealing the profound effects the subculture has played in their lives.",
-      "releaseInfo": "2013",
-      "imdbRating": "7.8"
-    },
-    {
-      "id": "tt45368240",
-      "type": "movie",
-      "name": "You Can See Everything",
-      "poster": "https://image.tmdb.org/t/p/w500/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
-      "description": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt43700444",
-      "type": "movie",
-      "name": "Untold Mr. T: I Pity the Fool",
-      "poster": "https://image.tmdb.org/t/p/w500/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
-      "description": "Before the gold chains, mohawk, and Hollywood fame of The A-Team and Rocky III, there was Laurence Tureaud. This is the extraordinary origin story behind one of the most unlikely and beloved icons in entertainment — Mr. T.",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tt7664504",
       "type": "movie",
       "name": "Three Identical Strangers",
@@ -76,31 +69,6 @@
       "description": "New York, 1980. Three complete strangers accidentally discover that they're identical triplets, separated at birth. The 19-year-olds' joyous reunion catapults them to international fame, but also unlocks an extraordinary and disturbing secret that goes beyond their own lives – and could transform our understanding of human nature forever.",
       "releaseInfo": "2018",
       "imdbRating": "7.6"
-    },
-    {
-      "id": "tt36152310",
-      "type": "movie",
-      "name": "Oasis: Don't Look Back in Anger",
-      "poster": "https://image.tmdb.org/t/p/w500/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
-      "description": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt44766123",
-      "type": "movie",
-      "name": "NAZA",
-      "poster": "https://image.tmdb.org/t/p/w500/aXlTjDmbYVNjGWt256MWeYVKFN.jpg",
-      "description": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt14257662",
-      "type": "movie",
-      "name": "MoviePass, MovieCrash",
-      "poster": "https://image.tmdb.org/t/p/w500/eWht9uFRrqmqnLDL5F9grwUiL62.jpg",
-      "description": "Exploring the company founding and the implosion of the business by outside investors who took over the company, left it bankrupt and under investigation.",
-      "releaseInfo": "2024",
-      "imdbRating": "6.7"
     },
     {
       "id": "tt3091552",
@@ -112,46 +80,38 @@
       "imdbRating": "7.2"
     },
     {
-      "id": "tt35237771",
+      "id": "tt2195922",
       "type": "movie",
-      "name": "Ghost Elephants",
-      "poster": "https://image.tmdb.org/t/p/w500/h2zN5Oo89DjwY9Q4F8zto5MlnNb.jpg",
-      "description": "In Angola's mist-shrouded highlands, three KhoiSan master trackers embark on a spiritual quest to rediscover the legendary \"ghost elephants\" of Lisima, creatures presumed lost but remembered in ancestral trance, ritual, and memory.",
+      "name": "My Other Me: A Film About Cosplayers",
+      "poster": "https://image.tmdb.org/t/p/w500/bmcq1enzJ3h6p4GkwTTqw6XFDNh.jpg",
+      "description": "An eye-opening look at the 'costume play' subculture known as cosplay. \"My Other Me\" chronicles a year in the life of three different cosplayers, following the subjects as they travel the convention circuit, balancing their home lives with their cosplay alter egos, revealing the profound effects the subculture has played in their lives.",
+      "releaseInfo": "2013",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt44766123",
+      "type": "movie",
+      "name": "NAZA",
+      "poster": "https://image.tmdb.org/t/p/w500/aXlTjDmbYVNjGWt256MWeYVKFN.jpg",
+      "description": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them.",
       "releaseInfo": "2026"
     },
     {
-      "id": "tt44322266",
+      "id": "tt36152310",
       "type": "movie",
-      "name": "Turning Point: Generation 9/11",
-      "poster": "https://image.tmdb.org/t/p/w500/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
-      "description": "A quarter-century after September 11th, the attacks' ripple effects persist across generations. Orphaned children, War on Terror journalists, young Afghans, and U.S. Marines shaped by the 2021 withdrawal share their stories.",
+      "name": "Oasis: Don't Look Back in Anger",
+      "poster": "https://image.tmdb.org/t/p/w500/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+      "description": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
       "releaseInfo": "2026"
     },
     {
-      "id": "tt0184515",
+      "id": "tt36590218",
       "type": "movie",
-      "name": "舞男真面目",
-      "poster": "https://image.tmdb.org/t/p/w500/66R0ZIpQr7CEKWcc96R5IJhQ1cv.jpg",
-      "description": "A look at Hong Kong's nightlife, where gigolos service women.",
-      "releaseInfo": "1994"
-    },
-    {
-      "id": "tt0498719",
-      "type": "movie",
-      "name": "Sweet Toronto",
-      "poster": "https://image.tmdb.org/t/p/w500/dBlzEoVH7AvOOiinZ96t0jGnrJh.jpg",
-      "description": "Sweet Toronto is a documentary by D.A. Pennebaker of the Toronto Rock and Roll Revival, a one day festival held September 13, 1969 at Varsity Stadium on the campus of the University of Toronto and attended by some 20,000 people. John Lennon played as part of the Plastic Ono Band, whose members also included Yoko Ono, Klaus Voorman, Alan White, and Eric Clapton. The video also features a selection of other acts: Jerry Lee Lewis, Little Richard, and Bo Diddley.",
-      "releaseInfo": "1971",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt10327666",
-      "type": "movie",
-      "name": "Laughing Matters",
-      "poster": "https://image.tmdb.org/t/p/w500/iDIuRQ4b5U3JoBT76muxyJBCMIY.jpg",
-      "description": "Comedians come together for an honest look and real conversations about comedy + mental health because when the cost of bringing others joy is your own joy...the cost is too high.",
-      "releaseInfo": "2019",
-      "imdbRating": "8.2"
+      "name": "Yanuni",
+      "poster": "https://image.tmdb.org/t/p/w500/toz4Yglz79bGmAJK8JOzZjF2F1A.jpg",
+      "description": "Indigenous chief Juma Xipaia fights to protect tribal lands despite assassination attempts. Her struggle intensifies after learning she's pregnant, while her husband, Special Forces ranger Hugo Loss, stands by her side.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7"
     },
     {
       "id": "tt37738006",
@@ -171,22 +131,38 @@
       "releaseInfo": "2011"
     },
     {
-      "id": "tt0326171",
+      "id": "tt43700444",
       "type": "movie",
-      "name": "Small Steps, Big Strides: The Black Experience in Hollywood",
-      "poster": "https://image.tmdb.org/t/p/w500/yOJsd6cgH2ASLMITNNgQc3q4N2p.jpg",
-      "description": "Louis Gossett Jr. takes viewers through a special documentary celebration of the groundbreaking achievements of African-American performers and their contributions to Hollywood filmmaking. Spectacular film clips, rare behind-the-scenes footage, archival photographs and fascinating interviews chronicle nearly a century of tribulation and triumph. Gazing at the outstanding range of African-American stars on today's movie screens, it is hard to imagine a time when there were no black leading men or women, a time when all of the roles available for people of color were considerably less heroic than they are now. Social progress came in small steps on the silver screen, film by film, for equal visibility and dignity on the silver screen; now it is possible to honor their struggles, their talent and their sacrifices.",
-      "releaseInfo": "1998",
-      "imdbRating": "6.6"
+      "name": "Untold Mr. T: I Pity the Fool",
+      "poster": "https://image.tmdb.org/t/p/w500/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
+      "description": "Before the gold chains, mohawk, and Hollywood fame of The A-Team and Rocky III, there was Laurence Tureaud. This is the extraordinary origin story behind one of the most unlikely and beloved icons in entertainment — Mr. T.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.2"
     },
     {
-      "id": "tt16116174",
+      "id": "tt2327974",
       "type": "movie",
-      "name": "Kỷ Niệm 20 Năm Harry Potter: Trở Lại Hogwarts",
-      "poster": "https://image.tmdb.org/t/p/w500/jntLBq0MLR3hrwKaTQswxACRPMs.jpg",
-      "description": "Dàn diễn viên của cả 8 phần phim Harry Potter tái ngộ để mừng kỉ niệm năm thứ 20 của phim đầu tiên trong cả thương hiệu, Harry Potter Và Hòn Đá Phù Thủy.",
-      "releaseInfo": "2022",
-      "imdbRating": "8.0"
+      "name": "Edward Abbey: A Voice in the Wilderness",
+      "poster": "https://image.tmdb.org/t/p/w500/aLM99E9pklfcd22NhiTfQkh83Yk.jpg",
+      "description": "When Edward Abbey died in 1989 at the age of sixty-two, the American West lost one of its most eloquent and passionate advocates. Through his novels, essays, letters and speeches, Edward Abbey consistently voiced the belief that the West was in danger of being developed to death, and that the only solution lay in the preservation of wilderness. Abbey authored twenty-one books in his lifetime, including Desert Solitaire, The Monkey Wrench Gang, The Brave Cowboy, and The Fool's Progress. His comic novel The Monkey Wrench Gang helped inspire a whole generation of environmental activism. A writer in the mold of Twain and Thoreau, Abbey was a larger-than-life figure as big as the West itself.",
+      "releaseInfo": "1993",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt35237771",
+      "type": "movie",
+      "name": "Ghost Elephants",
+      "poster": "https://image.tmdb.org/t/p/w500/h2zN5Oo89DjwY9Q4F8zto5MlnNb.jpg",
+      "description": "In Angola's mist-shrouded highlands, three KhoiSan master trackers embark on a spiritual quest to rediscover the legendary \"ghost elephants\" of Lisima, creatures presumed lost but remembered in ancestral trance, ritual, and memory.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt45368240",
+      "type": "movie",
+      "name": "You Can See Everything",
+      "poster": "https://image.tmdb.org/t/p/w500/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
+      "description": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+      "releaseInfo": "2026"
     },
     {
       "id": "tt39150120",
@@ -198,30 +174,73 @@
       "imdbRating": "7.1"
     },
     {
-      "id": "tt13622204",
+      "id": "tt14257662",
       "type": "movie",
-      "name": "Wildcat",
-      "poster": "https://image.tmdb.org/t/p/w500/wSTGQq2C8u1LZXvfUwGGTeob5JY.jpg",
-      "description": "Back from war in Afghanistan, a young British soldier struggling with depression and PTSD finds a second chance in the Amazon rainforest when he meets an American scientist, and together they foster an orphaned baby ocelot.",
+      "name": "MoviePass, MovieCrash",
+      "poster": "https://image.tmdb.org/t/p/w500/eWht9uFRrqmqnLDL5F9grwUiL62.jpg",
+      "description": "Exploring the company founding and the implosion of the business by outside investors who took over the company, left it bankrupt and under investigation.",
+      "releaseInfo": "2024",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt21386880",
+      "type": "movie",
+      "name": "Our Aotearoa",
+      "poster": "https://image.tmdb.org/t/p/w500/bdmGNsPK4bz0lKrfF8lZIiacuM7.jpg",
+      "description": "An animated documentary that speaks to immigrants' personal experiences living in Aotearoa, exploring themes of racism, discrimination, loss, loneliness, and maintaining cultural ties while living in another country.",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt16116174",
+      "type": "movie",
+      "name": "Kỷ Niệm 20 Năm Harry Potter: Trở Lại Hogwarts",
+      "poster": "https://image.tmdb.org/t/p/w500/jntLBq0MLR3hrwKaTQswxACRPMs.jpg",
+      "description": "Dàn diễn viên của cả 8 phần phim Harry Potter tái ngộ để mừng kỉ niệm năm thứ 20 của phim đầu tiên trong cả thương hiệu, Harry Potter Và Hòn Đá Phù Thủy.",
       "releaseInfo": "2022",
-      "imdbRating": "7.7"
+      "imdbRating": "8.0"
     },
     {
-      "id": "tt2871222",
+      "id": "tt35661231",
       "type": "movie",
-      "name": "Un voyageur",
-      "poster": "https://image.tmdb.org/t/p/w500/3yezcC6fFIJ0ZfwFaBfMapTi5WM.jpg",
-      "description": "18 years after his last film, (The Troubles We've Seen), Marcel Ophuls emerges from retirement as one of our last masters, the most corrosive, the funniest as well. And the most forceful. The director of The Sorrow and the Pity shares with us stories of his exceptionally rich life in this light-hearted yet bitter escapade though the century and the movies. Son of the great Max Ophuls, he is generous in his admiration. We also meet Jeanne Moreau, Bertolt Brecht, Ernst Lubitsch, Otto Preminger, Woody Allen, Stanley Kubrick and of course François Truffaut. There are no great filmmakers without a memory, so here is the memory shop of Marcel Ophuls.",
-      "releaseInfo": "2013",
-      "imdbRating": "6.6"
+      "name": "Aida Returns",
+      "poster": "https://image.tmdb.org/t/p/w500/hRL37Jelx3EcddqK4JC01YHzDkI.jpg",
+      "description": "A poignant, sometimes sad, sometimes painful, sometimes humorous, often absurd story of a multiple journey: the journey of loss as the director’s mother Aida struggled with losing herself to Alzheimer’s disease, but finding solace in her repeated “returning” to the Yafa and Palestine of her youth; the journey of the loss of a parent; and the ultimate return journey back to Yafa where Aida would finally find rest and be herself once more.",
+      "releaseInfo": "2024"
     },
     {
-      "id": "tt44949874",
+      "id": "tt0498719",
       "type": "movie",
-      "name": "Stolen Babies",
-      "poster": "https://image.tmdb.org/t/p/w500/koQB4JBFATLoM0mTcwI9G6T1UFm.jpg",
-      "description": "Told by the mothers and children who were separated from one another, this landmark documentary reveals the full scale of the UK's forced adoption scandal. Over four decades, 250,000 unmarried mothers were forced by the British state to give up their babies. Their first-hand accounts expose the system that tore families apart, its lasting impact, and the fight to uncover the truth that led to a moment of national reckoning.",
-      "releaseInfo": "2026"
+      "name": "Sweet Toronto",
+      "poster": "https://image.tmdb.org/t/p/w500/dBlzEoVH7AvOOiinZ96t0jGnrJh.jpg",
+      "description": "Sweet Toronto is a documentary by D.A. Pennebaker of the Toronto Rock and Roll Revival, a one day festival held September 13, 1969 at Varsity Stadium on the campus of the University of Toronto and attended by some 20,000 people. John Lennon played as part of the Plastic Ono Band, whose members also included Yoko Ono, Klaus Voorman, Alan White, and Eric Clapton. The video also features a selection of other acts: Jerry Lee Lewis, Little Richard, and Bo Diddley.",
+      "releaseInfo": "1971",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0184515",
+      "type": "movie",
+      "name": "舞男真面目",
+      "poster": "https://image.tmdb.org/t/p/w500/66R0ZIpQr7CEKWcc96R5IJhQ1cv.jpg",
+      "description": "A look at Hong Kong's nightlife, where gigolos service women.",
+      "releaseInfo": "1994"
+    },
+    {
+      "id": "tt10327666",
+      "type": "movie",
+      "name": "Laughing Matters",
+      "poster": "https://image.tmdb.org/t/p/w500/iDIuRQ4b5U3JoBT76muxyJBCMIY.jpg",
+      "description": "Comedians come together for an honest look and real conversations about comedy + mental health because when the cost of bringing others joy is your own joy...the cost is too high.",
+      "releaseInfo": "2019",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt44322266",
+      "type": "movie",
+      "name": "Turning Point: Generation 9/11",
+      "poster": "https://image.tmdb.org/t/p/w500/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+      "description": "A quarter-century after September 11th, the attacks' ripple effects persist across generations. Orphaned children, War on Terror journalists, young Afghans, and U.S. Marines shaped by the 2021 withdrawal share their stories.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.3"
     },
     {
       "id": "tt40431884",
@@ -250,39 +269,13 @@
       "imdbRating": "6.4"
     },
     {
-      "id": "tt3472534",
+      "id": "tt0326171",
       "type": "movie",
-      "name": "Yurumein: Homeland",
-      "poster": "https://image.tmdb.org/t/p/w500/txkopgSkgRQY4QOQxuXsmZsVts5.jpg",
-      "description": "YURUMEIN (Homeland) is a documentary film which recounts the painful past of the Caribs on the island of St. Vincent in the Caribbean, their extermination at the hands of the British 200+ years ago, the decimation of their culture on the island, and their exile to Central America where much of that culture survived, even thrived. YURUMEIN (your -o- main) also explores what few cultural remnants of the Caribs, also known as Garifuna, still exist on St. Vincent and the beginnings of a movement to teach and revitalize Garifuna language, music and dance, and ritual to younger generations of Garifuna/ Caribs on St. Vincent.",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt41368989",
-      "type": "movie",
-      "name": "Finding Harry: The Craft Behind the Magic",
-      "poster": "https://image.tmdb.org/t/p/w500/aq8jKIfASiOR6wz9FCeeCH90xZq.jpg",
-      "description": "Featuring interviews from members of the casting, production design, costume design, and creature effects teams, follow the behind-the-scenes journey of bringing the Harry Potter books to the small screen. Find out how the new Golden Trio were found, and celebrate the commitment to detail of the artists, craftspeople, and technicians who have come together to bring the wizarding world to life.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.9"
-    },
-    {
-      "id": "tt8912280",
-      "type": "movie",
-      "name": "Starbucks Unfiltered",
-      "poster": "https://image.tmdb.org/t/p/w500/upvTIKkLMCL8qu2abXbE5UW9r2G.jpg",
-      "description": "How the American coffee chain, now global, has conquered the urban middle class. This investigation on three continents reveals the carefully hidden face of the brand.",
-      "releaseInfo": "2018",
-      "imdbRating": "7.1"
-    },
-    {
-      "id": "tt28620587",
-      "type": "movie",
-      "name": "I Am: Celine Dion",
-      "poster": "https://image.tmdb.org/t/p/w500/v0zvMBdwzgSAj9xCufxDuq1WoJO.jpg",
-      "description": "A raw and honest behind-the-scenes look at the iconic superstar's struggle with a life-altering illness. Serving as a love letter to her fans, this inspirational documentary highlights the music that has guided her life while also showcasing the resilience of the human spirit.",
-      "releaseInfo": "2024",
-      "imdbRating": "7.7"
+      "name": "Small Steps, Big Strides: The Black Experience in Hollywood",
+      "poster": "https://image.tmdb.org/t/p/w500/yOJsd6cgH2ASLMITNNgQc3q4N2p.jpg",
+      "description": "Louis Gossett Jr. takes viewers through a special documentary celebration of the groundbreaking achievements of African-American performers and their contributions to Hollywood filmmaking. Spectacular film clips, rare behind-the-scenes footage, archival photographs and fascinating interviews chronicle nearly a century of tribulation and triumph. Gazing at the outstanding range of African-American stars on today's movie screens, it is hard to imagine a time when there were no black leading men or women, a time when all of the roles available for people of color were considerably less heroic than they are now. Social progress came in small steps on the silver screen, film by film, for equal visibility and dignity on the silver screen; now it is possible to honor their struggles, their talent and their sacrifices.",
+      "releaseInfo": "1998",
+      "imdbRating": "6.6"
     },
     {
       "id": "tt28612478",
@@ -294,30 +287,57 @@
       "imdbRating": "7.5"
     },
     {
-      "id": "tt0326520",
+      "id": "tt44949874",
       "type": "movie",
-      "name": "Box of Treasures",
-      "poster": "https://image.tmdb.org/t/p/w500/mokOVaMPC7SC7u89V1qReeWVex2.jpg",
-      "description": "In 1921 the Kwakiut'l people of Alert Bay, British Columbia, held their last secret potlatch. In 1980 at Alert Bay, the U'mista Cultural Centre (U'mista means \"something of great value that has come back\") opened its doors to receive and house the cultural treasures which were seized decades earlier and only then returned to the people. The center also took up activities such as recording stories told by elders so that some part of the past would always be alive and teaching children about their heritage in order to make them feel connected to their ancestors.  This film documents the cultural significance of these events for today's Kwakiut'l people. It is an eloquent testimony to the persistence and complexity of Kwakiut'l society and to the struggle for redefining cultural identity for them.",
-      "releaseInfo": "1983"
+      "name": "Stolen Babies",
+      "poster": "https://image.tmdb.org/t/p/w500/koQB4JBFATLoM0mTcwI9G6T1UFm.jpg",
+      "description": "Told by the mothers and children who were separated from one another, this landmark documentary reveals the full scale of the UK's forced adoption scandal. Over four decades, 250,000 unmarried mothers were forced by the British state to give up their babies. Their first-hand accounts expose the system that tore families apart, its lasting impact, and the fight to uncover the truth that led to a moment of national reckoning.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7"
     },
     {
-      "id": "tt0356514",
+      "id": "tt2069952",
       "type": "movie",
-      "name": "Death In Hollywood",
-      "poster": "https://image.tmdb.org/t/p/w500/zTUN7nSqWwylJ8JQPtd0NYLHPBH.jpg",
-      "description": "HOLLYWOOD. Tinseltown. Land of the stars. A city where an actor can reach the greatest heights overnight - and descend just as rapidly. What goes up must come down, and Hollywood's failing stars leave a legacy of sadness, pain and disappointment in their wake. Here, in graphic detail, are the shocking stories behind the deaths of the silver screen's most beloved celebrities, as well as it's lesser known players. Packed with stunning newsreel footage, and previously unrevealed facts, DEATH IN HOLLYWOOD documents many a celebrity's morbid demise due to suicide, drug and alcohol abuse, disease, and even murder. From the outrageous to the tragic, DEATH IN HOLLYWOOD leaves no tombstone unturned in it's quest to dig up the truth about Hollywood's dearly departed.",
+      "name": "The Light of the Golden Sun",
+      "poster": "https://image.tmdb.org/t/p/w500/2egCBS4ZBO1B1EvN2gS85sMDf2q.jpg",
+      "description": "More than 50 years ago, the Tibetan Bon Buddhist tradition was driven from its refuge deep within the Himalayas. This is the story of the long and difficult journey that followed. Told through the lens of one Bon teacher born in exile -- Tenzin Wangyal Rinpoche -- this film reveals something very precious and very old: a rich spiritual heritage, hidden for millennia, whose secret teachings are only now becoming known to the world. There may be no unbroken spiritual tradition more ancient than Bon, which traces its beginnings to a buddha who predates Shakyamuni by thousands of years. Yet this tradition today may be facing its greatest challenge thus far: to preserve its rich heritage beyond the land of its birth.",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt2871222",
+      "type": "movie",
+      "name": "Un voyageur",
+      "poster": "https://image.tmdb.org/t/p/w500/3yezcC6fFIJ0ZfwFaBfMapTi5WM.jpg",
+      "description": "18 years after his last film, (The Troubles We've Seen), Marcel Ophuls emerges from retirement as one of our last masters, the most corrosive, the funniest as well. And the most forceful. The director of The Sorrow and the Pity shares with us stories of his exceptionally rich life in this light-hearted yet bitter escapade though the century and the movies. Son of the great Max Ophuls, he is generous in his admiration. We also meet Jeanne Moreau, Bertolt Brecht, Ernst Lubitsch, Otto Preminger, Woody Allen, Stanley Kubrick and of course François Truffaut. There are no great filmmakers without a memory, so here is the memory shop of Marcel Ophuls.",
+      "releaseInfo": "2013",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt0116993",
+      "type": "movie",
+      "name": "Marlon Brando: The Wild One",
+      "poster": "https://image.tmdb.org/t/p/w500/gDYv1aJH33xkgu4VxyHd0nfSOxH.jpg",
+      "description": "An examination of the craft of Marlon Brando, narrated by professionals of the film industry. The film follows his career from the stage with \"A Streetcar Named Desire\", through the Actors Studio and professional relationships with Elia Kazan and Stella Adler to Hollywood. An actor who redefined the limits to which a professional may go in becoming the character not only intellectually but emotionally, Brando changed the meaning of film acting.",
+      "releaseInfo": "1994",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt2184313",
+      "type": "movie",
+      "name": "This Is Where We Take Our Stand",
+      "poster": "https://image.tmdb.org/t/p/w500/zpdwG8IHKDZDtvKR5Pm7Wy7Wcav.jpg",
+      "description": "In March of 2008, 250 veterans and active duty soldiers marked the fifth anniversary of the invasion of Iraq by gathering in Washington, DC to testify from their own experience about the nature of the occupations of Afghanistan and Iraq. Inspired by the 1971 Winter Soldier Investigation held by the Vietnam Veterans Against the War, they too sought to express their opposition to those wars with their first-hand accounts, bearing witness with voices not generally heard. Our documentary is a portrait of three participants. If follows their lives for 6 weeks leading to the even and afterward; an active duty female soldier, a 9 year National Guard Veteran, and a 3 tour former Marine. This is their story.",
+      "releaseInfo": "2012",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt0188677",
+      "type": "movie",
+      "name": "Hyperland",
+      "poster": "https://image.tmdb.org/t/p/w500/7HwOIYR9p4mxDutsNAzMTBHBV0U.jpg",
+      "description": "This made-for-TV documentary introduces the layperson to concepts and technologies that were emerging in computer interface design in the late 1980s and early 1990s: hypertext, multimedia, virtual assistants, interactive video, 3D animation, and virtual reality.",
       "releaseInfo": "1990",
-      "imdbRating": "5.8"
-    },
-    {
-      "id": "tt1885211",
-      "type": "movie",
-      "name": "Button Blanket",
-      "poster": "https://live.metahub.space/poster/small/tt1885211/img",
-      "description": "This short impressionist documentary looks at the creation of a Button Blanket by integrating the performance of a traditional dance with the art of the West Coast Heiltsuk Nation.",
-      "releaseInfo": "2009",
-      "imdbRating": "7.3"
+      "imdbRating": "7.8"
     },
     {
       "id": "tt35003538",
@@ -329,21 +349,58 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt39226750",
+      "id": "tt28620587",
       "type": "movie",
-      "name": "Outspoken: Music for Free Speech",
-      "poster": "https://live.metahub.space/poster/small/tt39226750/img",
-      "description": "Take a seat with us at FIRE’s first-ever classical music concert in support of free expression: “Outspoken: Music for Free Speech.”  At the podium is conductor Rebecca Bryant Novak, a former doctoral student at the University of Rochester’s Eastman School of Music. Taking the stage for the first time since she was expelled without due process after speaking out about alleged harassment, Rebecca leads an all-volunteer orchestra in an unforgettable evening of music. Internationally acclaimed musicians, violinist Lara St. John and oboist Katherine Needleman, bring the stage to life with works by composers who themselves faced censorship, from Mozart to Shostakovich.  Between performances, FIRE staff and special guests reflect on why free expression is essential for artists, and for all of us.  The arts cannot thrive without free expression.  Thank you to everyone who made this night possible!",
-      "releaseInfo": "2025"
+      "name": "I Am: Celine Dion",
+      "poster": "https://image.tmdb.org/t/p/w500/v0zvMBdwzgSAj9xCufxDuq1WoJO.jpg",
+      "description": "A raw and honest behind-the-scenes look at the iconic superstar's struggle with a life-altering illness. Serving as a love letter to her fans, this inspirational documentary highlights the music that has guided her life while also showcasing the resilience of the human spirit.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.7"
     },
     {
-      "id": "tt7758540",
+      "id": "tt13622204",
       "type": "movie",
-      "name": "Among Neighbors",
-      "poster": "https://image.tmdb.org/t/p/w500/bz8toDcg1qrbeoFLwScC7ydR3Ts.jpg",
-      "description": "Combining magical realism and evocative hand-drawn animation with revelatory interviews and verité footage, \"Among Neighbors\" examines the story of a small, rural town where Jews and Polish Catholics lived side by side for centuries before World War II. The film brings the Polish response to the Holocaust to life through the last living eyewitnesses, revealing both love and betrayal as it zeroes in on one of the last living Holocaust survivors from the town, and an aging eyewitness who saw Jews murdered there — not by Nazis, but by her own Polish neighbors. Produced and directed by award-winning filmmaker Yoav Potash (\"Crime After Crime,\" Sundance Film Festival).",
-      "releaseInfo": "2024",
-      "imdbRating": "8.5"
+      "name": "Wildcat",
+      "poster": "https://image.tmdb.org/t/p/w500/wSTGQq2C8u1LZXvfUwGGTeob5JY.jpg",
+      "description": "Back from war in Afghanistan, a young British soldier struggling with depression and PTSD finds a second chance in the Amazon rainforest when he meets an American scientist, and together they foster an orphaned baby ocelot.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt8912280",
+      "type": "movie",
+      "name": "Starbucks Unfiltered",
+      "poster": "https://image.tmdb.org/t/p/w500/upvTIKkLMCL8qu2abXbE5UW9r2G.jpg",
+      "description": "How the American coffee chain, now global, has conquered the urban middle class. This investigation on three continents reveals the carefully hidden face of the brand.",
+      "releaseInfo": "2018",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt1885211",
+      "type": "movie",
+      "name": "Button Blanket",
+      "poster": "https://live.metahub.space/poster/small/tt1885211/img",
+      "description": "This short impressionist documentary looks at the creation of a Button Blanket by integrating the performance of a traditional dance with the art of the West Coast Heiltsuk Nation.",
+      "releaseInfo": "2009",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt5873150",
+      "type": "movie",
+      "name": "Strong Island",
+      "poster": "https://image.tmdb.org/t/p/w500/qGq7WCNv9S8GBbP8DfIchiaodWn.jpg",
+      "description": "Examining the violent death of the filmmaker’s brother and the judicial system that allowed his killer to go free, this documentary interrogates murderous fear and racialized perception, and re-imagines the wreckage in catastrophe’s wake, challenging us to change.",
+      "releaseInfo": "2017",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt16277412",
+      "type": "movie",
+      "name": "Freddie Mercury: The Final Act",
+      "poster": "https://image.tmdb.org/t/p/w500/tctFh2aNKCG7C1l5oPQGxK8qvHn.jpg",
+      "description": "The story of the extraordinary final chapter of Freddie Mercury’s life and how, after his death from AIDS, Queen staged one of the biggest concerts in history, the Freddie Mercury Tribute Concert at Wembley Stadium, to celebrate his life and challenge the prejudices around HIV/AIDS. For the first time, Freddie's story is told alongside the experiences of those who tested positive for HIV and lost loved ones during the same period. Medical practitioners, survivors, and human rights campaigners recount the intensity of living through the AIDS pandemic and the moral panic it brought about.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.8"
     },
     {
       "id": "tt38867373",
@@ -355,66 +412,6 @@
       "imdbRating": "7.0"
     },
     {
-      "id": "tt4461838",
-      "type": "movie",
-      "name": "X-Rated: The Greatest Adult Movies of All Time",
-      "poster": "https://image.tmdb.org/t/p/w500/uYzHkzZPp84B7nHOKaJZWjyGFUL.jpg",
-      "description": "The evolution of adult cinema through the most influential films in history, a journey that begins in the 1970s and ends nowadays. An in-depth analysis of the success of the most prestigious erotic films, their impact on industry and society, and their influence on cinema and contemporary culture.",
-      "releaseInfo": "2015",
-      "imdbRating": "5.6"
-    },
-    {
-      "id": "tt43619305",
-      "type": "movie",
-      "name": "A Toxic Love Story",
-      "poster": "https://image.tmdb.org/t/p/w500/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
-      "description": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.6"
-    },
-    {
-      "id": "tt10724344",
-      "type": "movie",
-      "name": "Indetermediate Movie",
-      "poster": "https://image.tmdb.org/t/p/w500/adO9zEeAB4XjhRYmvYDgaqaFGyO.jpg",
-      "description": "Fluxfilm No. 33 by Milan Knízák",
-      "releaseInfo": "1966"
-    },
-    {
-      "id": "tt44942157",
-      "type": "movie",
-      "name": "Instadocs: The Decoy Plane",
-      "poster": "https://image.tmdb.org/t/p/w500/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg",
-      "description": "A critical threat. A clandestine escape. And a Turkish catering truck? With firsthand accounts, \"Instadocs\" digs into what happened aboard Air Force One.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt13648160",
-      "type": "movie",
-      "name": "Try Harder!",
-      "poster": "https://image.tmdb.org/t/p/w500/2qEFbQZKNiVVOFYCgZQW9H2LGT2.jpg",
-      "description": "In a universe where cool kids are nerds, the orchestra is world class and being Asian American is the norm, seniors at Lowell High School compete for the top prize: admission to the college of their dreams.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt5544558",
-      "type": "movie",
-      "name": "Kosovar Diary",
-      "poster": "https://images.metahub.space/poster/small/tt5544558/img",
-      "description": "Three ordinary people from Serbia go on a journey to Kosovo. A student, an actor and a journalist decide to explore this troubled place for themselves. The camera follows them during their journey and discovers the reality of Kosovo through their eyes. Each of them has different motivations: the journalist writes an article, the photographer takes pictures for an exhibition and the actor records his video diary.",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt0322802",
-      "type": "movie",
-      "name": "Jackass",
-      "poster": "https://image.tmdb.org/t/p/w500/9Rb659hvGfmef1xm0mMvDHEBqmf.jpg",
-      "description": "Johnny Knoxville and his band of maniacs perform a variety of stunts and gross-out gags on the big screen for the first time. They wander around Japan in panda outfits, wreak havoc on a once civilized golf course, they even do stunts involving LIVE alligators, and so on.",
-      "releaseInfo": "2002",
-      "imdbRating": "6.6"
-    },
-    {
       "id": "tt31510396",
       "type": "movie",
       "name": "Phi Đội Máy Bay Cảm Tử 100 - The Bloody Hundredth",
@@ -424,160 +421,20 @@
       "imdbRating": "7.5"
     },
     {
-      "id": "tt34872408",
+      "id": "tt3472534",
       "type": "movie",
-      "name": "Googie",
-      "poster": "https://image.tmdb.org/t/p/w500/wX0hj5ITMdLSrCVQUtjoBBkHwZm.jpg",
-      "description": "Googie architecture was one of the most visually exuberant and culturally formative design movements of the mid-20th century, yet it remains widely misunderstood. Defined by bold angles, sweeping rooflines, neon signage, and a sense of space-age optimism, Googie transformed everyday buildings into roadside spectacle. Coffee shops, bowling alleys, car washes, banks, and churches were designed not just for function, but to captivate motorists cruising by.  Rooted in Los Angeles, the movement drew inspiration from visionary architects such as Frank Lloyd Wright and John Lautner, while firms like Armet & Davis brought futuristic flair to the commercial landscape. Though many original structures have been lost, preservationists now champion Googie as a serious architectural expression—one that captured the aspirations of postwar America and reshaped the visual identity of the modern city.",
-      "releaseInfo": "2026"
+      "name": "Yurumein: Homeland",
+      "poster": "https://image.tmdb.org/t/p/w500/txkopgSkgRQY4QOQxuXsmZsVts5.jpg",
+      "description": "YURUMEIN (Homeland) is a documentary film which recounts the painful past of the Caribs on the island of St. Vincent in the Caribbean, their extermination at the hands of the British 200+ years ago, the decimation of their culture on the island, and their exile to Central America where much of that culture survived, even thrived. YURUMEIN (your -o- main) also explores what few cultural remnants of the Caribs, also known as Garifuna, still exist on St. Vincent and the beginnings of a movement to teach and revitalize Garifuna language, music and dance, and ritual to younger generations of Garifuna/ Caribs on St. Vincent.",
+      "releaseInfo": "2014"
     },
     {
-      "id": "tt6038060",
+      "id": "tt16915316",
       "type": "movie",
-      "name": "Henna Splash",
-      "poster": "https://image.tmdb.org/t/p/w500/32zsM4nEmosfzb3l7wefrZgs7Xm.jpg",
-      "description": "A visual poem exploring the beauty of Henna, a tradition shared by women of many cultures and religions across the Middle East, Africa, and Asia.",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tt21860836",
-      "type": "movie",
-      "name": "Obi-Wan Kenobi: Sự Trở Lại Của Jedi",
-      "poster": "https://image.tmdb.org/t/p/w500/vQGgvXjoMZf8x1m3BHsMxVXPyck.jpg",
-      "description": "This special explores the return of Obi-Wan Kenobi and Anakin Skywalker to the screen, as well as Ewan McGregor and Hayden Christensen to their classic roles. Director Deborah Chow leads the cast and crew as they create new heroes and villains that live alongside new incarnations of beloved Star Wars characters, and an epic story that dramatically bridges the saga films.",
-      "releaseInfo": "2022",
-      "imdbRating": "7.3"
-    },
-    {
-      "id": "tt3025958",
-      "type": "movie",
-      "name": "L'intranquille",
-      "poster": "https://live.metahub.space/poster/small/tt3025958/img",
-      "description": "Earth-shattering events are relatively par for the course in Lebanon, with war, political upheaval and a number of social revolts. While the Lebanese focus on surface level events that could rock the nation, few realize that below the ground we walk on, an actual shattering of the earth is mounting. Lebanon stands on several major fault lines, which are cracks in the earth's crust. The film investigates the geological situation in Lebanon, trying to look for the traces of the imminent disaster.",
-      "releaseInfo": "2013",
-      "imdbRating": "5.6"
-    },
-    {
-      "id": "tt40792117",
-      "type": "movie",
-      "name": "Vụ đụng xe thảm khốc",
-      "poster": "https://image.tmdb.org/t/p/w500/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg",
-      "description": "Thiếu nữ nọ lao xe vào một tòa nhà, khiến bạn trai và bạn của anh thiệt mạng. Tưởng chỉ là tai nạn thương tâm, nhưng hóa ra lại là một vụ án mạng trong bộ phim tài liệu này.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.7"
-    },
-    {
-      "id": "tt16245004",
-      "type": "movie",
-      "name": "How the Titanic became my lifeboat",
-      "poster": "https://image.tmdb.org/t/p/w500/AswmbK0NokW3nsiv3IwRk5FmLP.jpg",
-      "description": "The film is based on a true story about an Icelandic boy called Brynjar Karl. The film explores those possibilities with Brynjar and other young people who share their experiences being on the autism spectrum and how their talent elevated them.",
+      "name": "Living Worlds",
+      "poster": "https://image.tmdb.org/t/p/w500/uhsfPO7F83OTKeZEn3o5rMyiafq.jpg",
+      "description": "What forms might life take in the Solar System and beyond? In the Academy's newest original planetarium show, see how a deeper understanding of Earth might help us locate other living worlds, light years away.",
       "releaseInfo": "2021"
-    },
-    {
-      "id": "tt11989890",
-      "type": "movie",
-      "name": "David Attenborough: Một Cuộc Đời Trên Trái Đất",
-      "poster": "https://image.tmdb.org/t/p/w500/zSKwyUDKDHiFU5syTTvQRDcGBPS.jpg",
-      "description": "Phát thanh viên kể lại cuộc đời mình và cả lịch sử tiến hóa của sự sống trên Trái Đất. Qua đó, ông xót xa trước thiệt hại về thiên nhiên và phác họa viễn cảnh tương lai.",
-      "releaseInfo": "2020",
-      "imdbRating": "8.9"
-    },
-    {
-      "id": "tt2069952",
-      "type": "movie",
-      "name": "The Light of the Golden Sun",
-      "poster": "https://image.tmdb.org/t/p/w500/2egCBS4ZBO1B1EvN2gS85sMDf2q.jpg",
-      "description": "More than 50 years ago, the Tibetan Bon Buddhist tradition was driven from its refuge deep within the Himalayas. This is the story of the long and difficult journey that followed. Told through the lens of one Bon teacher born in exile -- Tenzin Wangyal Rinpoche -- this film reveals something very precious and very old: a rich spiritual heritage, hidden for millennia, whose secret teachings are only now becoming known to the world. There may be no unbroken spiritual tradition more ancient than Bon, which traces its beginnings to a buddha who predates Shakyamuni by thousands of years. Yet this tradition today may be facing its greatest challenge thus far: to preserve its rich heritage beyond the land of its birth.",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt0088178",
-      "type": "movie",
-      "name": "Stop Making Sense",
-      "poster": "https://image.tmdb.org/t/p/w500/utNpurUe1MMjEaHqvpkfxgfpSnV.jpg",
-      "description": "A concert film documenting Talking Heads at the height of their popularity, on tour for their 1983 album \"Speaking in Tongues.\" The band takes the stage one by one and is joined by a cadre of guest musicians for a career-spanning and cinematic performance that features creative choreography and visuals.",
-      "releaseInfo": "1984",
-      "imdbRating": "8.7"
-    },
-    {
-      "id": "tt39367709",
-      "type": "movie",
-      "name": "The Ascent",
-      "poster": "https://image.tmdb.org/t/p/w500/gRajJYjsZsGjdUjHsdg7CfPghZp.jpg",
-      "description": "The inspiring true story of bilateral-amputee climber Mandy Horvath's record-breaking attempt to crawl to the summit of Mt. Kilimanjaro and the mysterious circumstances under which she lost her legs at the age of 21.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt43700441",
-      "type": "movie",
-      "name": "Untold Raygun: Breaking Badly",
-      "poster": "https://image.tmdb.org/t/p/w500/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
-      "description": "Nobody, least of all Rachael Gunn, expected to be an Olympian. But as Raygun’s performance at the 2024 Paris Olympics went viral overnight, so did an avalanche of memes, misinformation, and conspiracy theories questioning how she ever got there.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.3"
-    },
-    {
-      "id": "tt14550688",
-      "type": "movie",
-      "name": "Dear Hacker",
-      "poster": "https://image.tmdb.org/t/p/w500/2Mc7d1U8sVTq5aJJFFiz6OD5x7O.jpg",
-      "description": "The LED on my webcam started flashing for no reason. Is it possible that an observer, a hacker, a friend or ghost is currently housed in my webcam? I embark on a series of video-calls to find out what this elusive entity wants with me.",
-      "releaseInfo": "2021",
-      "imdbRating": "5.6"
-    },
-    {
-      "id": "tt39162904",
-      "type": "movie",
-      "name": "Nữ Hoàng Cờ Vua",
-      "poster": "https://image.tmdb.org/t/p/w500/ag5TZNcK3vHdCCpZIY8syjwzgfr.jpg",
-      "description": "Trong bộ phim tài liệu này, thiên tài cờ vua Judit Polgár đối mặt với sự hoài nghi, định kiến giới và nhà vô địch Garry Kasparov để khẳng định vị thế giữa những kỳ thủ vĩ đại nhất.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt3313396",
-      "type": "movie",
-      "name": "Hätäkutsu",
-      "poster": "https://live.metahub.space/poster/small/tt3313396/img",
-      "description": "Being human is a fragile and fleeting opportunity to experience life and the universe around us. In the face of overwhelming darkness all we can do is to rely on and find solace in one another. The film is based on authentic emergency calls and radio traffic.",
-      "releaseInfo": "2013",
-      "imdbRating": "7.3"
-    },
-    {
-      "id": "tt36725204",
-      "type": "movie",
-      "name": "Decolonising the Curatorial Process",
-      "poster": "https://image.tmdb.org/t/p/w500/sKdKVJaenRvXT4iUjTjd9Iiw5jG.jpg",
-      "description": "Decolonising the Curatorial Process is a forty-minute documentary which explores decolonial strategies in an academic and curatorial context. The film features academics, activists and practitioners, and contains case studies of institutions that are deploying critical, self-reflective forms of curatorial practice. The Museum of London Docklands exhibition on slavery and the sugar industry is examined as an example of how an institution can decolonise the curatorial process, utilise the work of artists in a museum context, and critically examine East London's imperial history. The Pitt Rivers museum in Oxford, who are working with Maasai activists from Kenya and Tanzania on a project centred on repatriating the museum's collection of sacred Maasai artefacts, also features in the film.",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt11466222",
-      "type": "movie",
-      "name": "Jackass: Mãi Mãi Những Trò Dại",
-      "poster": "https://image.tmdb.org/t/p/w500/gU4js5fjwBabuQiOzqvRYZlakKa.jpg",
-      "description": "Kẻ liều lĩnh khó đoán Johnny Knoxville tái xuất cùng những người bạn cũ và mới để tham gia hàng loạt pha hành động nguy hiểm kỳ lạ cũng như vô vàn trò lố bịch hài hước khác.",
-      "releaseInfo": "2022",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt5868910",
-      "type": "movie",
-      "name": "Perfect",
-      "poster": "https://image.tmdb.org/t/p/w500/pRGU3YsLmA8pLB08oDDMVABbNX9.jpg",
-      "description": "Perfect follows the Canadian synchronized swimming team beyond the beauty, to the brawn it takes to qualify for Rio 2016.",
-      "releaseInfo": "2016",
-      "imdbRating": "6.7"
-    },
-    {
-      "id": "tt6856240",
-      "type": "movie",
-      "name": "Finding Maawirrangga",
-      "poster": "https://image.tmdb.org/t/p/w500/s1qRmfplh3TJAZvEyDpvWG69yk8.jpg",
-      "description": "Tom E Lewis knows he must die with all of his Songs. After years of haunting silence, he returns to his Grandmothers’ country to seek the permission of the Jungayi (Lawmen) to learn Thumbul corroboree (Morning Star). With the family’s blessing through ceremony, the spirits, stars and ancestors help Tom prepare to find the mysterious Sandy Island of Maawirrangga by singing.",
-      "releaseInfo": "2017"
     },
     {
       "id": "tt1478841",
@@ -589,29 +446,83 @@
       "imdbRating": "7.6"
     },
     {
-      "id": "tt5932394",
+      "id": "tt21860836",
       "type": "movie",
-      "name": "Zen World",
-      "poster": "https://image.tmdb.org/t/p/w500/ffnAfXbX5TGWcoMOKIuftZo9TVi.jpg",
-      "description": "Journey inside one of the world's most unique gatherings. Discover how an entire community of gatherers from around the world find peace and love through live music, art and performance.",
-      "releaseInfo": "2016"
+      "name": "Obi-Wan Kenobi: Sự Trở Lại Của Jedi",
+      "poster": "https://image.tmdb.org/t/p/w500/vQGgvXjoMZf8x1m3BHsMxVXPyck.jpg",
+      "description": "This special explores the return of Obi-Wan Kenobi and Anakin Skywalker to the screen, as well as Ewan McGregor and Hayden Christensen to their classic roles. Director Deborah Chow leads the cast and crew as they create new heroes and villains that live alongside new incarnations of beloved Star Wars characters, and an epic story that dramatically bridges the saga films.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.3"
     },
     {
-      "id": "tt28265926",
+      "id": "tt41368989",
       "type": "movie",
-      "name": "Skip Recap",
-      "poster": "https://image.tmdb.org/t/p/w500/llbdAejRUVsrEMdTGgF4JuPTFVA.jpg",
-      "description": "A trans person re-visits home videos from the mid-noughties for a lark.",
-      "releaseInfo": "2023"
+      "name": "Finding Harry: The Craft Behind the Magic",
+      "poster": "https://image.tmdb.org/t/p/w500/aq8jKIfASiOR6wz9FCeeCH90xZq.jpg",
+      "description": "Featuring interviews from members of the casting, production design, costume design, and creature effects teams, follow the behind-the-scenes journey of bringing the Harry Potter books to the small screen. Find out how the new Golden Trio were found, and celebrate the commitment to detail of the artists, craftspeople, and technicians who have come together to bring the wizarding world to life.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.9"
     },
     {
-      "id": "tt0104923",
+      "id": "tt4461838",
       "type": "movie",
-      "name": "Mountain Gorilla",
-      "poster": "https://image.tmdb.org/t/p/w500/kdSKo73EjKFKESR3RHCaQDpqLfR.jpg",
-      "description": "Mountain Gorilla takes us to a remote range of volcanic mountains in Africa, described by those who have been there as \"\"one of the most beautiful places in the world\"\", and home to the few hundred remaining mountain gorillas. In spending a day with a gorilla family in the mountain forest, audiences will be captivated by these intelligent and curious animals, as they eat, sleep, play and interact with each other. Although gorillas have been much-maligned in our popular culture, viewers will finally \"\"meet the legend\"\" face to face, and learn about their uncertain future.",
-      "releaseInfo": "1992",
-      "imdbRating": "6.6"
+      "name": "X-Rated: The Greatest Adult Movies of All Time",
+      "poster": "https://image.tmdb.org/t/p/w500/uYzHkzZPp84B7nHOKaJZWjyGFUL.jpg",
+      "description": "The evolution of adult cinema through the most influential films in history, a journey that begins in the 1970s and ends nowadays. An in-depth analysis of the success of the most prestigious erotic films, their impact on industry and society, and their influence on cinema and contemporary culture.",
+      "releaseInfo": "2015",
+      "imdbRating": "5.6"
+    },
+    {
+      "id": "tt10724344",
+      "type": "movie",
+      "name": "Indetermediate Movie",
+      "poster": "https://image.tmdb.org/t/p/w500/adO9zEeAB4XjhRYmvYDgaqaFGyO.jpg",
+      "description": "Fluxfilm No. 33 by Milan Knízák",
+      "releaseInfo": "1966"
+    },
+    {
+      "id": "tt43700441",
+      "type": "movie",
+      "name": "Untold Raygun: Breaking Badly",
+      "poster": "https://image.tmdb.org/t/p/w500/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+      "description": "Nobody, least of all Rachael Gunn, expected to be an Olympian. But as Raygun’s performance at the 2024 Paris Olympics went viral overnight, so did an avalanche of memes, misinformation, and conspiracy theories questioning how she ever got there.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.3"
+    },
+    {
+      "id": "tt11989890",
+      "type": "movie",
+      "name": "David Attenborough: Một Cuộc Đời Trên Trái Đất",
+      "poster": "https://image.tmdb.org/t/p/w500/zSKwyUDKDHiFU5syTTvQRDcGBPS.jpg",
+      "description": "Phát thanh viên kể lại cuộc đời mình và cả lịch sử tiến hóa của sự sống trên Trái Đất. Qua đó, ông xót xa trước thiệt hại về thiên nhiên và phác họa viễn cảnh tương lai.",
+      "releaseInfo": "2020",
+      "imdbRating": "8.9"
+    },
+    {
+      "id": "tt39382052",
+      "type": "movie",
+      "name": "Marty, cuộc đời ngắn lắm",
+      "poster": "https://image.tmdb.org/t/p/w500/5u8r3iMUVeVejv8G2PrRvlTbogC.jpg",
+      "description": "Martin Short nhìn lại cuộc đời ngập tràn niềm vui qua bộ phim tài liệu với những đoạn clip kinh điển, các cuộc phỏng vấn mới và thước phim gia đình chưa công bố có dàn sao góp mặt.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt5868910",
+      "type": "movie",
+      "name": "Perfect",
+      "poster": "https://image.tmdb.org/t/p/w500/pRGU3YsLmA8pLB08oDDMVABbNX9.jpg",
+      "description": "Perfect follows the Canadian synchronized swimming team beyond the beauty, to the brawn it takes to qualify for Rio 2016.",
+      "releaseInfo": "2016",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt3313396",
+      "type": "movie",
+      "name": "Hätäkutsu",
+      "poster": "https://live.metahub.space/poster/small/tt3313396/img",
+      "description": "Being human is a fragile and fleeting opportunity to experience life and the universe around us. In the face of overwhelming darkness all we can do is to rely on and find solace in one another. The film is based on authentic emergency calls and radio traffic.",
+      "releaseInfo": "2013",
+      "imdbRating": "7.3"
     },
     {
       "id": "tt39847629",
@@ -623,221 +534,83 @@
       "imdbRating": "7.0"
     },
     {
-      "id": "tt6211764",
+      "id": "tt0088178",
       "type": "movie",
-      "name": "XXXXXXX",
-      "poster": "https://image.tmdb.org/t/p/w500/vHwkMU0gKTDlg5A5kdgvcwKLtP3.jpg",
-      "description": "A tarot card reading as a starting point.  A disruptive relationship as a point.  Translation of the cards' symbols to a joint.\r Of the domestic exploration for finding my voice.",
-      "releaseInfo": "2016",
-      "imdbRating": "7.7"
+      "name": "Stop Making Sense",
+      "poster": "https://image.tmdb.org/t/p/w500/utNpurUe1MMjEaHqvpkfxgfpSnV.jpg",
+      "description": "A concert film documenting Talking Heads at the height of their popularity, on tour for their 1983 album \"Speaking in Tongues.\" The band takes the stage one by one and is joined by a cadre of guest musicians for a career-spanning and cinematic performance that features creative choreography and visuals.",
+      "releaseInfo": "1984",
+      "imdbRating": "8.7"
     },
     {
-      "id": "tt11615290",
+      "id": "tt0220678",
       "type": "movie",
-      "name": "Hồi Ức Beastie Boys - Beastie Boys Story",
-      "poster": "https://image.tmdb.org/t/p/w500/vlgI9wzsOAGY3hR5ij3klXIS6cE.jpg",
-      "description": "Đây là câu chuyện nhỏ họ sắp kể... Mike Diamond và Adam Horovitz chia sẻ về ban nhạc và tình bạn 40 năm của họ trong phim tài liệu lưu diễn được đạo diễn bởi người bạn, người cộng tác và ông nội trước đây của họ, Spike Jonze.",
-      "releaseInfo": "2020",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt36590218",
-      "type": "movie",
-      "name": "Yanuni",
-      "poster": "https://image.tmdb.org/t/p/w500/toz4Yglz79bGmAJK8JOzZjF2F1A.jpg",
-      "description": "Indigenous chief Juma Xipaia fights to protect tribal lands despite assassination attempts. Her struggle intensifies after learning she's pregnant, while her husband, Special Forces ranger Hugo Loss, stands by her side.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt43683795",
-      "type": "movie",
-      "name": "Euphoria: A Look Back",
-      "poster": "https://image.tmdb.org/t/p/w500/1us6iYG7P600BgSdwjb6mFYCP97.jpg",
-      "description": "The cast and crew of HBO's Euphoria take an exclusive look back at the critically acclaimed series' origins, evolution, and influences.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt9617716",
-      "type": "movie",
-      "name": "Everybody’s Everything",
-      "poster": "https://image.tmdb.org/t/p/w500/wbMkjkNX8VylPVLmQ2Dp6i5iayY.jpg",
-      "description": "The story of artist Lil Peep from his birth in Long Island and meteoric rise as a genre blending pop star & style icon, to his death due to an accidental opioid overdose in Arizona at just 21 years of age.",
-      "releaseInfo": "2019",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt0479765",
-      "type": "movie",
-      "name": "Tiger!",
-      "poster": "https://image.tmdb.org/t/p/w500/jYsh6arUv9HjPT8ZC8ZZpwbcAwY.jpg",
-      "description": "Tiger! is a compelling story about a wrestling legend who turned 60 in 2004. For most people this would be seen as a good time to retire on a 100 acre property. Tiger chooses instead to take on 36 year old Japanese Judo champion Naoya Ogawa.  ‘Tiger!' is a riveting story with a nail-biting climax.",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt4353380",
-      "type": "movie",
-      "name": "Narnia's Lost Poet: The Secret Lives and Loves of C.S. Lewis",
-      "poster": "https://image.tmdb.org/t/p/w500/oaQnwhUlbdQGGn22Gap8p3w6pIk.jpg",
-      "description": "C.S. Lewis's biographer A.N. Wilson goes in search of the man behind Narnia, a highly secretive man whose personal life was marked by the loss of the three women he most loved.",
-      "releaseInfo": "2013",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt20101594",
-      "type": "movie",
-      "name": "Universe Designed",
-      "poster": "https://image.tmdb.org/t/p/w500/5ZwtApFloy9gY8ui2raBQDg3CfJ.jpg",
-      "description": "\"Universe Designed\" is a documentary that explores some of the evidences for God's existence with interviews from some of the world's top Christian apologists.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt5723550",
-      "type": "movie",
-      "name": "INAATE/SE/",
-      "poster": "https://image.tmdb.org/t/p/w500/iN66WVVEHyCJ6Yxfu5i82NZCRhI.jpg",
-      "description": "INAATE/SE/ re-imagines an ancient Ojibway story, the Seven Fires Prophecy, which both predates and predicts first contact with Europeans. A kaleidoscopic experience blending documentary, narrative, and experimental forms, INAATE/SE/ transcends linear colonized history to explore how the prophecy resonates through the generations in their indigenous community within Michigan’s Upper Peninsula. With acute geographic specificity, and grand historical scope, the film fixes its lens between the sacred and the profane to pry open the construction of contemporary indigenous identity.",
-      "releaseInfo": "2016",
+      "name": "Old Man River",
+      "poster": "https://image.tmdb.org/t/p/w500/vDbupeLKRpeMhOJNLVmXIPu2xSS.jpg",
+      "description": "Documentary film version of the stage show in which actress Cynthia Gates Fujikawa explores the story of her father, actor Jerry Fujikawa, who had a long career in films and television, most often as a stereotyped Asian. The daughter, in the course of searching out her late father's history, discovers many things that she had not known, among them that her father had spent time in Manzanar, the internment camp for Japanese-Americans during World War II, that he had had a family prior to hers, and that somewhere out there was a sister she had never known existed.",
+      "releaseInfo": "1999",
       "imdbRating": "6.1"
     },
     {
-      "id": "tt35661231",
+      "id": "tt13648160",
       "type": "movie",
-      "name": "Aida Returns",
-      "poster": "https://image.tmdb.org/t/p/w500/hRL37Jelx3EcddqK4JC01YHzDkI.jpg",
-      "description": "A poignant, sometimes sad, sometimes painful, sometimes humorous, often absurd story of a multiple journey: the journey of loss as the director’s mother Aida struggled with losing herself to Alzheimer’s disease, but finding solace in her repeated “returning” to the Yafa and Palestine of her youth; the journey of the loss of a parent; and the ultimate return journey back to Yafa where Aida would finally find rest and be herself once more.",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt32889884",
-      "type": "movie",
-      "name": "Freefall: A Reckoning for Boeing",
-      "poster": "https://image.tmdb.org/t/p/w500/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
-      "description": "Following the highly publicized death of Boeing whistleblower John Barnett, the investigation continues into the once-iconic aviation giant, uncovering startling new revelations and insider accounts in the wake of a deepening corporate crisis..",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt2285759",
-      "type": "movie",
-      "name": "Våga minnas",
-      "poster": "https://image.tmdb.org/t/p/w500/8FQCOwHkDBQEe1aJxjYFymgMWzM.jpg",
-      "description": "\"It's been 25 years and there is so little I remember. I can not remember the police investigation and I can not remember the trial. I have never talked to my parents about the rape, but it is always there anyway. \"  Dare Remember is an exceptionally brave documentary film that put words to what has been hushed. About meeting what you prefer to forget.  A movie about moving forward.",
-      "releaseInfo": "2012",
-      "imdbRating": "6.0"
-    },
-    {
-      "id": "tt0800312",
-      "type": "movie",
-      "name": "Betelnut Bisnis",
-      "poster": "https://live.metahub.space/poster/small/tt0800312/img",
-      "description": "In the Highlands of Papua New Guinea, a grassroots family makes a precarious living by trading in betelnut, one of the world's most widely used narcotics. This is the story of resilient people who have few material possessions but who face each day with dignity and quiet determination. As they go about their daily work, the film presents us with a vivid portrait of present-day life in Papua New Guinea.",
-      "releaseInfo": "2004",
-      "imdbRating": "6.9"
-    },
-    {
-      "id": "tt11697672",
-      "type": "movie",
-      "name": "Strength Wars",
-      "poster": "https://image.tmdb.org/t/p/w500/q0sg86tyxRzI8SaMOdPVnIAXB6q.jpg",
-      "description": "Strength Wars: The Movie follows the lives of eight athletes preparing for the ultimate strength competition. The prize? To be labeled the strongest man in the world. Putting two different types of athletes against each other, Strength Wars is the ultimate proving ground to test any given athlete's true strength. Eight athletes. Eight athletic disciplines. One winner. The film highlights eight men from across the globe including Larry Wheels, Terron Beckham, Blaine Sumner, NDO Champ, Big Neechi, Jerry Pritchett, Anabolic Horse, and Leonidas Arkona. Welcome to Strength Wars. May the best man win.",
+      "name": "Try Harder!",
+      "poster": "https://image.tmdb.org/t/p/w500/2qEFbQZKNiVVOFYCgZQW9H2LGT2.jpg",
+      "description": "In a universe where cool kids are nerds, the orchestra is world class and being Asian American is the norm, seniors at Lowell High School compete for the top prize: admission to the college of their dreams.",
       "releaseInfo": "2021",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt7715230",
-      "type": "movie",
-      "name": "Synthetic Overture",
-      "poster": "https://live.metahub.space/poster/small/tt7715230/img",
-      "description": "A group of young people address their smartphone addiction and the isolation of online validation.",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt44933944",
-      "type": "movie",
-      "name": "The Row",
-      "poster": "https://live.metahub.space/poster/small/tt44933944/img",
-      "description": "Haunted by personal tragedy, Tez Steinberg embarks on a solo 9,000-mile crossing of the Pacific Ocean, battling towering swells, isolation, and the psychological toll of months alone at sea."
-    },
-    {
-      "id": "tt1823167",
-      "type": "movie",
-      "name": "Music Camp",
-      "poster": "https://live.metahub.space/poster/small/tt1823167/img",
-      "description": "This year the Musica Viva Festival will feature content from the NFSA's Film Australia Collection to be screened in the Bang & Olufsen Salon throughout the festival in Sydney. This film Music Camp is one of those films.  Directed by R. Maslyn Williams for the National Film Board in 1949. Each year the Melbourne Junior Symphony Concert Orchestra holds a summer camp organised by the National Fitness Council at Point Lonsdale Victoria, for three weeks it provides an opportunity for music students to continue their education over the holiday season.",
-      "releaseInfo": "1949"
-    },
-    {
-      "id": "tt20246188",
-      "type": "movie",
-      "name": "Waves Apart",
-      "poster": "https://image.tmdb.org/t/p/w500/8VJ7N6W3pnEQxSY1ZMVEGjtFg4e.jpg",
-      "description": "A Jewish surfer confronts the dark, anti-semitic history of the sport he once found solace in.",
-      "releaseInfo": "2022",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt12485312",
-      "type": "movie",
-      "name": "Parallel Lives",
-      "poster": "https://image.tmdb.org/t/p/w500/jsTyylYBxxSkdV9p1WPNO9ZS4ju.jpg",
-      "description": "Born June 8, 1964, Frank Matter films four \"twins\", born the same day as him, but in other latitudes. Interweaving their  life stories with rich archival material, the filmmaker links these Parallel Lives with elements from his own biography, to compose a fascinating fresco where intimate trajectories are part of the advent of the global village.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.8"
-    },
-    {
-      "id": "tt19853258",
-      "type": "movie",
-      "name": "BẤT BIẾN: Một Bộ Phim Về Michael J. Fox - STILL: A Michael J. Fox Movie",
-      "poster": "https://image.tmdb.org/t/p/w500/f4lJrmr2gEQky1Vw4xJY6XkxuC4.jpg",
-      "description": "Một đứa trẻ lùn từ căn cứ quân đội Canada trở thành con cưng của nền văn hóa đại chúng quốc tế những năm 1980 - chỉ để rồi nhận ra rằng cuộc đời mình bị thay đổi bởi một chẩn đoán choáng váng. Điều gì xảy ra khi một người lạc quan không thể cứu chữa phải đối mặt với căn bệnh nan y?",
-      "releaseInfo": "2023",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt44709899",
-      "type": "movie",
-      "name": "Love?",
-      "poster": "https://image.tmdb.org/t/p/w500/yD1m03l9SsXrjQkJJAIs7s9xeot.jpg",
-      "description": "A documentary about love. Filmed in Sicily, Italy. Filmmaker Boston B. interviews three people from around the world, Mexico, Ireland, and Italy, to see where they stand with love and how it affects them, from the magical to the grounded. He asks three questions: do you believe in true love, love at first sight, and the idea of \"the one\".",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt22695080",
-      "type": "movie",
-      "name": "Encanto tại Hollywood Bowl",
-      "poster": "https://image.tmdb.org/t/p/w500/sa3Ku5yNVjp8NloWxJoI9dQjvOi.jpg",
-      "description": "Step into Casa Madrigal for a special concert spectacular as the original voice cast of Disney Animation's Oscar®-winning \"Encanto,\" Stephanie Beatriz, Adassa, Carolina Gaitán, Jessica Darrow, Diane Guerrero, Mauro Castillo, Angie Cepeda and Olga Merediz, along with special guests including Colombian superstar Carlos Vives, reunites for \"Encanto at the Hollywood Bowl.\" This unprecedented concert experience gives you a front-row seat to the musical extravaganza celebrating the global phenomenon.",
-      "releaseInfo": "2022",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt5246586",
-      "type": "movie",
-      "name": "Wake (Subic)",
-      "poster": "https://image.tmdb.org/t/p/w500/uPPsHBPqFz6eTHG1fGkYw9oDP7U.jpg",
-      "description": "First begun in 2006, WAKE (SUBIC) completes the documentary diptych, FOR EXAMPLE, THE PHILIPPINES, the ﬁrst part of which, VAPOR TRAIL (CLARK) was released in 2010. Collectively this nine-hour essay explores circumstances of toxic contamination around the former US military bases in the Philippines as the locus for a meditation on historical amnesia, colonial privilege, and the consequences of unchecked militarism. Interweaving both cinéma-vérité and interview footage of Filipino victims and their families, environmental spokespersons, and community activists, along with early photographic material pertaining to the Philippine-American War, partisan songs, historical texts, and landscape photography, both ﬁlms are an attempt to construct a work capable of rendering some measure of this human and environmental tragedy and the complexities of its remedy.",
-      "releaseInfo": "2015",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt1477715",
-      "type": "movie",
-      "name": "Michael Jackson: Đó Là Anh",
-      "poster": "https://image.tmdb.org/t/p/w500/4ryfHprssHzSCDLCjgh3KttD0j6.jpg",
-      "description": "A compilation of interviews, rehearsals and backstage footage of Michael Jackson as he prepared for his series of sold-out shows in London.",
-      "releaseInfo": "2009",
       "imdbRating": "7.2"
     },
     {
-      "id": "tt0379557",
+      "id": "tt34872408",
       "type": "movie",
-      "name": "Touching the Void",
-      "poster": "https://image.tmdb.org/t/p/w500/fsydA5H8FSDaYlYWddfMpMpDUX.jpg",
-      "description": "The true story of Joe Simpson and Simon Yates' disastrous and nearly-fatal mountain climb of 6,344m Siula Grande in the Cordillera Huayhuash in the Peruvian Andes in 1985.",
-      "releaseInfo": "2003",
-      "imdbRating": "7.9"
+      "name": "Googie",
+      "poster": "https://image.tmdb.org/t/p/w500/wX0hj5ITMdLSrCVQUtjoBBkHwZm.jpg",
+      "description": "Googie architecture was one of the most visually exuberant and culturally formative design movements of the mid-20th century, yet it remains widely misunderstood. Defined by bold angles, sweeping rooflines, neon signage, and a sense of space-age optimism, Googie transformed everyday buildings into roadside spectacle. Coffee shops, bowling alleys, car washes, banks, and churches were designed not just for function, but to captivate motorists cruising by.  Rooted in Los Angeles, the movement drew inspiration from visionary architects such as Frank Lloyd Wright and John Lautner, while firms like Armet & Davis brought futuristic flair to the commercial landscape. Though many original structures have been lost, preservationists now champion Googie as a serious architectural expression—one that captured the aspirations of postwar America and reshaped the visual identity of the modern city.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt43619305",
+      "type": "movie",
+      "name": "A Toxic Love Story",
+      "poster": "https://image.tmdb.org/t/p/w500/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+      "description": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt41777258",
+      "type": "movie",
+      "name": "Jamie Vardy",
+      "poster": "https://image.tmdb.org/t/p/w500/d0pODTh6FOwn87iOeXGb7nKOdNT.jpg",
+      "description": "From part-time footballer to Premier League legend, this is the story of Jamie Vardy's unprecedented path and his rise to the top against all odds.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt11466222",
+      "type": "movie",
+      "name": "Jackass: Mãi Mãi Những Trò Dại",
+      "poster": "https://image.tmdb.org/t/p/w500/gU4js5fjwBabuQiOzqvRYZlakKa.jpg",
+      "description": "Kẻ liều lĩnh khó đoán Johnny Knoxville tái xuất cùng những người bạn cũ và mới để tham gia hàng loạt pha hành động nguy hiểm kỳ lạ cũng như vô vàn trò lố bịch hài hước khác.",
+      "releaseInfo": "2022",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0322802",
+      "type": "movie",
+      "name": "Jackass",
+      "poster": "https://image.tmdb.org/t/p/w500/9Rb659hvGfmef1xm0mMvDHEBqmf.jpg",
+      "description": "Johnny Knoxville and his band of maniacs perform a variety of stunts and gross-out gags on the big screen for the first time. They wander around Japan in panda outfits, wreak havoc on a once civilized golf course, they even do stunts involving LIVE alligators, and so on.",
+      "releaseInfo": "2002",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt2586958",
+      "type": "movie",
+      "name": "The Lost Supper",
+      "poster": "https://image.tmdb.org/t/p/w500/6h5tdUclvYQoXdYlw4Tn2VnKRWE.jpg",
+      "description": "This rare film tells the strange, disquieting and protracted story of the restoration of Leonardo da Vinci’s famous masterpiece, The Last Supper.  Some say the results of the restoration are glorious. Others have called them tragic.  Da Vinci’s famously fragile fresco was always going to be a challenge for its secretive Italian restorers. No one, however, could have foreseen how problematic and strange their task would become. Marked by a series of extraordinary mishaps, mistakes, and miscalculations, the incredible restoration is hilarious to watch but may have resulted in the loss of a masterpiece.",
+      "releaseInfo": "1998"
     },
     {
       "id": "tt39018643",
@@ -849,13 +622,22 @@
       "imdbRating": "4.5"
     },
     {
-      "id": "tt0323963",
+      "id": "tt1986938",
       "type": "movie",
-      "name": "Shore Things",
-      "poster": "https://image.tmdb.org/t/p/w500/fzQb00cvp6sWjmXRlfr8FFckpDW.jpg",
-      "description": "People love going to the beach for lots of different reasons. The sun. The sand. The salt-water taffy. In this slightly wacky documentary, we consider all kinds of things that draw people to the coast: board walks, seafood, lifeguards, even metal-detectors and roller skates. From Nantucket to Venice Beach, people relax and bounce in the waves. From the Outer Banks to Oahu, beachgoers bring along their fishing gear and hope to catch some dinner.",
-      "releaseInfo": "1996",
-      "imdbRating": "6.7"
+      "name": "Revolution",
+      "poster": "https://image.tmdb.org/t/p/w500/3YH4FGxPq7NqMPTN9DxFs9Akq8C.jpg",
+      "description": "REVOLUTION is a film about changing the world, going for it, taking a stand, and fighting for something. A true-life adventure following Director, Rob Stewart (SHARKWATER) over four years and 15 countries discovering there is a lot more than sharks at risk of becoming extinct. Climate change, environmental degradation, species loss, ocean acidification, pollution, and food/water scarcity are reducing the earth's ability to house humans and we need to start doing something about it now!",
+      "releaseInfo": "2012",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt1400319",
+      "type": "movie",
+      "name": "All Our Variant Futures",
+      "poster": "https://image.tmdb.org/t/p/w500/ky2EGqwysaCXp0tXitCdrXmEVqV.jpg",
+      "description": "A look at the restoration of Ridley Scott's Blade Runner (1982) and the creation of its final cut, including the tweaking and/or erasing of some of the original's beloved goofs.",
+      "releaseInfo": "2007",
+      "imdbRating": "7.5"
     },
     {
       "id": "tt33022710",
@@ -865,6 +647,231 @@
       "description": "David Attenborough takes viewers on a breathtaking journey showing there is nowhere more vital for our survival, more full of life, wonder, or surprise, than the ocean. Through spectacular sequences featuring coral reefs, kelp forests and the open ocean, Attenborough shares why a healthy ocean keeps the entire planet stable and flourishing.",
       "releaseInfo": "2025",
       "imdbRating": "8.5"
+    },
+    {
+      "id": "tt11615290",
+      "type": "movie",
+      "name": "Hồi Ức Beastie Boys - Beastie Boys Story",
+      "poster": "https://image.tmdb.org/t/p/w500/vlgI9wzsOAGY3hR5ij3klXIS6cE.jpg",
+      "description": "Đây là câu chuyện nhỏ họ sắp kể... Mike Diamond và Adam Horovitz chia sẻ về ban nhạc và tình bạn 40 năm của họ trong phim tài liệu lưu diễn được đạo diễn bởi người bạn, người cộng tác và ông nội trước đây của họ, Spike Jonze.",
+      "releaseInfo": "2020",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt39367709",
+      "type": "movie",
+      "name": "The Ascent",
+      "poster": "https://image.tmdb.org/t/p/w500/gRajJYjsZsGjdUjHsdg7CfPghZp.jpg",
+      "description": "The inspiring true story of bilateral-amputee climber Mandy Horvath's record-breaking attempt to crawl to the summit of Mt. Kilimanjaro and the mysterious circumstances under which she lost her legs at the age of 21.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt3025958",
+      "type": "movie",
+      "name": "L'intranquille",
+      "poster": "https://live.metahub.space/poster/small/tt3025958/img",
+      "description": "Earth-shattering events are relatively par for the course in Lebanon, with war, political upheaval and a number of social revolts. While the Lebanese focus on surface level events that could rock the nation, few realize that below the ground we walk on, an actual shattering of the earth is mounting. Lebanon stands on several major fault lines, which are cracks in the earth's crust. The film investigates the geological situation in Lebanon, trying to look for the traces of the imminent disaster.",
+      "releaseInfo": "2013",
+      "imdbRating": "5.6"
+    },
+    {
+      "id": "tt6038060",
+      "type": "movie",
+      "name": "Henna Splash",
+      "poster": "https://image.tmdb.org/t/p/w500/32zsM4nEmosfzb3l7wefrZgs7Xm.jpg",
+      "description": "A visual poem exploring the beauty of Henna, a tradition shared by women of many cultures and religions across the Middle East, Africa, and Asia.",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt1823167",
+      "type": "movie",
+      "name": "Music Camp",
+      "poster": "https://live.metahub.space/poster/small/tt1823167/img",
+      "description": "This year the Musica Viva Festival will feature content from the NFSA's Film Australia Collection to be screened in the Bang & Olufsen Salon throughout the festival in Sydney. This film Music Camp is one of those films.  Directed by R. Maslyn Williams for the National Film Board in 1949. Each year the Melbourne Junior Symphony Concert Orchestra holds a summer camp organised by the National Fitness Council at Point Lonsdale Victoria, for three weeks it provides an opportunity for music students to continue their education over the holiday season.",
+      "releaseInfo": "1949"
+    },
+    {
+      "id": "tt39226750",
+      "type": "movie",
+      "name": "Outspoken: Music for Free Speech",
+      "poster": "https://live.metahub.space/poster/small/tt39226750/img",
+      "description": "Take a seat with us at FIRE’s first-ever classical music concert in support of free expression: “Outspoken: Music for Free Speech.”  At the podium is conductor Rebecca Bryant Novak, a former doctoral student at the University of Rochester’s Eastman School of Music. Taking the stage for the first time since she was expelled without due process after speaking out about alleged harassment, Rebecca leads an all-volunteer orchestra in an unforgettable evening of music. Internationally acclaimed musicians, violinist Lara St. John and oboist Katherine Needleman, bring the stage to life with works by composers who themselves faced censorship, from Mozart to Shostakovich.  Between performances, FIRE staff and special guests reflect on why free expression is essential for artists, and for all of us.  The arts cannot thrive without free expression.  Thank you to everyone who made this night possible!",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0356514",
+      "type": "movie",
+      "name": "Death In Hollywood",
+      "poster": "https://image.tmdb.org/t/p/w500/zTUN7nSqWwylJ8JQPtd0NYLHPBH.jpg",
+      "description": "HOLLYWOOD. Tinseltown. Land of the stars. A city where an actor can reach the greatest heights overnight - and descend just as rapidly. What goes up must come down, and Hollywood's failing stars leave a legacy of sadness, pain and disappointment in their wake. Here, in graphic detail, are the shocking stories behind the deaths of the silver screen's most beloved celebrities, as well as it's lesser known players. Packed with stunning newsreel footage, and previously unrevealed facts, DEATH IN HOLLYWOOD documents many a celebrity's morbid demise due to suicide, drug and alcohol abuse, disease, and even murder. From the outrageous to the tragic, DEATH IN HOLLYWOOD leaves no tombstone unturned in it's quest to dig up the truth about Hollywood's dearly departed.",
+      "releaseInfo": "1990",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": "tt44942157",
+      "type": "movie",
+      "name": "Instadocs: The Decoy Plane",
+      "poster": "https://image.tmdb.org/t/p/w500/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg",
+      "description": "A critical threat. A clandestine escape. And a Turkish catering truck? With firsthand accounts, \"Instadocs\" digs into what happened aboard Air Force One.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.7"
+    },
+    {
+      "id": "tt11697672",
+      "type": "movie",
+      "name": "Strength Wars",
+      "poster": "https://image.tmdb.org/t/p/w500/q0sg86tyxRzI8SaMOdPVnIAXB6q.jpg",
+      "description": "Strength Wars: The Movie follows the lives of eight athletes preparing for the ultimate strength competition. The prize? To be labeled the strongest man in the world. Putting two different types of athletes against each other, Strength Wars is the ultimate proving ground to test any given athlete's true strength. Eight athletes. Eight athletic disciplines. One winner. The film highlights eight men from across the globe including Larry Wheels, Terron Beckham, Blaine Sumner, NDO Champ, Big Neechi, Jerry Pritchett, Anabolic Horse, and Leonidas Arkona. Welcome to Strength Wars. May the best man win.",
+      "releaseInfo": "2021",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0262076",
+      "type": "movie",
+      "name": "The Turandot Project",
+      "poster": "https://live.metahub.space/poster/small/tt0262076/img",
+      "description": "In 1997, Oscar-winning documentarian Allan Miller embarked on a film project with renowned conductor Zubin Mehta and celebrated Chinese film director Zhang Yimou  as they joined forces in a production of Puccini's opera Turandot in Florence. Before the year was out, an extraordinary opportunity arose: to stage Turandot in its original setting in the Forbidden City of Beijing. The outdoor production was an undertaking on an epic scale. A fascinating chronicle of an unprecedented cross-cultural collaboration, THE TURANDOT PROJECT combines the pageantry of this opulent opera production with a spectacular cinematic portrait of the struggles and triumphs of Zubin Mehta and Zhang Yimou to mount their production in this most historic venue of China. (Source: Amazon.com)",
+      "releaseInfo": "2000",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt19853258",
+      "type": "movie",
+      "name": "BẤT BIẾN: Một Bộ Phim Về Michael J. Fox - STILL: A Michael J. Fox Movie",
+      "poster": "https://image.tmdb.org/t/p/w500/f4lJrmr2gEQky1Vw4xJY6XkxuC4.jpg",
+      "description": "Một đứa trẻ lùn từ căn cứ quân đội Canada trở thành con cưng của nền văn hóa đại chúng quốc tế những năm 1980 - chỉ để rồi nhận ra rằng cuộc đời mình bị thay đổi bởi một chẩn đoán choáng váng. Điều gì xảy ra khi một người lạc quan không thể cứu chữa phải đối mặt với căn bệnh nan y?",
+      "releaseInfo": "2023",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt32889884",
+      "type": "movie",
+      "name": "Freefall: A Reckoning for Boeing",
+      "poster": "https://image.tmdb.org/t/p/w500/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
+      "description": "Following the highly publicized death of Boeing whistleblower John Barnett, the investigation continues into the once-iconic aviation giant, uncovering startling new revelations and insider accounts in the wake of a deepening corporate crisis..",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt39162904",
+      "type": "movie",
+      "name": "Nữ Hoàng Cờ Vua",
+      "poster": "https://image.tmdb.org/t/p/w500/ag5TZNcK3vHdCCpZIY8syjwzgfr.jpg",
+      "description": "Trong bộ phim tài liệu này, thiên tài cờ vua Judit Polgár đối mặt với sự hoài nghi, định kiến giới và nhà vô địch Garry Kasparov để khẳng định vị thế giữa những kỳ thủ vĩ đại nhất.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt6211764",
+      "type": "movie",
+      "name": "XXXXXXX",
+      "poster": "https://image.tmdb.org/t/p/w500/vHwkMU0gKTDlg5A5kdgvcwKLtP3.jpg",
+      "description": "A tarot card reading as a starting point.  A disruptive relationship as a point.  Translation of the cards' symbols to a joint.\r Of the domestic exploration for finding my voice.",
+      "releaseInfo": "2016",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt40792117",
+      "type": "movie",
+      "name": "Vụ đụng xe thảm khốc",
+      "poster": "https://image.tmdb.org/t/p/w500/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg",
+      "description": "Thiếu nữ nọ lao xe vào một tòa nhà, khiến bạn trai và bạn của anh thiệt mạng. Tưởng chỉ là tai nạn thương tâm, nhưng hóa ra lại là một vụ án mạng trong bộ phim tài liệu này.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt43683795",
+      "type": "movie",
+      "name": "Euphoria: A Look Back",
+      "poster": "https://image.tmdb.org/t/p/w500/1us6iYG7P600BgSdwjb6mFYCP97.jpg",
+      "description": "The cast and crew of HBO's Euphoria take an exclusive look back at the critically acclaimed series' origins, evolution, and influences.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt5246586",
+      "type": "movie",
+      "name": "Wake (Subic)",
+      "poster": "https://image.tmdb.org/t/p/w500/uPPsHBPqFz6eTHG1fGkYw9oDP7U.jpg",
+      "description": "First begun in 2006, WAKE (SUBIC) completes the documentary diptych, FOR EXAMPLE, THE PHILIPPINES, the ﬁrst part of which, VAPOR TRAIL (CLARK) was released in 2010. Collectively this nine-hour essay explores circumstances of toxic contamination around the former US military bases in the Philippines as the locus for a meditation on historical amnesia, colonial privilege, and the consequences of unchecked militarism. Interweaving both cinéma-vérité and interview footage of Filipino victims and their families, environmental spokespersons, and community activists, along with early photographic material pertaining to the Philippine-American War, partisan songs, historical texts, and landscape photography, both ﬁlms are an attempt to construct a work capable of rendering some measure of this human and environmental tragedy and the complexities of its remedy.",
+      "releaseInfo": "2015",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt39314348",
+      "type": "movie",
+      "name": "Câu chuyện khỉ đột: Qua lời kể của David Attenborough",
+      "poster": "https://image.tmdb.org/t/p/w500/5X6VyjG0YYMbJu94l6xEY2YQvss.jpg",
+      "description": "Nhà tự nhiên học kỳ cựu David Attenborough kể lại câu chuyện về một đàn khỉ đột đặc biệt, từ lần đầu ông gặp chúng vào thập niên 70 cho đến hiện tại.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt14550688",
+      "type": "movie",
+      "name": "Dear Hacker",
+      "poster": "https://image.tmdb.org/t/p/w500/2Mc7d1U8sVTq5aJJFFiz6OD5x7O.jpg",
+      "description": "The LED on my webcam started flashing for no reason. Is it possible that an observer, a hacker, a friend or ghost is currently housed in my webcam? I embark on a series of video-calls to find out what this elusive entity wants with me.",
+      "releaseInfo": "2021",
+      "imdbRating": "5.6"
+    },
+    {
+      "id": "tt6856240",
+      "type": "movie",
+      "name": "Finding Maawirrangga",
+      "poster": "https://image.tmdb.org/t/p/w500/s1qRmfplh3TJAZvEyDpvWG69yk8.jpg",
+      "description": "Tom E Lewis knows he must die with all of his Songs. After years of haunting silence, he returns to his Grandmothers’ country to seek the permission of the Jungayi (Lawmen) to learn Thumbul corroboree (Morning Star). With the family’s blessing through ceremony, the spirits, stars and ancestors help Tom prepare to find the mysterious Sandy Island of Maawirrangga by singing.",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt6627272",
+      "type": "movie",
+      "name": "Übermensch",
+      "poster": "https://image.tmdb.org/t/p/w500/fmH77UXvM8gjoOoVxY9ea6asdhQ.jpg",
+      "description": "Two transient young men break into an empty church by the sea to form a blood pact: to get rid of their childhood demons and escape the cycle of anxiety and authorities. “It’s not goth to be afraid of darkness”, they agree.",
+      "releaseInfo": "2017",
+      "imdbRating": "5.9"
+    },
+    {
+      "id": "tt33430223",
+      "type": "movie",
+      "name": "Under Fire",
+      "poster": "https://live.metahub.space/poster/small/tt33430223/img",
+      "description": "As a fire captain in Idaho, Rob has spent his life saving others. Now, with the help of an experimental therapy, he may just learn how to save himself."
+    },
+    {
+      "id": "tt5932394",
+      "type": "movie",
+      "name": "Zen World",
+      "poster": "https://image.tmdb.org/t/p/w500/ffnAfXbX5TGWcoMOKIuftZo9TVi.jpg",
+      "description": "Journey inside one of the world's most unique gatherings. Discover how an entire community of gatherers from around the world find peace and love through live music, art and performance.",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt0800312",
+      "type": "movie",
+      "name": "Betelnut Bisnis",
+      "poster": "https://live.metahub.space/poster/small/tt0800312/img",
+      "description": "In the Highlands of Papua New Guinea, a grassroots family makes a precarious living by trading in betelnut, one of the world's most widely used narcotics. This is the story of resilient people who have few material possessions but who face each day with dignity and quiet determination. As they go about their daily work, the film presents us with a vivid portrait of present-day life in Papua New Guinea.",
+      "releaseInfo": "2004",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt5723550",
+      "type": "movie",
+      "name": "INAATE/SE/",
+      "poster": "https://image.tmdb.org/t/p/w500/iN66WVVEHyCJ6Yxfu5i82NZCRhI.jpg",
+      "description": "INAATE/SE/ re-imagines an ancient Ojibway story, the Seven Fires Prophecy, which both predates and predicts first contact with Europeans. A kaleidoscopic experience blending documentary, narrative, and experimental forms, INAATE/SE/ transcends linear colonized history to explore how the prophecy resonates through the generations in their indigenous community within Michigan’s Upper Peninsula. With acute geographic specificity, and grand historical scope, the film fixes its lens between the sacred and the profane to pry open the construction of contemporary indigenous identity.",
+      "releaseInfo": "2016",
+      "imdbRating": "6.1"
+    },
+    {
+      "id": "tt0104923",
+      "type": "movie",
+      "name": "Mountain Gorilla",
+      "poster": "https://image.tmdb.org/t/p/w500/kdSKo73EjKFKESR3RHCaQDpqLfR.jpg",
+      "description": "Mountain Gorilla takes us to a remote range of volcanic mountains in Africa, described by those who have been there as \"\"one of the most beautiful places in the world\"\", and home to the few hundred remaining mountain gorillas. In spending a day with a gorilla family in the mountain forest, audiences will be captivated by these intelligent and curious animals, as they eat, sleep, play and interact with each other. Although gorillas have been much-maligned in our popular culture, viewers will finally \"\"meet the legend\"\" face to face, and learn about their uncertain future.",
+      "releaseInfo": "1992",
+      "imdbRating": "6.6"
     }
   ]
 }

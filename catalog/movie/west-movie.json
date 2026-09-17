@@ -1,6 +1,15 @@
 {
   "metas": [
     {
+      "id": "tt0331933",
+      "type": "movie",
+      "name": "Cảnh sát bảo vệ",
+      "poster": "https://phimimg.com/uploads/movies/20260917/canh-sat-bao-ve-poster.webp",
+      "description": "Sĩ quan Roland Sharp ở Texas bỗng phải đi học đại học khi được giao nhiệm vụ bảo vệ một đội cổ vũ đầy huyên náo của Đại học Texas.",
+      "releaseInfo": "2005",
+      "imdbRating": "5.5"
+    },
+    {
       "id": "tt4352408",
       "type": "movie",
       "name": "David Và Goliath",
@@ -210,8 +219,7 @@
       "name": "Những Lời Trăn Trối Nổi Tiếng: Gloria Steinem",
       "poster": "https://phimimg.com/uploads/movies/20260907/nhung-loi-tran-troi-noi-tieng-gloria-steinem-poster.webp",
       "description": "Trước khi qua đời, nhà hoạt động Gloria Steinem gửi gắm thông điệp chân thành cuối cùng đến thế giới, biết rằng buổi phỏng vấn này chỉ lên sóng sau khi bà đã ra đi.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.9"
+      "releaseInfo": "2026"
     },
     {
       "id": "tt28014327",
@@ -264,7 +272,8 @@
       "name": "Instadocs: Máy Bay Mồi Nhử",
       "poster": "https://phimimg.com/uploads/movies/20260905/instadocs-may-bay-moi-nhu-poster.webp",
       "description": "Mối đe dọa nghiêm trọng. Một cuộc trốn thoát bí mật. Và một chiếc xe đồ ăn Thổ Nhĩ Kỳ? Với lời kể trực tiếp, \"Instadocs\" sẽ làm rõ những gì đã xảy ra trên Không Lực Một.",
-      "releaseInfo": "2026"
+      "releaseInfo": "2026",
+      "imdbRating": "5.7"
     },
     {
       "id": "tt5723286",
@@ -362,7 +371,8 @@
       "name": "Bước Ngoặt Thế Hệ: 11 Tháng 9",
       "poster": "https://phimimg.com/uploads/movies/20260903/buoc-ngoat-the-he-11-thang-9-poster.webp",
       "description": "Từ những khoảnh khắc đầu tiên của vụ tấn công đến những ngày cuối cùng đầy ám ảnh ở Kabul hai thập kỷ sau, bộ phim tài liệu cuốn hút này tìm hiểu hệ quả của sự kiện 11/9.",
-      "releaseInfo": "2026"
+      "releaseInfo": "2026",
+      "imdbRating": "6.3"
     },
     {
       "id": "tt0060862",
@@ -460,7 +470,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260829/grand-theft-auto-vi-cai-nhin-sau-hon-poster.webp",
       "description": "Video tập trung khai thác mối quan hệ kiểu \"Bonnie và Clyde\" giữa Lucia và Jason. Người chơi có thể chuyển đổi mượt mà giữa hai nhân vật này khi thực hiện nhiệm vụ hoặc khám phá thế giới mở, kết hợp chiến đấu đồng đội ăn ý hơn so với các phần trước.",
       "releaseInfo": "2026",
-      "imdbRating": "8.4"
+      "imdbRating": "8.3"
     },
     {
       "id": "tt2404435",
@@ -881,15 +891,6 @@
       "description": "Kẻ tâm thần Angela lại ngứa ngáy tay chân để làm điều cô giỏi nhất: thảm sát hàng loạt trại sinh tuổi teen. May mắn thay cho cô, hiện trường vụ thảm sát năm xưa đã được đổi tên và cải tạo thành một trại hè thử nghiệm nhằm kết nối các thiếu niên giàu có và giới bình dân. Vào ngày các bạn trẻ đang bước lên xe bus để đến trại hè, Angela đã cán chết một cô gái bằng xe rác và mạo danh tính của nạn nhân. Ngay khi xâm nhập được vào trại hè, cơn ác mộng thực sự chính thức bắt đầu.",
       "releaseInfo": "1989",
       "imdbRating": "5.0"
-    },
-    {
-      "id": "tt0096118",
-      "type": "movie",
-      "name": "Trại Hè Kinh Hoàng 2",
-      "poster": "https://phimimg.com/uploads/movies/20260811/trai-he-kinh-hoang-2-poster.webp",
-      "description": "Angela Baker trốn khỏi bệnh viện tâm thần và xuất hiện trở lại tại một trại hè dưới danh nghĩa một huấn luyện viên. Tại đây, cô liên tục lên lớp cho các thiếu niên về chuẩn mực đạo đức. Những thiếu niên vi phạm các quy tắc nghiêm ngặt của cô — từ cô gái lắm lời, cô nữ sinh cuồng tình dục cho đến những gã thiếu niên thích quay lén — đều bị kẻ mạo danh này sát hại theo vô số phương thức dã man. Khi ngày càng có nhiều trại sinh mất tích, Molly — một huấn luyện viên dũng cảm — bắt đầu xâu chuỗi các manh mối để tìm ra sự thật.",
-      "releaseInfo": "1988",
-      "imdbRating": "5.5"
     }
   ]
 }
