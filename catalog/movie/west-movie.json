@@ -1,6 +1,24 @@
 {
   "metas": [
     {
+      "id": "tt0108339",
+      "type": "movie",
+      "name": "Ve Hút Máu",
+      "poster": "https://phimimg.com/uploads/movies/20260917/ve-hut-mau-poster.webp",
+      "description": "Một nhóm thiếu niên đi cắm trại tại một khu nghỉ dưỡng ở vùng Bắc California đã bị đe dọa, khủng bố bởi những sinh vật côn trùng đột biến độc hại — vốn được tạo ra bởi những kẻ trồng cần sa độc ác, làm ô nhiễm môi trường xung quanh.",
+      "releaseInfo": "1993",
+      "imdbRating": "5.5"
+    },
+    {
+      "id": "tt0083959",
+      "type": "movie",
+      "name": "Thế Giới Cấm",
+      "poster": "https://phimimg.com/uploads/movies/20260917/the-gioi-cam-poster.webp",
+      "description": "Ở một tương lai xa xôi, một sĩ quan cảnh sát liên bang đến một phòng thí nghiệm nghiên cứu trên một hành tinh hẻo lánh, nơi một sinh vật thí nghiệm di truyền đã vượt khỏi tầm kiểm soát và bắt đầu săn sát, ăn thịt nhóm các nhà khoa học đang ngày một thưa dần.",
+      "releaseInfo": "1982",
+      "imdbRating": "5.1"
+    },
+    {
       "id": "tt0331933",
       "type": "movie",
       "name": "Cảnh sát bảo vệ",
@@ -219,7 +237,8 @@
       "name": "Những Lời Trăn Trối Nổi Tiếng: Gloria Steinem",
       "poster": "https://phimimg.com/uploads/movies/20260907/nhung-loi-tran-troi-noi-tieng-gloria-steinem-poster.webp",
       "description": "Trước khi qua đời, nhà hoạt động Gloria Steinem gửi gắm thông điệp chân thành cuối cùng đến thế giới, biết rằng buổi phỏng vấn này chỉ lên sóng sau khi bà đã ra đi.",
-      "releaseInfo": "2026"
+      "releaseInfo": "2026",
+      "imdbRating": "8.2"
     },
     {
       "id": "tt28014327",
@@ -272,8 +291,7 @@
       "name": "Instadocs: Máy Bay Mồi Nhử",
       "poster": "https://phimimg.com/uploads/movies/20260905/instadocs-may-bay-moi-nhu-poster.webp",
       "description": "Mối đe dọa nghiêm trọng. Một cuộc trốn thoát bí mật. Và một chiếc xe đồ ăn Thổ Nhĩ Kỳ? Với lời kể trực tiếp, \"Instadocs\" sẽ làm rõ những gì đã xảy ra trên Không Lực Một.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.7"
+      "releaseInfo": "2026"
     },
     {
       "id": "tt5723286",
@@ -738,7 +756,8 @@
       "name": "Ma Cây: Lửa Địa Ngục",
       "poster": "https://phimimg.com/uploads/movies/20260805/ma-cay-lua-dia-nguc-poster.webp",
       "description": "Sau khi chồng qua đời, một người phụ nữ tìm sự an ủi bên gia đình chồng. Nhưng rồi từng người một biến thành những deadite quỷ ám, khiến cô dần nhận ra rằng những lời thề nguyện khi còn sống… vẫn tồn tại ngay cả sau cái chết.",
-      "releaseInfo": "2026"
+      "releaseInfo": "2026",
+      "imdbRating": "6.3"
     },
     {
       "id": "tt3467412",
@@ -873,24 +892,6 @@
       "description": "Cuộc hôn nhân của Joe và Angela đang đứng bên bờ vực tan vỡ. Khi họ mời cặp hàng xóm bí ẩn sống ở tầng trên đến dùng bữa tối, mọi chuyện trong đêm đó đã diễn biến theo những hướng hoàn toàn bất ngờ. Liệu họ đã khơi dậy lại ngọn lửa tình yêu, hay vô tình châm ngòi cho một ngọn lửa thiêu rụi tất cả?",
       "releaseInfo": "2026",
       "imdbRating": "7.8"
-    },
-    {
-      "id": "tt0382943",
-      "type": "movie",
-      "name": "Trở Lại Trại Hè Kinh Hoàng",
-      "poster": "https://phimimg.com/uploads/movies/20260811/tro-lai-trai-he-kinh-hoang-poster.webp",
-      "description": "Khi các trại sinh và nhân viên tại Trại Manabe bắt đầu mất tích bí ẩn rồi biến thành những cái xác dị dạng, hãi hùng, Ronnie — một người luôn hoang tưởng — không thể xua tan ký ức về chuỗi thảm sát đẫm máu từng xảy ra tại Trại Arawak hai thập kỷ trước.",
-      "releaseInfo": "2008",
-      "imdbRating": "4.2"
-    },
-    {
-      "id": "tt0096119",
-      "type": "movie",
-      "name": "Trại Hè Kinh Hoàng 3",
-      "poster": "https://phimimg.com/uploads/movies/20260811/trai-he-kinh-hoang-3-poster.webp",
-      "description": "Kẻ tâm thần Angela lại ngứa ngáy tay chân để làm điều cô giỏi nhất: thảm sát hàng loạt trại sinh tuổi teen. May mắn thay cho cô, hiện trường vụ thảm sát năm xưa đã được đổi tên và cải tạo thành một trại hè thử nghiệm nhằm kết nối các thiếu niên giàu có và giới bình dân. Vào ngày các bạn trẻ đang bước lên xe bus để đến trại hè, Angela đã cán chết một cô gái bằng xe rác và mạo danh tính của nạn nhân. Ngay khi xâm nhập được vào trại hè, cơn ác mộng thực sự chính thức bắt đầu.",
-      "releaseInfo": "1989",
-      "imdbRating": "5.0"
     }
   ]
 }
