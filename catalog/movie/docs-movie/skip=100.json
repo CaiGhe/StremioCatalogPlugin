@@ -1,164 +1,22 @@
 {
   "metas": [
     {
-      "id": "tt6360332",
+      "id": "tt11178402",
       "type": "movie",
-      "name": "Is Genesis History?",
-      "poster": "https://image.tmdb.org/t/p/w500/5dfbUORlxpCbAnW7NvEUtKzf3ce.jpg",
-      "description": "A fascinating new look at the biblical, historical, and scientific evidence for Creation and the Flood. Learn from more than a dozen scientists and scholars as they explore the world around us in light of Genesis. Dr. Del Tackett, creator of The Truth Project, hikes through canyons, climbs up mountains, and dives below the sea in an exploration of two competing views... one compelling truth.",
-      "releaseInfo": "2017",
-      "imdbRating": "4.1"
-    },
-    {
-      "id": "tt26420234",
-      "type": "movie",
-      "name": "Music by John Williams",
-      "poster": "https://image.tmdb.org/t/p/w500/dIZ3SzuT3YuAWX1fjdxDevbwQBX.jpg",
-      "description": "His unforgettable scores are an essential part of some of the most beloved movies of our time, over a career that spans decades. See and hear maestro John Williams' own story, with insights from filmmakers, musicians, and others he has inspired, complete with rare behind-the-scenes looks at the making of movie history.",
-      "releaseInfo": "2024",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt42863533",
-      "type": "movie",
-      "name": "Bản năng làm mẹ",
-      "poster": "https://image.tmdb.org/t/p/w500/5SmrU6YVpycaNAETj2koHL9yiDz.jpg",
-      "description": "Một người phụ nữ bị cảnh sát chặn xe và khai rằng vừa sinh con. Nhưng đứa bé và máu đều không phải của cô ta. Lời dối trá hiểm độc bị phơi bày trong phim tài liệu về tội phạm này.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt8912280",
-      "type": "movie",
-      "name": "Starbucks Unfiltered",
-      "poster": "https://image.tmdb.org/t/p/w500/upvTIKkLMCL8qu2abXbE5UW9r2G.jpg",
-      "description": "How the American coffee chain, now global, has conquered the urban middle class. This investigation on three continents reveals the carefully hidden face of the brand.",
-      "releaseInfo": "2018",
-      "imdbRating": "7.1"
-    },
-    {
-      "id": "tt15010478",
-      "type": "movie",
-      "name": "11/9: Trong Phòng Tình Huống Của Tổng Thống - 9/11: Inside the President's War Room",
-      "poster": "https://image.tmdb.org/t/p/w500/esbnJmCpxOAyY7DhiHALppd1iCk.jpg",
-      "description": "Khám phá loạt sự kiện xảy ra vào ngày 11 tháng 9 năm 2001 qua góc nhìn của Tổng Thống Bush và các cố vấn thân cận. Qua bộ phim tài liệu này, họ chia sẻ chi tiết về những thời khắc then chốt và các quyết định quan trọng trong ngày lịch sử ấy.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt41777258",
-      "type": "movie",
-      "name": "Jamie Vardy",
-      "poster": "https://image.tmdb.org/t/p/w500/d0pODTh6FOwn87iOeXGb7nKOdNT.jpg",
-      "description": "From part-time footballer to Premier League legend, this is the story of Jamie Vardy's unprecedented path and his rise to the top against all odds.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt0330707",
-      "type": "movie",
-      "name": "Nuclear Rescue 911: Broken Arrows & Incidents",
-      "poster": "https://image.tmdb.org/t/p/w500/z0KCmXOTCeqLKDCKUQKf38xQUtY.jpg",
-      "description": "Since 1950, there have been 32 nuclear weapon accidents, known as \"Broken Arrows.\" A Broken Arrow is defined as an unexpected event involving nuclear weapons that result in the accidental launching, firing, detonating, theft or loss of the weapon. To date, six nuclear weapons have been lost and never recovered.Now, recently declassified documents reveal the history and secrecy surrounding the events known as \"Broken Arrows\". There have been 32 nuclear weapon accidents since 1950. Six of these nuclear weapons have been lost and never recovered. What does this say about our defense system? What does this mean to our threatened environment? What do we do to rectify these monumental \"mistakes\"? Using spectacular special effects, newly uncovered and recently declassified footage, filmmaker Peter Kuran explores the accidents, incidents and exercises in the secret world of nuclear weapons.",
-      "releaseInfo": "2001",
-      "imdbRating": "6.7"
-    },
-    {
-      "id": "tt38643078",
-      "type": "movie",
-      "name": "What is an Ocean… Reconnecting the Cast and Crew of Cloud Atlas",
-      "poster": "https://image.tmdb.org/t/p/w500/tw7aQ17lYfZ7Vmi7lNaWIPW0V9F.jpg",
-      "description": "A unique feature-length retrospective documentary bringing together the directors, author David Mitchell, and key cast and crew - including Tom Hanks, Hugh Grant, and Susan Sarandon - to share new reflections and untold stories from the making of Cloud Atlas. The film celebrates the artistry, collaboration, and enduring impact of the Wachowskis and Tom Tykwer's visionary production.",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt1116184",
-      "type": "movie",
-      "name": "Jackass 3D",
-      "poster": "https://image.tmdb.org/t/p/w500/uPirN07su7LFixyZyLrNMMQ9u1E.jpg",
-      "description": "Johnny Knoxville, Bam Margera, Steve-O, Wee Man and the rest of their fearless and foolhardy friends take part in another round of outrageous pranks and stunts. In addition to standing in the path of a charging bull, launching themselves into the air and crashing through various objects, the guys perform in segments such as \"Sweatsuit Cocktail,\" \"Beehive Tetherball\" and \"Lamborghini Tooth Pull.\"",
-      "releaseInfo": "2010",
-      "imdbRating": "7.0"
-    },
-    {
-      "id": "tt10883124",
-      "type": "movie",
-      "name": "Những Ông Bố - Dads",
-      "poster": "https://image.tmdb.org/t/p/w500/uziGG4OLRBFEtL6rPTp4hw1SIkO.jpg",
-      "description": "Phim tài liệu này như một cuộc khảo sát các ông bố trên khắp thế giới, từ danh hài đến người bình thường. Trải nghiệm chân thực của họ phản ánh đầy đủ vẻ đẹp, niềm vui và những khó khăn khi đảm nhận thiên chức làm bố trong thời hiện đại.",
-      "releaseInfo": "2019",
+      "name": "Mickey: The Story of a Mouse",
+      "poster": "https://image.tmdb.org/t/p/w500/mxcZXWt1BrS5lyB65zBMnI31Pra.jpg",
+      "description": "Mickey Mouse is one of the most enduring symbols in our history. Those three simple circles take on meaning for virtually everyone on the planet. So ubiquitous in our lives that he can seem invisible, Mickey is something we all share, with unique memories and feelings. Over the course of his nearly century-long history, Mickey functions like a mirror, reflecting our personal and cultural values back at us. \"Mickey: The Story of a Mouse\" explores Mickey's significance, getting to the core of what Mickey's cultural impact says about each of us and about our world.",
+      "releaseInfo": "2022",
       "imdbRating": "6.9"
     },
     {
-      "id": "tt1478841",
+      "id": "tt27447330",
       "type": "movie",
-      "name": "The Buddha",
-      "poster": "https://image.tmdb.org/t/p/w500/1nMwkLdJNvHKlqxl4iUN31yCSYO.jpg",
-      "description": "This documentary for PBS by award-winning filmmaker David Grubin and narrated by Richard Gere, tells the story of the Buddha’s life, a journey especially relevant to our own bewildering times of violent change and spiritual confusion. It features the work of some of the world’s greatest artists and sculptors, who across two millennia, have depicted the Buddha’s life in art rich in beauty and complexity. Hear insights into the ancient narrative by contemporary Buddhists, including Pulitzer Prize winning poet W.S. Merwin and His Holiness the Dalai Lama. Join the conversation and learn more about meditation, the history of Buddhism, and how to incorporate the Buddha’s teachings on compassion and mindfulness into daily life.",
-      "releaseInfo": "2010",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt1986938",
-      "type": "movie",
-      "name": "Revolution",
-      "poster": "https://image.tmdb.org/t/p/w500/3YH4FGxPq7NqMPTN9DxFs9Akq8C.jpg",
-      "description": "REVOLUTION is a film about changing the world, going for it, taking a stand, and fighting for something. A true-life adventure following Director, Rob Stewart (SHARKWATER) over four years and 15 countries discovering there is a lot more than sharks at risk of becoming extinct. Climate change, environmental degradation, species loss, ocean acidification, pollution, and food/water scarcity are reducing the earth's ability to house humans and we need to start doing something about it now!",
-      "releaseInfo": "2012",
-      "imdbRating": "6.2"
-    },
-    {
-      "id": "tt43595399",
-      "type": "movie",
-      "name": "Đắm Tàu: Ác Mộng Trên Biển",
-      "poster": "https://image.tmdb.org/t/p/w500/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
-      "description": "Qua những thước phim chưa từng công bố và lời kể của những người sống sót, bộ phim tài liệu sống động này tái hiện vụ đắm tàu du lịch hạng sang năm 2012 và thảm họa xảy ra sau đó.",
-      "releaseInfo": "2026",
+      "name": "The Jewel Thief",
+      "poster": "https://image.tmdb.org/t/p/w500/uXkcAw1vbLpPgW5G1C9jiW3zgRI.jpg",
+      "description": "Gerald Blanchard's surprising, first-hand account as a calculating and accomplished criminal mastermind. Two unlikely detectives track him worldwide as he commits increasingly elaborate heists in a quest for fame.",
+      "releaseInfo": "2023",
       "imdbRating": "6.5"
-    },
-    {
-      "id": "tt15346636",
-      "type": "movie",
-      "name": "Being James Bond",
-      "poster": "https://image.tmdb.org/t/p/w500/kKG9gieki5wgEcVXLfnX1lbOcrO.jpg",
-      "description": "Daniel Craig candidly reflects on his 15 year adventure as James Bond. Including never-before-seen archival footage from Casino Royale to the upcoming 25th film No Time To Die, Craig shares his personal memories in conversation with 007 producers, Michael G Wilson and Barbara Broccoli.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt16301388",
-      "type": "movie",
-      "name": "Death to 2021",
-      "poster": "https://image.tmdb.org/t/p/w500/qGt48Z1j4TuzPti8ZNWqqypa6w.jpg",
-      "description": "This comedic retrospective mixes archival footage and scripted sketches as it revisits all the dread — and occasional delight — that 2021 had to offer.",
-      "releaseInfo": "2021",
-      "imdbRating": "6.3"
-    },
-    {
-      "id": "tt5723550",
-      "type": "movie",
-      "name": "INAATE/SE/",
-      "poster": "https://image.tmdb.org/t/p/w500/iN66WVVEHyCJ6Yxfu5i82NZCRhI.jpg",
-      "description": "INAATE/SE/ re-imagines an ancient Ojibway story, the Seven Fires Prophecy, which both predates and predicts first contact with Europeans. A kaleidoscopic experience blending documentary, narrative, and experimental forms, INAATE/SE/ transcends linear colonized history to explore how the prophecy resonates through the generations in their indigenous community within Michigan’s Upper Peninsula. With acute geographic specificity, and grand historical scope, the film fixes its lens between the sacred and the profane to pry open the construction of contemporary indigenous identity.",
-      "releaseInfo": "2016",
-      "imdbRating": "6.1"
-    },
-    {
-      "id": "tt1059955",
-      "type": "movie",
-      "name": "The Pixar Story",
-      "poster": "https://image.tmdb.org/t/p/w500/vhK51wJybwZTRCPVUOkGpSI4auN.jpg",
-      "description": "A look at the first years of Pixar Animation Studios - from the success of \"Toy Story\" and Pixar's promotion of talented people, to the building of its East Bay campus, the company's relationship with Disney, and its remarkable initial string of eight hits. The contributions of John Lasseter, Ed Catmull and Steve Jobs are profiled. The decline of two-dimensional animation is chronicled as three-dimensional animation rises. Hard work and creativity seem to share the screen in equal proportions.",
-      "releaseInfo": "2007",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt11464826",
-      "type": "movie",
-      "name": "The Social Dilemma",
-      "poster": "https://image.tmdb.org/t/p/w500/jcaM6V2tCtu6iMHDsGLBUbaYgYp.jpg",
-      "description": "Các chuyên gia công nghệ gióng lên hồi chuông cảnh báo về tác động nguy hiểm của mạng xã hội đối với con người.",
-      "releaseInfo": "2020",
-      "imdbRating": "7.6"
     },
     {
       "id": "tt27599265",
@@ -170,639 +28,21 @@
       "imdbRating": "6.6"
     },
     {
-      "id": "tt36163614",
-      "type": "movie",
-      "name": "Iron Maiden: Burning Ambition",
-      "poster": "https://image.tmdb.org/t/p/w500/yZqhFJDenLfgF1VygOOCNmAdS1P.jpg",
-      "description": "With unprecedented access to the official archives and intimate recollections from the band, both current and past,  Iron Maiden: Burning Ambition invites fans to experience one of the most iconic journeys in music history.  Spanning five decades, this electrifying documentary charts the band’s rise from the pubs of East London to the world’s biggest stadiums. Featuring exclusive interviews with band members and contributors such as Javier Bardem, Lars Ulrich and Chuck D, as well as all-new animated sequences of the band's legendary mascot, Eddie, the film offers a rare and intimate look at Iron Maiden’s uncompromising vision and unwavering connection with their truly global army of fans.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt14093994",
-      "type": "movie",
-      "name": "Những Nữ Thợ Lặn Cuối Cùng - The Last of the Sea Women",
-      "poster": "https://image.tmdb.org/t/p/w500/2dS4YBTE1R0BvL8Mol4pPGppYIZ.jpg",
-      "description": "Trên bờ biển của đảo Jeju, một nhóm thợ lặn Hàn Quốc quyết liệt đấu tranh để cứu truyền thống đang mai một của họ trước những mối đe dọa cận kề.",
-      "releaseInfo": "2024",
-      "imdbRating": "7.0"
-    },
-    {
-      "id": "tt10724344",
-      "type": "movie",
-      "name": "Indetermediate Movie",
-      "poster": "https://image.tmdb.org/t/p/w500/adO9zEeAB4XjhRYmvYDgaqaFGyO.jpg",
-      "description": "Fluxfilm No. 33 by Milan Knízák",
-      "releaseInfo": "1966"
-    },
-    {
-      "id": "tt32743685",
-      "type": "movie",
-      "name": "Jaws @ 50: The Definitive Inside Story",
-      "poster": "https://image.tmdb.org/t/p/w500/kCvCb548scfD0HhkCAwBMKHey5b.jpg",
-      "description": "The authorized documentary celebrating the film that redefined Hollywood, 50 years after its premiere. Featuring rare archival footage and interviews with acclaimed Hollywood directors alongside Steven Spielberg, top shark scientists, and conservationists, the film uncovers the behind-the-scenes chaos and how the film launched the summer blockbuster, inspired a new wave of filmmakers, and paved the way for shark conservation that continues today.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt1885211",
-      "type": "movie",
-      "name": "Button Blanket",
-      "poster": "https://live.metahub.space/poster/small/tt1885211/img",
-      "description": "This short impressionist documentary looks at the creation of a Button Blanket by integrating the performance of a traditional dance with the art of the West Coast Heiltsuk Nation.",
-      "releaseInfo": "2009",
-      "imdbRating": "7.3"
-    },
-    {
-      "id": "tt39140662",
-      "type": "movie",
-      "name": "Bắt cóc: Elizabeth Smart",
-      "poster": "https://image.tmdb.org/t/p/w500/8yuMPfz154d0PqX5PFXmgCCuTGd.jpg",
-      "description": "Trong bộ phim tài liệu này, vụ bắt cóc kinh hoàng của thiếu nữ 14 tuổi Elizabeth Smart tại nhà riêng ở Utah được hé lộ qua lời kể của nạn nhân và những tư liệu chưa từng công bố.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.7"
-    },
-    {
-      "id": "tt5868910",
-      "type": "movie",
-      "name": "Perfect",
-      "poster": "https://image.tmdb.org/t/p/w500/pRGU3YsLmA8pLB08oDDMVABbNX9.jpg",
-      "description": "Perfect follows the Canadian synchronized swimming team beyond the beauty, to the brawn it takes to qualify for Rio 2016.",
-      "releaseInfo": "2016",
-      "imdbRating": "6.7"
-    },
-    {
-      "id": "tt14992922",
-      "type": "movie",
-      "name": "Kẻ Lừa Đảo Trên Tinder",
-      "poster": "https://image.tmdb.org/t/p/w500/iLUSFjdavIf0SrP7ldoQ1xomQVC.jpg",
-      "description": "Giả làm trùm kim cương giàu có và sang chảnh, gã dụ dỗ phụ nữ trên mạng sau đó lừa họ hàng triệu đô la. Giờ thì một số nạn nhân đang lên kế hoạch trả đũa.",
-      "releaseInfo": "2022",
-      "imdbRating": "7.1"
-    },
-    {
-      "id": "tt36367119",
-      "type": "movie",
-      "name": "Sea Lions of the Galapagos",
-      "poster": "https://image.tmdb.org/t/p/w500/mvL8P5lTIlrNdi20xQKZgez1NAP.jpg",
-      "description": "Follow Leo, a handsome sea lion pup who's learning how to navigate life alongside his mother, Luna.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt34570789",
-      "type": "movie",
-      "name": "Marvel Studios Assembled: The Making of Deadpool & Wolverine",
-      "poster": "https://image.tmdb.org/t/p/w500/3dQyDFxTY6o3v67ncYCExog6aPH.jpg",
-      "description": "Hugh Jackman, Ryan Reynolds, and director Shawn Levy sit down and spill the proverbial beans about how \"Deadpool & Wolverine\" was conceived, carried to term, and then birthed.",
-      "releaseInfo": "2024",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt38633124",
-      "type": "movie",
-      "name": "Thoughts & Prayers",
-      "poster": "https://image.tmdb.org/t/p/w500/y9GzO4jCjpurBWvgGp6clqdSK1G.jpg",
-      "description": "In a dystopic America, children are taught how to prepare for school shootings through elaborate drills. Yet what are intended as self-defense mechanisms are themselves deeply traumatic for students, parents, educators, and entire communities.",
-      "releaseInfo": "2025",
-      "imdbRating": "6.5"
-    },
-    {
-      "id": "tt35291758",
-      "type": "movie",
-      "name": "Melania",
-      "poster": "https://image.tmdb.org/t/p/w500/ba6Silct0Y4pyvrSv0Tj0Urmx9f.jpg",
-      "description": "Offering unprecedented access to the 20 days leading up to the 2025 Presidential Inauguration — through the eyes of the First Lady-elect herself — step inside Melania Trump's world as she orchestrates inauguration plans, navigates the complexities of the White House transition, and reenters public life with her family. With exclusive footage capturing critical meetings, private conversations, and never-before-seen environments, Mrs. Trump returns to one of the world's most powerful roles.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt33430223",
-      "type": "movie",
-      "name": "Under Fire",
-      "poster": "https://live.metahub.space/poster/small/tt33430223/img",
-      "description": "As a fire captain in Idaho, Rob has spent his life saving others. Now, with the help of an experimental therapy, he may just learn how to save himself."
-    },
-    {
-      "id": "tt4382552",
-      "type": "movie",
-      "name": "Cần Tuyển Chân Dài",
-      "poster": "https://image.tmdb.org/t/p/w500/75ot83QOkc02vujyzmIbumQCU6Y.jpg",
-      "description": "Bộ phim tài liệu gây tiếng vang tại Liên hoan phim Sundance 2015 của nhà sản xuất Rashida Jones xoay quanh công nghiệp khiêu dâm \"nghiệp dư\" và những phụ nữ trong đó.",
-      "releaseInfo": "2015",
-      "imdbRating": "6.1"
-    },
-    {
-      "id": "tt13648160",
-      "type": "movie",
-      "name": "Try Harder!",
-      "poster": "https://image.tmdb.org/t/p/w500/2qEFbQZKNiVVOFYCgZQW9H2LGT2.jpg",
-      "description": "In a universe where cool kids are nerds, the orchestra is world class and being Asian American is the norm, seniors at Lowell High School compete for the top prize: admission to the college of their dreams.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt21862424",
-      "type": "movie",
-      "name": "Marvel Studios Assembled: The Making of Thor: Love and Thunder",
-      "poster": "https://image.tmdb.org/t/p/w500/eb7GP3cttApzilOOM52L129Eaaj.jpg",
-      "description": "Settle in with the likes of Taika Waititi, Chris Hemsworth, Natalie Portman, Christian Bale, and Tessa Thompson, and as they divulge the secrets behind the creation of Thor: Love and Thunder. Through in-depth interviews with cast and crew, along with raw, unseen footage from the set and beyond, this documentary special pulls back the curtain on the God of Thunder’s fourth feature film.",
-      "releaseInfo": "2022",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt1645089",
-      "type": "movie",
-      "name": "Cuộc Khủng Hoảng Kinh Tế",
-      "poster": "https://image.tmdb.org/t/p/w500/7yXXIWec24htucjsZS1sDuPLqw8.jpg",
-      "description": "Cuộc khủng hoảng tài chính toàn cầu diễn ra vào mùa Thu năm 2008 đã gây ra hàng triệu người mất việc làm và nhà cửa và đẩy Hoa Kỳ vào một cuộc suy thoái kinh tế sâu sắc. Matt Damon thuật lại một bộ phim tài liệu cung cấp một cuộc kiểm tra chi tiết về các yếu tố dẫn đến sự sụp đổ và xác định những người chơi chính về tài chính và chính trị. Giám đốc Charles Ferguson thực hiện một loạt các cuộc phỏng vấn và theo dõi câu chuyện từ Hoa Kỳ, Trung Quốc đến Iceland đến một số điểm nóng tài chính toàn cầu khác.",
-      "releaseInfo": "2010",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt14447458",
-      "type": "movie",
-      "name": "Jazz Và Cuộc Đời Của Louis Armstrong - Louis Armstrong's Black & Blues",
-      "poster": "https://image.tmdb.org/t/p/w500/oPklB4Ba2wJu2x1dn1chWl3J5uA.jpg",
-      "description": "Những bản ghi âm và tư liệu chưa từng được tiết lộ kể về cuộc đời của Louis Armstrong theo quan điểm của ông. Từ một hiện hượng âm nhạc, đến nhà hoạt động nhân quyền, đến nghệ sĩ nổi tiếng thế giới, bộ phim này cho ta thấy rõ những khía cạnh của Armstrong mà ít ai biết được.",
-      "releaseInfo": "2022",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt32368703",
-      "type": "movie",
-      "name": "Road Diary: Bruce Springsteen and The E Street Band",
-      "poster": "https://image.tmdb.org/t/p/w500/7wjiP9rgXvItcCJTfGqp39CHjJg.jpg",
-      "description": "This documentary opens a new door to Springsteen's creative process for fans around the world, sharing fly-on-the-wall footage of band rehearsals and special moments backstage — as well as hearing from Springsteen himself.",
-      "releaseInfo": "2024",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt2184313",
-      "type": "movie",
-      "name": "This Is Where We Take Our Stand",
-      "poster": "https://image.tmdb.org/t/p/w500/zpdwG8IHKDZDtvKR5Pm7Wy7Wcav.jpg",
-      "description": "In March of 2008, 250 veterans and active duty soldiers marked the fifth anniversary of the invasion of Iraq by gathering in Washington, DC to testify from their own experience about the nature of the occupations of Afghanistan and Iraq. Inspired by the 1971 Winter Soldier Investigation held by the Vietnam Veterans Against the War, they too sought to express their opposition to those wars with their first-hand accounts, bearing witness with voices not generally heard. Our documentary is a portrait of three participants. If follows their lives for 6 weeks leading to the even and afterward; an active duty female soldier, a 9 year National Guard Veteran, and a 3 tour former Marine. This is their story.",
-      "releaseInfo": "2012",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt6627272",
-      "type": "movie",
-      "name": "Übermensch",
-      "poster": "https://image.tmdb.org/t/p/w500/fmH77UXvM8gjoOoVxY9ea6asdhQ.jpg",
-      "description": "Two transient young men break into an empty church by the sea to form a blood pact: to get rid of their childhood demons and escape the cycle of anxiety and authorities. “It’s not goth to be afraid of darkness”, they agree.",
-      "releaseInfo": "2017",
-      "imdbRating": "5.9"
-    },
-    {
-      "id": "tt0085544",
-      "type": "movie",
-      "name": "First Contact",
-      "poster": "https://image.tmdb.org/t/p/w500/ovbPdlOXgj6K1Sti8GXNMc5xy3J.jpg",
-      "description": "\"First Contact\" is a 1983 documentary by Bob Connolly and Robin Anderson which recounts the discovery of a flourishing native population in the interior highlands of New Guinea in 1930 in what had been thought to be an uninhabited area. It is based on the book of the same name by the same authors. Inhabitants of the region and surviving members of the Leahy brothers' gold prospecting party recount their astonishment at this unforeseen meeting. The film includes still photographs taken by a member of the expedition and contemporary footage of the island's terrain. It was nominated for an Academy Award for Best Documentary Feature.",
-      "releaseInfo": "1982",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt44709899",
-      "type": "movie",
-      "name": "Love?",
-      "poster": "https://image.tmdb.org/t/p/w500/yD1m03l9SsXrjQkJJAIs7s9xeot.jpg",
-      "description": "A documentary about love. Filmed in Sicily, Italy. Filmmaker Boston B. interviews three people from around the world, Mexico, Ireland, and Italy, to see where they stand with love and how it affects them, from the magical to the grounded. He asks three questions: do you believe in true love, love at first sight, and the idea of \"the one\".",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt6211764",
-      "type": "movie",
-      "name": "XXXXXXX",
-      "poster": "https://image.tmdb.org/t/p/w500/vHwkMU0gKTDlg5A5kdgvcwKLtP3.jpg",
-      "description": "A tarot card reading as a starting point.  A disruptive relationship as a point.  Translation of the cards' symbols to a joint.\r Of the domestic exploration for finding my voice.",
-      "releaseInfo": "2016",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt26520932",
-      "type": "movie",
-      "name": "Wild Life",
-      "poster": "https://image.tmdb.org/t/p/w500/gptHW5vSYZtRt13GmjT3fuRY9rY.jpg",
-      "description": "From Oscar-winning filmmakers Chai Vasarhelyi and Jimmy Chin, \"Wild Life\" follows conservationist Kris Tompkins on an epic, decades-spanning love story as wild as the landscapes she dedicated her life to protecting. After falling in love in mid-life, Kris and the outdoorsman and entrepreneur Doug Tompkins left behind the world of the massively successful outdoor brands they'd helped pioneer like Patagonia, The North Face, and Esprit, and turned their attention to a visionary effort to create National Parks throughout Chile and Argentina. \"Wild Life\" chronicles the highs and lows of their journey to effect the largest private land donation in history.",
-      "releaseInfo": "2023",
-      "imdbRating": "7.1"
-    },
-    {
-      "id": "tt11697672",
-      "type": "movie",
-      "name": "Strength Wars",
-      "poster": "https://image.tmdb.org/t/p/w500/q0sg86tyxRzI8SaMOdPVnIAXB6q.jpg",
-      "description": "Strength Wars: The Movie follows the lives of eight athletes preparing for the ultimate strength competition. The prize? To be labeled the strongest man in the world. Putting two different types of athletes against each other, Strength Wars is the ultimate proving ground to test any given athlete's true strength. Eight athletes. Eight athletic disciplines. One winner. The film highlights eight men from across the globe including Larry Wheels, Terron Beckham, Blaine Sumner, NDO Champ, Big Neechi, Jerry Pritchett, Anabolic Horse, and Leonidas Arkona. Welcome to Strength Wars. May the best man win.",
-      "releaseInfo": "2021",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt4093410",
-      "type": "movie",
-      "name": "Packed In A Trunk: The Lost Art of Edith Lake Wilkinson",
-      "poster": "https://image.tmdb.org/t/p/w500/in39eGcG7rsatZNgtQ70sOAQdYp.jpg",
-      "description": "The story of artist Edith Lake Wilkinson, a painter who was committed to an asylum in 1924 and never heard from again. All her worldly possessions were packed into trunks and shipped to a relative in West Virginia where they sat in an attic for 40 years. Edith's great-niece, Emmy Award winning writer and director Jane Anderson, grew up surrounded by Edith's paintings, thanks to her mother who had gone poking through that dusty attic and rescued Edith's work. The film follows Jane in her decades-long journey to find the answers to the mystery of Edith's buried life, return the work to Provincetown and have Edith's contributions recognized by the larger art world.",
-      "releaseInfo": "2015",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt26739529",
-      "type": "movie",
-      "name": "Cảnh ăn tiền: Câu chuyện về Pornhub",
-      "poster": "https://image.tmdb.org/t/p/w500/kpTqWqLYcf1uErnx5VXLah4EWJZ.jpg",
-      "description": "Xoay quanh các cuộc phỏng vấn với người biểu diễn, nhà hoạt động và cựu nhân viên, bộ phim tài liệu này tìm hiểu sâu về những thành công cũng như bê bối của Pornhub.",
-      "releaseInfo": "2023",
-      "imdbRating": "5.4"
-    },
-    {
-      "id": "tt11790780",
-      "type": "movie",
-      "name": "Nhà leo núi Alps",
-      "poster": "https://image.tmdb.org/t/p/w500/tYbSGAVbyACEExptLu63CxCGm4O.jpg",
-      "description": "Marc-André Leclerc, nhà leo núi một mình táo bạo nhưng ẩn dật, trở thành người hùng bất đắc dĩ khi leo lên những độ cao băng giá, đáng sợ nhất trên thế giới.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt39368489",
-      "type": "movie",
-      "name": "#SKYKING",
-      "poster": "https://image.tmdb.org/t/p/w500/4uXL16pegV9mccBeUqB9VGos5hv.jpg",
-      "description": "Tells the story of 28-year-old Horizon Air ground service agent Richard “Beebo” Russell, who, to the shock of all who knew him, clocked into work wearing a shirt that said “sky’s no limit,” stole a 33-million-dollar plane, and took off into the skies of the Pacific Northwest embarking on a white-knuckle flight that would come to embody the hopes, dreams, and despair of the American working class, and offer a timely look into the U.S. mental health crisis.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt16277412",
-      "type": "movie",
-      "name": "Freddie Mercury: The Final Act",
-      "poster": "https://image.tmdb.org/t/p/w500/tctFh2aNKCG7C1l5oPQGxK8qvHn.jpg",
-      "description": "The story of the extraordinary final chapter of Freddie Mercury’s life and how, after his death from AIDS, Queen staged one of the biggest concerts in history, the Freddie Mercury Tribute Concert at Wembley Stadium, to celebrate his life and challenge the prejudices around HIV/AIDS. For the first time, Freddie's story is told alongside the experiences of those who tested positive for HIV and lost loved ones during the same period. Medical practitioners, survivors, and human rights campaigners recount the intensity of living through the AIDS pandemic and the moral panic it brought about.",
-      "releaseInfo": "2022",
-      "imdbRating": "7.8"
-    },
-    {
-      "id": "tt0188677",
-      "type": "movie",
-      "name": "Hyperland",
-      "poster": "https://image.tmdb.org/t/p/w500/7HwOIYR9p4mxDutsNAzMTBHBV0U.jpg",
-      "description": "This made-for-TV documentary introduces the layperson to concepts and technologies that were emerging in computer interface design in the late 1980s and early 1990s: hypertext, multimedia, virtual assistants, interactive video, 3D animation, and virtual reality.",
-      "releaseInfo": "1990",
-      "imdbRating": "7.8"
-    },
-    {
-      "id": "tt41858262",
-      "type": "movie",
-      "name": "70 Up",
-      "poster": "https://image.tmdb.org/t/p/w500/fssXQF0BvwvAa8VXKVqRwPTmdVw.jpg",
-      "description": "70 Up will be the final chapter of the iconic series that has captured an extraordinary time-lapse of human life, asking one timeless question... Can you see the person in the 7 year old?",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt11178402",
-      "type": "movie",
-      "name": "Mickey: The Story of a Mouse",
-      "poster": "https://image.tmdb.org/t/p/w500/mxcZXWt1BrS5lyB65zBMnI31Pra.jpg",
-      "description": "Mickey Mouse is one of the most enduring symbols in our history. Those three simple circles take on meaning for virtually everyone on the planet. So ubiquitous in our lives that he can seem invisible, Mickey is something we all share, with unique memories and feelings. Over the course of his nearly century-long history, Mickey functions like a mirror, reflecting our personal and cultural values back at us. \"Mickey: The Story of a Mouse\" explores Mickey's significance, getting to the core of what Mickey's cultural impact says about each of us and about our world.",
-      "releaseInfo": "2022",
-      "imdbRating": "6.9"
-    },
-    {
-      "id": "tt39367709",
-      "type": "movie",
-      "name": "The Ascent",
-      "poster": "https://image.tmdb.org/t/p/w500/gRajJYjsZsGjdUjHsdg7CfPghZp.jpg",
-      "description": "The inspiring true story of bilateral-amputee climber Mandy Horvath's record-breaking attempt to crawl to the summit of Mt. Kilimanjaro and the mysterious circumstances under which she lost her legs at the age of 21.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt13976380",
-      "type": "movie",
-      "name": "Outraged",
-      "poster": "https://image.tmdb.org/t/p/w500/g3HtHEzupkgnBF5UJ376WTmb2nD.jpg",
-      "description": "Paul Pogba, Moise Kean, Dejan Lovren, Nadia Nadim, Shanice van de Sanden and Guram Kashia share their personal experiences of discrimination and how these issues are affecting people in football. Their stories are supported by football greats like Megan Rapinoe, José Mourinho, Ruud Gullit, Olivier Giroud, Tyrone Mings, Kalidou Koulibaly, and Pernille Harder.",
-      "releaseInfo": "2020",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt0058578",
-      "type": "movie",
-      "name": "Seven Up!",
-      "poster": "https://image.tmdb.org/t/p/w500/pgxBgde0VpbbdpN6bL05gpMtlC9.jpg",
-      "description": "A group of British children aged 7 from widely ranging backgrounds are interviewed about a range of subjects. The filmmakers plan to re-interview them at 7 year intervals to track how their lives and attitudes change as they age.",
-      "releaseInfo": "1964",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt39307872",
-      "type": "movie",
-      "name": "Cuộc phiêu lưu cuối: Hậu trường Cậu bé mất tích 5",
-      "poster": "https://image.tmdb.org/t/p/w500/iX3ccl1TUNZgu4cNUm1pRLcevww.jpg",
-      "description": "Khám phá những năm tháng dày công và tài nghệ làm phim đằng sau mùa cuối cùng của loạt phim định hình cả một thế hệ do anh em nhà Duffer thực hiện.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt36464353",
-      "type": "movie",
-      "name": "My Mom Jayne",
-      "poster": "https://image.tmdb.org/t/p/w500/6KpfMouMavYr1UwTz6612YhYjbs.jpg",
-      "description": "Through deeply personal interviews with her siblings and an examination of the photographs, letters, and belongings left behind, Mariska assembles a new portrait of her mother Jayne Mansfield, an extraordinary and complex woman.",
-      "releaseInfo": "2025",
-      "imdbRating": "8.4"
-    },
-    {
-      "id": "tt19308034",
-      "type": "movie",
-      "name": "Jim Henson Idea Man",
-      "poster": "https://image.tmdb.org/t/p/w500/w1IYhFVW2XyKfkIyZ65jZ2Uyn6Y.jpg",
-      "description": "Featuring unprecedented access to Jim Henson's personal archives, filmmaker Ron Howard brings us a fascinating and insightful look at a complex man whose boundless imagination inspired the world.",
-      "releaseInfo": "2024",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt16227014",
-      "type": "movie",
-      "name": "Fire of Love",
-      "poster": "https://image.tmdb.org/t/p/w500/9smEX8UP84yb2GisLwyAyQKvCWS.jpg",
-      "description": "A doomed love triangle between intrepid French scientists Katia and Maurice Krafft, and their beloved volcanoes.",
-      "releaseInfo": "2022",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt1664776",
-      "type": "movie",
-      "name": "Pink Smoke Over the Vatican",
-      "poster": "https://image.tmdb.org/t/p/w500/gLypdWIKQ0x0kZzL7ta8JVHL5Cy.jpg",
-      "description": "Documentary film about the controversial movement of women seeking ordination in the Roman Catholic Church. More and more women are answering a spiritual calling to take on the vestments of priesthood and seek equality in the religion they love. These daring women have risked banishment, loss of livelihood, and even excommunication to take part in what the Church calls illicit ordinations. The Vatican has vowed to end this threat to the male hierarchy, even forbidding the mere discussion of female priests. The papacy has reached a time of crisis and the controversy over women's role, and their place in the Church, must be addressed if the Vatican is to have any relevance in the 21st century.",
-      "releaseInfo": "2011",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt37244013",
-      "type": "movie",
-      "name": "Sharks Up Close with Bertie Gregory",
-      "poster": "https://image.tmdb.org/t/p/w500/q9CxXe4Q8lpbLd2DdHzuk7rB1Xx.jpg",
-      "description": "Bertie heads to South Africa for his most audacious mission yet. The wild waters here are a hotspot for one of the ocean’s most famous and feared predators, the great white shark. Diving in the shallows without a cage, Bertie will attempt to film these huge sharks. By entering their domain, he discovers the challenges they face on our rapidly changing planet.",
-      "releaseInfo": "2025",
-      "imdbRating": "5.2"
-    },
-    {
-      "id": "tt32322559",
-      "type": "movie",
-      "name": "The Lion King at the Hollywood Bowl",
-      "poster": "https://image.tmdb.org/t/p/w500/q0amPqVnEC3uG9H34PSBr8IaVLP.jpg",
-      "description": "In honor of “The Lion King's” 30th Anniversary, the Hollywood Bowl transforms into the Pride Lands for an immersive concert event. This music event celebrates the franchise's evolution, from the 1994 animated film to the Tony Award-winning musical, and the 2019 and 2024 live-action films, honoring the music and characters that made it a global phenomenon.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.3"
-    },
-    {
-      "id": "tt6189052",
-      "type": "movie",
-      "name": "X-Rated 2: The Greatest Adult Stars of All Time",
-      "poster": "https://image.tmdb.org/t/p/w500/n22dgC0qBbYVeDGRLOuQSoihWAD.jpg",
-      "description": "Documentary sequel that offers a close-up look into the personal lives of the legendary porn stars who've survived the test of time and influenced popular culture. Blends rare interviews with erotic clips and additional appearances by Whoopi Goldberg, Steven Soderbergh and a host of adult stars, directors and trendsetters.",
-      "releaseInfo": "2016",
-      "imdbRating": "6.4"
-    },
-    {
-      "id": "tt0469998",
-      "type": "movie",
-      "name": "Yellow Fella",
-      "poster": "https://image.tmdb.org/t/p/w500/8A9AxWDxGqYrgc3LBWiOvMEsEA3.jpg",
-      "description": "In 1978, Tom Lewis appeared in the Australian feature film, The Chant of Jimmie Blacksmith. The life of the character he played was hauntingly close to his own, a young, restless man of mixed heritage, struggling for a foothold on the edge of two cultures. Tom's mother is a traditional Indigenous woman of southern Arnhem Land, his father a Welsh stockman who he never really knew. Yellow Fella is a journey across the land and into Tom's past, as he attempts to find the resting place of his father and to finally confront the truth of his most inner feelings of love and identity.",
-      "releaseInfo": "2005",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt30796448",
-      "type": "movie",
-      "name": "Đêm nhạc Pop lịch sử",
-      "poster": "https://image.tmdb.org/t/p/w500/jDz4wFujk94tQP9Sx6EMKDULvkn.jpg",
-      "description": "Vào một đêm tháng 1 năm 1985, những ngôi sao lớn nhất của làng nhạc quy tụ để thu âm \"We Are the World\". Bộ phim tài liệu này vén màn hậu trường của sự kiện lịch sử ấy.",
-      "releaseInfo": "2024",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt2425300",
-      "type": "movie",
-      "name": "Clouds",
-      "poster": "https://live.metahub.space/poster/small/tt2425300/img",
-      "description": "Clouds 1969 by the British filmmaker Peter Gidal is a film comprised of ten minutes of looped footage of the sky, shot with a handheld camera using a zoom to achieve close-up images. Aside from the amorphous shapes of the clouds, the only forms to appear in the film are an aeroplane flying overhead and the side of a building, and these only as fleeting glimpses. The formless image of the sky and the repetition of the footage on a loop prevent any clear narrative development within the film. The minimal soundtrack consists of a sustained oscillating sine wave, consistently audible throughout the film without progression or climax. The work is shown as a projection and was not produced in an edition. The subject of the film can be said to be the material qualities of film itself: the grain, the light, the shadow and inconsistencies in the print.",
-      "releaseInfo": "1969",
-      "imdbRating": "5.5"
-    },
-    {
-      "id": "tt1400319",
-      "type": "movie",
-      "name": "All Our Variant Futures",
-      "poster": "https://image.tmdb.org/t/p/w500/ky2EGqwysaCXp0tXitCdrXmEVqV.jpg",
-      "description": "A look at the restoration of Ridley Scott's Blade Runner (1982) and the creation of its final cut, including the tweaking and/or erasing of some of the original's beloved goofs.",
-      "releaseInfo": "2007",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt5932394",
-      "type": "movie",
-      "name": "Zen World",
-      "poster": "https://image.tmdb.org/t/p/w500/ffnAfXbX5TGWcoMOKIuftZo9TVi.jpg",
-      "description": "Journey inside one of the world's most unique gatherings. Discover how an entire community of gatherers from around the world find peace and love through live music, art and performance.",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt36153259",
-      "type": "movie",
-      "name": "Meet the Pickles: The Making of \"Win or Lose\"",
-      "poster": "https://image.tmdb.org/t/p/w500/oeAPEyLslHV9BzeQvdLHPOUOZ7v.jpg",
-      "description": "Discover how Pixar brought its first long-form original series to life. This behind-the-scenes documentary introduces the scrappy filmmaking team that drew from personal experiences to create this ambitious and stylistically unique series that follows a middle-school softball team, the Pickles, in the week leading up to the big championship game.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt33813121",
-      "type": "movie",
-      "name": "Surveilled",
-      "poster": "https://image.tmdb.org/t/p/w500/ihBBgm2Nz754KRnsqQwhuNDvFsC.jpg",
-      "description": "Uncover the insidious ways in which our daily lives are being surveilled by the state. In a gripping chase, Ronan Farrow travels across the world following breadcrumbs and finally exposing a dark world of spywares, hacking, and peddling of private information, where activists and journalists are persecuted, and no one is protected from the watchful and vicious eyes of authoritarianism.",
-      "releaseInfo": "2024",
-      "imdbRating": "6.2"
-    },
-    {
-      "id": "tt40232255",
-      "type": "movie",
-      "name": "Meal Ticket",
-      "poster": "https://image.tmdb.org/t/p/w500/4E4WA3bfbq4mgDGrFJMNit9U1gz.jpg",
-      "description": "Follow the untold story of the 47-year old legacy of the McDonald's All American Game and the past, present and future stars that defined it.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.2"
-    },
-    {
-      "id": "tt37798645",
-      "type": "movie",
-      "name": "Những căn phòng trống",
-      "poster": "https://image.tmdb.org/t/p/w500/ajOXPpgh96rxxaHqqQCoxPP6dH5.jpg",
-      "description": "Trong bộ phim tài liệu ngắn cảm động này, một nhà báo và một nhiếp ảnh gia bắt đầu tưởng niệm những phòng ngủ bị bỏ lại của những đứa trẻ thiệt mạng trong vụ xả súng ở trường học.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt6791824",
-      "type": "movie",
-      "name": "The Music of Magma",
-      "poster": "https://image.tmdb.org/t/p/w500/nfT4gFmHAcdOtQix4cQttc3eZ4v.jpg",
-      "description": "\"The Music of Magma\" is a feature film that explores one of the most visionary and innovative music of the last 50 years, Magma. It takes the audience on a fascinating journey through several countries where the band has been filmed, fascinating interviews with fans and musicians from the band along with an in-depth interview at the home of the visionary leader of the band, Christian Vander.",
-      "releaseInfo": "2017",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt1424432",
-      "type": "movie",
-      "name": "Senna",
-      "poster": "https://image.tmdb.org/t/p/w500/nZbLCbRoP6iJq5sr8daHQzjnzFh.jpg",
-      "description": "Bộ phim tài liệu tiết tấu nhanh kể về Ayrton Senna, một trong những tay đua cừ khôi nhất trong lịch sử giải Công thức Một và cũng là một người hùng tại quê hương Brazil.",
-      "releaseInfo": "2010",
-      "imdbRating": "8.4"
-    },
-    {
-      "id": "tt0800312",
-      "type": "movie",
-      "name": "Betelnut Bisnis",
-      "poster": "https://live.metahub.space/poster/small/tt0800312/img",
-      "description": "In the Highlands of Papua New Guinea, a grassroots family makes a precarious living by trading in betelnut, one of the world's most widely used narcotics. This is the story of resilient people who have few material possessions but who face each day with dignity and quiet determination. As they go about their daily work, the film presents us with a vivid portrait of present-day life in Papua New Guinea.",
-      "releaseInfo": "2004",
-      "imdbRating": "6.9"
-    },
-    {
-      "id": "tt39049795",
-      "type": "movie",
-      "name": "Evil Influencer: The Jodi Hildebrandt Story",
-      "poster": "https://image.tmdb.org/t/p/w500/xCawp08whOaJS434IDlBytX7sSm.jpg",
-      "description": "Unravel the case of Utah therapist Jodi Hildebrandt, whose child abuse arrest with parenting YouTuber Ruby Franke exposed a twisted tale of manipulation.",
-      "releaseInfo": "2025",
-      "imdbRating": "6.1"
-    },
-    {
-      "id": "tt0493430",
-      "type": "movie",
-      "name": "Jackass Number Two",
-      "poster": "https://image.tmdb.org/t/p/w500/u73V8dMqUwjtPL6gWesCE7ji9GU.jpg",
-      "description": "Jackass Number Two is a compilation of various stunts, pranks and skits, and essentially has no plot. Chris Pontius, Johnny Knoxville, Steve-O, Bam Margera, and the whole crew return to the screen to raise the stakes higher than ever before.",
-      "releaseInfo": "2006",
-      "imdbRating": "7.0"
-    },
-    {
-      "id": "tt4148716",
-      "type": "movie",
-      "name": "Uranium",
-      "poster": "https://image.tmdb.org/t/p/w500/fSvK65qdO6VAOjE8a0GbEKFbARK.jpg",
-      "description": "Explores the consequences of uranium mining in Canada. Toxic and radioactive waste pose profound, long-term environmental hazards. Miners suffer a substantially increased risk of getting cancer. Most mining occurs on Indigenous People's land, violating their traditional economic and spiritual lives. Given our limited knowledge of the risks associated with uranium mining, why continue?",
-      "releaseInfo": "1990"
-    },
-    {
-      "id": "tt36751759",
-      "type": "movie",
-      "name": "Wick Is Pain",
-      "poster": "https://image.tmdb.org/t/p/w500/ctZ9bjmCYyfFt3cUepc9axr0zHs.jpg",
-      "description": "Witness the never-before-seen footage and true story behind the John Wick phenomenon – from independent film to billion-dollar franchise.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt7775622",
-      "type": "movie",
-      "name": "Chinh Phục Vách Núi El Captain",
-      "poster": "https://image.tmdb.org/t/p/w500/v4QfYZMACODlWul9doN9RxE99ag.jpg",
-      "description": "Free Solo khiến khán giả hồi hộp khi thưởng thức vì phải chờ xem điều gì sẽ xảy đến tiếp theo trong câu chuyện nghẹt thở về vận động viên leo núi chuyên nghiệp Alex Honnold khi anh tay không chinh phục El Capitan - một vách núi đá granite cao 914.4m tại công viên quốc gia Yosemite. Leo lên vách đá dựng nổi tiếng nhất thế giới không dùng dây và thiết bị an toàn là một kỳ tích chưa từng có. Honnold sẽ thách thức giới hạn chịu đựng của con người cả về mặt thể chất và tinh thần.\r Giành giải #Oscar cho Phim tài liệu xuất sắc nhất và nhận được cơn mưa lời khen, được đánh giá là một trong những bộ phim tài liệu thành công nhất mọi thời đại.",
-      "releaseInfo": "2018",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt0379557",
-      "type": "movie",
-      "name": "Touching the Void",
-      "poster": "https://image.tmdb.org/t/p/w500/fsydA5H8FSDaYlYWddfMpMpDUX.jpg",
-      "description": "The true story of Joe Simpson and Simon Yates' disastrous and nearly-fatal mountain climb of 6,344m Siula Grande in the Cordillera Huayhuash in the Peruvian Andes in 1985.",
-      "releaseInfo": "2003",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt0846789",
-      "type": "movie",
-      "name": "The Secret",
-      "poster": "https://image.tmdb.org/t/p/w500/yDpyYUrVAgyWYADeYbGY4vWKjZV.jpg",
-      "description": "Interviews with leading authors, philosophers and scientists, with an in-depth discussion of the Law of Attraction. The audience is shown how they can learn and use 'The Secret' in their everyday lives.",
-      "releaseInfo": "2006",
-      "imdbRating": "5.6"
-    },
-    {
-      "id": "tt39150288",
-      "type": "movie",
-      "name": "Chinh Phục Cột Mốc Cuối Cùng: K2 Giữa Mùa Đông - The Last First: Winter K2",
-      "poster": "https://image.tmdb.org/t/p/w500/Ad4313cXb4ZBYekg8muYnYJiJSN.jpg",
-      "description": "Cuộc đua lịch sử để tiên phong lên đỉnh K2 vào mùa đông đã biến thành thảm kịch, phơi bày tham vọng, cái tôi và khát vọng vinh quang cũng có thể chết chóc như chính ngọn núi ấy.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.4"
-    },
-    {
-      "id": "tt6856240",
-      "type": "movie",
-      "name": "Finding Maawirrangga",
-      "poster": "https://image.tmdb.org/t/p/w500/s1qRmfplh3TJAZvEyDpvWG69yk8.jpg",
-      "description": "Tom E Lewis knows he must die with all of his Songs. After years of haunting silence, he returns to his Grandmothers’ country to seek the permission of the Jungayi (Lawmen) to learn Thumbul corroboree (Morning Star). With the family’s blessing through ceremony, the spirits, stars and ancestors help Tom prepare to find the mysterious Sandy Island of Maawirrangga by singing.",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt0497116",
-      "type": "movie",
-      "name": "An Inconvenient Truth",
-      "poster": "https://image.tmdb.org/t/p/w500/zrYT5UHE2UIsofwkv6KK2Tsu5a.jpg",
-      "description": "A documentary on Al Gore's campaign to make the issue of global warming a recognized problem worldwide.",
-      "releaseInfo": "2006",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt2786328",
-      "type": "movie",
-      "name": "L'anneau",
-      "poster": "https://image.tmdb.org/t/p/w500/2gfDpii6TmBN3bcAqFxnt15pvOQ.jpg",
-      "description": "The Circle is a documentary about the Large Hadron Collider. The LHC is a gigantic scientific instrument near Geneva, where it spans the border between Switzerland and France about 100m underground. It is a 27km particle accelerator used by physicists to study the origin of everything. Results and interpretation of the collisions of particles will revolutionize our understanding of the Universe and how it began. The Circle leaves the scientific aspect of the experiment and makes a journey above the ground. We follow the 27km circle in an existential search for local people with an opinion about what's happening below.",
+      "id": "tt2294916",
+      "type": "movie",
+      "name": "The Image Revolution",
+      "poster": "https://image.tmdb.org/t/p/w500/p49QvZ3Ci0yE5FNgAUThL77QAAt.jpg",
+      "description": "Twenty years ago, seven superstar artists left Marvel Comics to create their own company, Image Comics, a company that continues to influence mainstream comics and pop culture to this day. Image began as more than just a publisher - it was a response to years of creator mistreatment, and changed comics forever. The Image Revolution tells the story of Image Comics, from its founders' work at Marvel, through Image's early success, company difficulties during the comics market implosion, and ultimately the publisher's new generation of properties like The Walking Dead. Filled with colorful characters, the film is a clarion call to artists to take control of their destiny.",
       "releaseInfo": "2013",
-      "imdbRating": "7.8"
+      "imdbRating": "7.1"
     },
     {
-      "id": "tt0438958",
+      "id": "tt35627915",
       "type": "movie",
-      "name": "88.9 Radio Redfern",
-      "poster": "https://image.tmdb.org/t/p/w500/rwxYS3AB1YgE8SHCiJxzwUjW3au.jpg",
-      "description": "An observational documentary which looks at Sydney’s first community Aboriginal radio station, 88.9 Radio Redfern. Set against a backdrop of contemporary Aboriginal music, 88.9 Radio Redfern offers a special and rare exploration of the people, attitudes and philosophies behind the lead up to a different type of celebration of Australia’s Bicentennial Year. Throughout 1988, 88.9 Radio Redfern became an important focal point for communication and solidarity within the Aboriginal community. The film reveals how urban blacks are adapting social structures such as the mass media to serve their needs.",
-      "releaseInfo": "1989"
-    },
-    {
-      "id": "tt43442522",
-      "type": "movie",
-      "name": "LINKIN PARK: UNSHATTER",
-      "poster": "https://image.tmdb.org/t/p/w500/kHNrz7DBVPrtyMhJxmBm2poS2l9.jpg",
-      "description": "After a seven-year hiatus following the devastating loss of their beloved bandmate Chester Bennington, LINKIN PARK'S remaining members struggled to find their way forward. Their shared history and enduring friendship, combined with the fresh perspective of two new band members Emily Armstrong and Colin Brittain spark a renewed creative energy that leads them on a transformative journey of artistic reinvention. Following the band from intimate 2022 studio sessions through their explosive FROM ZERO album release and concert in São Paulo, this documentary weaves together rare vault footage, electrifying performances from sold-out shows, and candid interviews with band members and fans—capturing the raw, honest story of what it means to start over.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt39227311",
-      "type": "movie",
-      "name": "Cheetahs Up Close with Bertie Gregory",
-      "poster": "https://image.tmdb.org/t/p/w500/pSmSgFb1cnRQep0OzcuKWMYWeqR.jpg",
-      "description": "Bertie arrives in the Serengeti as the spectacular wildebeest migration kicks off. He’s here to film the fastest land animal on Earth: the cheetah. As he gets close to a mother caring for her tiny cubs and a young group of males executing phenomenal hunts as a team, he learns about the unexpected challenges the species endures.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt0479765",
-      "type": "movie",
-      "name": "Tiger!",
-      "poster": "https://image.tmdb.org/t/p/w500/jYsh6arUv9HjPT8ZC8ZZpwbcAwY.jpg",
-      "description": "Tiger! is a compelling story about a wrestling legend who turned 60 in 2004. For most people this would be seen as a good time to retire on a 100 acre property. Tiger chooses instead to take on 36 year old Japanese Judo champion Naoya Ogawa.  ‘Tiger!' is a riveting story with a nail-biting climax.",
-      "releaseInfo": "2005"
+      "name": "Đời của Eddie",
+      "poster": "https://image.tmdb.org/t/p/w500/8behxK3x7kiCupdrENmOCkOcs8N.jpg",
+      "description": "Ở bộ phim tài liệu toàn sao này, Eddie Murphy nhìn lại hành trình phi thường của mình, từ cây hài tuổi teen đi lên huyền thoại Hollywood, với sự hài hước và chân thực trần trụi.",
+      "releaseInfo": "2025"
     },
     {
       "id": "tt35882698",
@@ -814,31 +54,93 @@
       "imdbRating": "6.8"
     },
     {
-      "id": "tt0427312",
+      "id": "tt27798047",
       "type": "movie",
-      "name": "Grizzly Man",
-      "poster": "https://image.tmdb.org/t/p/w500/zuZWpcuye25rpsiZ4XzsAvmLDHG.jpg",
-      "description": "Follows the story of \"Grizzly Man\" Timothy Treadwell and what the thirteen summers in a National Park in Alaska were like in his attempt to protect the grizzly bears. The film is full of unique images and a look into the spirit of a man who sacrificed himself for nature.",
-      "releaseInfo": "2005",
-      "imdbRating": "7.8"
+      "name": "Marvel Studios Assembled: The Making of Ant-Man and the Wasp: Quantumania",
+      "poster": "https://image.tmdb.org/t/p/w500/xgfnWe9NFXT5o3QndRnU5ylkxyp.jpg",
+      "description": "Join cast and crew as they delve deep into the creation of \"Ant-Man and The Wasp: Quantumania.\" Combining immersive behind-the-scenes footage with candid interviews, Assembled reveals how an incredible new world was brought to the screen.",
+      "releaseInfo": "2023",
+      "imdbRating": "6.8"
     },
     {
-      "id": "tt17048330",
+      "id": "tt9203832",
       "type": "movie",
-      "name": "Gấu Bắc Cực",
-      "poster": "https://image.tmdb.org/t/p/w500/nCRUQcbBs6Ix6YaBeCgC9OwE0mt.jpg",
-      "description": "A new mother’s memories of her own youth prepare her to navigate motherhood in the increasingly challenging world that polar bears face today.",
-      "releaseInfo": "2022",
+      "name": "Quả Cầu Lửa: Những Vị Khách Từ Vũ Trụ - Fireball: Visitors from Darker Worlds",
+      "poster": "https://image.tmdb.org/t/p/w500/7oW0EgMvEiQSndQi9WnW4XmcW5k.jpg",
+      "description": "Werner Herzog và Clive Oppenheimer mang đến một hành trình xuyên Trái Đất và vũ trụ để khám phá cách các thiên thạch, sao băng hay những vụ va chạm lớn đánh thức trí tò mò của chúng ta về các thế giới khác và nhìn nhận lại vận mệnh của mình.",
+      "releaseInfo": "2020",
       "imdbRating": "6.9"
     },
     {
-      "id": "tt41157050",
+      "id": "tt9617716",
       "type": "movie",
-      "name": "Sleeping Dog",
-      "poster": "https://image.tmdb.org/t/p/w500/yosFDSuHlWwIfM0QTZN8a4OxPPO.jpg",
-      "description": "Investigative journalist Jeremy Corbell emerges as a key figure in a dangerous fight to uncover the truth about UAPs, driven by rare access and knowledge few possess. As his pursuit deepens, so do the risks of exposing what was never meant to be seen.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.1"
+      "name": "Everybody’s Everything",
+      "poster": "https://image.tmdb.org/t/p/w500/wbMkjkNX8VylPVLmQ2Dp6i5iayY.jpg",
+      "description": "The story of artist Lil Peep from his birth in Long Island and meteoric rise as a genre blending pop star & style icon, to his death due to an accidental opioid overdose in Arizona at just 21 years of age.",
+      "releaseInfo": "2019",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt1645089",
+      "type": "movie",
+      "name": "Cuộc Khủng Hoảng Kinh Tế",
+      "poster": "https://image.tmdb.org/t/p/w500/7yXXIWec24htucjsZS1sDuPLqw8.jpg",
+      "description": "Cuộc khủng hoảng tài chính toàn cầu diễn ra vào mùa Thu năm 2008 đã gây ra hàng triệu người mất việc làm và nhà cửa và đẩy Hoa Kỳ vào một cuộc suy thoái kinh tế sâu sắc. Matt Damon thuật lại một bộ phim tài liệu cung cấp một cuộc kiểm tra chi tiết về các yếu tố dẫn đến sự sụp đổ và xác định những người chơi chính về tài chính và chính trị. Giám đốc Charles Ferguson thực hiện một loạt các cuộc phỏng vấn và theo dõi câu chuyện từ Hoa Kỳ, Trung Quốc đến Iceland đến một số điểm nóng tài chính toàn cầu khác.",
+      "releaseInfo": "2010",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt33813121",
+      "type": "movie",
+      "name": "Surveilled",
+      "poster": "https://image.tmdb.org/t/p/w500/ihBBgm2Nz754KRnsqQwhuNDvFsC.jpg",
+      "description": "Uncover the insidious ways in which our daily lives are being surveilled by the state. In a gripping chase, Ronan Farrow travels across the world following breadcrumbs and finally exposing a dark world of spywares, hacking, and peddling of private information, where activists and journalists are persecuted, and no one is protected from the watchful and vicious eyes of authoritarianism.",
+      "releaseInfo": "2024",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt3313396",
+      "type": "movie",
+      "name": "Hätäkutsu",
+      "poster": "https://live.metahub.space/poster/small/tt3313396/img",
+      "description": "Being human is a fragile and fleeting opportunity to experience life and the universe around us. In the face of overwhelming darkness all we can do is to rely on and find solace in one another. The film is based on authentic emergency calls and radio traffic.",
+      "releaseInfo": "2013",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt14992922",
+      "type": "movie",
+      "name": "Kẻ Lừa Đảo Trên Tinder",
+      "poster": "https://image.tmdb.org/t/p/w500/iLUSFjdavIf0SrP7ldoQ1xomQVC.jpg",
+      "description": "Giả làm trùm kim cương giàu có và sang chảnh, gã dụ dỗ phụ nữ trên mạng sau đó lừa họ hàng triệu đô la. Giờ thì một số nạn nhân đang lên kế hoạch trả đũa.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt35661231",
+      "type": "movie",
+      "name": "Aida Returns",
+      "poster": "https://image.tmdb.org/t/p/w500/hRL37Jelx3EcddqK4JC01YHzDkI.jpg",
+      "description": "A poignant, sometimes sad, sometimes painful, sometimes humorous, often absurd story of a multiple journey: the journey of loss as the director’s mother Aida struggled with losing herself to Alzheimer’s disease, but finding solace in her repeated “returning” to the Yafa and Palestine of her youth; the journey of the loss of a parent; and the ultimate return journey back to Yafa where Aida would finally find rest and be herself once more.",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt6189052",
+      "type": "movie",
+      "name": "X-Rated 2: The Greatest Adult Stars of All Time",
+      "poster": "https://image.tmdb.org/t/p/w500/n22dgC0qBbYVeDGRLOuQSoihWAD.jpg",
+      "description": "Documentary sequel that offers a close-up look into the personal lives of the legendary porn stars who've survived the test of time and influenced popular culture. Blends rare interviews with erotic clips and additional appearances by Whoopi Goldberg, Steven Soderbergh and a host of adult stars, directors and trendsetters.",
+      "releaseInfo": "2016",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt26739529",
+      "type": "movie",
+      "name": "Cảnh ăn tiền: Câu chuyện về Pornhub",
+      "poster": "https://image.tmdb.org/t/p/w500/kpTqWqLYcf1uErnx5VXLah4EWJZ.jpg",
+      "description": "Xoay quanh các cuộc phỏng vấn với người biểu diễn, nhà hoạt động và cựu nhân viên, bộ phim tài liệu này tìm hiểu sâu về những thành công cũng như bê bối của Pornhub.",
+      "releaseInfo": "2023",
+      "imdbRating": "5.4"
     },
     {
       "id": "tt27902121",
@@ -850,12 +152,439 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt35627915",
+      "id": "tt21862424",
       "type": "movie",
-      "name": "Đời của Eddie",
-      "poster": "https://image.tmdb.org/t/p/w500/8behxK3x7kiCupdrENmOCkOcs8N.jpg",
-      "description": "Ở bộ phim tài liệu toàn sao này, Eddie Murphy nhìn lại hành trình phi thường của mình, từ cây hài tuổi teen đi lên huyền thoại Hollywood, với sự hài hước và chân thực trần trụi.",
-      "releaseInfo": "2025"
+      "name": "Marvel Studios Assembled: The Making of Thor: Love and Thunder",
+      "poster": "https://image.tmdb.org/t/p/w500/eb7GP3cttApzilOOM52L129Eaaj.jpg",
+      "description": "Settle in with the likes of Taika Waititi, Chris Hemsworth, Natalie Portman, Christian Bale, and Tessa Thompson, and as they divulge the secrets behind the creation of Thor: Love and Thunder. Through in-depth interviews with cast and crew, along with raw, unseen footage from the set and beyond, this documentary special pulls back the curtain on the God of Thunder’s fourth feature film.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt0220678",
+      "type": "movie",
+      "name": "Old Man River",
+      "poster": "https://image.tmdb.org/t/p/w500/vDbupeLKRpeMhOJNLVmXIPu2xSS.jpg",
+      "description": "Documentary film version of the stage show in which actress Cynthia Gates Fujikawa explores the story of her father, actor Jerry Fujikawa, who had a long career in films and television, most often as a stereotyped Asian. The daughter, in the course of searching out her late father's history, discovers many things that she had not known, among them that her father had spent time in Manzanar, the internment camp for Japanese-Americans during World War II, that he had had a family prior to hers, and that somewhere out there was a sister she had never known existed.",
+      "releaseInfo": "1999",
+      "imdbRating": "6.1"
+    },
+    {
+      "id": "tt26084136",
+      "type": "movie",
+      "name": "Being Mary Tyler Moore",
+      "poster": "https://image.tmdb.org/t/p/w500/2A6MSRDblLl7X4gVPVxigc7psqG.jpg",
+      "description": "With unprecedented access to the Mary Tyler Moore Estate, friends, family, and colleagues, Being Mary Tyler Moore constructs an intimate mosaic of Mary's sixty-year career in show business.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt23830102",
+      "type": "movie",
+      "name": "Hậu trường: 1899",
+      "poster": "https://image.tmdb.org/t/p/w500/3sw8RaHlGBiG965j0xeVL5HDKzc.jpg",
+      "description": "Cùng bước vào hậu trường và tìm hiểu cách đội ngũ sáng tạo của \"Đêm lặng\" sử dụng công nghệ ảo đột phá \"The Volume\" để quay loạt phim bí ẩn mới của họ.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt38633124",
+      "type": "movie",
+      "name": "Thoughts & Prayers",
+      "poster": "https://image.tmdb.org/t/p/w500/y9GzO4jCjpurBWvgGp6clqdSK1G.jpg",
+      "description": "In a dystopic America, children are taught how to prepare for school shootings through elaborate drills. Yet what are intended as self-defense mechanisms are themselves deeply traumatic for students, parents, educators, and entire communities.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt36367119",
+      "type": "movie",
+      "name": "Sea Lions of the Galapagos",
+      "poster": "https://image.tmdb.org/t/p/w500/mvL8P5lTIlrNdi20xQKZgez1NAP.jpg",
+      "description": "Follow Leo, a handsome sea lion pup who's learning how to navigate life alongside his mother, Luna.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt1223236",
+      "type": "movie",
+      "name": "African Cats",
+      "poster": "https://image.tmdb.org/t/p/w500/nERPMF2kHjc1slLHZYZGwcWX9kg.jpg",
+      "description": "African Cats captures the real-life love, humor and determination of the majestic kings of the savanna. The story features Mara, an endearing lion cub who strives to grow up with her mother’s strength, spirit and wisdom; Sita, a fearless cheetah and single mother of five mischievous newborns; and Fang, a proud leader of the pride who must defend his family from a once banished lion.",
+      "releaseInfo": "2011",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt17048330",
+      "type": "movie",
+      "name": "Gấu Bắc Cực",
+      "poster": "https://image.tmdb.org/t/p/w500/nCRUQcbBs6Ix6YaBeCgC9OwE0mt.jpg",
+      "description": "A new mother’s memories of her own youth prepare her to navigate motherhood in the increasingly challenging world that polar bears face today.",
+      "releaseInfo": "2022",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt1863171",
+      "type": "movie",
+      "name": "A Canadian Dream",
+      "poster": "https://image.tmdb.org/t/p/w500/6OaeWY1UiQYJrCwbc8VTX1Q0XeG.jpg",
+      "description": "Fly along as Benjamin Jordan sets a new World Distance Record (10,000 km) as he crosses Canada by Powered Paraglider. Along the way, you will land at summer camps and inspire thousands of children, while raising funds to send less fortunate ones to summer camp next year!  The 71 minute, Documentary Feature contains 15 chapters chronicling the epic successes and failures of this unprecedented journey. Each chapter focuses on a unique aspect of Canadian geography, culture and the exact mix of team-work and blind optimism required to pull off such a daring stunt.  Since it's release in 2010, A Canadian Dream (formerly \"DREAM\") has screened in theatres world-wide and, through it's proceeds, has allowed almost 100 children, from low-income homes, the opportunity to attend summer camp.",
+      "releaseInfo": "2011",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt11464826",
+      "type": "movie",
+      "name": "The Social Dilemma",
+      "poster": "https://image.tmdb.org/t/p/w500/jcaM6V2tCtu6iMHDsGLBUbaYgYp.jpg",
+      "description": "Các chuyên gia công nghệ gióng lên hồi chuông cảnh báo về tác động nguy hiểm của mạng xã hội đối với con người.",
+      "releaseInfo": "2020",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt2327974",
+      "type": "movie",
+      "name": "Edward Abbey: A Voice in the Wilderness",
+      "poster": "https://image.tmdb.org/t/p/w500/aLM99E9pklfcd22NhiTfQkh83Yk.jpg",
+      "description": "When Edward Abbey died in 1989 at the age of sixty-two, the American West lost one of its most eloquent and passionate advocates. Through his novels, essays, letters and speeches, Edward Abbey consistently voiced the belief that the West was in danger of being developed to death, and that the only solution lay in the preservation of wilderness. Abbey authored twenty-one books in his lifetime, including Desert Solitaire, The Monkey Wrench Gang, The Brave Cowboy, and The Fool's Progress. His comic novel The Monkey Wrench Gang helped inspire a whole generation of environmental activism. A writer in the mold of Twain and Thoreau, Abbey was a larger-than-life figure as big as the West itself.",
+      "releaseInfo": "1993",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt16227014",
+      "type": "movie",
+      "name": "Fire of Love",
+      "poster": "https://image.tmdb.org/t/p/w500/9smEX8UP84yb2GisLwyAyQKvCWS.jpg",
+      "description": "A doomed love triangle between intrepid French scientists Katia and Maurice Krafft, and their beloved volcanoes.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt16277412",
+      "type": "movie",
+      "name": "Freddie Mercury: The Final Act",
+      "poster": "https://image.tmdb.org/t/p/w500/tctFh2aNKCG7C1l5oPQGxK8qvHn.jpg",
+      "description": "The story of the extraordinary final chapter of Freddie Mercury’s life and how, after his death from AIDS, Queen staged one of the biggest concerts in history, the Freddie Mercury Tribute Concert at Wembley Stadium, to celebrate his life and challenge the prejudices around HIV/AIDS. For the first time, Freddie's story is told alongside the experiences of those who tested positive for HIV and lost loved ones during the same period. Medical practitioners, survivors, and human rights campaigners recount the intensity of living through the AIDS pandemic and the moral panic it brought about.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt41777258",
+      "type": "movie",
+      "name": "Jamie Vardy",
+      "poster": "https://image.tmdb.org/t/p/w500/d0pODTh6FOwn87iOeXGb7nKOdNT.jpg",
+      "description": "From part-time footballer to Premier League legend, this is the story of Jamie Vardy's unprecedented path and his rise to the top against all odds.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt1582423",
+      "type": "movie",
+      "name": "Looking for Don Giovanni",
+      "poster": "https://image.tmdb.org/t/p/w500/zQy1nnDcap7AGwYJrjYWIvM6LHl.jpg",
+      "description": "In Baden-Baden, Nayo Titzin follows the producers of the opera Don Giovanni, created for the Innsbruck Festival of 2006. He is looking for a musical truth...  What if Mozart's masterwork Don Giovanni had been interpreted in a wrong way for more than two centuries? Conductor René Jacobs, famous for his performance of Così fan tutte and laureate of a Grammy Award for his innovative recording of The Marriage of Figaro, comes back with new ideas on the comprehension of one of the greatest operas of all times.  In this relevant documentary, Nayo Titzin clarifies and highlights all the brightness of those melodies and recitatives. Rewarded with many praises in the international press, this production shows the dramaturgical perfection of the \"opera of the operas,\" the absolute of the genre, as Wagner once said. Once more, the Bulgarian director offers a fun and subtle report, and makes sure that everyone will understand this myth.",
+      "releaseInfo": "2006",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt37660887",
+      "type": "movie",
+      "name": "Che đậy",
+      "poster": "https://image.tmdb.org/t/p/w500/3kVAkwPrNNw3kxe2yJVatj86QKo.jpg",
+      "description": "Ông đã cống hiến cả sự nghiệp để vạch trần những câu chuyện mà giới quyền lực muốn chôn vùi. Từ Mỹ Lai đến Abu Ghraib, hãy khám phá sự nghiệp cả đời của phóng viên Seymour Hersh.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt39314348",
+      "type": "movie",
+      "name": "Câu chuyện khỉ đột: Qua lời kể của David Attenborough",
+      "poster": "https://image.tmdb.org/t/p/w500/5X6VyjG0YYMbJu94l6xEY2YQvss.jpg",
+      "description": "Nhà tự nhiên học kỳ cựu David Attenborough kể lại câu chuyện về một đàn khỉ đột đặc biệt, từ lần đầu ông gặp chúng vào thập niên 70 cho đến hiện tại.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt10090796",
+      "type": "movie",
+      "name": "Trò Chơi Vương Quyền: Phiên Gác Cuối Cùng",
+      "poster": "https://image.tmdb.org/t/p/w500/tVyKpOYDtKzs4SOYCbZn4YNFWHI.jpg",
+      "description": "For a year, acclaimed British filmmaker Jeanie Finlay was embedded on the set of the hit HBO series “Game of Thrones,” chronicling the creation of the show’s most ambitious and complicated season.  Debuting one week after the series 8 finale, GAME OF THRONES: THE LAST WATCH delves deep into the mud and blood to reveal the tears and triumphs involved in the challenge of bringing the fantasy world of Westeros to life in the very real studios, fields and car-parks of Northern Ireland.  Made with unprecedented access, GAME OF THRONES: THE LAST WATCH is an up-close and personal portrait from the trenches of production, following the crew and the cast as they contend with extreme weather, punishing deadlines and an ever-excited fandom hungry for spoilers.  Much more than a “making of” documentary, this is a funny, heartbreaking story, told with wit and intimacy, about the bittersweet pleasures of what it means to create a world – and then have to say goodbye to it.",
+      "releaseInfo": "2019",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt43595399",
+      "type": "movie",
+      "name": "Đắm Tàu: Ác Mộng Trên Biển",
+      "poster": "https://image.tmdb.org/t/p/w500/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+      "description": "Qua những thước phim chưa từng công bố và lời kể của những người sống sót, bộ phim tài liệu sống động này tái hiện vụ đắm tàu du lịch hạng sang năm 2012 và thảm họa xảy ra sau đó.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt16301388",
+      "type": "movie",
+      "name": "Death to 2021",
+      "poster": "https://image.tmdb.org/t/p/w500/qGt48Z1j4TuzPti8ZNWqqypa6w.jpg",
+      "description": "This comedic retrospective mixes archival footage and scripted sketches as it revisits all the dread — and occasional delight — that 2021 had to offer.",
+      "releaseInfo": "2021",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt11790780",
+      "type": "movie",
+      "name": "Nhà leo núi Alps",
+      "poster": "https://image.tmdb.org/t/p/w500/tYbSGAVbyACEExptLu63CxCGm4O.jpg",
+      "description": "Marc-André Leclerc, nhà leo núi một mình táo bạo nhưng ẩn dật, trở thành người hùng bất đắc dĩ khi leo lên những độ cao băng giá, đáng sợ nhất trên thế giới.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt5723550",
+      "type": "movie",
+      "name": "INAATE/SE/",
+      "poster": "https://image.tmdb.org/t/p/w500/iN66WVVEHyCJ6Yxfu5i82NZCRhI.jpg",
+      "description": "INAATE/SE/ re-imagines an ancient Ojibway story, the Seven Fires Prophecy, which both predates and predicts first contact with Europeans. A kaleidoscopic experience blending documentary, narrative, and experimental forms, INAATE/SE/ transcends linear colonized history to explore how the prophecy resonates through the generations in their indigenous community within Michigan’s Upper Peninsula. With acute geographic specificity, and grand historical scope, the film fixes its lens between the sacred and the profane to pry open the construction of contemporary indigenous identity.",
+      "releaseInfo": "2016",
+      "imdbRating": "6.1"
+    },
+    {
+      "id": "tt1424432",
+      "type": "movie",
+      "name": "Senna",
+      "poster": "https://image.tmdb.org/t/p/w500/nZbLCbRoP6iJq5sr8daHQzjnzFh.jpg",
+      "description": "Bộ phim tài liệu tiết tấu nhanh kể về Ayrton Senna, một trong những tay đua cừ khôi nhất trong lịch sử giải Công thức Một và cũng là một người hùng tại quê hương Brazil.",
+      "releaseInfo": "2010",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt2871222",
+      "type": "movie",
+      "name": "Un voyageur",
+      "poster": "https://image.tmdb.org/t/p/w500/3yezcC6fFIJ0ZfwFaBfMapTi5WM.jpg",
+      "description": "18 years after his last film, (The Troubles We've Seen), Marcel Ophuls emerges from retirement as one of our last masters, the most corrosive, the funniest as well. And the most forceful. The director of The Sorrow and the Pity shares with us stories of his exceptionally rich life in this light-hearted yet bitter escapade though the century and the movies. Son of the great Max Ophuls, he is generous in his admiration. We also meet Jeanne Moreau, Bertolt Brecht, Ernst Lubitsch, Otto Preminger, Woody Allen, Stanley Kubrick and of course François Truffaut. There are no great filmmakers without a memory, so here is the memory shop of Marcel Ophuls.",
+      "releaseInfo": "2013",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt4382552",
+      "type": "movie",
+      "name": "Cần Tuyển Chân Dài",
+      "poster": "https://image.tmdb.org/t/p/w500/75ot83QOkc02vujyzmIbumQCU6Y.jpg",
+      "description": "Bộ phim tài liệu gây tiếng vang tại Liên hoan phim Sundance 2015 của nhà sản xuất Rashida Jones xoay quanh công nghiệp khiêu dâm \"nghiệp dư\" và những phụ nữ trong đó.",
+      "releaseInfo": "2015",
+      "imdbRating": "6.1"
+    },
+    {
+      "id": "tt34965967",
+      "type": "movie",
+      "name": "Hiệu Trưởng Khiếm Thính Đầu Tiên",
+      "poster": "https://image.tmdb.org/t/p/w500/vbJuZuGEDHdrHe3UlJ9eqHbSnwe.jpg",
+      "description": "Khám phá câu chuyện về phong trào quyền dân sự lớn nhất từng được biết. Trong tám ngày rúng động năm 1988 ở trường đại học duy nhất cho người điếc trên thế giới, bốn sinh viên phải tìm cách lãnh đạo một cuộc cách mạng - và thay đổi tiến trình lịch sử.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt35291758",
+      "type": "movie",
+      "name": "Melania",
+      "poster": "https://image.tmdb.org/t/p/w500/ba6Silct0Y4pyvrSv0Tj0Urmx9f.jpg",
+      "description": "Offering unprecedented access to the 20 days leading up to the 2025 Presidential Inauguration — through the eyes of the First Lady-elect herself — step inside Melania Trump's world as she orchestrates inauguration plans, navigates the complexities of the White House transition, and reenters public life with her family. With exclusive footage capturing critical meetings, private conversations, and never-before-seen environments, Mrs. Trump returns to one of the world's most powerful roles.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt28612478",
+      "type": "movie",
+      "name": "American Santa",
+      "poster": "https://image.tmdb.org/t/p/w500/siTr0hPjeGP8CPmOj92ms3k1I18.jpg",
+      "description": "Black Santas are local heroes, spreading joy and love to children and families at a bustling mall during the Christmas season. But even during this special time, the ugly shadow of bigotry falls on the season's true spirit.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt30023697",
+      "type": "movie",
+      "name": "Timeless Heroes: Indiana Jones and Harrison Ford",
+      "poster": "https://image.tmdb.org/t/p/w500/4zYaIzbrdnR0AyaTo2HZf2TJNVy.jpg",
+      "description": "An in-depth look at an incredible moment in film history when Steven Spielberg and George Lucas assembled an amazing creative team to collaborate on another cinematic benchmark featuring never-before-seen footage and interviews with Spielberg, Lucas, Harrison Ford, Kathleen Kennedy, Frank Marshall, James Mangold, and many others as well.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt31497750",
+      "type": "movie",
+      "name": "Tiger",
+      "poster": "https://image.tmdb.org/t/p/w500/pHWcpdSFDKFnxZUF66MPfJRaA5a.jpg",
+      "description": "Journey alongside a young tigress raising her cubs in the fabled forests of India.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt36464353",
+      "type": "movie",
+      "name": "My Mom Jayne",
+      "poster": "https://image.tmdb.org/t/p/w500/6KpfMouMavYr1UwTz6612YhYjbs.jpg",
+      "description": "Through deeply personal interviews with her siblings and an examination of the photographs, letters, and belongings left behind, Mariska assembles a new portrait of her mother Jayne Mansfield, an extraordinary and complex woman.",
+      "releaseInfo": "2025",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt6627272",
+      "type": "movie",
+      "name": "Übermensch",
+      "poster": "https://image.tmdb.org/t/p/w500/fmH77UXvM8gjoOoVxY9ea6asdhQ.jpg",
+      "description": "Two transient young men break into an empty church by the sea to form a blood pact: to get rid of their childhood demons and escape the cycle of anxiety and authorities. “It’s not goth to be afraid of darkness”, they agree.",
+      "releaseInfo": "2017",
+      "imdbRating": "5.9"
+    },
+    {
+      "id": "tt13622130",
+      "type": "movie",
+      "name": "Dưới Lòng Đại Dương - Fathom",
+      "poster": "https://image.tmdb.org/t/p/w500/aSWKHx99rCyVX7jvSPzZS1w2IsZ.jpg",
+      "description": "Hai nhà sinh vật học tìm cách giải mã sự giao tiếp phức tạp của loài cá voi khổng lồ. Tiến sĩ Michelle Fournet và Tiến sĩ Ellen Garland nghiên cứu đại dương ở hai bán cầu đối lập với sứ mệnh khám phá một nền văn hóa lâu đời hơn cả nền văn minh nhân loại.",
+      "releaseInfo": "2021",
+      "imdbRating": "5.6"
+    },
+    {
+      "id": "tt19308034",
+      "type": "movie",
+      "name": "Jim Henson Idea Man",
+      "poster": "https://image.tmdb.org/t/p/w500/w1IYhFVW2XyKfkIyZ65jZ2Uyn6Y.jpg",
+      "description": "Featuring unprecedented access to Jim Henson's personal archives, filmmaker Ron Howard brings us a fascinating and insightful look at a complex man whose boundless imagination inspired the world.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt1149982",
+      "type": "movie",
+      "name": "Lost Kubrick: The Unfinished Films of Stanley Kubrick",
+      "poster": "https://image.tmdb.org/t/p/w500/8Xh67HxSWCkfYRfLmvN5g3MsFrd.jpg",
+      "description": "He is considered by many the greatest film director the medium has ever known. Yet in a 45-year career, Stanley Kubrick's films number only a dozen. That he strove for perfection is well established. What is less known is that he lavished years of energy on several films that never saw the flickering light of the silver screen. Through interviews and abundant archival materials, this documentary examines these \"lost\" films in depth to discover what drew Kubrick to these projects, the work he did to prepare them for production, and why they ultimately were abandoned.",
+      "releaseInfo": "2007",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt6211764",
+      "type": "movie",
+      "name": "XXXXXXX",
+      "poster": "https://image.tmdb.org/t/p/w500/vHwkMU0gKTDlg5A5kdgvcwKLtP3.jpg",
+      "description": "A tarot card reading as a starting point.  A disruptive relationship as a point.  Translation of the cards' symbols to a joint.\r Of the domestic exploration for finding my voice.",
+      "releaseInfo": "2016",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt36751759",
+      "type": "movie",
+      "name": "Wick Is Pain",
+      "poster": "https://image.tmdb.org/t/p/w500/ctZ9bjmCYyfFt3cUepc9axr0zHs.jpg",
+      "description": "Witness the never-before-seen footage and true story behind the John Wick phenomenon – from independent film to billion-dollar franchise.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt37244013",
+      "type": "movie",
+      "name": "Sharks Up Close with Bertie Gregory",
+      "poster": "https://image.tmdb.org/t/p/w500/q9CxXe4Q8lpbLd2DdHzuk7rB1Xx.jpg",
+      "description": "Bertie heads to South Africa for his most audacious mission yet. The wild waters here are a hotspot for one of the ocean’s most famous and feared predators, the great white shark. Diving in the shallows without a cage, Bertie will attempt to film these huge sharks. By entering their domain, he discovers the challenges they face on our rapidly changing planet.",
+      "releaseInfo": "2025",
+      "imdbRating": "5.2"
+    },
+    {
+      "id": "tt8912280",
+      "type": "movie",
+      "name": "Starbucks Unfiltered",
+      "poster": "https://image.tmdb.org/t/p/w500/upvTIKkLMCL8qu2abXbE5UW9r2G.jpg",
+      "description": "How the American coffee chain, now global, has conquered the urban middle class. This investigation on three continents reveals the carefully hidden face of the brand.",
+      "releaseInfo": "2018",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt0116993",
+      "type": "movie",
+      "name": "Marlon Brando: The Wild One",
+      "poster": "https://image.tmdb.org/t/p/w500/gDYv1aJH33xkgu4VxyHd0nfSOxH.jpg",
+      "description": "An examination of the craft of Marlon Brando, narrated by professionals of the film industry. The film follows his career from the stage with \"A Streetcar Named Desire\", through the Actors Studio and professional relationships with Elia Kazan and Stella Adler to Hollywood. An actor who redefined the limits to which a professional may go in becoming the character not only intellectually but emotionally, Brando changed the meaning of film acting.",
+      "releaseInfo": "1994",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt1478841",
+      "type": "movie",
+      "name": "The Buddha",
+      "poster": "https://image.tmdb.org/t/p/w500/1nMwkLdJNvHKlqxl4iUN31yCSYO.jpg",
+      "description": "This documentary for PBS by award-winning filmmaker David Grubin and narrated by Richard Gere, tells the story of the Buddha’s life, a journey especially relevant to our own bewildering times of violent change and spiritual confusion. It features the work of some of the world’s greatest artists and sculptors, who across two millennia, have depicted the Buddha’s life in art rich in beauty and complexity. Hear insights into the ancient narrative by contemporary Buddhists, including Pulitzer Prize winning poet W.S. Merwin and His Holiness the Dalai Lama. Join the conversation and learn more about meditation, the history of Buddhism, and how to incorporate the Buddha’s teachings on compassion and mindfulness into daily life.",
+      "releaseInfo": "2010",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt36163614",
+      "type": "movie",
+      "name": "Iron Maiden: Burning Ambition",
+      "poster": "https://image.tmdb.org/t/p/w500/yZqhFJDenLfgF1VygOOCNmAdS1P.jpg",
+      "description": "With unprecedented access to the official archives and intimate recollections from the band, both current and past,  Iron Maiden: Burning Ambition invites fans to experience one of the most iconic journeys in music history.  Spanning five decades, this electrifying documentary charts the band’s rise from the pubs of East London to the world’s biggest stadiums. Featuring exclusive interviews with band members and contributors such as Javier Bardem, Lars Ulrich and Chuck D, as well as all-new animated sequences of the band's legendary mascot, Eddie, the film offers a rare and intimate look at Iron Maiden’s uncompromising vision and unwavering connection with their truly global army of fans.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt27647417",
+      "type": "movie",
+      "name": "Aaron Carter: The Little Prince of Pop",
+      "poster": "https://image.tmdb.org/t/p/w500/i8F7MYi1sU9DPFM8jMNu1Vg5Tc1.jpg",
+      "description": "Famous by age 9, struggling by age 20 and dead at ripe age of 34, this documentary dives deep into the life of pop singer Aaron Carter. He became a mainstay of the early 2000s pop scene, touring the world as a child solo artist with chart-topping hits like “I Want Candy” and earning the title “The Little Prince of Pop” from Michael Jackson. Just a few years after his rise to fame, Carter began a cycle of mental health struggles, experienced family turmoil, and grappled with addiction ― culminating in his untimely death in November 2022.",
+      "releaseInfo": "2023",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt33430223",
+      "type": "movie",
+      "name": "Under Fire",
+      "poster": "https://live.metahub.space/poster/small/tt33430223/img",
+      "description": "As a fire captain in Idaho, Rob has spent his life saving others. Now, with the help of an experimental therapy, he may just learn how to save himself."
+    },
+    {
+      "id": "tt44709899",
+      "type": "movie",
+      "name": "Love?",
+      "poster": "https://image.tmdb.org/t/p/w500/yD1m03l9SsXrjQkJJAIs7s9xeot.jpg",
+      "description": "A documentary about love. Filmed in Sicily, Italy. Filmmaker Boston B. interviews three people from around the world, Mexico, Ireland, and Italy, to see where they stand with love and how it affects them, from the magical to the grounded. He asks three questions: do you believe in true love, love at first sight, and the idea of \"the one\".",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt21098288",
+      "type": "movie",
+      "name": "Marvel Studios Assembled: The Making of Doctor Strange in the Multiverse of Madness",
+      "poster": "https://image.tmdb.org/t/p/w500/eIzPe62s12uHsIPhGWY1yp68DY9.jpg",
+      "description": "Join visionary director Sam Raimi and the cast of the film as they recount their experiences bringing Marvel’s darkest story to life.  From world-building to universe-building, hear first hand accounts from the cast and crew on what it took to design, create and make each universe unique and believable.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt5239180",
+      "type": "movie",
+      "name": "The Making of Trump",
+      "poster": "https://image.tmdb.org/t/p/w500/fIHlusoKfpEcK2k4AOFVPrkIglB.jpg",
+      "description": "As every day of Donald Trump's presidential campaign seemingly generates new headlines, this two-hour special examines the increasingly polarizing candidate's past. Included is rarely seen footage from Trump's interviews with Phil Donahue and his comments about politics from the floor of the 1988 Republican convention. Additionally, celebrities, politicians, and people described as \"close to The Donald\" weigh in, including former US Senator Al D'Amato (R-N.Y.), former Atlantic City mayor Jim Whelen, boxer Mike Tyson, and notorious \"Apprentice\" contestant Omarosa.",
+      "releaseInfo": "2015",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt28254460",
+      "type": "movie",
+      "name": "Sly",
+      "poster": "https://image.tmdb.org/t/p/w500/1utWajLPvv1R9ZwkD98s2ZEngS.jpg",
+      "description": "Đam mê điện ảnh của ông bắt đầu như một lối thoát khỏi tuổi thơ chông gai. Từ kẻ lép vế hóa huyền thoại Hollywood, Sylvester Stallone kể chuyện của mình trong bộ phim tài liệu này.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt0800312",
+      "type": "movie",
+      "name": "Betelnut Bisnis",
+      "poster": "https://live.metahub.space/poster/small/tt0800312/img",
+      "description": "In the Highlands of Papua New Guinea, a grassroots family makes a precarious living by trading in betelnut, one of the world's most widely used narcotics. This is the story of resilient people who have few material possessions but who face each day with dignity and quiet determination. As they go about their daily work, the film presents us with a vivid portrait of present-day life in Papua New Guinea.",
+      "releaseInfo": "2004",
+      "imdbRating": "6.9"
     },
     {
       "id": "tt2870648",
@@ -867,22 +596,299 @@
       "imdbRating": "7.8"
     },
     {
-      "id": "tt0104923",
+      "id": "tt0365109",
       "type": "movie",
-      "name": "Mountain Gorilla",
-      "poster": "https://image.tmdb.org/t/p/w500/kdSKo73EjKFKESR3RHCaQDpqLfR.jpg",
-      "description": "Mountain Gorilla takes us to a remote range of volcanic mountains in Africa, described by those who have been there as \"\"one of the most beautiful places in the world\"\", and home to the few hundred remaining mountain gorillas. In spending a day with a gorilla family in the mountain forest, audiences will be captivated by these intelligent and curious animals, as they eat, sleep, play and interact with each other. Although gorillas have been much-maligned in our popular culture, viewers will finally \"\"meet the legend\"\" face to face, and learn about their uncertain future.",
-      "releaseInfo": "1992",
-      "imdbRating": "6.6"
+      "name": "Deep Blue",
+      "poster": "https://image.tmdb.org/t/p/w500/lzKirFeKspU0PktaX5BfdhSofcT.jpg",
+      "description": "Deep Blue is a major documentary feature film shot by the BBC Natural History Unit. An epic cinematic rollercoaster ride for all ages, Deep Blue uses amazing footage to tell us the story of our oceans and the life they support.",
+      "releaseInfo": "2003",
+      "imdbRating": "7.4"
     },
     {
-      "id": "tt39298503",
+      "id": "tt37674426",
       "type": "movie",
-      "name": "Wild London",
-      "poster": "https://image.tmdb.org/t/p/w500/3yTYwbilgxE240qShWxcNmp9WHZ.jpg",
-      "description": "After a life spent travelling the globe, the world’s most famous naturalist turns his attention closer to home to explore the wildlife of England’s iconic capital. Having lived in London for 75 years, Sir David has an intimate knowledge of the city’s natural history, and there's no better guide to introduce us to its most spectacular wildlife secrets. Captured over his centennial year, this personal and poignant film is a timely insight into how cities can become homes for wildlife as well as ourselves.",
+      "name": "Số điện thoại lạ: Bê bối tin nhắn trung học",
+      "poster": "https://image.tmdb.org/t/p/w500/nu3LtgefE2lsgYw1hxHZFoBXk9U.jpg",
+      "description": "Những tin nhắn thô tục và khiêu khích đổ dồn vào điện thoại của một thiếu nữ và bạn trai. Là ai gửi chúng và tại sao? Bộ phim tài liệu bất ngờ này sẽ hé lộ câu trả lời gây sốc.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt31852840",
+      "type": "movie",
+      "name": "Tigers on the Rise",
+      "poster": "https://image.tmdb.org/t/p/w500/feaKvf7R80D4FlXEZei4NnRseAw.jpg",
+      "description": "Celebrate the remarkable comeback of tigers and the local heroes fighting to protect them.",
+      "releaseInfo": "2024",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0493430",
+      "type": "movie",
+      "name": "Jackass Number Two",
+      "poster": "https://image.tmdb.org/t/p/w500/u73V8dMqUwjtPL6gWesCE7ji9GU.jpg",
+      "description": "Jackass Number Two is a compilation of various stunts, pranks and skits, and essentially has no plot. Chris Pontius, Johnny Knoxville, Steve-O, Bam Margera, and the whole crew return to the screen to raise the stakes higher than ever before.",
+      "releaseInfo": "2006",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt44942157",
+      "type": "movie",
+      "name": "Instadocs: The Decoy Plane",
+      "poster": "https://image.tmdb.org/t/p/w500/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg",
+      "description": "A critical threat. A clandestine escape. And a Turkish catering truck? With firsthand accounts, \"Instadocs\" digs into what happened aboard Air Force One.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.7"
+    },
+    {
+      "id": "tt35348663",
+      "type": "movie",
+      "name": "Invisible Injuries",
+      "poster": "https://image.tmdb.org/t/p/w500/8hTVsqbmBoKOprQUH1e3MvcMB71.jpg",
+      "description": "After war, Australian veteran Andy Fermo returned home carrying invisible wounds. Invisible Injuries explores PTSD's impact on identity, family and daily life, and the courage it takes to heal, reconnect and keep moving forward.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt39140662",
+      "type": "movie",
+      "name": "Bắt cóc: Elizabeth Smart",
+      "poster": "https://image.tmdb.org/t/p/w500/8yuMPfz154d0PqX5PFXmgCCuTGd.jpg",
+      "description": "Trong bộ phim tài liệu này, vụ bắt cóc kinh hoàng của thiếu nữ 14 tuổi Elizabeth Smart tại nhà riêng ở Utah được hé lộ qua lời kể của nạn nhân và những tư liệu chưa từng công bố.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt1986938",
+      "type": "movie",
+      "name": "Revolution",
+      "poster": "https://image.tmdb.org/t/p/w500/3YH4FGxPq7NqMPTN9DxFs9Akq8C.jpg",
+      "description": "REVOLUTION is a film about changing the world, going for it, taking a stand, and fighting for something. A true-life adventure following Director, Rob Stewart (SHARKWATER) over four years and 15 countries discovering there is a lot more than sharks at risk of becoming extinct. Climate change, environmental degradation, species loss, ocean acidification, pollution, and food/water scarcity are reducing the earth's ability to house humans and we need to start doing something about it now!",
+      "releaseInfo": "2012",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt0361596",
+      "type": "movie",
+      "name": "Fahrenheit 9/11",
+      "poster": "https://image.tmdb.org/t/p/w500/cZ7M343iuiMDc36fSeSm699XQFv.jpg",
+      "description": "Michael Moore's view on how the Bush administration allegedly used the tragic events on 9/11 to push forward its agenda for unjust wars in Afghanistan and Iraq.",
+      "releaseInfo": "2004",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt39368489",
+      "type": "movie",
+      "name": "#SKYKING",
+      "poster": "https://image.tmdb.org/t/p/w500/4uXL16pegV9mccBeUqB9VGos5hv.jpg",
+      "description": "Tells the story of 28-year-old Horizon Air ground service agent Richard “Beebo” Russell, who, to the shock of all who knew him, clocked into work wearing a shirt that said “sky’s no limit,” stole a 33-million-dollar plane, and took off into the skies of the Pacific Northwest embarking on a white-knuckle flight that would come to embody the hopes, dreams, and despair of the American working class, and offer a timely look into the U.S. mental health crisis.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt0497116",
+      "type": "movie",
+      "name": "An Inconvenient Truth",
+      "poster": "https://image.tmdb.org/t/p/w500/zrYT5UHE2UIsofwkv6KK2Tsu5a.jpg",
+      "description": "A documentary on Al Gore's campaign to make the issue of global warming a recognized problem worldwide.",
+      "releaseInfo": "2006",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt0379557",
+      "type": "movie",
+      "name": "Touching the Void",
+      "poster": "https://image.tmdb.org/t/p/w500/fsydA5H8FSDaYlYWddfMpMpDUX.jpg",
+      "description": "The true story of Joe Simpson and Simon Yates' disastrous and nearly-fatal mountain climb of 6,344m Siula Grande in the Cordillera Huayhuash in the Peruvian Andes in 1985.",
+      "releaseInfo": "2003",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt0358456",
+      "type": "movie",
+      "name": "Earthlings",
+      "poster": "https://image.tmdb.org/t/p/w500/fcRUYYyDWLJPlX7D6RPtQwdU7G2.jpg",
+      "description": "Using hidden cameras and never-before-seen footage, Earthlings chronicles the day-to-day practices of the largest industries in the world, all of which rely entirely on animals for profit.",
+      "releaseInfo": "2005",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt0786125",
+      "type": "movie",
+      "name": "The Age of AIDS",
+      "poster": "https://image.tmdb.org/t/p/w500/ekrfrOH60yDgLd5YPUyrULFWOGe.jpg",
+      "description": "After a quarter-century of political denial and social stigma, of stunning scientific breakthroughs, bitter policy battles and inadequate prevention campaigns, HIV/AIDS continues to spread rapidly throughout much of the world. Through interviews with AIDS researchers, world leaders, activists, and patients, FRONTLINE investigates the science, politics, and human cost of this fateful disease and asks: What are the lessons of the past, and what can be done to stop AIDS?",
+      "releaseInfo": "2006",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt6370266",
+      "type": "movie",
+      "name": "Uốn cong vòng cung",
+      "poster": "https://image.tmdb.org/t/p/w500/dC2vkjnwhMOm79J5NVUbaFKhimv.jpg",
+      "description": "Phim tài liệu này dõi theo một nhóm người ủng hộ đầy tham vọng. Sứ mệnh cứu sống cư dân ở Haiti của họ biến thành một cuộc chiến vì công lý và chăm sóc sức khỏe toàn cầu.",
+      "releaseInfo": "2017",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt14578676",
+      "type": "movie",
+      "name": "Star Wars Biomes",
+      "poster": "https://image.tmdb.org/t/p/w500/4qkDuumUuGi5zl8Cqkc0aXYWr3E.jpg",
+      "description": "Take a virtual vacation to some of the Star Wars films' most iconic and beloved locations like Hoth, Tatooine, and Sorgan, as this charming series whisks you off for fly-through tours of the Galaxy Far, Far Away.",
+      "releaseInfo": "2021",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt28889780",
+      "type": "movie",
+      "name": "Marvel Studios Assembled: The Making of Loki Season 2",
+      "poster": "https://image.tmdb.org/t/p/w500/fa4HvgQO1sLQTobjJR10kDOJzWB.jpg",
+      "description": "Through candid interviews with the creative minds behind the show, and exclusive on-set footage, discover how the talented team that powered \"Loki: Season 2\" raised the stakes for this latest MCU adventure. Witness imaginative costumes, elaborate environments, and far-out variants come to life, meet new allies and foes, and time-slip across the Multiverse.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt12888462",
+      "type": "movie",
+      "name": "Cô Giáo Bạch Tuộc",
+      "poster": "https://image.tmdb.org/t/p/w500/hvTVZb7hBC8tZAGoEhH5eiMJu2B.jpg",
+      "description": "Có tình bạn khác thường với nàng bạch tuộc sống ở rừng tảo bẹ Nam Phi, một nhà làm phim tìm hiểu thêm nhiều điều khi sinh vật ấy chia sẻ những bí ẩn về thế giới của mình.",
+      "releaseInfo": "2020",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt39367709",
+      "type": "movie",
+      "name": "The Ascent",
+      "poster": "https://image.tmdb.org/t/p/w500/gRajJYjsZsGjdUjHsdg7CfPghZp.jpg",
+      "description": "The inspiring true story of bilateral-amputee climber Mandy Horvath's record-breaking attempt to crawl to the summit of Mt. Kilimanjaro and the mysterious circumstances under which she lost her legs at the age of 21.",
       "releaseInfo": "2026",
       "imdbRating": "8.1"
+    },
+    {
+      "id": "tt11697672",
+      "type": "movie",
+      "name": "Strength Wars",
+      "poster": "https://image.tmdb.org/t/p/w500/q0sg86tyxRzI8SaMOdPVnIAXB6q.jpg",
+      "description": "Strength Wars: The Movie follows the lives of eight athletes preparing for the ultimate strength competition. The prize? To be labeled the strongest man in the world. Putting two different types of athletes against each other, Strength Wars is the ultimate proving ground to test any given athlete's true strength. Eight athletes. Eight athletic disciplines. One winner. The film highlights eight men from across the globe including Larry Wheels, Terron Beckham, Blaine Sumner, NDO Champ, Big Neechi, Jerry Pritchett, Anabolic Horse, and Leonidas Arkona. Welcome to Strength Wars. May the best man win.",
+      "releaseInfo": "2021",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt2786328",
+      "type": "movie",
+      "name": "L'anneau",
+      "poster": "https://image.tmdb.org/t/p/w500/2gfDpii6TmBN3bcAqFxnt15pvOQ.jpg",
+      "description": "The Circle is a documentary about the Large Hadron Collider. The LHC is a gigantic scientific instrument near Geneva, where it spans the border between Switzerland and France about 100m underground. It is a 27km particle accelerator used by physicists to study the origin of everything. Results and interpretation of the collisions of particles will revolutionize our understanding of the Universe and how it began. The Circle leaves the scientific aspect of the experiment and makes a journey above the ground. We follow the 27km circle in an existential search for local people with an opinion about what's happening below.",
+      "releaseInfo": "2013",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt20425026",
+      "type": "movie",
+      "name": "Spider-Man: All Roads Lead to No Way Home",
+      "poster": "https://image.tmdb.org/t/p/w500/e2LLmI5wKIrWGAy9Of3yyWu7Szn.jpg",
+      "description": "JB Smoove and Martin Starr host a celebration of 20 years of \"Spider-Man\" movies, from the Sam Raimi trilogy to Marc Webb's movies and the trio from Jon Watts.",
+      "releaseInfo": "2022",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt9351980",
+      "type": "movie",
+      "name": "Công xưởng Hoa Kỳ",
+      "poster": "https://image.tmdb.org/t/p/w500/7jH3dQOJ3CHMrp9tWsI3rRCDiaD.jpg",
+      "description": "Trong bộ phim tài liệu này, hy vọng thêm tràn trề khi một công ty Trung Quốc mở lại nhà máy đã đóng cửa ở Ohio. Nhưng sự khác biệt về văn hóa có thể phá hỏng giấc mơ Mỹ.",
+      "releaseInfo": "2019",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt40232255",
+      "type": "movie",
+      "name": "Meal Ticket",
+      "poster": "https://image.tmdb.org/t/p/w500/4E4WA3bfbq4mgDGrFJMNit9U1gz.jpg",
+      "description": "Follow the untold story of the 47-year old legacy of the McDonald's All American Game and the past, present and future stars that defined it.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt0427312",
+      "type": "movie",
+      "name": "Grizzly Man",
+      "poster": "https://image.tmdb.org/t/p/w500/zuZWpcuye25rpsiZ4XzsAvmLDHG.jpg",
+      "description": "Follows the story of \"Grizzly Man\" Timothy Treadwell and what the thirteen summers in a National Park in Alaska were like in his attempt to protect the grizzly bears. The film is full of unique images and a look into the spirit of a man who sacrificed himself for nature.",
+      "releaseInfo": "2005",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt10327666",
+      "type": "movie",
+      "name": "Laughing Matters",
+      "poster": "https://image.tmdb.org/t/p/w500/iDIuRQ4b5U3JoBT76muxyJBCMIY.jpg",
+      "description": "Comedians come together for an honest look and real conversations about comedy + mental health because when the cost of bringing others joy is your own joy...the cost is too high.",
+      "releaseInfo": "2019",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt13648160",
+      "type": "movie",
+      "name": "Try Harder!",
+      "poster": "https://image.tmdb.org/t/p/w500/2qEFbQZKNiVVOFYCgZQW9H2LGT2.jpg",
+      "description": "In a universe where cool kids are nerds, the orchestra is world class and being Asian American is the norm, seniors at Lowell High School compete for the top prize: admission to the college of their dreams.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt20101594",
+      "type": "movie",
+      "name": "Universe Designed",
+      "poster": "https://image.tmdb.org/t/p/w500/5ZwtApFloy9gY8ui2raBQDg3CfJ.jpg",
+      "description": "\"Universe Designed\" is a documentary that explores some of the evidences for God's existence with interviews from some of the world's top Christian apologists.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt1313104",
+      "type": "movie",
+      "name": "The Cove",
+      "poster": "https://image.tmdb.org/t/p/w500/miodcVtQv2YxpKjjHJWcV0EDfSP.jpg",
+      "description": "The Cove tells the amazing true story of how an elite team of individuals, films makers and free divers embarked on a covert mission to penetrate the hidden cove in Japan, shining light on a dark and deadly secret. The shocking discoveries were only the tip of the iceberg.",
+      "releaseInfo": "2009",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt7775622",
+      "type": "movie",
+      "name": "Chinh Phục Vách Núi El Captain",
+      "poster": "https://image.tmdb.org/t/p/w500/v4QfYZMACODlWul9doN9RxE99ag.jpg",
+      "description": "Free Solo khiến khán giả hồi hộp khi thưởng thức vì phải chờ xem điều gì sẽ xảy đến tiếp theo trong câu chuyện nghẹt thở về vận động viên leo núi chuyên nghiệp Alex Honnold khi anh tay không chinh phục El Capitan - một vách núi đá granite cao 914.4m tại công viên quốc gia Yosemite. Leo lên vách đá dựng nổi tiếng nhất thế giới không dùng dây và thiết bị an toàn là một kỳ tích chưa từng có. Honnold sẽ thách thức giới hạn chịu đựng của con người cả về mặt thể chất và tinh thần.\r Giành giải #Oscar cho Phim tài liệu xuất sắc nhất và nhận được cơn mưa lời khen, được đánh giá là một trong những bộ phim tài liệu thành công nhất mọi thời đại.",
+      "releaseInfo": "2018",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt34872408",
+      "type": "movie",
+      "name": "Googie",
+      "poster": "https://image.tmdb.org/t/p/w500/wX0hj5ITMdLSrCVQUtjoBBkHwZm.jpg",
+      "description": "Googie architecture was one of the most visually exuberant and culturally formative design movements of the mid-20th century, yet it remains widely misunderstood. Defined by bold angles, sweeping rooflines, neon signage, and a sense of space-age optimism, Googie transformed everyday buildings into roadside spectacle. Coffee shops, bowling alleys, car washes, banks, and churches were designed not just for function, but to captivate motorists cruising by.  Rooted in Los Angeles, the movement drew inspiration from visionary architects such as Frank Lloyd Wright and John Lautner, while firms like Armet & Davis brought futuristic flair to the commercial landscape. Though many original structures have been lost, preservationists now champion Googie as a serious architectural expression—one that captured the aspirations of postwar America and reshaped the visual identity of the modern city.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt1232207",
+      "type": "movie",
+      "name": "Capitalism: A Love Story",
+      "poster": "https://image.tmdb.org/t/p/w500/zJBkIPakBXdu3cEgGqKCPHUNXVE.jpg",
+      "description": "Michael Moore comes home to the issue he's been examining throughout his career: the disastrous impact of corporate dominance on the everyday lives of Americans (and by default, the rest of the world).",
+      "releaseInfo": "2009",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt0103767",
+      "type": "movie",
+      "name": "Vô Ngã",
+      "poster": "https://image.tmdb.org/t/p/w500/ldEuJQ4z7zEvL7iXraESWBUfQcz.jpg",
+      "description": "Không có câu chuyện thông thường, bộ phim này trình bày những thước phim về con người, địa điểm và mọi thứ từ khắp nơi trên thế giới. Từ những thành phố hỗn loạn đến những vùng đất hoang vu cằn cỗi, bộ phim đưa người xem trên toàn cầu chứng kiến nhiều cảnh tượng khác nhau trong cả lĩnh vực tự nhiên và công nghệ. Đi sâu vào các trại tập trung trước đây, tác phẩm không né tránh mặt tối của nhân loại, và cuối cùng cho thấy phần nào thế giới được kết nối với nhau bởi cả bi kịch và sự sống động của cuộc sống.",
+      "releaseInfo": "1992",
+      "imdbRating": "8.5"
     }
   ]
 }

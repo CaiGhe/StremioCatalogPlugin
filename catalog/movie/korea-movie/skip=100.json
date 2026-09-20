@@ -1,6 +1,24 @@
 {
   "metas": [
     {
+      "id": "tt10620868",
+      "type": "movie",
+      "name": "Sống Sót (Tôi còn sống)",
+      "poster": "https://phimimg.com/upload/vod/20260112-1/dae5bcc7870273f3ddb6ac228e2f7497.jpg",
+      "description": "Bộ phim kể về câu chuyện liên quan đến những người sống sót bị cô lập của một thành phố đang bị phong tỏa, cách ly do hậu quả của sự lây nhiễm bất ngờ của một dịch bệnh không rõ nguồn gốc. Yoo Ah-in sẽ vào vai Joon Woon, một game thủ sống sót và bị ngắt kết nối với phần còn lại của thế giới. Park Shin-hye đảm nhận vai Yoo Bin, một người sống sót khác dựa vào kỹ năng sinh tồn của chính cô trong tình huống vô cùng khó khăn trong thành phố.",
+      "releaseInfo": "2020",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt22352848",
+      "type": "movie",
+      "name": "JUNG_E",
+      "poster": "https://phimimg.com/upload/vod/20260112-1/74b7d4fd870a150969ecb5001cdd32e7.jpg",
+      "description": "Ở tương lai gần hậu tận thế, một nhà nghiên cứu tại phòng thí nghiệm AI dẫn đầu nỗ lực chấm dứt nội chiến bằng cách nhân bản bộ não của một người lính anh hùng: mẹ của bà.",
+      "releaseInfo": "2023",
+      "imdbRating": "5.5"
+    },
+    {
       "id": "tt2290840",
       "type": "movie",
       "name": "Hoàng Đế Giả Mạo",
@@ -52,7 +70,7 @@
       "poster": "https://phimimg.com/upload/vod/20260101-1/1f84d38287b85555cfefd5bbd36798ee.jpg",
       "description": "Siêu sao Kang Jun Woo – “Hoàng tử Châu Á” – rơi vào tình cảnh “mắc kẹt” tại Việt Nam sau một loạt sự cố dở khóc dở cười, nơi anh gặp Thảo – một cô gái bán cà phê đầy đam mê, quyết tâm theo đuổi ước mơ của mình.",
       "releaseInfo": "2025",
-      "imdbRating": "6.4"
+      "imdbRating": "6.5"
     },
     {
       "id": "tt31645750",
@@ -160,7 +178,7 @@
       "poster": "https://phimimg.com/upload/vod/20251031-1/651e2b41fa94dfffce9d32c9fca8f495.jpg",
       "description": "Baek Sun-ju (CHO Yeo-jeong) – một nữ phóng viên đang tuyệt vọng tìm kiếm một tin độc quyền, nhận được lời đề nghị phỏng vấn rùng rợn từ bác sĩ tâm thần Lee Young-hoon (JUNG Sung-il), người tự nhận mình là một kẻ giết người hàng loạt và cảnh báo rằng một vụ án mạng khác sắp xảy ra. Sau nhiều do dự, Sun-ju bắt đầu buổi phỏng vấn với tên sát nhân trong một phòng khách sạn. Trong cuộc trò chuyện căng thẳng đó, Young-hoon tiết lộ một sự thật gây sốc: những vụ giết người của hắn bắt đầu như một cách để “chữa trị” cho bệnh nhân của mình. Khi cuộc phỏng vấn tiếp diễn, Sun-ju cảm nhận có điều gì đó vô cùng sai trái và cố gắng bỏ chạy. Nhưng hắn lại tung ra một “quả bom” khác: nếu cô dừng buổi phỏng vấn lại, sẽ có thêm một người chết. “Nếu cuộc phỏng vấn này dừng lại, sẽ có người mất mạng.” Liệu cuộc chạm trán định mệnh này sẽ kết thúc như thế nào?",
       "releaseInfo": "2025",
-      "imdbRating": "6.5"
+      "imdbRating": "6.6"
     },
     {
       "id": "tt21109580",
@@ -572,7 +590,7 @@
       "poster": "https://phimimg.com/upload/vod/20250520-1/eb74244b20279a883f5100975835c6a1.jpg",
       "description": "Đêm Thánh Đội Săn Quỷ là bộ phim Hàn mới nhất với sự góp mặt của ông chú Ma Dong Seok. Seoul chìm trong hỗn loạn khi một mạng lưới tội phạm tôn thờ ma quỷ xuất hiện. Trong sự cầu xin tuyệt vọng để được cứu rỗi, cảnh sát buộc phải nhờ đến ‘Đêm Thánh', một bộ ba thợ săn quỷ được trang bị sức mạnh siêu nhiên. Liệu ‘Đêm Thánh' có thể chinh phục ách thống trị của quỷ dữ và khôi phục trật tự cho thành phố?",
       "releaseInfo": "2025",
-      "imdbRating": "4.8"
+      "imdbRating": "4.7"
     },
     {
       "id": "tt26422301",
@@ -878,24 +896,6 @@
       "description": "Chỉ bảy ngày trước ngày cưới, bốn cặp đôi đã đính hôn bắt đầu đặt câu hỏi liệu họ có thực sự sẵn sàng để nói lời thề hôn nhân hay không.",
       "releaseInfo": "2013",
       "imdbRating": "6.2"
-    },
-    {
-      "id": "tt6175078",
-      "type": "movie",
-      "name": "Xin Lỗi Anh Chỉ Là Sát Thủ (Sát Thủ Đổi Vai)",
-      "poster": "https://phimimg.com/upload/vod/20240928-1/cdabfb7a74a8e53209b718d5043b3840.jpg",
-      "description": "Luck-Key là phiên bản Hàn làm lại từ bộ phim Key of Life (2012) của điện ảnh Nhật Bản. Nhân vật chính trong tác phẩm mới là Hyung Wook (Yoo Hae Jin) - một gã sát thủ khét tiếng trong giới giang hồ. Hắn có phong cách làm việc chuyên nghiệp, hiệu quả, không bao giờ để lại dấu vết sau khi ra tay. Một hôm, Hyung Wook gặp phải tai nạn tại nhà tắm công cộng và trở nên bất tỉnh nhân sự. Lợi dụng lúc hỗn loạn, chàng thanh niên Jae Sung (Lee Joon) bèn tráo đổi chìa khóa tủ đồ của mình với gã sát thủ. Trái ngược với Hyung Wook, Jae Sung chỉ là chàng diễn viên quèn bất tài, có cuộc sống nghèo khổ, thất bại. Sau khi tráo chìa khóa, anh giả làm gã sát thủ, tận hưởng cuộc sống giàu sang. Ở thế trái ngược, Hyung Wook khi tỉnh lại bị mất trí nhớ, cứ ngỡ mình là một diễn viên nghèo. Hàng loạt tình huống dở khóc, dở cười bắt đầu nảy sinh từ đây.",
-      "releaseInfo": "2016",
-      "imdbRating": "6.9"
-    },
-    {
-      "id": "tt14980972",
-      "type": "movie",
-      "name": "Cuộc Gọi Bí Ẩn (Án Tử Trên Xe)",
-      "poster": "https://phimimg.com/upload/vod/20250703-1/351da477d4368854490e3952504ae841.jpg",
-      "description": "Đưa các con đi học, giám đốc ngân hàng Sung Gyu nhận được cuộc gọi đe dọa gài bom trên xe từ một người bí ẩn. Tưởng trò lừa đảo, Sung Gyu bắt đầu hoảng sợ khi xe đồng nghiệp bất ngờ phát nổ.",
-      "releaseInfo": "2021",
-      "imdbRating": "6.3"
     }
   ]
 }

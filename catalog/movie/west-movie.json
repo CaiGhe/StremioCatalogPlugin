@@ -1,6 +1,15 @@
 {
   "metas": [
     {
+      "id": "tt0092744",
+      "type": "movie",
+      "name": "Trại Cổ Vũ",
+      "poster": "https://phimimg.com/uploads/movies/20260919/trai-co-vu-poster.webp",
+      "description": "Alison — một nữ cổ vũ xinh đẹp — liên tục bị ám ảnh bởi những cơn ác mộng về kỳ thi chung kết toàn bang sắp tới và cùng các đồng đội tham dự một trại huấn luyện mùa hè. Khi hàng loạt cái chết bí ẩn bắt đầu xảy ra tại khu trại, các ám ảnh trong mơ của Alison ngày càng trở nên biến thái, dã man, khiến cô dần tin rằng chính mình có thể là kẻ phải chịu trách nhiệm cho những thảm kịch kinh hoàng đó.",
+      "releaseInfo": "1988",
+      "imdbRating": "4.7"
+    },
+    {
       "id": "tt0133751",
       "type": "movie",
       "name": "Ký Sinh Trùng Ngoài Hành Tinh",
@@ -264,7 +273,8 @@
       "name": "Những Lời Trăn Trối Nổi Tiếng: Gloria Steinem",
       "poster": "https://phimimg.com/uploads/movies/20260907/nhung-loi-tran-troi-noi-tieng-gloria-steinem-poster.webp",
       "description": "Trước khi qua đời, nhà hoạt động Gloria Steinem gửi gắm thông điệp chân thành cuối cùng đến thế giới, biết rằng buổi phỏng vấn này chỉ lên sóng sau khi bà đã ra đi.",
-      "releaseInfo": "2026"
+      "releaseInfo": "2026",
+      "imdbRating": "7.9"
     },
     {
       "id": "tt28014327",
@@ -883,15 +893,6 @@
       "poster": "https://phimimg.com/uploads/movies/20260815/dung-noi-chuc-may-man-poster.webp",
       "description": "Sophie Birenbaum đã sẵn sàng tỏa sáng với vai chính trong vở nhạc kịch của trường trung học. Nhưng rồi cô đột nhiên phải đối mặt với nhiều sóng gió ở nhà hơn là trên sân khấu.",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "tt28188089",
-      "type": "movie",
-      "name": "Buổi Hẹn Hò Hoàng Gia Dịp Giáng Sinh",
-      "poster": "https://phimimg.com/uploads/movies/20260815/buoi-hen-ho-hoang-gia-dip-giang-sinh-poster.webp",
-      "description": "Bella là chủ tiệm y phục ở thị trấn nhỏ và cô vừa có một khách hàng quý tộc mới. Liệu chuyện tình không tưởng với một công tước Anh quyến rũ có thể mở ra vào Giáng sinh này?",
-      "releaseInfo": "2023",
-      "imdbRating": "5.5"
     }
   ]
 }
