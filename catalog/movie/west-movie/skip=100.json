@@ -1,6 +1,149 @@
 {
   "metas": [
     {
+      "id": "tt32338669",
+      "type": "movie",
+      "name": "Tàu Buôn Người",
+      "poster": "https://phimimg.com/uploads/movies/20260821/tau-buon-nguoi-poster.webp",
+      "description": "Mutiny (Tàu buồn người) kể về Cole Reed do Jason Statham thủ vai, sau khi tận mắt chứng kiến ông chủ tỷ phú của mình bị sát hại và bản thân trở thành kẻ thế thân bị vu oan, Cole Reed (Jason Statham) đã đột nhập lên một con tàu chở hàng để bắt đầu hành trình truy tìm sự thật và trả thù cho vị sếp cũ. Tuy nhiên, chuyến đi đơn độc này lại đẩy anh vào nguy hiểm khi Cole vô tình bóc trần một âm mưu quốc tế quy mô và cực kỳ nguy hiểm.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.7"
+    },
+    {
+      "id": "tt32147653",
+      "type": "movie",
+      "name": "Người Lạ Trong Nhà Tôi",
+      "poster": "https://phimimg.com/uploads/movies/20260821/nguoi-la-trong-nha-toi-poster.webp",
+      "description": "Lời tuyên bố của một người đàn ông xa lạ điển trai rằng cô con gái 15 tuổi của một cặp vợ chồng đã bị tráo đổi từ lúc mới sinh đã đẩy gia đình hoàn hảo của họ vào cảnh hỗn loạn, làm hé lộ những bí mật chấn động.",
+      "releaseInfo": "2025",
+      "imdbRating": "4.5"
+    },
+    {
+      "id": "tt0243133",
+      "type": "movie",
+      "name": "Người Đàn Ông Vắng Mặt",
+      "poster": "https://phimimg.com/uploads/movies/20260821/nguoi-dan-ong-vang-mat-poster.webp",
+      "description": "Câu chuyện về án mạng, tội ác và sự trừng phạt diễn ra vào mùa hè năm 1949. Ed Crane, một thợ cắt tóc ở một thị trấn nhỏ thuộc California, không hài lòng với cuộc sống của mình, nhưng sự phản bội của vợ anh, Doris, và một cơ hội bí ẩn đã mang đến cho anh cơ hội thay đổi cuộc đời.",
+      "releaseInfo": "2001",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt3704428",
+      "type": "movie",
+      "name": "Elvis",
+      "poster": "https://phimimg.com/uploads/movies/20260821/elvis-poster.webp",
+      "description": "Chuyện phim ELVIS khám phá những khía cạnh trong cuộc đời cũng như âm nhạc của Elvis Presley thông qua lăng kính về mối quan hệ phức tạp của ông với người quản lý Tom Parker. Được kể từ góc nhìn của Parker, phim đào sâu vào sự liên kết của Presley và Parker trong suốt 20 năm, từ lúc cậu trai trẻ Presley vụt sáng thành sao trong bối cảnh xã hội Mỹ rối ren và văn hóa đại chúng ngày một phát triển. Trung tâm của hành trình đó là một trong những người có ảnh hưởng sâu sắc nhất trong cuộc đời của Elvis, Priscilla Presley.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt4972062",
+      "type": "movie",
+      "name": "Đừng Băn Khoăn",
+      "poster": "https://phimimg.com/uploads/movies/20260821/dung-ban-khoan-poster.webp",
+      "description": "Họ là sáu diễn viên hài ứng khẩu tài năng nhưng lận đận. Khi một người giành được vai diễn trong chương trình được săn đón, mối quan hệ trong đoàn kịch đột ngột thay đổi.",
+      "releaseInfo": "2016",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt32889884",
+      "type": "movie",
+      "name": "Rơi Tự Do: Ngày Phán Xét Của Boeing",
+      "poster": "https://phimimg.com/uploads/movies/20260820/roi-tu-do-ngay-phan-xet-cua-boeing-poster.webp",
+      "description": "Trong bộ phim tài liệu này, lời khai chấn động của người tố giác cáo buộc Boeing có văn hóa cắt giảm chi phí và hành vi che đậy, dẫn đến những sai sót chết người về an toàn bay.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt3829378",
+      "type": "movie",
+      "name": "Stephanie",
+      "poster": "https://phimimg.com/uploads/movies/20260819/stephanie-poster.webp",
+      "description": "Sau một cuộc khủng hoảng bí ẩn toàn cầu, một cô bé bị bỏ lại một mình, phải lẩn trốn khỏi một thế lực tà ác đang rình rập ngôi nhà của mình. Cha mẹ cô bé cuối cùng cũng trở về và cuộc chiến bắt đầu để cứu lấy con gái họ.",
+      "releaseInfo": "2017",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": "tt3235888",
+      "type": "movie",
+      "name": "Cuộc Đi Săn Của Quỷ",
+      "poster": "https://phimimg.com/uploads/movies/20260819/cuoc-di-san-cua-quy-poster.webp",
+      "description": "Cuộc Đi Săn Của Quỷ - It Follows là câu chuyện xoay quanh nữ sinh 19 tuổi Jay Height (Maika Monroe thủ vai), bị ám ảnh bởi những người bí ẩn luôn theo dõi cô từ sau khi có những giây phút “mặn nồng” với bạn trai ở khu vực cắm trại ven sông. Jay bắt đầu rơi vào trạng thái hỗn loạn, những hình ảnh kinh dị, bí ẩn liên tục xuất hiện và đeo bám Jay. Nỗi ám ảnh này cũng khiến cho các bạn của cô cảm thấy sợ hãi và quyết định giúp đỡ cô. Cả nhóm không biết rằng, họ đang phải đối mặt với một thế lực bóng tối cực kì nguy hiểm và tàn bạo.",
+      "releaseInfo": "2015",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0120791",
+      "type": "movie",
+      "name": "Ma Thuật Thực Hành",
+      "poster": "https://phimimg.com/uploads/movies/20260819/ma-thuat-thuc-hanh-poster.webp",
+      "description": "Sally và Gillian Owens sinh ra trong một gia đình phù thủy truyền thống nhưng phần lớn đều tự né tránh phép thuật. Thế nhưng, khi người bạn trai bạo lực của Gillian là Jimmy Angelov đột ngột bỏ mạng, hai chị em nhà Owens buộc phải tự học cấp tốc các phép thuật tà ác nguy hiểm. Khi thanh tra cảnh sát Gary Hallet bắt đầu nghi vấn, hai cô gái chật vật tìm cách hồi sinh Angelov — và vô tình khiến cái xác bị nhập bởi một linh hồn quỷ dữ, đe dọa chấm dứt toàn bộ dòng họ của họ.",
+      "releaseInfo": "1998",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt17490712",
+      "type": "movie",
+      "name": "Cuộc Chiến Sinh Tử II",
+      "poster": "https://phimimg.com/upload/vod/20260519-1/3c295de9c27fa4449eb82919363a80d7.jpg",
+      "description": "Những chiến binh được yêu thích nhất — nay có thêm sự góp mặt của Johnny Cage — buộc phải đối đầu lẫn nhau trong trận chiến tối thượng đẫm máu và không khoan nhượng. Mục tiêu: đánh bại sự thống trị tàn bạo của Shao Kahn, kẻ đang đe dọa sự tồn vong của Địa Giới và tất cả những ai đứng lên bảo vệ nó.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt31170389",
+      "type": "movie",
+      "name": "Ma Cây: Lửa Địa Ngục",
+      "poster": "https://phimimg.com/uploads/movies/20260805/ma-cay-lua-dia-nguc-poster.webp",
+      "description": "Sau khi chồng qua đời, một người phụ nữ tìm sự an ủi bên gia đình chồng. Nhưng rồi từng người một biến thành những deadite quỷ ám, khiến cô dần nhận ra rằng những lời thề nguyện khi còn sống… vẫn tồn tại ngay cả sau cái chết.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt3467412",
+      "type": "movie",
+      "name": "Diệt Vong / Tuyệt Diệt",
+      "poster": "https://phimimg.com/upload/vod/20231108-1/f4b1afab239b1c1f189ffc7e3721f7c1.jpg",
+      "description": "Và đột nhiên, chỉ sau một đêm, thế giới dừng lại. Hai người đàn ông, hai người sống sót, một đứa trẻ và sự thù hận đã chia cắt họ. Một nơi bị lãng quên bởi tất cả mọi người, bao gồm cả những sinh vật sống trên Trái đất... cho đến tận bây giờ.",
+      "releaseInfo": "2015",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": "tt33311069",
+      "type": "movie",
+      "name": "Cơn Thịnh Nộ",
+      "poster": "https://phimimg.com/uploads/movies/20260707/con-thinh-no-poster.webp",
+      "description": "Chủ tiệm Vương Vĩ có cô con gái Vũ Tình bị một băng nhóm tội phạm bắt cóc giữa phố. Trong hành trình giải cứu con, anh lần theo dấu vết của một mạng lưới buôn người và tội phạm ngầm vô cùng nguy hiểm. Đồng hành cùng anh là một nhà báo mang trong mình quá khứ bí ẩn. Hai người buộc phải hợp tác, sử dụng kỹ năng chiến đấu của mình để đối đầu với tổ chức tội phạm và đưa cô bé trở về an toàn.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt32104007",
+      "type": "movie",
+      "name": "Thời niên thiếu của Washington",
+      "poster": "https://phimimg.com/uploads/movies/20260817/thoi-nien-thieu-cua-washington-poster.webp",
+      "description": "Xoay quanh thời niên thiếu và giai đoạn đầu trưởng thành của George Washington — người sau này trở thành vị Tổng thống đầu tiên của Hợp chủng quốc Hoa Kỳ.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt0236784",
+      "type": "movie",
+      "name": "Người Thợ May Ở Panama",
+      "poster": "https://phimimg.com/uploads/movies/20260817/nguoi-tho-may-o-panama-poster.webp",
+      "description": "Một điệp viên Anh bị đày sang Panama sau khi vướng vào vụ bê bối tình ái với nhân tình của một đại sứ. Tại đây, hắn kết nối với một thợ may địa phương có quá khứ mờ ám cùng mối quan hệ rộng rãi với giới chính trị gia và trùm giang hồ cộm cán Panama. Người thợ may này có một cô vợ đang làm việc cho Tổng thống Panama cùng một khoản nợ khổng lồ. Nhiệm vụ của tên điệp viên là tìm hiểu xem Tổng thống có kế hoạch gì đối với kênh đào Panama.",
+      "releaseInfo": "2001",
+      "imdbRating": "6.1"
+    },
+    {
+      "id": "tt4126340",
+      "type": "movie",
+      "name": "Joe Dirt 2: Gã Thua Cuộc Đẹp Trai",
+      "poster": "https://phimimg.com/uploads/movies/20260817/joe-dirt-2-ga-thua-cuoc-dep-trai-poster.webp",
+      "description": "Khi người đàn ông của gia đình hạnh phúc Joe Dirt vô tình bị dịch chuyển về quá khứ gần đây, anh bắt đầu một hành trình sử thi để tìm đường trở về với những người thân yêu ở hiện tại.",
+      "releaseInfo": "2015",
+      "imdbRating": "4.2"
+    },
+    {
       "id": "tt0800268",
       "type": "movie",
       "name": "Xúc Xích Đường Dài",
@@ -750,148 +893,6 @@
       "description": "King Ivory (2025) khắc họa cuộc chiến khốc liệt chống lại nạn buôn bán fentanyl tại Oklahoma, nơi một cảnh sát có con trai nghiện ma túy, một tay buôn cartel Mexico, và một tên tội phạm vừa ra tù vướng vào vòng xoáy bạo lực. Ba tuyến đời dồn nén, đan xen, tạo nên bức tranh u ám và ám ảnh về một cuộc chiến không lối thoát.",
       "releaseInfo": "2025",
       "imdbRating": "7.1"
-    },
-    {
-      "id": "tt0389860",
-      "type": "movie",
-      "name": "Cú Click Huyền Bí (Điều Khiển Kỳ Diệu)",
-      "poster": "https://phimimg.com/uploads/movies/20260710/cu-click-huyen-bi-dieu-khien-ky-dieu-poster.webp",
-      "description": "\"Click\" nói về anh chàng kiến trúc sư Michael Newman tham công tiếc việc đến nỗi chả để ý gì đến gia đình cùa mình, thậm chí ngay cả đến cô vợ Donna và 2 đứa con của anh ta. Trong 1 lần tìm mua thiết bị điều khiển từ xa vì cái ở nhà đã hỏng, anh đã tình cờ có được 1 cái thiết bị điều khiển đa năng có thể \"tua\" nhanh cho anh biết được quá khứ và tương lai của mình. Những rắc rối bắt đầu xảy ra khi nó không tuân theo mệnh lệnh và thoát khỏi sự điều khiển của anh... Click mang nội dung nhẹ nhành như chính hơi thở cuộc sống. Michael tiêu biểu cho hàng chục triệu người trên trái đất này đang mải miết với công việc và bỏ quên gia đình mình đến khi thất bại trong sự nghiệp họ mới nhận ra rằng gia đình là nơi trú ẩn cuối cùng và an toàn nhất mà mình đang có.",
-      "releaseInfo": "2006",
-      "imdbRating": "6.4"
-    },
-    {
-      "id": "tt36963493",
-      "type": "movie",
-      "name": "A Family of Bastards",
-      "poster": "https://phimimg.com/uploads/movies/20260710/a-family-of-bastards-poster.webp",
-      "description": "Paris, năm 1997. Sau khi người cha trăng hoa của Mohamed bị bắn chết, anh phát hiện ra hai anh em ruột mà mình chưa từng biết đến, Maurice và Morgane. Cùng nhau, họ phải cứu quán bar tồi tàn của cha mình, Chez Momo, khỏi nợ nần và bọn gangster địa phương với sự giúp đỡ của những khách quen.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt1285009",
-      "type": "movie",
-      "name": "Sát Nhân Giấu Mặt: Đêm Đẫm Máu",
-      "poster": "https://phimimg.com/uploads/movies/20260710/sat-nhan-giau-mat-dem-dam-mau-poster.webp",
-      "description": "Một gia đình bốn người đang nghỉ đêm tại một khu nhà di động hẻo lánh thì bị ba kẻ tâm thần đeo mặt nạ theo dõi và săn đuổi.",
-      "releaseInfo": "2018",
-      "imdbRating": "5.3"
-    },
-    {
-      "id": "tt29516222",
-      "type": "movie",
-      "name": "Vùng Biển Chết Chóc",
-      "poster": "https://phimimg.com/uploads/movies/20260710/vung-bien-chet-choc-poster.webp",
-      "description": "Một nhóm hành khách quốc tế trên chuyến bay từ Los Angeles đến Thượng Hải buộc phải hạ cánh khẩn cấp xuống vùng biển đầy cá mập. Nhóm người hoảng sợ này buộc phải hợp tác và vượt qua những khác biệt của mình nếu muốn thoát khỏi chiếc máy bay đang chìm và sự hung hãn của đàn cá mập bị thu hút bởi xác máy bay.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.9"
-    },
-    {
-      "id": "tt2101341",
-      "type": "movie",
-      "name": "Kẻ Báo Thù",
-      "poster": "https://phimimg.com/uploads/movies/20260710/ke-bao-thu-2013-poster.webp",
-      "description": "Tại thành phố New York, cánh tay phải của trùm tội phạm bị quyến rũ bởi một người phụ nữ đang tìm cách trả thù.",
-      "releaseInfo": "2013",
-      "imdbRating": "6.4"
-    },
-    {
-      "id": "tt1399683",
-      "type": "movie",
-      "name": "Xương Trắng Mùa Đông",
-      "poster": "https://phimimg.com/uploads/movies/20260710/xuong-trang-mua-dong-poster.webp",
-      "description": "Vắng mặt cha và cùng với người mẹ ốm yếu và đau khổ, cô bé Ree Dolly 17 tuổi sống chung với gia đình mình tại một vùng ngoại ô nghèo nàn và dơ bẩn. Bị mắc kẹt lại nơi này tuy nhiên khi được nghe cảnh sát trưởng địa phương nói rằng cha cô đã ký quỹ ngôi nhà của họ thành tiền bảo lãnh và nếu ông ta không trả hết nợ trong vòng 1 tuần, họ sẽ mất tất cả. Cô bé biết rằng cha mình có liên quan đến việc buôn bán thuốc trong khu vực và sản xuất những thành phẩm hóa học nhưng bất cứ nơi nào mà cô tìm đến, cô đều nhận được một thông điệp: tránh xa chuyện này và đừng nhúng mũi vào chuyện người khác. Cô bé không chịu nghe, thậm chí sau khi người chú, Teardrop, bảo rằng cha cô có thể đã bị giết. Ree vẫn tiếp tục, đặt sự ...",
-      "releaseInfo": "2010",
-      "imdbRating": "7.1"
-    },
-    {
-      "id": "tt7737800",
-      "type": "movie",
-      "name": "Hẹn Hò Với Sát Nhân",
-      "poster": "https://phimimg.com/uploads/movies/20260710/hen-ho-voi-sat-nhan-poster.webp",
-      "description": "Cheryl Bradshaw (Anna Kendrick thủ vai) tham gia chương trình truyền hình về hẹn hò - The Dating Game với khát khao được nổi tiếng. Tại đây, cô nàng đã gặp gỡ Rodney Alcala - tên sát nhân đội lốt một nhiếp ảnh gia lãng tử và đối đáp cực kỳ hài hước, thông minh trong chương trình hẹn hò. Quyết định kết đôi cùng Rodney Alcala, trong quá trình hẹn hò, Cheryl Bradshaw dần khám phá ra hàng loạt bí mật gây sốc được che giấu khéo léo bởi cái lốt người đàn ông hoàn hảo: đội lốt một gã sát nhân, kẻ biến thái đã chủ mưu rất nhiều vụ hiếp dâm và giết người man rợ.",
-      "releaseInfo": "2024",
-      "imdbRating": "6.6"
-    },
-    {
-      "id": "tt36958376",
-      "type": "movie",
-      "name": "Your Fault: London",
-      "poster": "https://phimimg.com/uploads/movies/20260710/your-fault-london-poster.webp",
-      "description": "Nick và Noah đều đang dấn thân vào những cuộc phiêu lưu thay đổi cuộc đời, nhưng cũng đầy nguy cơ chia cắt họ – Nick làm kinh doanh cùng cha, còn Noah bắt đầu chương mới tại Đại học Oxford. Giờ đây sống cuộc sống riêng biệt và gặp gỡ những người mới, họ vướng vào những cám dỗ, ganh đua và phản bội, và tình bạn của họ bị thử thách hơn bao giờ hết. Khi những bí mật dần hé lộ và cám dỗ dâng cao, họ phải chiến đấu để giữ lấy nhau – nếu không sẽ mất tất cả.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.2"
-    },
-    {
-      "id": "tt35309713",
-      "type": "movie",
-      "name": "Công Dân Tự Xử",
-      "poster": "https://phimimg.com/uploads/movies/20260710/cong-dan-tu-xu-poster.webp",
-      "description": "Sanders, một cựu quân nhân Mỹ và hiện là doanh nhân giàu có sinh sống tại châu Âu, dần mất niềm tin vào hệ thống pháp luật khi chứng kiến nhiều tội phạm nguy hiểm, kẻ hiếp dâm và quan chức tham nhũng liên tục thoát khỏi sự trừng phạt. Quyết định không tiếp tục đứng nhìn, anh che giấu thân phận và trở thành một \"công dân báo thù\", tự mình truy lùng và xử lý những kẻ mà pháp luật không thể hoặc không muốn trừng trị.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.2"
-    },
-    {
-      "id": "tt2238032",
-      "type": "movie",
-      "name": "Tẩu Thoát Ngoạn Mục",
-      "poster": "https://phimimg.com/uploads/movies/20260710/tau-thoat-ngoan-muc-poster.webp",
-      "description": "Một thám tử từ Hồng Kông hợp tác với một con bạc người Mỹ để chiến đấu chống lại một tên tội phạm khét tiếng người Trung Quốc.",
-      "releaseInfo": "2016",
-      "imdbRating": "5.6"
-    },
-    {
-      "id": "tt0343660",
-      "type": "movie",
-      "name": "50 Lần Hẹn Đầu Tiên",
-      "poster": "https://phimimg.com/uploads/movies/20260710/50-lan-hen-dau-tien-poster.webp",
-      "description": "Lucy là một cô gái bị mất trí nhớ sau một tai nạn thảm khốc, sau khi ngủ dậy cô lại quên tất cả mọi thứ xảy ra ngày hôm qua. Henny là một bác sĩ thú y làm trong một công viên thủy sinh tại Hawaii, anh đã đem lòng yêu Lucy và tìm mọi cách để cô nhớ lại mọi thứ. Từ đây bắt đầu những tình tiết dở khóc dở cười xảy ra.",
-      "releaseInfo": "2004",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt34494076",
-      "type": "movie",
-      "name": "Cơn Đói Khát Tử Thần",
-      "poster": "https://phimimg.com/uploads/movies/20260710/con-doi-khat-tu-than-poster.webp",
-      "description": "Một nhóm du khách lạc vào vùng đầm lầy Louisiana buộc phải chiến đấu để sinh tồn khi bị một con hà mã hung hãn đang sổng chuồng truy sát.",
-      "releaseInfo": "2026",
-      "imdbRating": "4.9"
-    },
-    {
-      "id": "tt32166005",
-      "type": "movie",
-      "name": "Chapter 51",
-      "poster": "https://phimimg.com/uploads/movies/20260710/chapter-51-poster.webp",
-      "description": "Một kẻ giết người hàng loạt bí ẩn được biết đến với biệt danh Kẻ giết người Hollywood đã biến một dự án sản xuất phim đình đám thành hiện trường tội ác rùng rợn, sát hại ba nữ diễn viên và phủ bóng đen lên dự án đầy rắc rối này. Khi nỗi sợ hãi, những lời đồn đoán và sự hỗn loạn lan rộng phía sau hậu trường, quá trình sản xuất phim mãi mãi gắn liền với một vụ án gây chấn động Hollywood và vẫn chưa được giải quyết. Nhiều năm sau, cựu đặc vụ FBI Thomas Scott mở lại vụ án cũ, xem xét lại các sự kiện xung quanh các vụ giết người và khám phá ra những bí mật không thể nào chôn vùi.",
-      "releaseInfo": "2026",
-      "imdbRating": "3.3"
-    },
-    {
-      "id": "tt23037488",
-      "type": "movie",
-      "name": "Kiểm Lâm Texas (Biệt Động Texas)",
-      "poster": "https://phimimg.com/uploads/movies/20260710/kiem-lam-texas-biet-dong-texas-poster.webp",
-      "description": "Biệt Động Texas Được tình báo Anh tuyển dụng, Biệt đội Texas phải truy tìm và ngăn chặn một tên khủng bố nguy hiểm tấn công London.",
-      "releaseInfo": "2023",
-      "imdbRating": "4.9"
-    },
-    {
-      "id": "tt32267691",
-      "type": "movie",
-      "name": "Bản Ballad mạnh mẽ",
-      "poster": "https://phimimg.com/uploads/movies/20260710/ban-ballad-manh-me-poster.webp",
-      "description": "Khi Rick, một ca sĩ hát đám cưới đã qua thời đỉnh cao, gặp gỡ Danny, một ngôi sao nhạc pop đang xuống dốc, trong một buổi biểu diễn, cả hai đã tìm thấy điểm chung qua âm nhạc và một buổi chơi nhạc thâu đêm. Nhưng khi Danny biến một trong những bài hát của Rick thành bản hit giúp hồi sinh sự nghiệp của anh, Rick quyết tâm giành lại sự công nhận mà anh tin rằng mình xứng đáng có được - ngay cả khi điều đó có nghĩa là phải đánh đổi tất cả những gì anh trân trọng.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.7"
-    },
-    {
-      "id": "tt33305815",
-      "type": "movie",
-      "name": "Kombucha",
-      "poster": "https://phimimg.com/uploads/movies/20260710/kombucha-poster.webp",
-      "description": "Một loại đồ uống gây ảo giác khiến nhân viên làm việc đến chết.",
-      "releaseInfo": "2025"
     }
   ]
 }
