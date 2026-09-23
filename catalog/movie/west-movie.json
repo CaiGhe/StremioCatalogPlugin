@@ -1,6 +1,95 @@
 {
   "metas": [
     {
+      "id": "tt0385752",
+      "type": "movie",
+      "name": "Chiếc La Bàn Vàng",
+      "poster": "https://phimimg.com/uploads/movies/20260923/chiec-la-ban-vang-poster.webp",
+      "description": "Cô bé mồ côi từ nhỏ Lyra đánh đổi cuộc sống vô tư trong khuôn viên Đại học Jordan của mình để có một cuộc phiêu lưu ở thế giới khác, nơi phương Bắc xa xôi.",
+      "releaseInfo": "2007",
+      "imdbRating": "6.1"
+    },
+    {
+      "id": "tt2361509",
+      "type": "movie",
+      "name": "Bố Già Học Việc",
+      "poster": "https://phimimg.com/uploads/movies/20260923/bo-gia-hoc-viec-poster.webp",
+      "description": "Bộ phim kể về Ben Whittaker, một ông lão góa vợ 70 tuổi (do Robert De Niro thủ vai) nhưng không hề muốn nghỉ hưu và xin vào làm nhân viên thực tập tại một cửa hàng thời trang online của cô chủ xinh đẹp và sành điệu, Jules Ostin (do Anne Hathaway thủ vai). Và câu chuyện diễn ra khi ông lão Ben Whittaker chính thức trở thành thực tập sinh thực thụ, rất trẻ trung và năng động không thua kém bất kì ai. Hơn hết, Ben đã giúp đỡ Jules khi cô nàng gặp khó khăn, truyền cảm hứng và tạo động lực để Jules tiếp tục đam mê nghê nghiệp của mình.",
+      "releaseInfo": "2015",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt33095251",
+      "type": "movie",
+      "name": "Tony",
+      "poster": "https://phimimg.com/uploads/movies/20260923/tony-poster.webp",
+      "description": "Bộ phim tái hiện thời thanh xuân năm 19 tuổi của cố đầu bếp, nhà văn và đầu bếp truyền hình lừng danh thế giới Anthony Bourdain.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt33512134",
+      "type": "movie",
+      "name": "Chuyến Xe Rượt Đuổi",
+      "poster": "https://phimimg.com/uploads/movies/20260923/chuyen-xe-ruot-duoi-poster.webp",
+      "description": "Theo chân Jason — một cựu quân nhân đang thất sủng và vật lộn với chứng nghiện ngập. Trong một lần nhận chở khách qua ứng dụng rideshare, anh vô tình phát hiện ra nữ hành khách mà mình đang chở thực chất đang bị giam cầm và buôn bán bởi một đường dây tội phạm tàn ác.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.2"
+    },
+    {
+      "id": "tt9601292",
+      "type": "movie",
+      "name": "Phi Vụ Sửa Sai",
+      "poster": "https://phimimg.com/uploads/movies/20260923/phi-vu-sua-sai-poster.webp",
+      "description": "Sau một nhiệm vụ giải cứu thất bại ở Afghanistan, một nhóm cựu đặc vụ CIA mang trong mình cảm giác tội lỗi và thất bại. Khi người chỉ huy Larry tiết lộ bí mật về 25 triệu USD được cất giấu tại Tehran, Tucker tập hợp cả nhóm trở lại Iran, vừa nhằm kiếm một khoản tiền khổng lồ, vừa tìm cách chuộc lại những sai lầm trong quá khứ. Nhưng nhiệm vụ nhanh chóng biến thành một cuộc giải cứu nguy hiểm với những âm mưu, phản bội và bí mật tình báo bị che giấu suốt nhiều năm.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt0250274",
+      "type": "movie",
+      "name": "Bốn Chàng Tìm Yêu",
+      "poster": "https://phimimg.com/uploads/movies/20260922/bon-chang-tim-yeu-poster.webp",
+      "description": "Bốn người bạn keo sơn thử thách ranh giới của sự thành thực và gắn kết trên hành trình chè chén, vươn lên những nấc thang sự nghiệp và liên tục yêu rồi hết yêu.",
+      "releaseInfo": "2001",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt35298123",
+      "type": "movie",
+      "name": "Tình Dục Tuổi Teen Và Cái Chết Tại Trại Miasma",
+      "poster": "https://phimimg.com/uploads/movies/20260922/tinh-duc-tuoi-teen-va-cai-chet-tai-trai-miasma-poster.webp",
+      "description": "Sau nhiều năm chìm trong những phần phim hậu truyện chất lượng kém, thương hiệu kinh dị Camp Miasma được giao lại cho một nữ đạo diễn trẻ đầy nhiệt huyết với kỳ vọng hồi sinh dòng phim. Tuy nhiên, khi cô đến thăm nữ diễn viên chính của phần phim gốc — một minh tinh hiện sống ẩn dật và bao phủ bởi những bí ẩn — cả hai người phụ nữ đã rơi vào một thế giới ngập tràn máu, dục vọng, nỗi sợ hãi và những ảo giác cuồng loạn.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt37547609",
+      "type": "movie",
+      "name": "CHAT",
+      "poster": "https://phimimg.com/uploads/movies/20260922/chat-poster.webp",
+      "description": "Khởi đầu mới của một gia đình tại ngôi nhà mới bỗng chốc sụp đổ khi đứa con trai của họ phát hiện ra một chiếc máy tính bảng tích hợp công nghệ trí tuệ nhân tạo (AI). Chiếc máy đã giải phóng một làn sóng kinh hoàng không chỉ liên quan đến các thế lực siêu nhiên mà còn dính líu đến những bí mật đen tối về lòng tham và sự tham nhũng đang bủa vằn quanh họ.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt0080040",
+      "type": "movie",
+      "name": "Bẫy Du Khách",
+      "poster": "https://phimimg.com/uploads/movies/20260922/bay-du-khach-poster.webp",
+      "description": "Sau khi xe bị hỏng, một nhóm du khách trẻ tuổi thấy mình bị mắc kẹt tại một bảo tàng ven đường do ông Slausen bí ẩn quản lý, nơi trưng bày bộ sưu tập những hình người bằng sáp sống động như thật.",
+      "releaseInfo": "1979",
+      "imdbRating": "6.0"
+    },
+    {
+      "id": "tt0108577",
+      "type": "movie",
+      "name": "Bàn Cầu Cơ 2: Cánh Cổng Của Quỷ",
+      "poster": "https://phimimg.com/uploads/movies/20260922/ban-cau-co-2-canh-cong-cua-quy-poster.webp",
+      "description": "Một cô gái trẻ bắt đầu nhận được những thông điệp gửi đến qua bàn cầu cơ (Ouija board), tự xưng là của một người từng sống tại chính căn hộ mà cô đang ở.",
+      "releaseInfo": "1993",
+      "imdbRating": "5.0"
+    },
+    {
       "id": "tt2006295",
       "type": "movie",
       "name": "33 Người Thợ Mỏ",
@@ -164,7 +253,7 @@
     {
       "id": "tt1226229",
       "type": "movie",
-      "name": "Get Him to the Greek",
+      "name": "Dẫn Độ Chúa Tể Nhạc Rock",
       "poster": "https://phimimg.com/uploads/movies/20260921/get-him-to-the-greek-poster.webp",
       "description": "Aaron Green - nhân viên trẻ của một hãng thu âm, được giao nhiệm vụ đưa ngôi sao nhạc rock Aldous Snow từ London đến Los Angeles để kịp trở lại buổi hòa nhạc. Aaron nhanh chóng nhận ra Aldous là một nghệ sĩ nổi tiếng với lối sống phóng túng và thường xuyên tạo ra những tình huống khó lường. Khi biết bạn gái cũ Jackie Q đang ở Los Angeles, Aldous quyết định tìm cách hàn gắn mối quan hệ trước khi trở về sân khấu. Hành trình kéo dài 72 giờ liên tục phát sinh những sự cố oái oăm, buộc Aaron vừa hoàn thành nhiệm vụ vừa cố giữ công việc và chuyện tình cảm của mình.",
       "releaseInfo": "2010",
@@ -804,96 +893,6 @@
       "description": "Jason Blum, Oren Peli và James Wan đóng vai trò là các nhà sản xuất của phim. Đây là phần phim thứ tư của loạt phim Quỷ quyệt, lấy bối cảnh sau kết thúc của Quỷ quyệt 3 và trước hai phần phim đầu tiên. Với sự tham gia diễn xuất của Lin Shaye, Angus Sampson, Leigh Whannell, Spencer Locke, Caitlin Gerard và Bruce Davison, nội dung phim xoay quanh câu chuyện về nhà tâm linh Elise Rainier khi bà quay trở lại ngôi nhà cũ của mình hồi nhỏ để tìm lại con quỷ đã ám ảnh tuổi thơ của mình.",
       "releaseInfo": "2018",
       "imdbRating": "5.7"
-    },
-    {
-      "id": "tt3195644",
-      "type": "movie",
-      "name": "Quỷ Quyệt 3",
-      "poster": "https://phimimg.com/upload/vod/20250731-1/b448254047394521a7cdd07f1aaed836.jpg",
-      "description": "Insidious: Chapter 3 (Ma Quái 3): Mở đầu với những hiện tượng kỳ quái quấy nhiễu cô bé Quinn Brenner, Insidious: Chapter 3 là phần tiền truyện (pre-quel) xảy ra trước khi Elise Rainier giúp đỡ gia đình Lambert. Trong teaser mới nhất, dấu hiệu ma quỷ đầu tiên xuất hiện khi Quinn Brenner nghịch ngợm gõ vào tường để liên lạc với cậu bạn hàng xóm. Dường như Quinn đã vô tình liên lạc với các linh hồn xấu và trở thành mục tiêu theo đuổi của chúng. Những hình ảnh ma quái liên tục xuất hiện trên nền nhạc “Tip Toe Through The Tulips”, du dương tới rợn người, khiến người xem dễ dàng bị ám ảnh. Cũng trong đoạn teaser này, khán giả có thể thấy Elise Rainier phải lần theo các dấu vết nhem nhuốc trên sàn nhà, và lạc vào thế giới ma quỷ giống như trong phần 1 và 2 của Insidious.",
-      "releaseInfo": "2015",
-      "imdbRating": "6.1"
-    },
-    {
-      "id": "tt2226417",
-      "type": "movie",
-      "name": "Quỷ Quyệt 2",
-      "poster": "https://phimimg.com/upload/vod/20250731-1/e8d11a952d8ae6dadf10a4273e3d3cd6.jpg",
-      "description": "Năm 1986, Lorraine Lambert mời nhà tâm linh Elise đến nhà mình để giúp tìm con ma đang đeo bám cậu con trai Josh của bà. Elise nhận định Josh có khả năng đặc biệt mà người thường không có, đó là kết nối linh hồn mình với thế giới của người chết. Hai người quyết định xóa ký ức của Josh để anh thôi không \"du hành\" vào thế giới đen tối này nữa. Hai mươi lăm năm trôi qua, Josh khi này đã có vợ là Renai cùng hai con. Đây là lúc truyện phim tiếp nối phần 1. Những tưởng đã thoát khỏi ma quỷ từ lần trước nhưng những hiện tượng lạ vẫn diễn ra trong nhà Lambert.",
-      "releaseInfo": "2013",
-      "imdbRating": "6.6"
-    },
-    {
-      "id": "tt1591095",
-      "type": "movie",
-      "name": "Quỷ Quyệt",
-      "poster": "https://phimimg.com/upload/vod/20250731-1/7805a656c8b6bdeee32ab9c2eccf77fb.jpg",
-      "description": "Đây là phần phim đầu tiên (theo thứ tự thời gian, lần thứ ba) trong loạt phim Insidious. Câu chuyện xoay quanh cặp vợ chồng có con trai không hiểu sao đi vào tình trạng hôn mê và trở thành một vật chứa cho hồn ma trong một không gian tâm linh muốn cư ngụ cơ thể của mình, để sống một lần nữa. Bộ phim đã được phát hành tại rạp vào ngày 1 tháng 4 năm 2011 và FilmDistrict phát hành đầu tiên. Bộ phim được nối tiếp theo một phần sau, Quỷ quyệt 2 (2013) và hai phần sau, Quỷ quyệt 3 (2015) và Quỷ quyệt: Chìa khóa quỷ dữ (2018).",
-      "releaseInfo": "2011",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt26697087",
-      "type": "movie",
-      "name": "Cuộc Chiến Ép Cân",
-      "poster": "https://phimimg.com/uploads/movies/20260823/cuoc-chien-ep-can-poster.webp",
-      "description": "Trở lại võ đài sau khi giải nghệ, một cựu võ sĩ quyết tâm chinh phục ngôi vô địch. Nhưng hành trình ép cân tàn khốc mới là đối thủ lớn nhất của anh.",
-      "releaseInfo": "2025",
-      "imdbRating": "5.6"
-    },
-    {
-      "id": "tt35303601",
-      "type": "movie",
-      "name": "Bí Mật Đen Tối",
-      "poster": "https://phimimg.com/uploads/movies/20260822/bi-mat-den-toi-poster.webp",
-      "description": "Phim theo chân Chris Davis (Austin North) – một công nhân giàn khoan dầu trẻ tuổi cùng chú chó cứu hộ của mình đang lái xe vượt tiểu bang để đến dự lễ cưới mà anh hằng mong đợi. Tuy nhiên, chuyến đi vui vẻ nhanh chóng biến thành cơn ác mộng khi họ bị tấn công dã man tại một trạm dừng chân ven đường vắng vẻ.",
-      "releaseInfo": "2025",
-      "imdbRating": "4.9"
-    },
-    {
-      "id": "tt0084945",
-      "type": "movie",
-      "name": "Zapped!",
-      "poster": "https://phimimg.com/uploads/movies/20260822/zapped-poster.webp",
-      "description": "Peyton và Barney là những học sinh trung học ham vui đang thực hiện một đề tài khoa học với những con chuột bạch. Khi một trong những con chuột bắt đầu kéo thức ăn về phía mình mà không cần chạm vào, Barney nhận ra cậu đã vô tình khám phá ra công thức tạo nên sức mạnh dịch chuyển vật thể bằng trí óc (telekinesis). Giờ đây, một nam sinh trung học có thể di chuyển mọi thứ chỉ bằng suy nghĩ sẽ gây ra vô số rắc rối đến mức nào?",
-      "releaseInfo": "1982",
-      "imdbRating": "5.0"
-    },
-    {
-      "id": "tt1029360",
-      "type": "movie",
-      "name": "Ma Quậy Phá 4 / Yêu Tinh 4",
-      "poster": "https://phimimg.com/uploads/movies/20260822/ma-quay-pha-4-yeu-tinh-4-poster.webp",
-      "description": "Được làm lại từ một siêu phẩm kinh dị của thập niên 80, bộ phim Yêu Tinh thu hút người xem bởi nét cổ điển và hiện đại hoà hợp một cách khéo léo. Chuyện kể về một gia đình trẻ 4 người vừa chuyển đến chỗ ở mới. Họ liên tục gặp phải những hiện tượng kỳ lạ trong ngôi nhà mình, từ những âm thanh kỳ lạ đến việc đồ vật di chuyển vô cớ. Cao trào của tất cả là khi cô con gái út bị bắt cóc. Liệu điều gì sẽ xảy ra tiếp theo?",
-      "releaseInfo": "2015",
-      "imdbRating": "4.9"
-    },
-    {
-      "id": "tt0095889",
-      "type": "movie",
-      "name": "Ma Quậy Phá 3 / Yêu Tinh 3",
-      "poster": "https://phimimg.com/uploads/movies/20260822/ma-quay-pha-3-yeu-tinh-3-poster.webp",
-      "description": "Carol Anne được gửi đến sống cùng chú cô trong một nỗ lực nhằm giấu cô bé khỏi móng nanh của hồn ma Mục sư Kane, nhưng hắn vẫn truy lùng ra và khủng bố cô bé ngay tại căn hộ của người thân trong một tòa nhà kính cao tầng. Liệu hắn có đạt được mục tiêu và bắt giữ Carol Anne một lần nữa, hay Tangina sẽ lại một lần nữa ngăn chặn được hắn?",
-      "releaseInfo": "1988",
-      "imdbRating": "4.7"
-    },
-    {
-      "id": "tt0091778",
-      "type": "movie",
-      "name": "Ma Quậy Phá 2 / Yêu Tinh 2",
-      "poster": "https://phimimg.com/uploads/movies/20260822/ma-quay-pha-2-yeu-tinh-2-poster.webp",
-      "description": "Gia đình Freeling chuyển đến sống cùng mẹ của Diane nhằm chạy trốn khỏi tổn thương tâm lý và hậu quả sau vụ cô con gái Carol Anne bị bắt đi bởi Ác Quỷ (The Beast). Thế nhưng, Ác Quỷ không dễ dàng từ bỏ và xuất hiện dưới hình dạng bóng ma của Mục sư Kane — một kẻ cuồng giáo tàn bạo chịu trách nhiệm cho cái chết của hàng loạt tín đồ. Mục tiêu của hắn vô cùng đơn giản: hắn muốn bắt bằng được cô bé Carol Anne ngây thơ thuần khiết.",
-      "releaseInfo": "1986",
-      "imdbRating": "5.7"
-    },
-    {
-      "id": "tt0084516",
-      "type": "movie",
-      "name": "Yêu Tinh / Ma Quậy Phá",
-      "poster": "https://phimimg.com/uploads/movies/20260822/yeu-tinh-ma-quay-pha-poster.webp",
-      "description": "Ngôi nhà ở vùng ngoại ô của gia đình Freeling trở thành tâm điểm của những hoạt động siêu nhiên, mở ra một cổng kết nối sang \"the other side\" (thế giới bên kia). Với sự trợ giúp từ các chuyên gia, họ phải vượt qua ranh giới đó để giải cứu cô con gái nhỏ của mình.",
-      "releaseInfo": "1982",
-      "imdbRating": "7.3"
     }
   ]
 }

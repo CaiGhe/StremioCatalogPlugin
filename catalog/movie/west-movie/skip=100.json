@@ -1,6 +1,96 @@
 {
   "metas": [
     {
+      "id": "tt3195644",
+      "type": "movie",
+      "name": "Quỷ Quyệt 3",
+      "poster": "https://phimimg.com/upload/vod/20250731-1/b448254047394521a7cdd07f1aaed836.jpg",
+      "description": "Insidious: Chapter 3 (Ma Quái 3): Mở đầu với những hiện tượng kỳ quái quấy nhiễu cô bé Quinn Brenner, Insidious: Chapter 3 là phần tiền truyện (pre-quel) xảy ra trước khi Elise Rainier giúp đỡ gia đình Lambert. Trong teaser mới nhất, dấu hiệu ma quỷ đầu tiên xuất hiện khi Quinn Brenner nghịch ngợm gõ vào tường để liên lạc với cậu bạn hàng xóm. Dường như Quinn đã vô tình liên lạc với các linh hồn xấu và trở thành mục tiêu theo đuổi của chúng. Những hình ảnh ma quái liên tục xuất hiện trên nền nhạc “Tip Toe Through The Tulips”, du dương tới rợn người, khiến người xem dễ dàng bị ám ảnh. Cũng trong đoạn teaser này, khán giả có thể thấy Elise Rainier phải lần theo các dấu vết nhem nhuốc trên sàn nhà, và lạc vào thế giới ma quỷ giống như trong phần 1 và 2 của Insidious.",
+      "releaseInfo": "2015",
+      "imdbRating": "6.1"
+    },
+    {
+      "id": "tt2226417",
+      "type": "movie",
+      "name": "Quỷ Quyệt 2",
+      "poster": "https://phimimg.com/upload/vod/20250731-1/e8d11a952d8ae6dadf10a4273e3d3cd6.jpg",
+      "description": "Năm 1986, Lorraine Lambert mời nhà tâm linh Elise đến nhà mình để giúp tìm con ma đang đeo bám cậu con trai Josh của bà. Elise nhận định Josh có khả năng đặc biệt mà người thường không có, đó là kết nối linh hồn mình với thế giới của người chết. Hai người quyết định xóa ký ức của Josh để anh thôi không \"du hành\" vào thế giới đen tối này nữa. Hai mươi lăm năm trôi qua, Josh khi này đã có vợ là Renai cùng hai con. Đây là lúc truyện phim tiếp nối phần 1. Những tưởng đã thoát khỏi ma quỷ từ lần trước nhưng những hiện tượng lạ vẫn diễn ra trong nhà Lambert.",
+      "releaseInfo": "2013",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt1591095",
+      "type": "movie",
+      "name": "Quỷ Quyệt",
+      "poster": "https://phimimg.com/upload/vod/20250731-1/7805a656c8b6bdeee32ab9c2eccf77fb.jpg",
+      "description": "Đây là phần phim đầu tiên (theo thứ tự thời gian, lần thứ ba) trong loạt phim Insidious. Câu chuyện xoay quanh cặp vợ chồng có con trai không hiểu sao đi vào tình trạng hôn mê và trở thành một vật chứa cho hồn ma trong một không gian tâm linh muốn cư ngụ cơ thể của mình, để sống một lần nữa. Bộ phim đã được phát hành tại rạp vào ngày 1 tháng 4 năm 2011 và FilmDistrict phát hành đầu tiên. Bộ phim được nối tiếp theo một phần sau, Quỷ quyệt 2 (2013) và hai phần sau, Quỷ quyệt 3 (2015) và Quỷ quyệt: Chìa khóa quỷ dữ (2018).",
+      "releaseInfo": "2011",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt26697087",
+      "type": "movie",
+      "name": "Cuộc Chiến Ép Cân",
+      "poster": "https://phimimg.com/uploads/movies/20260823/cuoc-chien-ep-can-poster.webp",
+      "description": "Trở lại võ đài sau khi giải nghệ, một cựu võ sĩ quyết tâm chinh phục ngôi vô địch. Nhưng hành trình ép cân tàn khốc mới là đối thủ lớn nhất của anh.",
+      "releaseInfo": "2025",
+      "imdbRating": "5.6"
+    },
+    {
+      "id": "tt35303601",
+      "type": "movie",
+      "name": "Bí Mật Đen Tối",
+      "poster": "https://phimimg.com/uploads/movies/20260822/bi-mat-den-toi-poster.webp",
+      "description": "Phim theo chân Chris Davis (Austin North) – một công nhân giàn khoan dầu trẻ tuổi cùng chú chó cứu hộ của mình đang lái xe vượt tiểu bang để đến dự lễ cưới mà anh hằng mong đợi. Tuy nhiên, chuyến đi vui vẻ nhanh chóng biến thành cơn ác mộng khi họ bị tấn công dã man tại một trạm dừng chân ven đường vắng vẻ.",
+      "releaseInfo": "2025",
+      "imdbRating": "4.9"
+    },
+    {
+      "id": "tt0084945",
+      "type": "movie",
+      "name": "Zapped!",
+      "poster": "https://phimimg.com/uploads/movies/20260822/zapped-poster.webp",
+      "description": "Peyton và Barney là những học sinh trung học ham vui đang thực hiện một đề tài khoa học với những con chuột bạch. Khi một trong những con chuột bắt đầu kéo thức ăn về phía mình mà không cần chạm vào, Barney nhận ra cậu đã vô tình khám phá ra công thức tạo nên sức mạnh dịch chuyển vật thể bằng trí óc (telekinesis). Giờ đây, một nam sinh trung học có thể di chuyển mọi thứ chỉ bằng suy nghĩ sẽ gây ra vô số rắc rối đến mức nào?",
+      "releaseInfo": "1982",
+      "imdbRating": "5.0"
+    },
+    {
+      "id": "tt1029360",
+      "type": "movie",
+      "name": "Ma Quậy Phá 4 / Yêu Tinh 4",
+      "poster": "https://phimimg.com/uploads/movies/20260822/ma-quay-pha-4-yeu-tinh-4-poster.webp",
+      "description": "Được làm lại từ một siêu phẩm kinh dị của thập niên 80, bộ phim Yêu Tinh thu hút người xem bởi nét cổ điển và hiện đại hoà hợp một cách khéo léo. Chuyện kể về một gia đình trẻ 4 người vừa chuyển đến chỗ ở mới. Họ liên tục gặp phải những hiện tượng kỳ lạ trong ngôi nhà mình, từ những âm thanh kỳ lạ đến việc đồ vật di chuyển vô cớ. Cao trào của tất cả là khi cô con gái út bị bắt cóc. Liệu điều gì sẽ xảy ra tiếp theo?",
+      "releaseInfo": "2015",
+      "imdbRating": "4.9"
+    },
+    {
+      "id": "tt0095889",
+      "type": "movie",
+      "name": "Ma Quậy Phá 3 / Yêu Tinh 3",
+      "poster": "https://phimimg.com/uploads/movies/20260822/ma-quay-pha-3-yeu-tinh-3-poster.webp",
+      "description": "Carol Anne được gửi đến sống cùng chú cô trong một nỗ lực nhằm giấu cô bé khỏi móng nanh của hồn ma Mục sư Kane, nhưng hắn vẫn truy lùng ra và khủng bố cô bé ngay tại căn hộ của người thân trong một tòa nhà kính cao tầng. Liệu hắn có đạt được mục tiêu và bắt giữ Carol Anne một lần nữa, hay Tangina sẽ lại một lần nữa ngăn chặn được hắn?",
+      "releaseInfo": "1988",
+      "imdbRating": "4.7"
+    },
+    {
+      "id": "tt0091778",
+      "type": "movie",
+      "name": "Ma Quậy Phá 2 / Yêu Tinh 2",
+      "poster": "https://phimimg.com/uploads/movies/20260822/ma-quay-pha-2-yeu-tinh-2-poster.webp",
+      "description": "Gia đình Freeling chuyển đến sống cùng mẹ của Diane nhằm chạy trốn khỏi tổn thương tâm lý và hậu quả sau vụ cô con gái Carol Anne bị bắt đi bởi Ác Quỷ (The Beast). Thế nhưng, Ác Quỷ không dễ dàng từ bỏ và xuất hiện dưới hình dạng bóng ma của Mục sư Kane — một kẻ cuồng giáo tàn bạo chịu trách nhiệm cho cái chết của hàng loạt tín đồ. Mục tiêu của hắn vô cùng đơn giản: hắn muốn bắt bằng được cô bé Carol Anne ngây thơ thuần khiết.",
+      "releaseInfo": "1986",
+      "imdbRating": "5.7"
+    },
+    {
+      "id": "tt0084516",
+      "type": "movie",
+      "name": "Yêu Tinh / Ma Quậy Phá",
+      "poster": "https://phimimg.com/uploads/movies/20260822/yeu-tinh-ma-quay-pha-poster.webp",
+      "description": "Ngôi nhà ở vùng ngoại ô của gia đình Freeling trở thành tâm điểm của những hoạt động siêu nhiên, mở ra một cổng kết nối sang \"the other side\" (thế giới bên kia). Với sự trợ giúp từ các chuyên gia, họ phải vượt qua ranh giới đó để giải cứu cô con gái nhỏ của mình.",
+      "releaseInfo": "1982",
+      "imdbRating": "7.3"
+    },
+    {
       "id": "tt32338669",
       "type": "movie",
       "name": "Tàu Buôn Người",
@@ -803,96 +893,6 @@
       "description": "Một cánh cửa kỳ lạ bất ngờ xuất hiện trong tầng hầm của một cửa hàng trưng bày nội thất, mở ra lối vào một không gian bí ẩn và đáng sợ vượt ngoài mọi hiểu biết.",
       "releaseInfo": "2026",
       "imdbRating": "6.8"
-    },
-    {
-      "id": "tt34688195",
-      "type": "movie",
-      "name": "Dưới Lớp Hào Quang",
-      "poster": "https://phimimg.com/uploads/movies/20260714/duoi-lop-hao-quang-poster.webp",
-      "description": "Giữa ánh đèn rực rỡ của Tuần lễ Thời trang Paris, ba người phụ nữ mang những hoàn cảnh khác nhau bất ngờ gặp gỡ và đồng hành cùng nhau. Khi đối diện với biến cố, khát vọng và những bí mật riêng, họ tìm thấy tình bạn, sự thấu hiểu và sức mạnh để thay đổi cuộc đời mình.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.7"
-    },
-    {
-      "id": "tt0025316",
-      "type": "movie",
-      "name": "Chuyện Xảy Ra Một Đêm",
-      "poster": "https://phimimg.com/uploads/movies/20260713/chuyen-xay-ra-mot-dem-poster.webp",
-      "description": "Một nàng tiểu thư thừa kế đang trên đường bỏ trốn đã thực hiện một thỏa thuận với gã phóng viên láu cá đang bám đuôi mình. Thế nhưng, cặp đôi oan gia ngõ hẹp này lại rơi vào cảnh tiến thoái lưỡng nan, buộc phải dính lấy nhau khi chuyến xe buýt duy nhất đã bỏ lại họ ở phía sau.",
-      "releaseInfo": "1934",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt0417976",
-      "type": "movie",
-      "name": "Vô Cực",
-      "poster": "https://phimimg.com/uploads/movies/20260713/vo-cuc-poster.webp",
-      "description": "The Promise (Vô Cực) là bộ phim võ thuật về thế giới ngầm của Trung Hoa cổ đại. Trong đó, Vương Phi Khuynh Thành nhận được sự ban phép của Nữ thần Vận Mệnh khiến cô từ một cô gái nghèo trở thành Vương Phi xinh đẹp, được sủng ái với một điều kiện là cô không bao giờ có được một tình yêu chân thật. Nhưng rồi cô nhận được tình yêu từ một người nô lệ. Anh đã dùng sinh mạng của mình để đánh đổi tất cả, giúp Vương Phi giải thoát lời nguyền. Nhưng câu chuyện không chỉ đơn giản như thế...",
-      "releaseInfo": "2005",
-      "imdbRating": "5.6"
-    },
-    {
-      "id": "tt1071358",
-      "type": "movie",
-      "name": "Một Câu Chuyện Lọ Lem Khác",
-      "poster": "https://phimimg.com/uploads/movies/20260713/mot-cau-chuyen-lo-lem-khac-poster.webp",
-      "description": "Một chàng trai từng khiêu vũ với cô gái trong mơ tại một buổi dạ hội hóa trang giờ đây chỉ có duy nhất một manh mối về danh tính của cô: chiếc máy nghe nhạc Zune mà cô vô tình để lại khi vội vã chạy về nhà cho kịp giờ giới nghiêm. Đứng trước cơ hội ngàn năm có một, anh quyết định lên đường tìm kiếm người đẹp giấu mặt của mình.",
-      "releaseInfo": "2008",
-      "imdbRating": "5.8"
-    },
-    {
-      "id": "tt3201722",
-      "type": "movie",
-      "name": "Người Đàn Ông Tiều Phu",
-      "poster": "https://phimimg.com/uploads/movies/20260712/nguoi-dan-ong-tieu-phu-poster.webp",
-      "description": "Khi các nhân viên của Trại nhà thờ Good Friends chuẩn bị cho một kỳ nghỉ xuân ngập tràn các hoạt động \"Vui chơi dưới ánh Mặt Trời\", một gã tiều phu ác quỷ bỗng trỗi dậy từ chiếc nồi nấu nhựa thông của mình để thực thi kế hoạch trả thù tàn khốc, đồng thời thưởng thức món bánh kếp đẫm máu từ các nạn nhân của hắn.",
-      "releaseInfo": "2015",
-      "imdbRating": "4.2"
-    },
-    {
-      "id": "tt9100018",
-      "type": "movie",
-      "name": "Cội Nguồn Tội Ác",
-      "poster": "https://phimimg.com/uploads/movies/20260712/coi-nguon-toi-ac-poster.webp",
-      "description": "Nỗi kinh hoàng ập đến khi cậu bé 8 tuổi tên Peter cố gắng điều tra những tiếng gõ bí ẩn phát ra từ bên trong các bức tường của ngôi nhà và phát hiện bí mật đen tối mà bố mẹ cậu đã giấu lâu nay.",
-      "releaseInfo": "2023",
-      "imdbRating": "5.9"
-    },
-    {
-      "id": "tt6139732",
-      "type": "movie",
-      "name": "Aladdin",
-      "poster": "https://phimimg.com/uploads/movies/20260712/aladdin-poster.webp",
-      "description": "Aladdin là một phiên bản live action đầy màu sắc sống động và không kém phần hồi hộp, được chuyển thể từ bộ phim hoạt hình kinh điển cả hãng phim Disney. Câu chuyện xoay quanh chàng hoàng tử khu ổ chuột Aladdin – một thanh niên trẻ tuổi dũng cảm và nàng công chúa Jasmine mạnh mẽ, đương nhiên phải kể đến thần đèn Genie – người nắm giữ chìa khóa thay đổi tương lại sau này của họ.",
-      "releaseInfo": "2019",
-      "imdbRating": "6.9"
-    },
-    {
-      "id": "tt9661164",
-      "type": "movie",
-      "name": "Vụ Cướp",
-      "poster": "https://phimimg.com/uploads/movies/20260710/vu-cuop-poster.webp",
-      "description": "Lấy cảm hứng từ vụ cướp ngân hàng Northern Bank năm 2004 có thật, hai nhân viên ngân hàng thù địch nhau bị buộc phải thực hiện vụ cướp lớn nhất lịch sử Ireland sau khi bọn tội phạm bắt cóc gia đình họ và đe dọa giết hại.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt8593824",
-      "type": "movie",
-      "name": "Đường Xưa",
-      "poster": "https://phimimg.com/uploads/movies/20260710/duong-xua-poster.webp",
-      "description": "Briggs - một sát thủ khét tiếng tưởng như đã yên phận bên gia đình sau khi rửa tay gác kiếm, nhưng giờ đây anh và cô con gái nhỏ của mình sẽ phải đối mặt với con trai của một người đàn ông mà anh đã sát hại nhiều năm trước đến để trả thù.",
-      "releaseInfo": "2023",
-      "imdbRating": "5.6"
-    },
-    {
-      "id": "tt25147850",
-      "type": "movie",
-      "name": "Thánh Ma Túy",
-      "poster": "https://phimimg.com/uploads/movies/20260710/thanh-ma-tuy-2025-poster.webp",
-      "description": "King Ivory (2025) khắc họa cuộc chiến khốc liệt chống lại nạn buôn bán fentanyl tại Oklahoma, nơi một cảnh sát có con trai nghiện ma túy, một tay buôn cartel Mexico, và một tên tội phạm vừa ra tù vướng vào vòng xoáy bạo lực. Ba tuyến đời dồn nén, đan xen, tạo nên bức tranh u ám và ám ảnh về một cuộc chiến không lối thoát.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.1"
     }
   ]
 }
