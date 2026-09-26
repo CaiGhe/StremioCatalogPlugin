@@ -1,6 +1,24 @@
 {
   "metas": [
     {
+      "id": "tt1659324",
+      "type": "movie",
+      "name": "Sa Đọa",
+      "poster": "https://phimimg.com/uploads/movies/20260824/sa-doa-2024-poster.webp",
+      "description": "Phim xoay quanh ba người hàng xóm sống chung một khu vực. Trong một tình huống tình cờ, họ vô tình phát hiện ra một kho báu ẩn giấu gồm các tác phẩm nghệ thuật bị đánh cắp có giá trị khổng lồ.",
+      "releaseInfo": "2024",
+      "imdbRating": "4.3"
+    },
+    {
+      "id": "tt13405778",
+      "type": "movie",
+      "name": "Quỷ Quyệt: Cửa Đỏ Vô Định",
+      "poster": "https://phimimg.com/upload/vod/20250731-1/6bf7cce66b598e7cc98ef84b6a5ccd15.jpg",
+      "description": "Phần tiếp theo của loạt phim kinh dị Insidious với sự góp mặt của dàn diễn viên gốc thuộc gia đình Lambert. Câu chuyện xoay quanh quyết định mở ra cánh cửa đỏ và đi sâu vào Cõi Vô Định của Josh (Patrick Wilson) và Dalton (Ty Simpkins) - nay đã trưởng thành - để tiêu diệt một lần và mãi mãi những con quỷ đang ám ảnh cả gia đình mình. Từ đó họ phải đối mặt với quá khứ tăm tối và đầy bí ản của gia đình, nơi những ám ảnh kinh hoàng nhất đang rình rập. Dàn diễn viên gốc từ Insidious trở lại gồm Patrick Wilson (kiêm vai trò đạo diễn), Ty Simpkins, Rose Byrne và Andrew Astor. Cũng có sự tham gia của Sinclair Daniel và Hiam Abbass. Phim do Jason Blum, Oren Peli, James Wan và Leigh Whannell sản xuất. Kịch bản được viết bởi Scott Teems dựa trên câu chuyện của Leigh Whannell, và nhân vật do Leigh Whannell tạo ra.",
+      "releaseInfo": "2023",
+      "imdbRating": "5.5"
+    },
+    {
       "id": "tt5726086",
       "type": "movie",
       "name": "Quỷ Quyệt: Chìa Khóa Quỷ Dữ",
@@ -418,7 +436,8 @@
       "name": "Ngôi nhà cuối cùng",
       "poster": "https://phimimg.com/uploads/movies/20260808/ngoi-nha-cuoi-cung-poster.webp",
       "description": "Một gia đình mắc kẹt một cách bí ẩn trong ngôi nhà phải đoàn kết để sinh tồn khi nhu yếu phẩm cạn kiệt và một thế lực đáng sợ không để họ thoát ra.",
-      "releaseInfo": "2026"
+      "releaseInfo": "2026",
+      "imdbRating": "5.5"
     },
     {
       "id": "tt0983946",
@@ -875,24 +894,6 @@
       "description": "Một chuyến bay nội địa tưởng chừng bình thường bỗng biến thành cơn ác mộng trên không khi hàng loạt hiện tượng không thể lý giải liên tiếp xảy ra. Giữa những trục trặc công nghệ kỳ dị, sức mạnh siêu nhiên ngày càng dữ dội và dấu vết của một thế lực ngoài hành tinh, các hành khách phải giành giật sự sống khi ranh giới giữa thực tại và ác mộng dần tan biến.",
       "releaseInfo": "2026",
       "imdbRating": "5.1"
-    },
-    {
-      "id": "tt42373968",
-      "type": "movie",
-      "name": "Gary",
-      "poster": "https://phimimg.com/uploads/movies/20260718/gary-poster.webp",
-      "description": "Hai người bạn cùng nhau đi công tác và đối mặt với những thử thách bất ngờ cùng những cá tính dị biệt tại địa phương trong quá trình thực hiện nhiệm vụ. Những nỗ lực của họ nhằm thích nghi với môi trường xa lạ đã làm nổi bật lên những khoảnh khắc hài hước, nét văn hóa của thị trấn nhỏ và cả bản chất khó lường của những chuyến đi vì công việc. Trải nghiệm này cuối cùng đã mang lại những góc nhìn hoàn toàn mới về tình bạn của họ.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt33400719",
-      "type": "movie",
-      "name": "Sát Nhân Huyền Bí Ở Inland Empire",
-      "poster": "https://phimimg.com/uploads/movies/20260714/sat-nhan-huyen-bi-o-inland-empire-poster.webp",
-      "description": "Các thám tử bị cuốn vào một cuộc săn lùng rùng rợn tìm kiếm kẻ sát nhân hàng loạt tàn bạo đến từ quá khứ, kẻ mà sự trở lại của hắn đánh dấu sự khởi đầu cho một làn sóng tội ác kỳ dị, siêu nhiên liên kết chặt chẽ với một thế lực vũ trụ bí ẩn.",
-      "releaseInfo": "2025",
-      "imdbRating": "6.3"
     }
   ]
 }
