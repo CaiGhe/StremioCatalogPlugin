@@ -1,6 +1,24 @@
 {
   "metas": [
     {
+      "id": "tt0116671",
+      "type": "movie",
+      "name": "Người Tuyết Sát Nhân",
+      "poster": "https://phimimg.com/uploads/movies/20260927/nguoi-tuyet-sat-nhan-poster.webp",
+      "description": "Trên đường bị đưa đi thi hành án tử hình, chiếc xe chở tên sát nhân hàng loạt khét tiếng Jack Frost va chạm với một xe chở hóa chất nguy hiểm. Hóa chất biến hắn thành một sinh vật đột biến phủ đầy tuyết và xổng ra tàn phá thị trấn Snomonton yên bình mà không ai hay biết.",
+      "releaseInfo": "1997",
+      "imdbRating": "4.6"
+    },
+    {
+      "id": "tt0090327",
+      "type": "movie",
+      "name": "Bàn Cầu Cơ",
+      "poster": "https://phimimg.com/uploads/movies/20260927/ban-cau-co-1986-poster.webp",
+      "description": "Trong lúc chơi đùa với một chiếc bàn cầu cơ (Ouija board), một nhóm ba người bạn đã liên lạc thành công với linh hồn của một cậu bé. Rắc rối và tai họa thực sự bắt đầu khi linh hồn tà tà tàn bạo Malfeitor chiếm đoạt thể xác của một người trong số họ.",
+      "releaseInfo": "1986",
+      "imdbRating": "5.7"
+    },
+    {
       "id": "tt6933238",
       "type": "movie",
       "name": "UNABOMBER",
@@ -95,7 +113,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260922/chat-poster.webp",
       "description": "Khởi đầu mới của một gia đình tại ngôi nhà mới bỗng chốc sụp đổ khi đứa con trai của họ phát hiện ra một chiếc máy tính bảng tích hợp công nghệ trí tuệ nhân tạo (AI). Chiếc máy đã giải phóng một làn sóng kinh hoàng không chỉ liên quan đến các thế lực siêu nhiên mà còn dính líu đến những bí mật đen tối về lòng tham và sự tham nhũng đang bủa vằn quanh họ.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3"
+      "imdbRating": "7.4"
     },
     {
       "id": "tt0080040",
@@ -874,24 +892,6 @@
       "description": "Vào những năm 1970 tại Detroit, John Miller đem lòng yêu người phụ nữ của một kẻ găng-stơ địa phương và rồi bị tống vào tù vì một tội ác mà anh không hề phạm phải. Khi cuộc đời đã bị hủy hoại, Miller lập kế hoạch trả thù kẻ đã cướp đi người phụ nữ anh yêu.",
       "releaseInfo": "2026",
       "imdbRating": "6.1"
-    },
-    {
-      "id": "tt27676959",
-      "type": "movie",
-      "name": "Lazareth: Thế Giới Cô Lập",
-      "poster": "https://phimimg.com/uploads/movies/20260826/lazareth-the-gioi-co-lap-poster.webp",
-      "description": "Lee là một người cô với sứ mệnh đời mình là bảo vệ hai đứa cháu gái mồ côi, Imogen và Maeve, khỏi một thế giới đang tự hủy diệt. Cô nuôi dạy hai đứa trẻ trong sự cô lập hoàn toàn cho đến khi một kẻ lạ mặt xuất hiện, đe dọa sự tồn tại bình yên của họ.",
-      "releaseInfo": "2024",
-      "imdbRating": "4.4"
-    },
-    {
-      "id": "tt0242423",
-      "type": "movie",
-      "name": "Anh Bạn, Xe Tôi Đâu?",
-      "poster": "https://phimimg.com/uploads/movies/20260825/anh-ban-xe-toi-dau-poster.webp",
-      "description": "Hai anh chàng ngốc nghếch thích \"nhậu nhẹt\" thức dậy sau một đêm tiệc tùng tơi bời và hoàn toàn không thể nhớ ra họ đã đỗ chiếc xe hơi của mình ở đâu.",
-      "releaseInfo": "2000",
-      "imdbRating": "5.5"
     }
   ]
 }

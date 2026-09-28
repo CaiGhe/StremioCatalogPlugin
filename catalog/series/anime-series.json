@@ -1,15 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt4083422",
-      "type": "series",
-      "name": "Doraemon",
-      "poster": "https://image.tmdb.org/t/p/w500/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-      "description": "Doraemon (2005) là bộ anime gần đây nhất dựa trên manga cùng tên của Fujiko Fujio.\n\nĐây là phiên bản năm 2005 của loạt phim năm 1979, với một số thay đổi nhất định về hình ảnh động và những thứ khác.\n\nDoraemon là chú mèo máy xuất hiện ở hiện tại để lèo lái Nobita/Noby, một cậu bé khờ khạo, ngây thơ và vụng về đi đúng đường để đảm bảo tương lai của mình. Người yêu của Nobita là Shizuka Minamoto/Sue, kẻ thù không đội trời chung của cậu là Takeshi Goda/Big G và Suneo/Sneech.",
-      "releaseInfo": "2005",
-      "imdbRating": "8.4"
-    },
-    {
       "id": "tt6472622",
       "type": "series",
       "name": "僧侶と交わる色欲の夜に…",
@@ -17,6 +8,15 @@
       "description": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had always wanted to know more about the kind-hearted boy in high school, but once she realizes that Kujou has become a monk, she believes that any chance of getting to know him romantically is slim. Deciding to drink away her sorrows, she ends up walking home drunk, and surprisingly, running into Kujou who helps her get home.\n\nHowever, once inside, Kujou's lust for Mio becomes apparent and the two share an erotic night of passion. As this steamy romance blossoms between these two unlikely lovers, Mio and Kujou will undoubtedly spend many nights together in utter ecstasy.",
       "releaseInfo": "2017",
       "imdbRating": "5.0"
+    },
+    {
+      "id": "tt4083422",
+      "type": "series",
+      "name": "Doraemon",
+      "poster": "https://image.tmdb.org/t/p/w500/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+      "description": "Doraemon (2005) là bộ anime gần đây nhất dựa trên manga cùng tên của Fujiko Fujio.\n\nĐây là phiên bản năm 2005 của loạt phim năm 1979, với một số thay đổi nhất định về hình ảnh động và những thứ khác.\n\nDoraemon là chú mèo máy xuất hiện ở hiện tại để lèo lái Nobita/Noby, một cậu bé khờ khạo, ngây thơ và vụng về đi đúng đường để đảm bảo tương lai của mình. Người yêu của Nobita là Shizuka Minamoto/Sue, kẻ thù không đội trời chung của cậu là Takeshi Goda/Big G và Suneo/Sneech.",
+      "releaseInfo": "2005",
+      "imdbRating": "8.4"
     },
     {
       "id": "tt13293588",
@@ -37,15 +37,6 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt5607616",
-      "type": "series",
-      "name": "Re:Zero − Bắt Đầu Ở Thế Giới Khác",
-      "poster": "https://image.tmdb.org/t/p/w500/lIgQIOsg5fpDz2p6QGqaOinuIA4.jpg",
-      "description": "Trên đường từ cửa hàng tiện lợi về nhà, cậu bé tuổi teen Natsuki Subaru bị đưa đến một thế giới khác, và ở đó cậu có được năng lực đảo ngược thời gian bằng cách chết đi.",
-      "releaseInfo": "2016",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt2359704",
       "type": "series",
       "name": "Cuộc phiêu lưu kì lạ của JoJo",
@@ -64,13 +55,13 @@
       "imdbRating": "7.6"
     },
     {
-      "id": "tt0220204",
+      "id": "tt5607616",
       "type": "series",
-      "name": "ちびまる子ちゃん",
-      "poster": "https://image.tmdb.org/t/p/w500/bfn54AAMuh47IFqeoco0jgeVH1a.jpg",
-      "description": "Meet Maruko, a sweet schoolgirl with a hefty dose of curiosity (and occasional laziness!). She sails through life in a cozy town alongside her loving parents, grandparents, and sister. Maruko has a band of loyal friends, including her closest pal, Tama-chan, but her playful and doting grandpa is at the heart of it all. Life is never dull in this charming series.",
-      "releaseInfo": "1990",
-      "imdbRating": "8.0"
+      "name": "Re:Zero − Bắt Đầu Ở Thế Giới Khác",
+      "poster": "https://image.tmdb.org/t/p/w500/lIgQIOsg5fpDz2p6QGqaOinuIA4.jpg",
+      "description": "Trên đường từ cửa hàng tiện lợi về nhà, cậu bé tuổi teen Natsuki Subaru bị đưa đến một thế giới khác, và ở đó cậu có được năng lực đảo ngược thời gian bằng cách chết đi.",
+      "releaseInfo": "2016",
+      "imdbRating": "8.1"
     },
     {
       "id": "tt0131179",
@@ -82,13 +73,13 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt1224144",
+      "id": "tt0220204",
       "type": "series",
-      "name": "Gia Sư Hitman Reborn!",
-      "poster": "https://image.tmdb.org/t/p/w500/ewYjHmmyxIaM3heRO0eZaOA6xo2.jpg",
-      "description": "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything around Tsuna has been completely changed when a baby called Reborn, who claims to be an Italian hit man from Vongola family shows up! Reborn was sent to groom Tsuna for his future life as a mafia boss of the family!",
-      "releaseInfo": "2006",
-      "imdbRating": "7.6"
+      "name": "ちびまる子ちゃん",
+      "poster": "https://image.tmdb.org/t/p/w500/bfn54AAMuh47IFqeoco0jgeVH1a.jpg",
+      "description": "Meet Maruko, a sweet schoolgirl with a hefty dose of curiosity (and occasional laziness!). She sails through life in a cozy town alongside her loving parents, grandparents, and sister. Maruko has a band of loyal friends, including her closest pal, Tama-chan, but her playful and doting grandpa is at the heart of it all. Life is never dull in this charming series.",
+      "releaseInfo": "1990",
+      "imdbRating": "8.0"
     },
     {
       "id": "tt14962432",
@@ -118,6 +109,15 @@
       "imdbRating": "8.5"
     },
     {
+      "id": "tt1224144",
+      "type": "series",
+      "name": "Gia Sư Hitman Reborn!",
+      "poster": "https://image.tmdb.org/t/p/w500/ewYjHmmyxIaM3heRO0eZaOA6xo2.jpg",
+      "description": "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything around Tsuna has been completely changed when a baby called Reborn, who claims to be an Italian hit man from Vongola family shows up! Reborn was sent to groom Tsuna for his future life as a mafia boss of the family!",
+      "releaseInfo": "2006",
+      "imdbRating": "7.6"
+    },
+    {
       "id": "tt30325611",
       "type": "series",
       "name": "悶えてよ、アダムくん",
@@ -134,6 +134,15 @@
       "description": "Gon, a young boy who lives on Whale Island, dreams of becoming a Hunter like his father, who left when Gon was still young.",
       "releaseInfo": "2011",
       "imdbRating": "9.0"
+    },
+    {
+      "id": "tt0121220",
+      "type": "series",
+      "name": "Bảy Viên Ngọc Rồng Z",
+      "poster": "https://image.tmdb.org/t/p/w500/oQ5CnVj3TRifXl2bIOri6H6rfNe.jpg",
+      "description": "Bảy viên ngọc rồng Z – Dragon Ball Z (1996) nối tiếp câu chuyện của Dragon Ball 1986, lúc này SonGoku đã có một người con tên là Gohan ẩn chứa một sức mạnh vô cùng khủng khiếp. Cuộc sống trên trái đất đang yên bình và rất tươi đẹp, cho đến một ngày tên Radich – người của hành tinh Saiya đến, hắn đã phá hủy mọi thứ và giết rất nhiều người. Và cũng từ đây Goku mới biết sự thật về thân thế của mình. Trước tình hình đó Goku và Piccolo đã hợp sức lại tiêu diệt tên Saiya, nhưng không may là Goku cũng phải chết theo tên Saiya đó. Biết được điều này, Piccolo đã luyện võ công cho Gohan. Goku thì tích cực khổ công tập luyện với Thần Vũ Trụ chờ cho đến khi những người bạn của mình tìm được ngọc rồng và hồi sinh cho anh, để anh có thể tiếp tục bảo về nhân loại. Liệu họ có thành công trong cuộc chiến đấu với quái vật Cell (Xên bọ hung) và Ma Bưu nguy hiểm này hay không?",
+      "releaseInfo": "1989",
+      "imdbRating": "8.8"
     },
     {
       "id": "tt22248376",
@@ -154,13 +163,13 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt1127682",
+      "id": "tt2150751",
       "type": "series",
-      "name": "あたしンち",
-      "poster": "https://image.tmdb.org/t/p/w500/m1UpBsCk9Vc10hWaE74vYtJASbR.jpg",
-      "description": "A light hearted comedy based on the about the daily life of a \"normal\" Japanese family. The Tachibana family consists of a housewife mom, a salary-man dad, and teenager Mikan and Yuzuhiko.",
-      "releaseInfo": "2002",
-      "imdbRating": "7.0"
+      "name": "Lá Bài Cổ",
+      "poster": "https://image.tmdb.org/t/p/w500/nUfL7xK5DjViiQAwHiRYlb6VMTE.jpg",
+      "description": "Chihaya Ayase has spent most of her life supporting her sister’s model career. When she meets a boy named Arata Wataya, he thinks Chihaya has potential to become a great karuta player. As Chihaya dreams of becoming Japan's best karuta player, she is soon separated from her karuta playing friends. Now in high school, Chihaya still plays karuta in the hope that she will one day meet her friends again.",
+      "releaseInfo": "2011",
+      "imdbRating": "8.1"
     },
     {
       "id": "tt0069576",
@@ -172,15 +181,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt0121220",
-      "type": "series",
-      "name": "Bảy Viên Ngọc Rồng Z",
-      "poster": "https://image.tmdb.org/t/p/w500/oQ5CnVj3TRifXl2bIOri6H6rfNe.jpg",
-      "description": "Bảy viên ngọc rồng Z – Dragon Ball Z (1996) nối tiếp câu chuyện của Dragon Ball 1986, lúc này SonGoku đã có một người con tên là Gohan ẩn chứa một sức mạnh vô cùng khủng khiếp. Cuộc sống trên trái đất đang yên bình và rất tươi đẹp, cho đến một ngày tên Radich – người của hành tinh Saiya đến, hắn đã phá hủy mọi thứ và giết rất nhiều người. Và cũng từ đây Goku mới biết sự thật về thân thế của mình. Trước tình hình đó Goku và Piccolo đã hợp sức lại tiêu diệt tên Saiya, nhưng không may là Goku cũng phải chết theo tên Saiya đó. Biết được điều này, Piccolo đã luyện võ công cho Gohan. Goku thì tích cực khổ công tập luyện với Thần Vũ Trụ chờ cho đến khi những người bạn của mình tìm được ngọc rồng và hồi sinh cho anh, để anh có thể tiếp tục bảo về nhân loại. Liệu họ có thành công trong cuộc chiến đấu với quái vật Cell (Xên bọ hung) và Ma Bưu nguy hiểm này hay không?",
-      "releaseInfo": "1989",
-      "imdbRating": "8.8"
-    },
-    {
       "id": "tt0988824",
       "type": "series",
       "name": "Naruto Shippuden",
@@ -188,33 +188,6 @@
       "description": "Naruto Shippuden hay còn được gọi với cái tên quen thuộc Naruto phần 2 là phần tiếp theo của bộ phim hoạt hình nổi tiếng Naruto, lấy bối cảnh hai năm rưỡi sau khi Naruto rời làng Lá. Naruto Shippuden tiếp tục theo chân chàng ninja trẻ tuổi Naruto Uzumaki trong cuộc hành trình luyện tập cực khổ để trở thành ninja giỏi nhất. Trong khi đó, Akatsuki, một tổ chức bí ẩn tập hợp những ninja phản diện tài giỏi bậc nhất, đang từng bước thực hiện kế hoạch lớn của chúng, đe dọa sự an toàn của thế giới ninja. Naruto sẽ làm gì để bảo vệ làng Lá và những người mà cậu yêu quý?",
       "releaseInfo": "2007",
       "imdbRating": "8.7"
-    },
-    {
-      "id": "tt26692417",
-      "type": "series",
-      "name": "ポケットモンスター",
-      "poster": "https://image.tmdb.org/t/p/w500/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
-      "description": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and others during their exciting adventures!",
-      "releaseInfo": "2023",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt2150751",
-      "type": "series",
-      "name": "Lá Bài Cổ",
-      "poster": "https://image.tmdb.org/t/p/w500/nUfL7xK5DjViiQAwHiRYlb6VMTE.jpg",
-      "description": "Chihaya Ayase has spent most of her life supporting her sister’s model career. When she meets a boy named Arata Wataya, he thinks Chihaya has potential to become a great karuta player. As Chihaya dreams of becoming Japan's best karuta player, she is soon separated from her karuta playing friends. Now in high school, Chihaya still plays karuta in the hope that she will one day meet her friends again.",
-      "releaseInfo": "2011",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt13706018",
-      "type": "series",
-      "name": "Gia Đình × Điệp Viên",
-      "poster": "https://image.tmdb.org/t/p/w500/d8nvgOZTMH5JisUR03ma0nIQFh2.jpg",
-      "description": "Nhằm ngăn những kẻ cực đoan châm ngòi cho cuộc chiến với quốc gia láng giềng Ostania, Twilight, điệp viên hàng đầu của Westalis phải điều tra chính trị gia người Ostanian là Donovan Desmond bằng cách xâm nhập vào trường học của con trai ông ta - học viện Eden danh giá. Dưới vỏ bọc Loid Forger, một bác sĩ, Twilight đã nhận nuôi cô bé mồ côi Anya và kết hôn giả với Yor Briar rồi cho Anya nhập học tại học viện Eden mà không hề hay biết hai người này cũng có thân phận bí mật: Yor là sát thủ được mệnh danh \"Công chúa Thorn\" còn Anya là siêu năng lực gia có khả năng đọc suy nghĩ. Tuy khởi đầu là một gia đình giả mà cả ba đều lợi dụng lẫn nhau, nhưng theo thời gian, họ dần nhận ra tầm quan trọng của hai người kia trong trái tim mình.",
-      "releaseInfo": "2022",
-      "imdbRating": "8.2"
     },
     {
       "id": "tt32766897",
@@ -226,22 +199,13 @@
       "imdbRating": "7.9"
     },
     {
-      "id": "tt0096686",
+      "id": "tt26692417",
       "type": "series",
-      "name": "らんま1/2",
-      "poster": "https://image.tmdb.org/t/p/w500/qb1R5iLZcjIgdDIfXFQXmJadQPI.jpg",
-      "description": "Ranma Saotome, a teenage martial artist, and his father Genma travel to the 'cursed training ground' of Jusenkyo in China. There, despite the warnings of the Chinese guard, they fall into the cursed springs. From now on, whenever Ranma is doused in cold water, he turns into a girl and a cute, well-built redhead at that. Hot water changes him back into a man again, but only until the next time. To make matters worse, his father engages him to Akane Tendo, a girl who hates boys.",
-      "releaseInfo": "1989",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt1355642",
-      "type": "series",
-      "name": "Cang Giả Kim Thuật Sư: Tình Anh Em",
-      "poster": "https://image.tmdb.org/t/p/w500/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg",
-      "description": "Sau khi cơ thể cả hai bị tổn thương – hai anh em Edward và Alphonse phải chiến đấu với những lực lượng xấu xa để phục hồi cơ thể trong bộ anime siêu nhiên này.",
-      "releaseInfo": "2009",
-      "imdbRating": "9.1"
+      "name": "ポケットモンスター",
+      "poster": "https://image.tmdb.org/t/p/w500/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+      "description": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and others during their exciting adventures!",
+      "releaseInfo": "2023",
+      "imdbRating": "7.4"
     },
     {
       "id": "tt0434706",
@@ -253,6 +217,24 @@
       "imdbRating": "8.7"
     },
     {
+      "id": "tt1127682",
+      "type": "series",
+      "name": "あたしンち",
+      "poster": "https://image.tmdb.org/t/p/w500/m1UpBsCk9Vc10hWaE74vYtJASbR.jpg",
+      "description": "A light hearted comedy based on the about the daily life of a \"normal\" Japanese family. The Tachibana family consists of a housewife mom, a salary-man dad, and teenager Mikan and Yuzuhiko.",
+      "releaseInfo": "2002",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt1355642",
+      "type": "series",
+      "name": "Cang Giả Kim Thuật Sư: Tình Anh Em",
+      "poster": "https://image.tmdb.org/t/p/w500/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg",
+      "description": "Sau khi cơ thể cả hai bị tổn thương – hai anh em Edward và Alphonse phải chiến đấu với những lực lượng xấu xa để phục hồi cơ thể trong bộ anime siêu nhiên này.",
+      "releaseInfo": "2009",
+      "imdbRating": "9.1"
+    },
+    {
       "id": "tt0388629",
       "type": "series",
       "name": "Đảo Hải Tặc",
@@ -260,6 +242,33 @@
       "description": "Phim Đảo Hải Tặc - One Piece là chuyện về cậu bé Monkey D. Luffy do ăn nhầm Trái Ác Quỷ, bị biến thành người cao su và sẽ không bao giờ biết bơi. 10 năm sau sự việc đó, cậu rời quê mình và kiếm đủ 10 thành viên để thành một băng hải tặc, biệt hiệu Hải tặc Mũ Rơm.\n\nKhi đó của phiêu lưu tìm kiếm kho báu One Piece bắt đầu. Trong cuộc phiêu lưu tìm kiếm One Piece, băng Hải tặc mũ rơm phải chiến đấu với nhiều băng hải tặc xấu khác cũng muốn độc chiếm One Piece và Hải quân của Chính phủ muốn diệt trừ hải tặc. Băng Hải tặc Mũ Rơm phải trải qua biết bao nhiêu khó khăn, không lùi bước với ước mơ \"Trở thành Vua Hải Tặc và chiếm được kho báu One Piece\".",
       "releaseInfo": "1999",
       "imdbRating": "9.0"
+    },
+    {
+      "id": "tt13706018",
+      "type": "series",
+      "name": "Gia Đình × Điệp Viên",
+      "poster": "https://image.tmdb.org/t/p/w500/d8nvgOZTMH5JisUR03ma0nIQFh2.jpg",
+      "description": "Nhằm ngăn những kẻ cực đoan châm ngòi cho cuộc chiến với quốc gia láng giềng Ostania, Twilight, điệp viên hàng đầu của Westalis phải điều tra chính trị gia người Ostanian là Donovan Desmond bằng cách xâm nhập vào trường học của con trai ông ta - học viện Eden danh giá. Dưới vỏ bọc Loid Forger, một bác sĩ, Twilight đã nhận nuôi cô bé mồ côi Anya và kết hôn giả với Yor Briar rồi cho Anya nhập học tại học viện Eden mà không hề hay biết hai người này cũng có thân phận bí mật: Yor là sát thủ được mệnh danh \"Công chúa Thorn\" còn Anya là siêu năng lực gia có khả năng đọc suy nghĩ. Tuy khởi đầu là một gia đình giả mà cả ba đều lợi dụng lẫn nhau, nhưng theo thời gian, họ dần nhận ra tầm quan trọng của hai người kia trong trái tim mình.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt13490144",
+      "type": "series",
+      "name": "じみへんっ!!～地味子を変えちゃう純異性交遊～",
+      "poster": "https://image.tmdb.org/t/p/w500/to5FshluwPdO9d3Ucs7fagJL7OU.jpg",
+      "description": "The story follows Rena Yukuhasahi, a reserved office lady and Ryouhei Hachiya, a businessman and fellow colleague. Yukuhasahi appears to be the most reserved girl in the company, but becomes a super beautiful woman when she dresses up. Flustered in the presence of her transformed self, Hachiya insists on taking her out, only to find themselves in front of a love hotel.",
+      "releaseInfo": "2021",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt0247902",
+      "type": "series",
+      "name": "Yu-Gi-Oh!",
+      "poster": "https://image.tmdb.org/t/p/w500/mM6c5ISlyKWtie2hGiZWo6hmlhU.jpg",
+      "description": "Cuộc sống của thiếu niên Muto Yugi và hội bạn gồm Joey, Tristan và Téa mãi mãi thay đổi khi trò chơi thẻ bài giả tưởng bỗng trở thành thực tại của họ.",
+      "releaseInfo": "2000",
+      "imdbRating": "8.2"
     },
     {
       "id": "tt26743760",
@@ -280,13 +289,13 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt0247902",
+      "id": "tt0404597",
       "type": "series",
-      "name": "Yu-Gi-Oh!",
-      "poster": "https://image.tmdb.org/t/p/w500/mM6c5ISlyKWtie2hGiZWo6hmlhU.jpg",
-      "description": "Cuộc sống của thiếu niên Muto Yugi và hội bạn gồm Joey, Tristan và Téa mãi mãi thay đổi khi trò chơi thẻ bài giả tưởng bỗng trở thành thực tại của họ.",
-      "releaseInfo": "2000",
-      "imdbRating": "8.2"
+      "name": "デュエル・マスターズ",
+      "poster": "https://image.tmdb.org/t/p/w500/t5ijeKzOukACRktUfbjuMIlqwfr.jpg",
+      "description": "A mysterious organization is interested in fledging duelist Shobu Kirifuda's ability to bring Duel Master creatures to life. With the support of his friends, Shobu duels with passion, discipline, and heart as he strives to be like his father and become the next Kaijudo master.",
+      "releaseInfo": "2002",
+      "imdbRating": "5.4"
     },
     {
       "id": "tt3398540",
@@ -298,22 +307,13 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt3105422",
+      "id": "tt26598191",
       "type": "series",
-      "name": "ダイヤのA",
-      "poster": "https://image.tmdb.org/t/p/w500/wh9dA4w0iUMVpY7htFSiLDhLTYJ.jpg",
-      "description": "Scouted for his potential, brash left-handed pitcher Eijun Sawamura joins baseball powerhouse Seido High to become the undisputed ace of the team.",
-      "releaseInfo": "2013",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt0404597",
-      "type": "series",
-      "name": "デュエル・マスターズ",
-      "poster": "https://image.tmdb.org/t/p/w500/t5ijeKzOukACRktUfbjuMIlqwfr.jpg",
-      "description": "A mysterious organization is interested in fledging duelist Shobu Kirifuda's ability to bring Duel Master creatures to life. With the support of his friends, Shobu duels with passion, discipline, and heart as he strives to be like his father and become the next Kaijudo master.",
-      "releaseInfo": "2002",
-      "imdbRating": "5.4"
+      "name": "森のくまさん、冬眠中。",
+      "poster": "https://image.tmdb.org/t/p/w500/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
+      "description": "Nowa, a bear living in the forest, decides to take an abandoned puppy under his wing. He names it Airi and takes care of it with great care. Time passes and Nowa soon has to leave him temporarily alone in order to hibernate. Waking up several months later, he discovers that Airi has grown well into an attractive young man.",
+      "releaseInfo": "2022",
+      "imdbRating": "6.8"
     },
     {
       "id": "tt0159175",
@@ -325,13 +325,13 @@
       "imdbRating": "7.8"
     },
     {
-      "id": "tt21209876",
+      "id": "tt0096686",
       "type": "series",
-      "name": "Thăng cấp một mình",
-      "poster": "https://image.tmdb.org/t/p/w500/iiAnqWYusiOXA4lc6hRvunfE3A1.jpg",
-      "description": "Thợ săn hạng E Sung Jinwoo là người yếu nhất trong số họ. Bị mọi người coi thường, anh ta không có tiền, không có khả năng nói và không có triển vọng công việc nào khác. Vì vậy, khi nhóm của anh ấy tìm thấy một hầm ngục ẩn giấu, anh ấy quyết tâm sử dụng cơ hội này để thay đổi cuộc sống của mình tốt hơn... nhưng cơ hội mà anh ấy tìm thấy hơi khác so với những gì anh ấy nghĩ trong đầu!",
-      "releaseInfo": "2024",
-      "imdbRating": "8.5"
+      "name": "らんま1/2",
+      "poster": "https://image.tmdb.org/t/p/w500/qb1R5iLZcjIgdDIfXFQXmJadQPI.jpg",
+      "description": "Ranma Saotome, a teenage martial artist, and his father Genma travel to the 'cursed training ground' of Jusenkyo in China. There, despite the warnings of the Chinese guard, they fall into the cursed springs. From now on, whenever Ranma is doused in cold water, he turns into a girl and a cute, well-built redhead at that. Hot water changes him back into a man again, but only until the next time. To make matters worse, his father engages him to Akane Tendo, a girl who hates boys.",
+      "releaseInfo": "1989",
+      "imdbRating": "7.9"
     },
     {
       "id": "tt1480925",
@@ -343,30 +343,12 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt13490144",
+      "id": "tt21209876",
       "type": "series",
-      "name": "じみへんっ!!～地味子を変えちゃう純異性交遊～",
-      "poster": "https://image.tmdb.org/t/p/w500/to5FshluwPdO9d3Ucs7fagJL7OU.jpg",
-      "description": "The story follows Rena Yukuhasahi, a reserved office lady and Ryouhei Hachiya, a businessman and fellow colleague. Yukuhasahi appears to be the most reserved girl in the company, but becomes a super beautiful woman when she dresses up. Flustered in the presence of her transformed self, Hachiya insists on taking her out, only to find themselves in front of a love hotel.",
-      "releaseInfo": "2021",
-      "imdbRating": "6.2"
-    },
-    {
-      "id": "tt2189248",
-      "type": "series",
-      "name": "Đội bóng Tia chớp",
-      "poster": "https://image.tmdb.org/t/p/w500/9kQWvBMPWz1gykKLXuX6JBjC9uQ.jpg",
-      "description": "Một thủ môn trẻ tài năng cố gắng hồi sinh đội bóng yếu kém của mình trong loạt anime dựa trên manga và trò chơi điện tử nổi danh này.",
-      "releaseInfo": "2008",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt0385426",
-      "type": "series",
-      "name": "頭文字D",
-      "poster": "https://image.tmdb.org/t/p/w500/2TRN7AXN4rRJNIf1TLgIGRVlQZB.jpg",
-      "description": "Takumi’s job as a tofu delivery boy has turned him into one of the most formidable drivers around. Behind the wheel of his Eight-Six, he’s one with the road—and his life shifts into high gear when the underground street racing world takes notice. Drivers from across the region are lining up for a shot at the new guy. Takumi’s not just focused on winning—he’s out to prove he’s the best.",
-      "releaseInfo": "1998",
+      "name": "Thăng cấp một mình",
+      "poster": "https://image.tmdb.org/t/p/w500/iiAnqWYusiOXA4lc6hRvunfE3A1.jpg",
+      "description": "Thợ săn hạng E Sung Jinwoo là người yếu nhất trong số họ. Bị mọi người coi thường, anh ta không có tiền, không có khả năng nói và không có triển vọng công việc nào khác. Vì vậy, khi nhóm của anh ấy tìm thấy một hầm ngục ẩn giấu, anh ấy quyết tâm sử dụng cơ hội này để thay đổi cuộc sống của mình tốt hơn... nhưng cơ hội mà anh ấy tìm thấy hơi khác so với những gì anh ấy nghĩ trong đầu!",
+      "releaseInfo": "2024",
       "imdbRating": "8.5"
     },
     {
@@ -379,6 +361,24 @@
       "imdbRating": "8.7"
     },
     {
+      "id": "tt0159932",
+      "type": "series",
+      "name": "YAWARA!",
+      "poster": "https://image.tmdb.org/t/p/w500/hRYqKPqAJp5PdrULbH75cLtVi6o.jpg",
+      "description": "Inokuma Yawara is just another young high school girl. Well, not quite - for Yawara is being raised by her grandfather, 7th dan Judo master Inokuma Jigorou, to be Japan's great hope for the women's Judo competition at the 1992 Olympics in Barcelona. All the same, Yawara just wants to live a normal life...",
+      "releaseInfo": "1989",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt3105422",
+      "type": "series",
+      "name": "ダイヤのA",
+      "poster": "https://image.tmdb.org/t/p/w500/wh9dA4w0iUMVpY7htFSiLDhLTYJ.jpg",
+      "description": "Scouted for his potential, brash left-handed pitcher Eijun Sawamura joins baseball powerhouse Seido High to become the undisputed ace of the team.",
+      "releaseInfo": "2013",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt7263328",
       "type": "series",
       "name": "Chào mừng đến với lớp học đề cao thực lực",
@@ -388,103 +388,22 @@
       "imdbRating": "7.7"
     },
     {
-      "id": "tt1352421",
+      "id": "tt0385426",
       "type": "series",
-      "name": "Natsume - Hữu Nhân Sổ",
-      "poster": "https://image.tmdb.org/t/p/w500/lsVoWMI5MJ1moxZF6VISq9YpatQ.jpg",
-      "description": "Từ rất lâu rồi, cậu bé Natsume Takashi đã phát hiện ra mình có khả năng nhìn thấy được các linh hồn, yêu quái - Một năng lực được kế thừa từ người bà quá cố Reiko của mình. Sau khi chết, Reiko đã truyền lại cho người cháu mình cuốn Hữu Nhân Sổ; đây là một cuốn sổ chứa những cái tên của các yêu quái mà Reiko đã thu thập để làm phục dịch cho bà. Hữu Nhân Sổ là một bảo vật trong thế giới linh hồn, chính vì điều này mà Takashi liên tục bị những hồn ma \"ám\". Dù Reiko là người lập khế ước và giam hãm các linh hồn, cháu của bà - Takashi lại là người hủy bỏ khế ước và thả tự do cho các linh hồn đến nhờ anh giúp đỡ. Nhưng có những yêu quái độc ác vẫn muốn giết anh bằng mọi giá để cướp cuốn sổ. Lúc này, Madara (hay còn được Natsume gọi là Nyanko-sensei) xuất hiện, ông trở thành vệ sĩ và là cố vấn của Natsume. Dù ông lúc nào cũng ra vẻ muốn chiếm Hữu Nhân Sổ, nhưng ông dần trở thành người bạn đồng hành thân thiết của Natsume Takashi.",
-      "releaseInfo": "2008",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt22443832",
-      "type": "series",
-      "name": "Arknights",
-      "poster": "https://image.tmdb.org/t/p/w500/1DDsRfaTNDZDhiy9TnZBxUOfkB2.jpg",
-      "description": "Sau những thảm họa chưa biết ở trung tâm Terra, một loại khoáng chất có sức mạnh không thể tưởng tượng được đã được phát hiện. Nhờ nó, công nghệ của xã hội đã có những bước tiến vượt bậc, nhưng chất này lại gây ra một căn bệnh nan y chết người, dẫn đến tình trạng nô lệ hóa trên toàn thế giới của những người bị nhiễm bệnh. Khi một cuộc nổi loạn đang nổi lên, một công ty dược phẩm chạy đua để tìm ra phương pháp chữa trị để cứu nhân loại.",
-      "releaseInfo": "2022",
-      "imdbRating": "6.0"
-    },
-    {
-      "id": "tt0103369",
-      "type": "series",
-      "name": "美少女戦士セーラームーン",
-      "poster": "https://image.tmdb.org/t/p/w500/m0e8QxAM0n3XK9GPvkxzRB0YL4k.jpg",
-      "description": "One day, Usagi Tsukino, clumsy 2nd-year middle school student, stumbles upon a talking cat named Luna. Luna tells her that she is destined to be Sailor Moon, \"champion of love and justice\", and she must search for the fabled Moon Princess. Usagi finds friends that turn out to be destined senshi as well, and together they fight to save the world from the certain doom brought upon by the Dark Kingdom.",
-      "releaseInfo": "1992",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt2250192",
-      "type": "series",
-      "name": "Đao Kiếm Thần Vực",
-      "poster": "https://image.tmdb.org/t/p/w500/9m8bFIXPg26taNrFSXGwEORVACD.jpg",
-      "description": "Một chuyên gia về trò chơi điện tử tạo ra công nghệ mới cho phép người chơi điều khiển nhân vật ảo bằng chính cơ thể của họ. Tuy nhiên, rắc rối đáng sợ lại nảy sinh.",
-      "releaseInfo": "2012",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt2230051",
-      "type": "series",
-      "name": "ハイスクールD×D",
-      "poster": "https://image.tmdb.org/t/p/w500/5a9vaaLDAZTYjgfWIw7ZYhL1m1A.jpg",
-      "description": "Issei Hyodo is your average perverted high school student whose one wish in life is to have his own harem, but he's got to be one of the unluckiest guys around. He goes on his first date with a girl only to get brutally attacked and killed when it turns out the girl is really a vicious fallen angel. To top it all off, he's later reincarnated as a devil by his gorgeous senpai who tells him that she is also a devil and now his master! One thing's for sure, his peaceful days are over. In a battle between devils and angels, who will win?",
-      "releaseInfo": "2012",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt2560140",
-      "type": "series",
-      "name": "Đại Chiến Người Khổng Lồ",
-      "poster": "https://image.tmdb.org/t/p/w500/qDK2qEA5pfUK7Rog8urvgKuaXiP.jpg",
-      "description": "Chứng kiến quê hương bị tàn phá, chàng thanh niên Eren Yeager quyết tâm chiến đấu với bọn Titan khổng lồ đang đe dọa hủy diệt loài người.",
-      "releaseInfo": "2013",
-      "imdbRating": "9.1"
-    },
-    {
-      "id": "tt26450255",
-      "type": "series",
-      "name": "青のオーケストラ",
-      "poster": "https://image.tmdb.org/t/p/w500/dN0yhGAMVdS7lIEk52gom9XO268.jpg",
-      "description": "In the fall of his third and final year of middle school, Hajime Aono, a violin prodigy, stopped playing violin for his own personal reasons. But it was also that year when he got to know a girl who told him about a high school with a prestigious school orchestra. Suddenly, the gears in the clock of Aono's life began to turn again. This is the story of a youth drama that brings forth the harmony between music and the heart!",
-      "releaseInfo": "2023",
-      "imdbRating": "7.0"
-    },
-    {
-      "id": "tt9054364",
-      "type": "series",
-      "name": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime",
-      "poster": "https://image.tmdb.org/t/p/w500/h9fgpBFJPyobPz4S8vv40ZNfNin.jpg",
-      "description": "Chuyển thể từ light novel cùng tên của tác giả Fuse. Anh chàng Satoru Mikami, 37 tuổi, FA nhiều năm với sống cuộc sống chán chường và không mấy vui vẻ gì. Ngày kia vận số đen đủi bám lấy anh chàng, bị cướp tấn công, giết ngay tại chỗ, tưởng chừng tháng ngày chán ngắt ấy đã kết thúc. Nhưng không! Ấy lại chính là sự khởi đầu của một cuộc sống mới, Mikami tỉnh dậy, thấy mình đang ở trong một thế giới kì lạ.\n\nVà điều quái dị là anh ta không còn hình dạng người nữa mà đã trở thành quái vật slime dẻo quẹo và không có mắt. Khi dần quen với hình dáng mới này, anh chàng bắt đầu khám phá thế giới cùng với những quái vật khác. Và thế là, cuộc đời làm Slime ở một thế giới mới bắt đầu.",
-      "releaseInfo": "2018",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt34702901",
-      "type": "series",
-      "name": "ANNE SHIRLEY",
-      "poster": "https://image.tmdb.org/t/p/w500/ttSQg44aZMwcwotm4cBAzsh5KcB.jpg",
-      "description": "Từ trại trẻ mồ côi đến ngôi nhà Cuthbert, cuộc đời Anne Shirley, cô bé 11 tuổi đầy cá tính, rẽ sang một trang mới đầy bất ngờ. Marilla và Matthew tìm kiếm một cậu bé, nhưng lại nhận được Anne, một cô bé với trí tưởng tượng vô bờ. Anne Shirley không chỉ là câu chuyện về tuổi thơ, mà còn là hành trình trưởng thành đầy cảm xúc, nơi những cuộc gặp gỡ và chia ly định hình số phận. Liệu Anne sẽ viết nên câu chuyện cuộc đời mình như thế nào?",
-      "releaseInfo": "2025",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt5897304",
-      "type": "series",
-      "name": "Cậu Bé Siêu Năng Lực",
-      "poster": "https://image.tmdb.org/t/p/w500/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
-      "description": "Cậu học sinh cấp 2 Shigeo có vẻ ngoài rất bình thường. Không ai biết cậu sở hữu khả năng ngoại cảm đáng gờm và nếu cậu không kìm nén cảm xúc, năng lực ấy sẽ bùng nổ.",
-      "releaseInfo": "2016",
+      "name": "頭文字D",
+      "poster": "https://image.tmdb.org/t/p/w500/2TRN7AXN4rRJNIf1TLgIGRVlQZB.jpg",
+      "description": "Takumi’s job as a tofu delivery boy has turned him into one of the most formidable drivers around. Behind the wheel of his Eight-Six, he’s one with the road—and his life shifts into high gear when the underground street racing world takes notice. Drivers from across the region are lining up for a shot at the new guy. Takumi’s not just focused on winning—he’s out to prove he’s the best.",
+      "releaseInfo": "1998",
       "imdbRating": "8.5"
     },
     {
-      "id": "tt26598191",
+      "id": "tt2189248",
       "type": "series",
-      "name": "森のくまさん、冬眠中。",
-      "poster": "https://image.tmdb.org/t/p/w500/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
-      "description": "Nowa, a bear living in the forest, decides to take an abandoned puppy under his wing. He names it Airi and takes care of it with great care. Time passes and Nowa soon has to leave him temporarily alone in order to hibernate. Waking up several months later, he discovers that Airi has grown well into an attractive young man.",
-      "releaseInfo": "2022",
-      "imdbRating": "7.0"
+      "name": "Đội bóng Tia chớp",
+      "poster": "https://image.tmdb.org/t/p/w500/9kQWvBMPWz1gykKLXuX6JBjC9uQ.jpg",
+      "description": "Một thủ môn trẻ tài năng cố gắng hồi sinh đội bóng yếu kém của mình trong loạt anime dựa trên manga và trò chơi điện tử nổi danh này.",
+      "releaseInfo": "2008",
+      "imdbRating": "8.2"
     },
     {
       "id": "tt0977907",
@@ -496,85 +415,31 @@
       "imdbRating": "7.2"
     },
     {
-      "id": "tt6074794",
+      "id": "tt2230051",
       "type": "series",
-      "name": "Kỳ Thủ Shougi",
-      "poster": "https://image.tmdb.org/t/p/w500/sokReNdjEwG2TkdUzJcVnD6sChT.jpg",
-      "description": "3-Gatsu no Lion xoay quanh đời sống thường nhật của một kì thủ cờ shogi (cờ tướng Nhật Bản) 17 tuổi - Kiriyama Rei. Trên hành trình chạy trốn khỏi những ám ảnh quá khứ, cậu gặp gỡ ba chị em nhà Kawamoto là Akari (chị cả), Hina (chị hai), Momo (em út) và bắt đầu từ đây, cuộc sống của Rei dần dần thay đổi.",
-      "releaseInfo": "2016",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt0159932",
-      "type": "series",
-      "name": "YAWARA!",
-      "poster": "https://image.tmdb.org/t/p/w500/hRYqKPqAJp5PdrULbH75cLtVi6o.jpg",
-      "description": "Inokuma Yawara is just another young high school girl. Well, not quite - for Yawara is being raised by her grandfather, 7th dan Judo master Inokuma Jigorou, to be Japan's great hope for the women's Judo competition at the 1992 Olympics in Barcelona. All the same, Yawara just wants to live a normal life...",
-      "releaseInfo": "1989",
-      "imdbRating": "7.3"
-    },
-    {
-      "id": "tt21975436",
-      "type": "series",
-      "name": "Quái Vật Số 8",
-      "poster": "https://image.tmdb.org/t/p/w500/83yDUQVpdhv8ePy3nbTRzFaKYuQ.jpg",
-      "description": "Những con \"kaiju\" (quái vật khổng lồ) bất ngờ xuất hiện và hoành hành khắp Nhật Bản trong nhiều năm. Một đơn vị tinh nhuệ được gọi là Quân đoàn Phòng vệ phải liều mạng hàng ngày để bảo vệ dân thường. Anh chàng Kafka Hibino mang ước mơ gia nhập Quân đoàn từ nhỏ nhưng lại bị dòng đời đưa đẩy, phải làm công việc chuyên xử lý xác quái vật. Sau một tai nạn kỳ lạ, anh có được khả năng biến hình, được mệnh danh là \"Kaiju số 8\". Từ đây, Kafka bắt đầu hiện thực hóa ước mơ thuở nhỏ của mình, gia nhập Quân đoàn và giấu kín năng lực vừa có được.",
-      "releaseInfo": "2024",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt7326322",
-      "type": "series",
-      "name": "Cô Dâu Của Pháp Sư",
-      "poster": "https://image.tmdb.org/t/p/w500/xXGAFMGiG55oS8uzuVz7V5JxFb2.jpg",
-      "description": "Anime Cô Dâu Của Pháp Sư kể về Chise Hatori một cô gái mất gia đình phải sống lang thang. Cô bị bắt bán vào một phiên đấu giá nô lệ. Khi cuộc sống của cô không còn ý nghĩa gì nữa thì một người đàn ông có sức mạnh kỳ lạ với cái đầu của một con thú xuất hiện giải phóng cô khỏi xiềng xích nô lệ tuyên bố rằng cô sẽ là học việc và là cô dâu của ông ta.",
-      "releaseInfo": "2017",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt4869896",
-      "type": "series",
-      "name": "Lạc Vào Thế Giới Game",
-      "poster": "https://image.tmdb.org/t/p/w500/K8ZUjxaj9F0t3AwJDz8ypzBynM.jpg",
-      "description": "Bộ phim lấy bối cảnh năm 2138 khi con người không còn phân biệt được đâu là thực đâu là ảo được nữa. Yggdrasil, một trò chơi trực tuyến nổi tiếng đã âm thầm bị đóng cửa trong quá khứ. Tuy nhiên một top-player tên Momonga đã quyết định sống chết cùng với trò chơi này và sau đó hắn đã trở thành một tên Cốt Bạch Hắc Ma có sức mạnh lớn nhất trong trò chơi này. Thế giới dần đổi thay, cho đến khi các NPC dần dần có cảm xúc của một con người. Không gia đình, không bạn bè, không việc làm hay chỗ đứng trong xã hội, hắn quyết định chiếm lấy thế giới này cho riêng mình.",
-      "releaseInfo": "2015",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt22249034",
-      "type": "series",
-      "name": "Lãng Khách Kenshin",
-      "poster": "https://image.tmdb.org/t/p/w500/zT77Y6iQGmYGBqbhQi0ySD60o9i.jpg",
-      "description": "Một samurai lang thang có tên Kenshin Himura vẫn cố gắng từng ngày để đảm bảo những giá trị mà bản thân chiến đấu xứng đáng trong kỷ nguyên mới. Từng được biết đến với cái tên Hitokiri Battousai, người được xem là tàn nhẫn nhất trong tất cả các nhà cách mạng thì giờ đây lại bị ám ảnh bởi cảm giác tội lỗi. Kenshin đã thề sẽ không bao giờ giết người để chuộc lỗi với những sinh mạng mà anh đã lấy đi. Hòa bình sẽ không tồn tại xung quanh anh cho đến khi việc anh giết người trở thành dĩ vãng.\n\n(Nguồn: VuiGhe)",
-      "releaseInfo": "2023",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt0081954",
-      "type": "series",
-      "name": "うる星やつら",
-      "poster": "https://image.tmdb.org/t/p/w500/bs0Q5TMYVUTNXCPbuPBNylzqrxk.jpg",
-      "description": "The invasion of an alien race known as the Oni begins a new life for Ataru Moroboshi, a lecherous trouble-making tenth grader in the small town of Tomobiki. After unwittingly proposing to the Oni princess Lum Invader instead of his sweetheart Shinobu, Ataru becomes a conduit for aliens arriving on Earth, causing all sorts of havoc for him and his companions, not to mention his own reputation!",
-      "releaseInfo": "1981",
+      "name": "ハイスクールD×D",
+      "poster": "https://image.tmdb.org/t/p/w500/5a9vaaLDAZTYjgfWIw7ZYhL1m1A.jpg",
+      "description": "Issei Hyodo is your average perverted high school student whose one wish in life is to have his own harem, but he's got to be one of the unluckiest guys around. He goes on his first date with a girl only to get brutally attacked and killed when it turns out the girl is really a vicious fallen angel. To top it all off, he's later reincarnated as a devil by his gorgeous senpai who tells him that she is also a devil and now his master! One thing's for sure, his peaceful days are over. In a battle between devils and angels, who will win?",
+      "releaseInfo": "2012",
       "imdbRating": "7.5"
     },
     {
-      "id": "tt13911284",
+      "id": "tt2250192",
       "type": "series",
-      "name": "Địa Ngục Cực Lạc",
-      "poster": "https://image.tmdb.org/t/p/w500/1V9I7SvZbYoMbSvdtnlkkq9SB1k.jpg",
-      "description": "Gabimaru Vô Hồn, vốn là một ninja sát thủ, bị nhiều người khiếp sợ như một kẻ máu lạnh. Mặc dù đã bị kết án tử hình nhưng không có ai đủ khả năng để giết chết cậu ta. Sau đó, nữ đao phủ nhà Asaemon đến gặp Gabimaruvà thắp lên chút hi vọng mong manh cho cậu ta với lời đề nghị vô cùng bất ngờ, rằng nếu muốn gặp lại người vợ thân thương của mình, Gabimaru sẽ phải bắt đầu một cuộc hành trình dưới sự giám sát của Mạc Phủ, tới một hòn đảo bí ẩn để tìm thứ thuốc trường sinh bất lão bất tử. Chỉ cần tìm thấy thứ đó, Gabimaru, hoặc những tên phạm nhân khát máu khác, sẽ được miễn hết tội danh và có thể bắt đầu lại một cuộc sống mới. Một cuộc phiêu lưu siêu kịch tính đã bắt đầu!",
-      "releaseInfo": "2023",
-      "imdbRating": "8.1"
+      "name": "Đao Kiếm Thần Vực",
+      "poster": "https://image.tmdb.org/t/p/w500/9m8bFIXPg26taNrFSXGwEORVACD.jpg",
+      "description": "Một chuyên gia về trò chơi điện tử tạo ra công nghệ mới cho phép người chơi điều khiển nhân vật ảo bằng chính cơ thể của họ. Tuy nhiên, rắc rối đáng sợ lại nảy sinh.",
+      "releaseInfo": "2012",
+      "imdbRating": "7.5"
     },
     {
-      "id": "tt4838372",
+      "id": "tt0103369",
       "type": "series",
-      "name": "おそ松さん",
-      "poster": "https://image.tmdb.org/t/p/w500/vEsmh6m9fUhJzGfLxUpliT3vqdh.jpg",
-      "description": "The lives of the now 20-something NEET Matsuno sextuplets and the bizarre adventures they find themselves into in the modern day.",
-      "releaseInfo": "2015",
-      "imdbRating": "7.4"
+      "name": "美少女戦士セーラームーン",
+      "poster": "https://image.tmdb.org/t/p/w500/m0e8QxAM0n3XK9GPvkxzRB0YL4k.jpg",
+      "description": "One day, Usagi Tsukino, clumsy 2nd-year middle school student, stumbles upon a talking cat named Luna. Luna tells her that she is destined to be Sailor Moon, \"champion of love and justice\", and she must search for the fabled Moon Princess. Usagi finds friends that turn out to be destined senshi as well, and together they fight to save the world from the certain doom brought upon by the Dark Kingdom.",
+      "releaseInfo": "1992",
+      "imdbRating": "7.7"
     },
     {
       "id": "tt0111056",
@@ -586,238 +451,58 @@
       "imdbRating": "7.2"
     },
     {
-      "id": "tt0290223",
+      "id": "tt22443832",
       "type": "series",
-      "name": "Khuyển Dạ Xoa",
-      "poster": "https://image.tmdb.org/t/p/w500/rQHTNaynedeKurm0sNOsbAZg2oe.jpg",
-      "description": "Inuyasha - Khuyển Dạ Xoa thuộc thể loại phiêu lưu hành động xen lẫn yếu tố lãng mạn, được chấp bút bởi Rumiko Takahashi. Câu chuyện bắt đầu khi một bán yêu Khuyển Dạ Xoa (Inu Yasha) tấn công một ngôi làng để cướp viên ngọc Tứ Hồn (Shikon no Tama), một bảo bối có thể dùng để làm tăng sức mạnh của anh. Tuy nhiên, Cát Cánh (Kikyo), một nữ pháp sư (miko) kịp thời ngăn anh lại và dùng mũi tên thanh tẩy của cô phong ấn Khuyển Dạ Xoa vào gốc cây cổ thụ thần thánh trong làng. Tuy nhiên vì bị thương quá nặng, biết mình không qua khỏi, Cát Cánh đã yêu cầu em gái mình là A Phụng (Kaede) thiêu xác của cô cùng với viên ngọc Tứ Hồn để cho nó không rơi vào tay kẻ xấu. Trong lúc đó, ở thế giới hiện tại 550 năm sau, Nhật Mộ Li (Higurashi Kagome) đang mừng lễ sinh nhật thứ mười lăm của mình....",
-      "releaseInfo": "2000",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt11448214",
-      "type": "series",
-      "name": "Bạn gái thuê",
-      "poster": "https://image.tmdb.org/t/p/w500/6ZpDPUNtVw6UdJoStvVlRZ62yAi.jpg",
-      "description": "Sau khi bị bạn gái bỏ rơi, cậu sinh viên đại học Kinoshita Kazuya cố gắng vá lại trái tim tan vỡ của mình bằng một người bạn gái thuê từ ứng dụng di động. Lúc đầu, Mizuhara Chzuru có vẻ như là một người bạn gái hoàn hảo với tất cả phẩm chất mà bất cứ chàng trai nào cũng phải mong đợi: xinh đẹp, dễ thương và chu đáo.\n\nVới những cảm xúc lẫn lộn sau buổi hẹn hò đầu tiên, Kazuya nghĩ Chizuru chỉ đang trêu đùa với trái tim của mình nên đã đánh giá cô 1 sao trên ứng dụng di động. Điều này khiến Chizuru tức giận và bộc lộ bản chất thật của mình trong buổi hẹn hò thứ 2: một Chizuru đanh đá, nóng nảy, trái ngược hoàn toàn với ấn tượng ban đầu. Ngay lúc đó, bà của Kazuya bị ngất xíu nên cậu phải kéo cả Chizuru vào bẹnh viện.\n\nMặc dù tình hình của bà Kazuya không có gì nghiêm trọng, nhưng bà lại ngây ngất Chizuru và cực kỳ cảm động vì cuối cùng đứa cháu trai của mình đã có bạn gái. Không thể nói ra sự thật, Kazuya và Chizuru phải tiếp tục mối quan hệ bạn gái thuê này.",
-      "releaseInfo": "2020",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt28277325",
-      "type": "series",
-      "name": "Hình phạt ngọt ngào: Tôi là thú cưng của cai ngục",
-      "poster": "https://image.tmdb.org/t/p/w500/rbETzzJLGIB2Bg6NwNekWTKfM6d.jpg",
-      "description": "Câu chuyện lấy bối cảnh trong một nhà tù trong tương lai gần. Câu chuyện xoay quanh Hina Saotome, bị giam cầm mặc dù cô vô tội, và tên lính canh thanh lịch nhưng tàn bạo Aki Myoujin. Trái tim và cơ thể của Hina nằm trong sự kiểm soát của \"sự thống trị vô tình nhưng ngọt ngào\" của Myoujin từ các cuộc kiểm tra thể chất đến các chuyến thăm tù của những người yêu nhau.",
-      "releaseInfo": "2018",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt14115938",
-      "type": "series",
-      "name": "Ta Muốn Trở Thành Chúa Tể Bóng Tối",
-      "poster": "https://image.tmdb.org/t/p/w500/7JKYmtLydAwo9ZsEmAknZiO4U8g.jpg",
-      "description": "\"Tôi không phải nhân vật chính, cũng chẳng phải trùm cuối...\" Tôi là một cậu trai ước mơ làm \"chúa tể bóng tối\", chèo lái câu chuyện trong bóng tối, bí mật phô bày năng lực, tên là Shido. Vừa mới hớn hở vì được chuyển sinh đến thế giới khác và quyết định \"mình sẽ là chúa tể bóng đêm, ngấm ngầm loại bỏ giáo phái đen tối\", thì hình như cái giáo phái ấy lại có thật...?? Thuận theo đó, các thiếu nữ thủ hạ của hắn cũng vì hiểu lầm mà tôn thờ hắn dưới danh nghĩa Shadow, bản thân Shido đã chẳng hề hay biết mà trở thành \"Chúa tể bóng tối\" đích thực, và thế là tổ chức bóng tối \"Shadow Garden\" do Shido lãnh đạo sẽ đi hủy diệt hắc ám của thế gian...",
+      "name": "Arknights",
+      "poster": "https://image.tmdb.org/t/p/w500/1DDsRfaTNDZDhiy9TnZBxUOfkB2.jpg",
+      "description": "Sau những thảm họa chưa biết ở trung tâm Terra, một loại khoáng chất có sức mạnh không thể tưởng tượng được đã được phát hiện. Nhờ nó, công nghệ của xã hội đã có những bước tiến vượt bậc, nhưng chất này lại gây ra một căn bệnh nan y chết người, dẫn đến tình trạng nô lệ hóa trên toàn thế giới của những người bị nhiễm bệnh. Khi một cuộc nổi loạn đang nổi lên, một công ty dược phẩm chạy đua để tìm ra phương pháp chữa trị để cứu nhân loại.",
       "releaseInfo": "2022",
-      "imdbRating": "7.7"
+      "imdbRating": "6.0"
     },
     {
-      "id": "tt10937602",
+      "id": "tt9054364",
       "type": "series",
-      "name": "Bóng Rổ Dành Cho Tất Cả",
-      "poster": "https://image.tmdb.org/t/p/w500/jAVcBnYvxEHY5CR0lDnaPkjNTX3.jpg",
-      "description": "Kurumatani Sora là một chàng trai nhỏ bé, yếu đuối nhưng lại có niềm đam mê vô tận với bóng rổ. Cậu đã chuyển tới trường cao trung Kuzuryuu để thực hiện lời hứa với mẹ của mình rằng sẽ giành vô địch giải thi đấu đầu tiên trong cuộc đời cao trung của cậu. Vì chiều cao, dáng người nhỏ bé, nên cậu là tâm điểm của mọi sự ngược đãi, kể cả từ các thành viên trong câu lạc bộ bóng rổ. Nhưng một khi mang đôi giày của mẹ mình, cậu như thể có được một đôi cánh để bay cao, bay xa trên sân bóng. Tuy nhiên, câu lạc bộ bóng rổ nơi này lại được điều hành bởi Momoharu, một đội trưởng không hề quan tâm gì tới bóng rổ. Sora đã thách đấu người đội trưởng đó để có thể gia nhập vào câu lạc bộ. Mặc cho thành viên trong đội của Momoharu chơi bẩn trong trận thách đấu đó, Sora đã giành chiến thắng và khiến cho Momoharu, người anh trai song sinh của Momoharu là Chiaki và thành viên của đội bóng rổ nữ sinh Madoka rung động. Từ đây, với đôi cánh của một chàng vịt lùn, câu lạc bộ bóng rổ nam sinh sẽ lại gắn kết...",
-      "releaseInfo": "2019",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt5679720",
-      "type": "series",
-      "name": "文豪ストレイドッグス",
-      "poster": "https://image.tmdb.org/t/p/w500/6AQmGhkYwAqW2OevjXbsh7tZnNO.jpg",
-      "description": "Stalked by a beastly white tiger, Atsushi Nakajima has no idea that the menace lives inside him—a power that catches the attention of the Armed Detective Agency. Using inhuman abilities to combat crime, this team takes Atsushi under the wing of their most eccentric member, Dazai. Together, they tear through mafia-muddled mysteries while enemies keep an eye on the tiger’s lofty bounty.",
-      "releaseInfo": "2016",
-      "imdbRating": "7.8"
-    },
-    {
-      "id": "tt0877057",
-      "type": "series",
-      "name": "Cuốn Sổ Tử Thần",
-      "poster": "https://image.tmdb.org/t/p/w500/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg",
-      "description": "Yagami Light là một học sinh cấp III rất thông minh nhưng luôn cảm thấy cuộc sống xung quanh thật tẻ nhạt và phẫn nộ với những tội ác và tham nhũng xảy ra trên thế giới. Cuộc sống của Yagami chỉ thay đổi vào năm 2003 sau khi cậu tình cờ nhặt được một cuốn sổ kỳ bí có tên Death Note (Desu Nōto, sách chết). Lời hướng dẫn sử dụng trên cuốn sổ đã ghi rõ rằng những người bị viết tên vào đây sẽ chết. Lúc đầu Yagami nghi ngờ về tính xác thực của cuốn sổ, cứ nghĩ rằng đây là trò đùa tinh quái của ai đó. Tuy nhiên, sau khi dùng nó để giết hai tên tội phạm, cậu đã tin vào sự kỳ diệu của Death Note. Khi gặp được thần chết (shinigami) giữ cuốn sổ tên Ryuk, Light quyết định sẽ trở thành vị Chúa của thế giới mới bằng việc thay thế luật pháp phán xử những kẻ phạm tội chỉ bằng một bản án duy nhất, cái chết...",
-      "releaseInfo": "2006",
-      "imdbRating": "8.9"
-    },
-    {
-      "id": "tt10203472",
-      "type": "series",
-      "name": "洗い屋さん！～俺とアイツが女湯で！？～",
-      "poster": "https://image.tmdb.org/t/p/w500/sDpirPwIA8djPej59I8O7ZtvDJP.jpg",
-      "description": "Male student Souta Tsukishima begins working at his family's public bathhouse as a back washer. While concealing her true identity, Souta's classmate Aoi Yuzuki visits the bathhouse. A relationship between the two begins to develop when Souta washes Aoi's back.",
-      "releaseInfo": "2019",
-      "imdbRating": "6.7"
-    },
-    {
-      "id": "tt2811158",
-      "type": "series",
-      "name": "こちら葛飾区亀有公園前派出所",
-      "poster": "https://image.tmdb.org/t/p/w500/ujltFuzCZ9FLe07kTRLZ2gpIJVY.jpg",
-      "description": "Ryotsu Kankichi, or Ryo-san for short, is an unconventional cop working at the local police station who loves money. Together with famous celebrities like Nakagawa and Reiko, his strict boss Police Chief Ohara, and other wildly unique characters, he gets everyone caught up in all sorts of hijinks!",
-      "releaseInfo": "1996",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt0481256",
-      "type": "series",
-      "name": "はじめの一歩",
-      "poster": "https://image.tmdb.org/t/p/w500/fEYVJu08En9A7n0e5TTpeoSjtIm.jpg",
-      "description": "Makunouchi Ippo is an ordinary high school student in Japan. Since he spends most of his time away from school helping his mother run the family business, he doesn't get to enjoy his younger years like most teenagers. Always a target for bullying at school (the family fishing business grants him a distinct odor), Ippo's life is one of hardship. One of these after-school bullying sessions turns Ippo's life around for the better, as he is saved by a boxer named Takamura. He decides to follow in Takamura's footsteps and train to become a boxer, giving his life direction and purpose. Ippo's path to perfecting his pugilistic prowess is just beginning...",
-      "releaseInfo": "2000",
-      "imdbRating": "8.8"
-    },
-    {
-      "id": "tt2398674",
-      "type": "series",
-      "name": "アイカツ！",
-      "poster": "https://image.tmdb.org/t/p/w500/tdFVCOq8AR4L92XiCzdQZK56bCL.jpg",
-      "description": "Ichigo Hoshimiya is a regular, ordinary middle school girl. But when her best friend Aoi invites her to join the idol training academy, Starlight Academy, her whole world is turned upside down. As she encounters all kinds of rivals and learns what it takes to be an idol, she uses her Aikatsu Cards to challenge countless auditions.",
-      "releaseInfo": "2012",
-      "imdbRating": "8.4"
-    },
-    {
-      "id": "tt3741634",
-      "type": "series",
-      "name": "Ngạ Quỷ Vùng Tokyo Ghoul",
-      "poster": "https://image.tmdb.org/t/p/w500/1m4RlC9BTCbyY549TOdVQ5NRPcR.jpg",
-      "description": "Tokyo Ghoul là một câu chuyện mang bầu sắc u tối của thành phố Tokyo, nơi xảy ra hàng loạt các vụ án mạng được gây ra bởi các con quỷ đội lốt con người. Main chính nhà ta là sinh viên đại học tên Kaneki gặp gỡ được em Rize, do 2 người có cùng sở thích nên đã phải lòng nhau. Vào buổi tối hôm hẹn hò, em và ảnh cùng nhau đi vào một con phố hẻo rồi cuộc đời anh main thay đổi ngay trong đêm hôm đó.",
-      "releaseInfo": "2014",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt0841963",
-      "type": "series",
-      "name": "MÄR-メルヘヴン-",
-      "poster": "https://image.tmdb.org/t/p/w500/8GCxSybC4X4nKPT2qZPTow30D2H.jpg",
-      "description": "Dreaming of a magical world every night, the young Toramizu Ginta yearns to be able to go there. With only his friend Koyuki believing in his dreams, Ginta remains positive despite the slander he receives from others over his dreams. But his wishes are answered, as one day a large door appears in front of Ginta, summoning him to the land of MAR Heaven. In this land, the weapons known as ARMS exist. While initially Ginta greatly enjoyed the discovery of this magical world, he soon learns of the terrible wars that have once plagued MAR Heaven and the upcoming war that may soon appear",
-      "releaseInfo": "2005",
-      "imdbRating": "7.0"
-    },
-    {
-      "id": "tt0081852",
-      "type": "series",
-      "name": "Dr.スランプ アラレちゃん",
-      "poster": "https://image.tmdb.org/t/p/w500/q19uWJMNLcyQ0I14DaH4XVwW8TQ.jpg",
-      "description": "Senbei Norimaki, known by his nickname Dr. Slump, a genius yet under-respected inventor and roboticist, creates an android by the name of Arale, and poses her as his little sister. What starts as an experiment in robotics turns into an adventure every day for the residents of Penguin Village, a wacky rural community with several colorful characters interacting with Arale and her creator.",
-      "releaseInfo": "1981",
-      "imdbRating": "7.8"
-    },
-    {
-      "id": "tt7742120",
-      "type": "series",
-      "name": "Dã ngoại thảnh thơi",
-      "poster": "https://image.tmdb.org/t/p/w500/1c5xBDBQQwa1bvX5fibAeymReGg.jpg",
-      "description": "Câu chuyện bình dị này xoay quanh hai cô gái trẻ: Rin yêu thích cắm trại một mình bên bờ hồ, nơi có thế nhìn ra núi Phú Sĩ hùng vĩ; và Nadeshiko thích những chuyến đi xe một mình đến những nơi mà cô có thể ngắm thấy núi Phú Sĩ. Sau khi gặp nhau. Rin và Nadeshiko đã cùng nhau cắm trại, ăn mì ly và cùng thưởng thức cảnh đẹp.",
+      "name": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime",
+      "poster": "https://image.tmdb.org/t/p/w500/h9fgpBFJPyobPz4S8vv40ZNfNin.jpg",
+      "description": "Chuyển thể từ light novel cùng tên của tác giả Fuse. Anh chàng Satoru Mikami, 37 tuổi, FA nhiều năm với sống cuộc sống chán chường và không mấy vui vẻ gì. Ngày kia vận số đen đủi bám lấy anh chàng, bị cướp tấn công, giết ngay tại chỗ, tưởng chừng tháng ngày chán ngắt ấy đã kết thúc. Nhưng không! Ấy lại chính là sự khởi đầu của một cuộc sống mới, Mikami tỉnh dậy, thấy mình đang ở trong một thế giới kì lạ.\n\nVà điều quái dị là anh ta không còn hình dạng người nữa mà đã trở thành quái vật slime dẻo quẹo và không có mắt. Khi dần quen với hình dáng mới này, anh chàng bắt đầu khám phá thế giới cùng với những quái vật khác. Và thế là, cuộc đời làm Slime ở một thế giới mới bắt đầu.",
       "releaseInfo": "2018",
-      "imdbRating": "8.1"
+      "imdbRating": "8.0"
     },
     {
-      "id": "tt10885406",
+      "id": "tt1352421",
       "type": "series",
-      "name": "Cuộc nổi dậy của cô gái mọt sách",
-      "poster": "https://image.tmdb.org/t/p/w500/aVGueAM88cc4sX6PeMvuAPObDc4.jpg",
-      "description": "Vượt qua nhiều thử thách, cuối cùng Myne đã vào được thánh đường. Nhưng Myne lại phải đối mặt với sự khinh khi của giới quý tộc và sự chống đối của môn đồ áo xám vì cô cũng là thường dân nhưng lại trở thành môn đồ áo xanh. Điển hình là các hầu cận của cô. Myne sẽ làm thế nào để cảm hóa được các hầu cận và đối phó với giới quý tộc? Liệu cô có thể thay đổi cả thánh đường hay không? Hãy theo dõi tiếp cuộc nổi dậy của cô bé mọt sách này nhé.",
-      "releaseInfo": "2019",
-      "imdbRating": "7.8"
-    },
-    {
-      "id": "tt1308089",
-      "type": "series",
-      "name": "Cấm Thư Ma Thuật Index",
-      "poster": "https://image.tmdb.org/t/p/w500/v3Ka0J3iMte50oiH4cmXPISM3rm.jpg",
-      "description": "Đô thị học viện, một thành phố nằm trong Nhật Bản, là một thành phố tiên phong về khoa học, với dân số khoảng 2.3 triệu và 3/4 trong số này là học sinh. Các học sinh của Đô thị học viện đa số đều sở hữu siêu năng lực được phân cấp từ Level 0 đến Level 5.  Nhân vật chính Kamijou Touma được Đô thị học viện xếp vào Level 0, tức là hoàn toàn không có năng lực, thế nhưng bàn tay phải của cậu ta lại sở hữu một khả năng kỳ lạ là vô hiệu hóa tất cả các hiện tượng siêu nhiên trên thế giới, bao gồm cả siêu năng lực và ma thuật.  Một ngày nọ, một cô bé sơ tên là Index đã xuất hiện tại ban công phòng của Touma. Cô bé là thư viện cấm thư của một Giáo Hội Anh Quốc chuyên sử dụng ma thuật, là phe đối địch với Đô thị học viện vốn lấy khoa học làm nền tảng.",
+      "name": "Natsume - Hữu Nhân Sổ",
+      "poster": "https://image.tmdb.org/t/p/w500/lsVoWMI5MJ1moxZF6VISq9YpatQ.jpg",
+      "description": "Từ rất lâu rồi, cậu bé Natsume Takashi đã phát hiện ra mình có khả năng nhìn thấy được các linh hồn, yêu quái - Một năng lực được kế thừa từ người bà quá cố Reiko của mình. Sau khi chết, Reiko đã truyền lại cho người cháu mình cuốn Hữu Nhân Sổ; đây là một cuốn sổ chứa những cái tên của các yêu quái mà Reiko đã thu thập để làm phục dịch cho bà. Hữu Nhân Sổ là một bảo vật trong thế giới linh hồn, chính vì điều này mà Takashi liên tục bị những hồn ma \"ám\". Dù Reiko là người lập khế ước và giam hãm các linh hồn, cháu của bà - Takashi lại là người hủy bỏ khế ước và thả tự do cho các linh hồn đến nhờ anh giúp đỡ. Nhưng có những yêu quái độc ác vẫn muốn giết anh bằng mọi giá để cướp cuốn sổ. Lúc này, Madara (hay còn được Natsume gọi là Nyanko-sensei) xuất hiện, ông trở thành vệ sĩ và là cố vấn của Natsume. Dù ông lúc nào cũng ra vẻ muốn chiếm Hữu Nhân Sổ, nhưng ông dần trở thành người bạn đồng hành thân thiết của Natsume Takashi.",
       "releaseInfo": "2008",
-      "imdbRating": "6.8"
+      "imdbRating": "8.1"
     },
     {
-      "id": "tt9304350",
+      "id": "tt21975436",
       "type": "series",
-      "name": "Hóa giải lời nguyền",
-      "poster": "https://image.tmdb.org/t/p/w500/9TGNcvMm91QXmnnCCYYqnYK0bK7.jpg",
-      "description": "Sau khi người thân qua đời, Honda Tohru chuyển vào sống cùng gia tộc Soma và phát hiện ra bí mật của họ: họ đã bị dính lời nguyền 12 con giáp suốt mấy thế kỷ qua.",
-      "releaseInfo": "2019",
-      "imdbRating": "8.5"
+      "name": "Quái Vật Số 8",
+      "poster": "https://image.tmdb.org/t/p/w500/83yDUQVpdhv8ePy3nbTRzFaKYuQ.jpg",
+      "description": "Những con \"kaiju\" (quái vật khổng lồ) bất ngờ xuất hiện và hoành hành khắp Nhật Bản trong nhiều năm. Một đơn vị tinh nhuệ được gọi là Quân đoàn Phòng vệ phải liều mạng hàng ngày để bảo vệ dân thường. Anh chàng Kafka Hibino mang ước mơ gia nhập Quân đoàn từ nhỏ nhưng lại bị dòng đời đưa đẩy, phải làm công việc chuyên xử lý xác quái vật. Sau một tai nạn kỳ lạ, anh có được khả năng biến hình, được mệnh danh là \"Kaiju số 8\". Từ đây, Kafka bắt đầu hiện thực hóa ước mơ thuở nhỏ của mình, gia nhập Quân đoàn và giấu kín năng lực vừa có được.",
+      "releaseInfo": "2024",
+      "imdbRating": "8.2"
     },
     {
-      "id": "tt13370404",
+      "id": "tt5897304",
       "type": "series",
-      "name": "Healer Báo Thù",
-      "poster": "https://image.tmdb.org/t/p/w500/9T7TT0w92RbeRP5QSnNq81HHxde.jpg",
-      "description": "Nội dung: Keare là một thường dân sống ở một ngôi làng bình dị, cho đến khi nhận được sức mạnh hồi phục và trở thành anh hùng hồi phục. Đó cũng là lúc Keare mất hết tất cả và trở thành một con nghiện mang sức mạnh hồi phục đúng nghĩa đen. Liệu Keare sẽ làm gì để có thể vực dậy từ đáy sâu vực thẳm?",
-      "releaseInfo": "2021",
-      "imdbRating": "6.3"
-    },
-    {
-      "id": "tt0085092",
-      "type": "series",
-      "name": "装甲騎兵ボトムズ",
-      "poster": "https://image.tmdb.org/t/p/w500/hYv6w515vwe3IowcvbPrk4R6ckl.jpg",
-      "description": "The story of stoic Armored Trooper pilot Chirico Cuvie and his quest for answers after a sudden betrayal leaves him on the run from his own military.",
-      "releaseInfo": "1983",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt0994314",
-      "type": "series",
-      "name": "Code Geass: Lelouch Nổi Loạn",
-      "poster": "https://image.tmdb.org/t/p/w500/x316WCogkeIwNY4JR8zTCHbI2nQ.jpg",
-      "description": "Khi chiến tranh chia cắt hai anh em khỏi gia đình hoàng tộc tàn ác, vị hoàng tử thâm hiểm đã tự tay lo chuyện ngoại giao. Phim là phiên bản mới của loạt phim kinh điển.",
-      "releaseInfo": "2006",
-      "imdbRating": "8.7"
-    },
-    {
-      "id": "tt8673610",
-      "type": "series",
-      "name": "Khi Các Tế Bào Làm Việc",
-      "poster": "https://image.tmdb.org/t/p/w500/sgwwEGvNy7vCJN8IVnl44tuVlMZ.jpg",
-      "description": "Trung bình cơ thể con người gồm có 60 nghìn tỉ tế bào. Mỗi tế bào tuy nhỏ bé nhưng đều bận rộn tất bật với công việc và chức năng của riêng mình: Hồng Cầu giúp vận chuyển Oxi, Tiểu Cầu giúp làm đông máu... Khi con người bị thương, virus và vi khuẩn sẽ nhanh chóng xâm nhập vào cơ thể, và khi dị ứng bắt đầu lan tỏa, tất cả các tế bào sẽ nhường chỗ cho Bạch Cầu và Tế Bào nơ-ron thần kinh để họ làm nhiệm vụ tiêu diệt kẻ xâm nhập.",
-      "releaseInfo": "2018",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt0112159",
-      "type": "series",
-      "name": "Neon Genesis Evangelion",
-      "poster": "https://image.tmdb.org/t/p/w500/y2ah9t0navXyIvoHg1uIbIHO3tt.jpg",
-      "description": "Vào năm 2015, Angel (Thiên Thần), những sinh vật hung tợn to lớn mạnh mẽ và không rõ nguồn gốc, lần thứ hai xuất hiện tại thành phố Tokyo-3. Hi vọng duy nhất cho sự tồn tại của nhân loại được đặt vào Evangelion, một cỗ máy chiến đấu dạng người được phát triển bởi NERV, cơ quan đặc vụ của Liên Hiệp Quốc. Có khả năng chống trả lại các đòn công kích của Angel nhưng điểm yếu sót lại của Evangelion là chỉ một vài người có tố chất mới có thể điều khiển được. Đó phải là những thanh thiếu niên được sinh ra vào 14 năm trước, 9 tháng sau khi lần đầu tiên Angel xuất hiện. Trong đó có Ikari Shinji, một thiếu niên có bố là tổng chỉ huy NERV đã phát triển và đang điều hành Evangelion. Lần đầu tiên gặp mặt bố sau bao năm xa cách nhưng cậu đã bị bắt ép ngồi vào buồng lái Eva để chiến đấu chống chọi lại Angel. Trong hoàn cảnh ấy, Shinji phải quyết định lựa chọn chiến đấu hoặc đánh mất tất cả.",
-      "releaseInfo": "1995",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt2549176",
-      "type": "series",
-      "name": "カードファイト!! ヴァンガード",
-      "poster": "https://image.tmdb.org/t/p/w500/mm0ULBbs9XrHq4OAE8VUa84wvgi.jpg",
-      "description": "Aichi Sendou is a timid third-year middle school student who has always lived his life looking backwards rather than forward. However, he has a card called \"Blaster Blade\" that was given to him when he was little, which is the sole thing that sustains him. Then Toshiki Kai, a cool-hearted high schooler, introduces Aichi to a card game called \"Vanguard\". When participants battle they picture they are on a planet called \"Clay\", and since Vanguard features a never before seen game system it has become popular around the world. Aichi immediately likes Vanguard, so he begins to play it with his friends Misaki Togura and Kamui Katsuragi, and others like his new rival Kai (who is one of the best Vanguard players). Aichi plays every day and he strives with all his soul and heart to play better, so when he battles Kai, Kai will recognize Aichi's worth.",
-      "releaseInfo": "2011",
-      "imdbRating": "5.7"
-    },
-    {
-      "id": "tt6348126",
-      "type": "series",
-      "name": "ベイブレードバースト",
-      "poster": "https://image.tmdb.org/t/p/w500/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg",
-      "description": "Middle schooler Valt Aoi, with his Beyblade Valkyrie (Valtryek), faces off against friends, classmates, and rivals to become the world's number one Blader.",
+      "name": "Cậu Bé Siêu Năng Lực",
+      "poster": "https://image.tmdb.org/t/p/w500/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
+      "description": "Cậu học sinh cấp 2 Shigeo có vẻ ngoài rất bình thường. Không ai biết cậu sở hữu khả năng ngoại cảm đáng gờm và nếu cậu không kìm nén cảm xúc, năng lực ấy sẽ bùng nổ.",
       "releaseInfo": "2016",
-      "imdbRating": "6.9"
+      "imdbRating": "8.5"
     },
     {
-      "id": "tt0303503",
+      "id": "tt2560140",
       "type": "series",
-      "name": "おジャ魔女どれみ",
-      "poster": "https://image.tmdb.org/t/p/w500/iCINo8JNXswWelsEycO1frahHS1.jpg",
-      "description": "Ojamajo Doremi, known as Magical DoReMi internationally, is a magical girl anime television series created by Toei Animation in 1999. It focuses on elementary school students who become witch apprentices. Led by Doremi Harukaze, the girls must maintain their double lives in secret.\n\nOjamajo Doremi has been followed up by three direct sequels, lasting until its end in 2003. During the television series' runtime, two companion films were released in theaters. The English dub, produced by 4Kids Entertainment, released a preview episode in the US airing on August 13, 2005, and the first episode on September 10, 2005.",
-      "releaseInfo": "1999",
-      "imdbRating": "6.6"
+      "name": "Đại Chiến Người Khổng Lồ",
+      "poster": "https://image.tmdb.org/t/p/w500/qDK2qEA5pfUK7Rog8urvgKuaXiP.jpg",
+      "description": "Chứng kiến quê hương bị tàn phá, chàng thanh niên Eren Yeager quyết tâm chiến đấu với bọn Titan khổng lồ đang đe dọa hủy diệt loài người.",
+      "releaseInfo": "2013",
+      "imdbRating": "9.1"
     },
     {
       "id": "tt12044826",
@@ -829,33 +514,6 @@
       "imdbRating": "4.9"
     },
     {
-      "id": "tt2789238",
-      "type": "series",
-      "name": "Huyết Chiến - Strike the Blood",
-      "poster": "https://image.tmdb.org/t/p/w500/rbGaCkEVS7PE5fKKMAmvO4XZXyA.jpg",
-      "description": "Được chuyển thể từ light novel \"Strike the Blood\" của tác giả Gakuto Mikumo, là câu chuyện xoay quanh Kojou Akatsuki - một kẻ được xem là ma cà rồng mạnh nhất thế giới từng chỉ tồn tại trong truyền thuyết và Yukina Hirameki – một cô gái được giao nhiệm vụ trông nom ma cà rồng và nếu cần thiết có thể giết chết hắn. Vậy thân phận thật sự Akatsuki Kojou là ai?",
-      "releaseInfo": "2013",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt27865962",
-      "type": "series",
-      "name": "BEYBLADE X",
-      "poster": "https://image.tmdb.org/t/p/w500/66wkm14IWdrY5LaKZDAbkD2T9Jt.jpg",
-      "description": "Beginner blader Robin Kazami joins up with influencer Multi Nana-iro and former champion Jaxon Cross to form this unlikely trio - ready to climb to the top of The X and win the title of champion blader!",
-      "releaseInfo": "2023",
-      "imdbRating": "6.3"
-    },
-    {
-      "id": "tt1515996",
-      "type": "series",
-      "name": "とある科学の超電磁砲",
-      "poster": "https://image.tmdb.org/t/p/w500/dZt1dqw0K4JGhwcqTh8yExHYK9w.jpg",
-      "description": "Misaka's electro-manipulation skills - and her delightfully destructive railgun projectile movement - make her a rock star in Academy City. The techno-metropolis is filled with supernaturally powerful students known as Espers, including Misaka's flirtatious friend and roommate, Shirai Kuroko. She uses her teleportation skills as a member of the Judgment law enforcement team, fighting crime alongside fellow agent Uiharu. Joined by their friend Saten, a spunky Level 0 Esper, Misaka, Kuroko, and Uiharu have a blast taking on danger whenever and wherever it arises.",
-      "releaseInfo": "2009",
-      "imdbRating": "7.4"
-    },
-    {
       "id": "tt11034066",
       "type": "series",
       "name": "Vào Ma Giới Rồi Đấy! Iruma-kun",
@@ -865,13 +523,229 @@
       "imdbRating": "7.6"
     },
     {
-      "id": "tt16764368",
+      "id": "tt28277325",
       "type": "series",
-      "name": "Urusei Yatsura",
-      "poster": "https://image.tmdb.org/t/p/w500/zK82mkrePHoixlYzsr9mUPchBxX.jpg",
-      "description": "Tokyo, thị trấn Tomobiki. Lum, nàng công chúa xinh đẹp của chủng tộc ngoài hành tinh Oni, đem lòng si mê cậu học sinh trung học Ataru Moroboshi. Là một kẻ đào hoa tận tụy, Ataru chẳng hề nao núng trước những cú sốc điện dữ dội của Lum và vẫn tiếp tục công cuộc săn tìm các cô gái xinh đẹp mỗi ngày.\n\nBên cạnh đó là sự góp mặt của hàng loạt nhân vật độc đáo khác: cô bạn hàng xóm Shinobu, vu nữ tao nhã Sakura, nhóm bạn thân của Lum gồm Oyuki, Benten và Ran, nhà sư Cherry, cậu nhóc rắc rối Ten, thiếu gia giàu có Shutaro Mendo và “mỹ nhân nam tính” Ryunosuke… Tất cả cùng nhau tạo nên một tác phẩm hài tình cảm cổ điển, nơi mọi tình huống dở khóc dở cười đều có thể xảy ra!",
+      "name": "Hình phạt ngọt ngào: Tôi là thú cưng của cai ngục",
+      "poster": "https://image.tmdb.org/t/p/w500/rbETzzJLGIB2Bg6NwNekWTKfM6d.jpg",
+      "description": "Câu chuyện lấy bối cảnh trong một nhà tù trong tương lai gần. Câu chuyện xoay quanh Hina Saotome, bị giam cầm mặc dù cô vô tội, và tên lính canh thanh lịch nhưng tàn bạo Aki Myoujin. Trái tim và cơ thể của Hina nằm trong sự kiểm soát của \"sự thống trị vô tình nhưng ngọt ngào\" của Myoujin từ các cuộc kiểm tra thể chất đến các chuyến thăm tù của những người yêu nhau.",
+      "releaseInfo": "2018",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt6074794",
+      "type": "series",
+      "name": "Kỳ Thủ Shougi",
+      "poster": "https://image.tmdb.org/t/p/w500/sokReNdjEwG2TkdUzJcVnD6sChT.jpg",
+      "description": "3-Gatsu no Lion xoay quanh đời sống thường nhật của một kì thủ cờ shogi (cờ tướng Nhật Bản) 17 tuổi - Kiriyama Rei. Trên hành trình chạy trốn khỏi những ám ảnh quá khứ, cậu gặp gỡ ba chị em nhà Kawamoto là Akari (chị cả), Hina (chị hai), Momo (em út) và bắt đầu từ đây, cuộc sống của Rei dần dần thay đổi.",
+      "releaseInfo": "2016",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt4838372",
+      "type": "series",
+      "name": "おそ松さん",
+      "poster": "https://image.tmdb.org/t/p/w500/vEsmh6m9fUhJzGfLxUpliT3vqdh.jpg",
+      "description": "The lives of the now 20-something NEET Matsuno sextuplets and the bizarre adventures they find themselves into in the modern day.",
+      "releaseInfo": "2015",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt7326322",
+      "type": "series",
+      "name": "Cô Dâu Của Pháp Sư",
+      "poster": "https://image.tmdb.org/t/p/w500/xXGAFMGiG55oS8uzuVz7V5JxFb2.jpg",
+      "description": "Anime Cô Dâu Của Pháp Sư kể về Chise Hatori một cô gái mất gia đình phải sống lang thang. Cô bị bắt bán vào một phiên đấu giá nô lệ. Khi cuộc sống của cô không còn ý nghĩa gì nữa thì một người đàn ông có sức mạnh kỳ lạ với cái đầu của một con thú xuất hiện giải phóng cô khỏi xiềng xích nô lệ tuyên bố rằng cô sẽ là học việc và là cô dâu của ông ta.",
+      "releaseInfo": "2017",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt10937602",
+      "type": "series",
+      "name": "Bóng Rổ Dành Cho Tất Cả",
+      "poster": "https://image.tmdb.org/t/p/w500/jAVcBnYvxEHY5CR0lDnaPkjNTX3.jpg",
+      "description": "Kurumatani Sora là một chàng trai nhỏ bé, yếu đuối nhưng lại có niềm đam mê vô tận với bóng rổ. Cậu đã chuyển tới trường cao trung Kuzuryuu để thực hiện lời hứa với mẹ của mình rằng sẽ giành vô địch giải thi đấu đầu tiên trong cuộc đời cao trung của cậu. Vì chiều cao, dáng người nhỏ bé, nên cậu là tâm điểm của mọi sự ngược đãi, kể cả từ các thành viên trong câu lạc bộ bóng rổ. Nhưng một khi mang đôi giày của mẹ mình, cậu như thể có được một đôi cánh để bay cao, bay xa trên sân bóng. Tuy nhiên, câu lạc bộ bóng rổ nơi này lại được điều hành bởi Momoharu, một đội trưởng không hề quan tâm gì tới bóng rổ. Sora đã thách đấu người đội trưởng đó để có thể gia nhập vào câu lạc bộ. Mặc cho thành viên trong đội của Momoharu chơi bẩn trong trận thách đấu đó, Sora đã giành chiến thắng và khiến cho Momoharu, người anh trai song sinh của Momoharu là Chiaki và thành viên của đội bóng rổ nữ sinh Madoka rung động. Từ đây, với đôi cánh của một chàng vịt lùn, câu lạc bộ bóng rổ nam sinh sẽ lại gắn kết...",
+      "releaseInfo": "2019",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt0877057",
+      "type": "series",
+      "name": "Cuốn Sổ Tử Thần",
+      "poster": "https://image.tmdb.org/t/p/w500/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg",
+      "description": "Yagami Light là một học sinh cấp III rất thông minh nhưng luôn cảm thấy cuộc sống xung quanh thật tẻ nhạt và phẫn nộ với những tội ác và tham nhũng xảy ra trên thế giới. Cuộc sống của Yagami chỉ thay đổi vào năm 2003 sau khi cậu tình cờ nhặt được một cuốn sổ kỳ bí có tên Death Note (Desu Nōto, sách chết). Lời hướng dẫn sử dụng trên cuốn sổ đã ghi rõ rằng những người bị viết tên vào đây sẽ chết. Lúc đầu Yagami nghi ngờ về tính xác thực của cuốn sổ, cứ nghĩ rằng đây là trò đùa tinh quái của ai đó. Tuy nhiên, sau khi dùng nó để giết hai tên tội phạm, cậu đã tin vào sự kỳ diệu của Death Note. Khi gặp được thần chết (shinigami) giữ cuốn sổ tên Ryuk, Light quyết định sẽ trở thành vị Chúa của thế giới mới bằng việc thay thế luật pháp phán xử những kẻ phạm tội chỉ bằng một bản án duy nhất, cái chết...",
+      "releaseInfo": "2006",
+      "imdbRating": "8.9"
+    },
+    {
+      "id": "tt0290223",
+      "type": "series",
+      "name": "Khuyển Dạ Xoa",
+      "poster": "https://image.tmdb.org/t/p/w500/rQHTNaynedeKurm0sNOsbAZg2oe.jpg",
+      "description": "Inuyasha - Khuyển Dạ Xoa thuộc thể loại phiêu lưu hành động xen lẫn yếu tố lãng mạn, được chấp bút bởi Rumiko Takahashi. Câu chuyện bắt đầu khi một bán yêu Khuyển Dạ Xoa (Inu Yasha) tấn công một ngôi làng để cướp viên ngọc Tứ Hồn (Shikon no Tama), một bảo bối có thể dùng để làm tăng sức mạnh của anh. Tuy nhiên, Cát Cánh (Kikyo), một nữ pháp sư (miko) kịp thời ngăn anh lại và dùng mũi tên thanh tẩy của cô phong ấn Khuyển Dạ Xoa vào gốc cây cổ thụ thần thánh trong làng. Tuy nhiên vì bị thương quá nặng, biết mình không qua khỏi, Cát Cánh đã yêu cầu em gái mình là A Phụng (Kaede) thiêu xác của cô cùng với viên ngọc Tứ Hồn để cho nó không rơi vào tay kẻ xấu. Trong lúc đó, ở thế giới hiện tại 550 năm sau, Nhật Mộ Li (Higurashi Kagome) đang mừng lễ sinh nhật thứ mười lăm của mình....",
+      "releaseInfo": "2000",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt4869896",
+      "type": "series",
+      "name": "Lạc Vào Thế Giới Game",
+      "poster": "https://image.tmdb.org/t/p/w500/K8ZUjxaj9F0t3AwJDz8ypzBynM.jpg",
+      "description": "Bộ phim lấy bối cảnh năm 2138 khi con người không còn phân biệt được đâu là thực đâu là ảo được nữa. Yggdrasil, một trò chơi trực tuyến nổi tiếng đã âm thầm bị đóng cửa trong quá khứ. Tuy nhiên một top-player tên Momonga đã quyết định sống chết cùng với trò chơi này và sau đó hắn đã trở thành một tên Cốt Bạch Hắc Ma có sức mạnh lớn nhất trong trò chơi này. Thế giới dần đổi thay, cho đến khi các NPC dần dần có cảm xúc của một con người. Không gia đình, không bạn bè, không việc làm hay chỗ đứng trong xã hội, hắn quyết định chiếm lấy thế giới này cho riêng mình.",
+      "releaseInfo": "2015",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt34702901",
+      "type": "series",
+      "name": "ANNE SHIRLEY",
+      "poster": "https://image.tmdb.org/t/p/w500/ttSQg44aZMwcwotm4cBAzsh5KcB.jpg",
+      "description": "Từ trại trẻ mồ côi đến ngôi nhà Cuthbert, cuộc đời Anne Shirley, cô bé 11 tuổi đầy cá tính, rẽ sang một trang mới đầy bất ngờ. Marilla và Matthew tìm kiếm một cậu bé, nhưng lại nhận được Anne, một cô bé với trí tưởng tượng vô bờ. Anne Shirley không chỉ là câu chuyện về tuổi thơ, mà còn là hành trình trưởng thành đầy cảm xúc, nơi những cuộc gặp gỡ và chia ly định hình số phận. Liệu Anne sẽ viết nên câu chuyện cuộc đời mình như thế nào?",
+      "releaseInfo": "2025",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt22249034",
+      "type": "series",
+      "name": "Lãng Khách Kenshin",
+      "poster": "https://image.tmdb.org/t/p/w500/zT77Y6iQGmYGBqbhQi0ySD60o9i.jpg",
+      "description": "Một samurai lang thang có tên Kenshin Himura vẫn cố gắng từng ngày để đảm bảo những giá trị mà bản thân chiến đấu xứng đáng trong kỷ nguyên mới. Từng được biết đến với cái tên Hitokiri Battousai, người được xem là tàn nhẫn nhất trong tất cả các nhà cách mạng thì giờ đây lại bị ám ảnh bởi cảm giác tội lỗi. Kenshin đã thề sẽ không bao giờ giết người để chuộc lỗi với những sinh mạng mà anh đã lấy đi. Hòa bình sẽ không tồn tại xung quanh anh cho đến khi việc anh giết người trở thành dĩ vãng.\n\n(Nguồn: VuiGhe)",
+      "releaseInfo": "2023",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt5679720",
+      "type": "series",
+      "name": "文豪ストレイドッグス",
+      "poster": "https://image.tmdb.org/t/p/w500/6AQmGhkYwAqW2OevjXbsh7tZnNO.jpg",
+      "description": "Stalked by a beastly white tiger, Atsushi Nakajima has no idea that the menace lives inside him—a power that catches the attention of the Armed Detective Agency. Using inhuman abilities to combat crime, this team takes Atsushi under the wing of their most eccentric member, Dazai. Together, they tear through mafia-muddled mysteries while enemies keep an eye on the tiger’s lofty bounty.",
+      "releaseInfo": "2016",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt11448214",
+      "type": "series",
+      "name": "Bạn gái thuê",
+      "poster": "https://image.tmdb.org/t/p/w500/6ZpDPUNtVw6UdJoStvVlRZ62yAi.jpg",
+      "description": "Sau khi bị bạn gái bỏ rơi, cậu sinh viên đại học Kinoshita Kazuya cố gắng vá lại trái tim tan vỡ của mình bằng một người bạn gái thuê từ ứng dụng di động. Lúc đầu, Mizuhara Chzuru có vẻ như là một người bạn gái hoàn hảo với tất cả phẩm chất mà bất cứ chàng trai nào cũng phải mong đợi: xinh đẹp, dễ thương và chu đáo.\n\nVới những cảm xúc lẫn lộn sau buổi hẹn hò đầu tiên, Kazuya nghĩ Chizuru chỉ đang trêu đùa với trái tim của mình nên đã đánh giá cô 1 sao trên ứng dụng di động. Điều này khiến Chizuru tức giận và bộc lộ bản chất thật của mình trong buổi hẹn hò thứ 2: một Chizuru đanh đá, nóng nảy, trái ngược hoàn toàn với ấn tượng ban đầu. Ngay lúc đó, bà của Kazuya bị ngất xíu nên cậu phải kéo cả Chizuru vào bẹnh viện.\n\nMặc dù tình hình của bà Kazuya không có gì nghiêm trọng, nhưng bà lại ngây ngất Chizuru và cực kỳ cảm động vì cuối cùng đứa cháu trai của mình đã có bạn gái. Không thể nói ra sự thật, Kazuya và Chizuru phải tiếp tục mối quan hệ bạn gái thuê này.",
+      "releaseInfo": "2020",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt10203472",
+      "type": "series",
+      "name": "洗い屋さん！～俺とアイツが女湯で！？～",
+      "poster": "https://image.tmdb.org/t/p/w500/sDpirPwIA8djPej59I8O7ZtvDJP.jpg",
+      "description": "Male student Souta Tsukishima begins working at his family's public bathhouse as a back washer. While concealing her true identity, Souta's classmate Aoi Yuzuki visits the bathhouse. A relationship between the two begins to develop when Souta washes Aoi's back.",
+      "releaseInfo": "2019",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt1308089",
+      "type": "series",
+      "name": "Cấm Thư Ma Thuật Index",
+      "poster": "https://image.tmdb.org/t/p/w500/v3Ka0J3iMte50oiH4cmXPISM3rm.jpg",
+      "description": "Đô thị học viện, một thành phố nằm trong Nhật Bản, là một thành phố tiên phong về khoa học, với dân số khoảng 2.3 triệu và 3/4 trong số này là học sinh. Các học sinh của Đô thị học viện đa số đều sở hữu siêu năng lực được phân cấp từ Level 0 đến Level 5.  Nhân vật chính Kamijou Touma được Đô thị học viện xếp vào Level 0, tức là hoàn toàn không có năng lực, thế nhưng bàn tay phải của cậu ta lại sở hữu một khả năng kỳ lạ là vô hiệu hóa tất cả các hiện tượng siêu nhiên trên thế giới, bao gồm cả siêu năng lực và ma thuật.  Một ngày nọ, một cô bé sơ tên là Index đã xuất hiện tại ban công phòng của Touma. Cô bé là thư viện cấm thư của một Giáo Hội Anh Quốc chuyên sử dụng ma thuật, là phe đối địch với Đô thị học viện vốn lấy khoa học làm nền tảng.",
+      "releaseInfo": "2008",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0994314",
+      "type": "series",
+      "name": "Code Geass: Lelouch Nổi Loạn",
+      "poster": "https://image.tmdb.org/t/p/w500/x316WCogkeIwNY4JR8zTCHbI2nQ.jpg",
+      "description": "Khi chiến tranh chia cắt hai anh em khỏi gia đình hoàng tộc tàn ác, vị hoàng tử thâm hiểm đã tự tay lo chuyện ngoại giao. Phim là phiên bản mới của loạt phim kinh điển.",
+      "releaseInfo": "2006",
+      "imdbRating": "8.7"
+    },
+    {
+      "id": "tt13911284",
+      "type": "series",
+      "name": "Địa Ngục Cực Lạc",
+      "poster": "https://image.tmdb.org/t/p/w500/1V9I7SvZbYoMbSvdtnlkkq9SB1k.jpg",
+      "description": "Gabimaru Vô Hồn, vốn là một ninja sát thủ, bị nhiều người khiếp sợ như một kẻ máu lạnh. Mặc dù đã bị kết án tử hình nhưng không có ai đủ khả năng để giết chết cậu ta. Sau đó, nữ đao phủ nhà Asaemon đến gặp Gabimaruvà thắp lên chút hi vọng mong manh cho cậu ta với lời đề nghị vô cùng bất ngờ, rằng nếu muốn gặp lại người vợ thân thương của mình, Gabimaru sẽ phải bắt đầu một cuộc hành trình dưới sự giám sát của Mạc Phủ, tới một hòn đảo bí ẩn để tìm thứ thuốc trường sinh bất lão bất tử. Chỉ cần tìm thấy thứ đó, Gabimaru, hoặc những tên phạm nhân khát máu khác, sẽ được miễn hết tội danh và có thể bắt đầu lại một cuộc sống mới. Một cuộc phiêu lưu siêu kịch tính đã bắt đầu!",
+      "releaseInfo": "2023",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt12669906",
+      "type": "series",
+      "name": "エタニティ　～深夜の濡恋ちゃんねる♡～",
+      "poster": "https://image.tmdb.org/t/p/w500/jJGNByRqVXvulYk0HjGZUG0aZBY.jpg",
+      "description": "Anime adaptation of 12 romantic works from the Eternity Books manga label.",
+      "releaseInfo": "2020",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt2363624",
+      "type": "series",
+      "name": "Yu-Gi-Oh! Zexal",
+      "poster": "https://image.tmdb.org/t/p/w500/lHOkQJs8oPvU5idZIcjzor7T4m3.jpg",
+      "description": "Truyện kể về nhân vật Tsukumo Yuma là thần bài trong tương lai, kế thừa sự nghiệp của 3 đàn anh đi trước như Muto Yugi; Yuki Judai; Fudo Yusei. Yuma là 1 cậu bé vụng về, hậu đậu nhưng có 1 ý chí khiến mọi fan xem yu-gi đêề khăm phục đó là luôn muốn “Chinh phục được bầu trời cao”. Trước sự thử thách vô cùng lớn đó Yuma cùng với 1 người bạn của anh là Astral ( Người có liên quan đến những lá bài Numbers) sẽ có đi đến được chân trời xanh không?",
+      "releaseInfo": "2011",
+      "imdbRating": "5.4"
+    },
+    {
+      "id": "tt0185133",
+      "type": "series",
+      "name": "Hành trình U Linh Giới",
+      "poster": "https://image.tmdb.org/t/p/w500/5OnjguJwkujo3R23w95EEX8eAEN.jpg",
+      "description": "Bỏ mạng vì cứu một cậu bé, tên tội phạm cứng cỏi Yusuke Urameshi được trao cơ hội sống lại lần nữa khi nhận nhiệm vụ trở thành \"Thám tử Linh Giới\".",
+      "releaseInfo": "1992",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt10885406",
+      "type": "series",
+      "name": "Cuộc nổi dậy của cô gái mọt sách",
+      "poster": "https://image.tmdb.org/t/p/w500/aVGueAM88cc4sX6PeMvuAPObDc4.jpg",
+      "description": "Vượt qua nhiều thử thách, cuối cùng Myne đã vào được thánh đường. Nhưng Myne lại phải đối mặt với sự khinh khi của giới quý tộc và sự chống đối của môn đồ áo xám vì cô cũng là thường dân nhưng lại trở thành môn đồ áo xanh. Điển hình là các hầu cận của cô. Myne sẽ làm thế nào để cảm hóa được các hầu cận và đối phó với giới quý tộc? Liệu cô có thể thay đổi cả thánh đường hay không? Hãy theo dõi tiếp cuộc nổi dậy của cô bé mọt sách này nhé.",
+      "releaseInfo": "2019",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt14115938",
+      "type": "series",
+      "name": "Ta Muốn Trở Thành Chúa Tể Bóng Tối",
+      "poster": "https://image.tmdb.org/t/p/w500/7JKYmtLydAwo9ZsEmAknZiO4U8g.jpg",
+      "description": "\"Tôi không phải nhân vật chính, cũng chẳng phải trùm cuối...\" Tôi là một cậu trai ước mơ làm \"chúa tể bóng tối\", chèo lái câu chuyện trong bóng tối, bí mật phô bày năng lực, tên là Shido. Vừa mới hớn hở vì được chuyển sinh đến thế giới khác và quyết định \"mình sẽ là chúa tể bóng đêm, ngấm ngầm loại bỏ giáo phái đen tối\", thì hình như cái giáo phái ấy lại có thật...?? Thuận theo đó, các thiếu nữ thủ hạ của hắn cũng vì hiểu lầm mà tôn thờ hắn dưới danh nghĩa Shadow, bản thân Shido đã chẳng hề hay biết mà trở thành \"Chúa tể bóng tối\" đích thực, và thế là tổ chức bóng tối \"Shadow Garden\" do Shido lãnh đạo sẽ đi hủy diệt hắc ám của thế gian...",
       "releaseInfo": "2022",
-      "imdbRating": "7.1"
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt3741634",
+      "type": "series",
+      "name": "Ngạ Quỷ Vùng Tokyo Ghoul",
+      "poster": "https://image.tmdb.org/t/p/w500/1m4RlC9BTCbyY549TOdVQ5NRPcR.jpg",
+      "description": "Tokyo Ghoul là một câu chuyện mang bầu sắc u tối của thành phố Tokyo, nơi xảy ra hàng loạt các vụ án mạng được gây ra bởi các con quỷ đội lốt con người. Main chính nhà ta là sinh viên đại học tên Kaneki gặp gỡ được em Rize, do 2 người có cùng sở thích nên đã phải lòng nhau. Vào buổi tối hôm hẹn hò, em và ảnh cùng nhau đi vào một con phố hẻo rồi cuộc đời anh main thay đổi ngay trong đêm hôm đó.",
+      "releaseInfo": "2014",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt13370404",
+      "type": "series",
+      "name": "Healer Báo Thù",
+      "poster": "https://image.tmdb.org/t/p/w500/9T7TT0w92RbeRP5QSnNq81HHxde.jpg",
+      "description": "Nội dung: Keare là một thường dân sống ở một ngôi làng bình dị, cho đến khi nhận được sức mạnh hồi phục và trở thành anh hùng hồi phục. Đó cũng là lúc Keare mất hết tất cả và trở thành một con nghiện mang sức mạnh hồi phục đúng nghĩa đen. Liệu Keare sẽ làm gì để có thể vực dậy từ đáy sâu vực thẳm?",
+      "releaseInfo": "2021",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt2811158",
+      "type": "series",
+      "name": "こちら葛飾区亀有公園前派出所",
+      "poster": "https://image.tmdb.org/t/p/w500/ujltFuzCZ9FLe07kTRLZ2gpIJVY.jpg",
+      "description": "Ryotsu Kankichi, or Ryo-san for short, is an unconventional cop working at the local police station who loves money. Together with famous celebrities like Nakagawa and Reiko, his strict boss Police Chief Ohara, and other wildly unique characters, he gets everyone caught up in all sorts of hijinks!",
+      "releaseInfo": "1996",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt7742120",
+      "type": "series",
+      "name": "Dã ngoại thảnh thơi",
+      "poster": "https://image.tmdb.org/t/p/w500/1c5xBDBQQwa1bvX5fibAeymReGg.jpg",
+      "description": "Câu chuyện bình dị này xoay quanh hai cô gái trẻ: Rin yêu thích cắm trại một mình bên bờ hồ, nơi có thế nhìn ra núi Phú Sĩ hùng vĩ; và Nadeshiko thích những chuyến đi xe một mình đến những nơi mà cô có thể ngắm thấy núi Phú Sĩ. Sau khi gặp nhau. Rin và Nadeshiko đã cùng nhau cắm trại, ăn mì ly và cùng thưởng thức cảnh đẹp.",
+      "releaseInfo": "2018",
+      "imdbRating": "8.1"
     },
     {
       "id": "tt1316554",
@@ -883,21 +757,148 @@
       "imdbRating": "7.6"
     },
     {
-      "id": "tt0455295",
+      "id": "tt27865962",
       "type": "series",
-      "name": "金色のガッシュベル!!",
-      "poster": "https://image.tmdb.org/t/p/w500/cBcHLTG8UgtKi1i1iN0XVcRAB78.jpg",
-      "description": "Takamine Kiyomaro, a depressed don't-care-about-the-world guy, was suddenly given a little demon named Zatch Bell to take care of. Little does he know that Zatch is embroiled in an intense fight to see who is the ruler of the demon world.",
-      "releaseInfo": "2003",
-      "imdbRating": "7.2"
+      "name": "BEYBLADE X",
+      "poster": "https://image.tmdb.org/t/p/w500/66wkm14IWdrY5LaKZDAbkD2T9Jt.jpg",
+      "description": "Beginner blader Robin Kazami joins up with influencer Multi Nana-iro and former champion Jaxon Cross to form this unlikely trio - ready to climb to the top of The X and win the title of champion blader!",
+      "releaseInfo": "2023",
+      "imdbRating": "6.3"
     },
     {
-      "id": "tt39551330",
+      "id": "tt0481256",
       "type": "series",
-      "name": "Cô mèo nghiện thuốc lá",
-      "poster": "https://image.tmdb.org/t/p/w500/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg",
-      "description": "Cô gái mèo Yani chật vật trả tiền thuê nhà, giữ việc làm và thỏa mãn cơn nghiện thuốc lá. Khi người thân ngày càng lo lắng, cô buộc phải suy nghĩ lại về tương lai của mình.",
-      "releaseInfo": "2026"
+      "name": "はじめの一歩",
+      "poster": "https://image.tmdb.org/t/p/w500/fEYVJu08En9A7n0e5TTpeoSjtIm.jpg",
+      "description": "Makunouchi Ippo is an ordinary high school student in Japan. Since he spends most of his time away from school helping his mother run the family business, he doesn't get to enjoy his younger years like most teenagers. Always a target for bullying at school (the family fishing business grants him a distinct odor), Ippo's life is one of hardship. One of these after-school bullying sessions turns Ippo's life around for the better, as he is saved by a boxer named Takamura. He decides to follow in Takamura's footsteps and train to become a boxer, giving his life direction and purpose. Ippo's path to perfecting his pugilistic prowess is just beginning...",
+      "releaseInfo": "2000",
+      "imdbRating": "8.8"
+    },
+    {
+      "id": "tt2789238",
+      "type": "series",
+      "name": "Huyết Chiến - Strike the Blood",
+      "poster": "https://image.tmdb.org/t/p/w500/rbGaCkEVS7PE5fKKMAmvO4XZXyA.jpg",
+      "description": "Được chuyển thể từ light novel \"Strike the Blood\" của tác giả Gakuto Mikumo, là câu chuyện xoay quanh Kojou Akatsuki - một kẻ được xem là ma cà rồng mạnh nhất thế giới từng chỉ tồn tại trong truyền thuyết và Yukina Hirameki – một cô gái được giao nhiệm vụ trông nom ma cà rồng và nếu cần thiết có thể giết chết hắn. Vậy thân phận thật sự Akatsuki Kojou là ai?",
+      "releaseInfo": "2013",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0081954",
+      "type": "series",
+      "name": "うる星やつら",
+      "poster": "https://image.tmdb.org/t/p/w500/bs0Q5TMYVUTNXCPbuPBNylzqrxk.jpg",
+      "description": "The invasion of an alien race known as the Oni begins a new life for Ataru Moroboshi, a lecherous trouble-making tenth grader in the small town of Tomobiki. After unwittingly proposing to the Oni princess Lum Invader instead of his sweetheart Shinobu, Ataru becomes a conduit for aliens arriving on Earth, causing all sorts of havoc for him and his companions, not to mention his own reputation!",
+      "releaseInfo": "1981",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt9304350",
+      "type": "series",
+      "name": "Hóa giải lời nguyền",
+      "poster": "https://image.tmdb.org/t/p/w500/9TGNcvMm91QXmnnCCYYqnYK0bK7.jpg",
+      "description": "Sau khi người thân qua đời, Honda Tohru chuyển vào sống cùng gia tộc Soma và phát hiện ra bí mật của họ: họ đã bị dính lời nguyền 12 con giáp suốt mấy thế kỷ qua.",
+      "releaseInfo": "2019",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt8673610",
+      "type": "series",
+      "name": "Khi Các Tế Bào Làm Việc",
+      "poster": "https://image.tmdb.org/t/p/w500/sgwwEGvNy7vCJN8IVnl44tuVlMZ.jpg",
+      "description": "Trung bình cơ thể con người gồm có 60 nghìn tỉ tế bào. Mỗi tế bào tuy nhỏ bé nhưng đều bận rộn tất bật với công việc và chức năng của riêng mình: Hồng Cầu giúp vận chuyển Oxi, Tiểu Cầu giúp làm đông máu... Khi con người bị thương, virus và vi khuẩn sẽ nhanh chóng xâm nhập vào cơ thể, và khi dị ứng bắt đầu lan tỏa, tất cả các tế bào sẽ nhường chỗ cho Bạch Cầu và Tế Bào nơ-ron thần kinh để họ làm nhiệm vụ tiêu diệt kẻ xâm nhập.",
+      "releaseInfo": "2018",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt6348126",
+      "type": "series",
+      "name": "ベイブレードバースト",
+      "poster": "https://image.tmdb.org/t/p/w500/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg",
+      "description": "Middle schooler Valt Aoi, with his Beyblade Valkyrie (Valtryek), faces off against friends, classmates, and rivals to become the world's number one Blader.",
+      "releaseInfo": "2016",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt9522300",
+      "type": "series",
+      "name": "Kaguya-sama: Cuộc Chiến Tỏ Tình",
+      "poster": "https://image.tmdb.org/t/p/w500/5khbC6AuNgnvnoDbjIMKCOhEtIc.jpg",
+      "description": "Phó Chủ tịch Kaguya Shinomiya và Chủ tịch Shirogane Gogyo gặp nhau ở Hội Học sinh, và cả hai đều say đắm nhau. Hai người họ quá tự cao nên đã không thể thành thật bày tỏ tình cảm của mình. Câu chuyện kể về các kế hoạch của họ để khiến người khác thú nhận mình thích người kia.",
+      "releaseInfo": "2019",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt1528406",
+      "type": "series",
+      "name": "Hội Pháp Sư",
+      "poster": "https://image.tmdb.org/t/p/w500/AsfCVSHnFnUnbepLucvIB1N30Il.jpg",
+      "description": "Bộ Phim Hội Pháp Sư có nội dung chính về Lucy, cô gái trẻ 17 tuổi với mong ước trở thành một pháp sư đầy quyền năng. Trên đường phiêu lưu thực hiện ước mơ, Lucy tình cờ gặp được một bộ đôi quái gở - Natsu và Happy, đang trên đường tìm kiếm Hỏa Long Igneel - tại Thị trấn Hargeon. Ước mơ của Lucy là được tham gia vào Bang hội, nơi tập trung đầy pháp sư tài giỏi.",
+      "releaseInfo": "2009",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt2398674",
+      "type": "series",
+      "name": "アイカツ！",
+      "poster": "https://image.tmdb.org/t/p/w500/tdFVCOq8AR4L92XiCzdQZK56bCL.jpg",
+      "description": "Ichigo Hoshimiya is a regular, ordinary middle school girl. But when her best friend Aoi invites her to join the idol training academy, Starlight Academy, her whole world is turned upside down. As she encounters all kinds of rivals and learns what it takes to be an idol, she uses her Aikatsu Cards to challenge countless auditions.",
+      "releaseInfo": "2012",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt0085092",
+      "type": "series",
+      "name": "装甲騎兵ボトムズ",
+      "poster": "https://image.tmdb.org/t/p/w500/hYv6w515vwe3IowcvbPrk4R6ckl.jpg",
+      "description": "The story of stoic Armored Trooper pilot Chirico Cuvie and his quest for answers after a sudden betrayal leaves him on the run from his own military.",
+      "releaseInfo": "1983",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt0841963",
+      "type": "series",
+      "name": "MÄR-メルヘヴン-",
+      "poster": "https://image.tmdb.org/t/p/w500/8GCxSybC4X4nKPT2qZPTow30D2H.jpg",
+      "description": "Dreaming of a magical world every night, the young Toramizu Ginta yearns to be able to go there. With only his friend Koyuki believing in his dreams, Ginta remains positive despite the slander he receives from others over his dreams. But his wishes are answered, as one day a large door appears in front of Ginta, summoning him to the land of MAR Heaven. In this land, the weapons known as ARMS exist. While initially Ginta greatly enjoyed the discovery of this magical world, he soon learns of the terrible wars that have once plagued MAR Heaven and the upcoming war that may soon appear",
+      "releaseInfo": "2005",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt28919914",
+      "type": "series",
+      "name": "100 cô bạn gái yêu bạn rất rất rất rất rất nhiều",
+      "poster": "https://image.tmdb.org/t/p/w500/8E0OTM8PqvBNRMbTOD8L7Zpv2qt.jpg",
+      "description": "Rentaro Aijo đã trải qua 100 lần thất tình hồi còn học sơ trung. Khi vừa lên cao trung, cậu đã đến một đền thờ và ước rằng \"tôi muốn có người yêu\". Thần tình yêu xuất hiện và phán rằng \"tại cao trung, con sẽ gặp được 100 người định mệnh của mình\". Tuy nhiên, theo vị thần, những người gặp một nửa định mệnh của mình phải yêu nhau và cảm thấy hạnh phúc, bằng không họ sẽ chết. Gặp gỡ liên tiếp những con người định mệnh của mình, Rentaro sẽ làm thế nào đây? Điều gì sẽ đến với 100 cô bạn gái của cậu?",
+      "releaseInfo": "2023",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt0081852",
+      "type": "series",
+      "name": "Dr.スランプ アラレちゃん",
+      "poster": "https://image.tmdb.org/t/p/w500/q19uWJMNLcyQ0I14DaH4XVwW8TQ.jpg",
+      "description": "Senbei Norimaki, known by his nickname Dr. Slump, a genius yet under-respected inventor and roboticist, creates an android by the name of Arale, and poses her as his little sister. What starts as an experiment in robotics turns into an adventure every day for the residents of Penguin Village, a wacky rural community with several colorful characters interacting with Arale and her creator.",
+      "releaseInfo": "1981",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt0486952",
+      "type": "series",
+      "name": "D.C.～ダ・カーポ～",
+      "poster": "https://image.tmdb.org/t/p/w500/yaDB7CTZA8PatqVmPnfwBynA9SI.jpg",
+      "description": "Junichi Asakura lives with his adoptive sister Nemu in the crescent-shaped island of Hatsune Jima, a place where cherry blossoms bloom throughout the year. In this island, people have mysterious powers and attributes. For example, Junichi has the power to see other people's dreams, and he was also taught by his grandmother to magically create sweets. One day, Junichi's cousin and childhood friend, Sakura Yoshino came back from America all of a sudden. To Junichi's surprise, she looks exactly the same as the girl that moved away six years ago, and hasn't aged one bit. And she came back to remind Junichi of their childhood promise... It is a bittersweet tale of magic, love, hidden desires, and unattainable dreams.",
+      "releaseInfo": "2003",
+      "imdbRating": "5.7"
+    },
+    {
+      "id": "tt0112159",
+      "type": "series",
+      "name": "Neon Genesis Evangelion",
+      "poster": "https://image.tmdb.org/t/p/w500/y2ah9t0navXyIvoHg1uIbIHO3tt.jpg",
+      "description": "Vào năm 2015, Angel (Thiên Thần), những sinh vật hung tợn to lớn mạnh mẽ và không rõ nguồn gốc, lần thứ hai xuất hiện tại thành phố Tokyo-3. Hi vọng duy nhất cho sự tồn tại của nhân loại được đặt vào Evangelion, một cỗ máy chiến đấu dạng người được phát triển bởi NERV, cơ quan đặc vụ của Liên Hiệp Quốc. Có khả năng chống trả lại các đòn công kích của Angel nhưng điểm yếu sót lại của Evangelion là chỉ một vài người có tố chất mới có thể điều khiển được. Đó phải là những thanh thiếu niên được sinh ra vào 14 năm trước, 9 tháng sau khi lần đầu tiên Angel xuất hiện. Trong đó có Ikari Shinji, một thiếu niên có bố là tổng chỉ huy NERV đã phát triển và đang điều hành Evangelion. Lần đầu tiên gặp mặt bố sau bao năm xa cách nhưng cậu đã bị bắt ép ngồi vào buồng lái Eva để chiến đấu chống chọi lại Angel. Trong hoàn cảnh ấy, Shinji phải quyết định lựa chọn chiến đấu hoặc đánh mất tất cả.",
+      "releaseInfo": "1995",
+      "imdbRating": "8.5"
     }
   ]
 }
