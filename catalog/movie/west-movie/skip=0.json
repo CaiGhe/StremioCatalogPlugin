@@ -1,6 +1,60 @@
 {
   "metas": [
     {
+      "id": "tt0092906",
+      "type": "movie",
+      "name": "Ma Búp Bê",
+      "poster": "https://phimimg.com/uploads/movies/20260930/ma-bup-be-1986-poster.webp",
+      "description": "Một nhóm người dừng lại bởi biệt thự trong cơn bão và khám phá hai nhà sản xuất đồ chơi huyền diệu và bộ sưu tập búp bê ám ảnh của họ.",
+      "releaseInfo": "1987",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt31349844",
+      "type": "movie",
+      "name": "Chuyến Vận Chuyển Sinh Tử / Kẻ Vận Chuyển",
+      "poster": "https://phimimg.com/uploads/movies/20260929/chuyen-van-chuyen-sinh-tu-poster.webp",
+      "description": "Một cựu binh bị cuốn vào một cuộc đua sinh tử nghẹt thở với thời gian khi một chuyến vận chuyển thuốc cấp cứu sống còn biến anh cùng người đồng hành bất đắc dĩ thành mục tiêu săn đuổi của một băng đảng cartel tàn bạo. Khi nhiệm vụ dần vượt tầm kiểm soát thành một cuộc săn người đẫm máu, mỗi khúc ngoặt, sự trì hoãn và từng viên đạn đều đẩy họ đến gần hơn với thất bại. Trong bối cảnh sự phản bội bủa giăng khắp phía, họ buộc phải sống sót qua cuộc truy đuổi tàn khốc để giao kịp lô hàng nhằm cứu sống mạng mạng một cô bé.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt0104449",
+      "type": "movie",
+      "name": "Ngôi Nhà Ma Quái 4",
+      "poster": "https://phimimg.com/uploads/movies/20260929/ngoi-nha-ma-quai-4-poster.webp",
+      "description": "Không hề hay biết nơi đây đang bị quấy phá bởi hàng loạt hiện tượng siêu nhiên quái dị, một người mẹ cùng con gái — vẫn chưa gượng dậy nổi sau tai nạn xe thảm khốc cướp đi mạng sống của Roger Cobb — đã chuyển đến sống tại căn nhà cổ của gia đình để bắt đầu một cuộc sống mới.",
+      "releaseInfo": "1992",
+      "imdbRating": "3.9"
+    },
+    {
+      "id": "tt0097527",
+      "type": "movie",
+      "name": "Ngôi Nhà Ma Quái 3",
+      "poster": "https://phimimg.com/uploads/movies/20260929/ngoi-nha-ma-quai-3-poster.webp",
+      "description": "Thề sẽ trả thù viên thám tử đã bắt giữ mình, tên sát nhân hàng loạt Max Jenke với biệt danh \"Gã Đồ Tể\" (Meat Cleaver) trở về từ cõi chết để bắt đầu một triều đại kinh hoàng hoàn toàn mới.",
+      "releaseInfo": "1989",
+      "imdbRating": "5.1"
+    },
+    {
+      "id": "tt0093220",
+      "type": "movie",
+      "name": "Ngôi Nhà Ma Quái 2",
+      "poster": "https://phimimg.com/uploads/movies/20260929/ngoi-nha-ma-quai-2-poster.webp",
+      "description": "Jesse chuyển đến sống tại một bất động sản lâu đời của gia đình — nơi cha mẹ anh từng bị sát hại một cách bí ẩn nhiều năm trước. Ngay sau đó, anh bất ngờ phải tiếp đón những vị khách không mời mà đến, bao gồm người cụ cố đã biến thành xác khô mummified, một hộp sọ tinh thể mang năng lực huyền bí và một gã cao bồi thây ma.",
+      "releaseInfo": "1987",
+      "imdbRating": "5.4"
+    },
+    {
+      "id": "tt0091223",
+      "type": "movie",
+      "name": "Ngôi Nhà Ma Quái",
+      "poster": "https://phimimg.com/uploads/movies/20260929/ngoi-nha-ma-quai-1985-poster.webp",
+      "description": "Một tiểu thuyết gia chuyên viết truyện kinh dị đã ly hôn, trong lúc đang cố gắng vượt qua nỗi đau từ sự mất tích bí ẩn của người con trai nhỏ, đã thừa kế một căn biệt thự cổ kính của người cô vừa qua đời — nơi ngự trị của những thực thể siêu nhiên đầy tà tà tàn ác.",
+      "releaseInfo": "1985",
+      "imdbRating": "6.1"
+    },
+    {
       "id": "tt0116671",
       "type": "movie",
       "name": "Người Tuyết Sát Nhân",
@@ -113,7 +167,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260922/chat-poster.webp",
       "description": "Khởi đầu mới của một gia đình tại ngôi nhà mới bỗng chốc sụp đổ khi đứa con trai của họ phát hiện ra một chiếc máy tính bảng tích hợp công nghệ trí tuệ nhân tạo (AI). Chiếc máy đã giải phóng một làn sóng kinh hoàng không chỉ liên quan đến các thế lực siêu nhiên mà còn dính líu đến những bí mật đen tối về lòng tham và sự tham nhũng đang bủa vằn quanh họ.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3"
+      "imdbRating": "4.8"
     },
     {
       "id": "tt0080040",
@@ -838,60 +892,6 @@
       "description": "Câu chuyện theo chân Odysseus trong hành trình kéo dài 10 năm trở về nhà sau cuộc chiến thành Troy, nơi ông phải đối mặt với các vị thần, quái vật và vô vàn thử thách, đồng thời nỗ lực đoàn tụ với vợ và giành lại vương quốc của mình.",
       "releaseInfo": "2026",
       "imdbRating": "8.4"
-    },
-    {
-      "id": "tt41605854",
-      "type": "movie",
-      "name": "The Odyssey",
-      "poster": "https://phimimg.com/uploads/movies/20260829/the-odyssey-poster.webp",
-      "description": "Dựa trên thiên sử thi Hy Lạp cổ đại. Sau mười năm chiến tranh, Vua Odysseus ra khơi trở về quê nhà Ithaca, khát khao được đoàn tụ với người vợ yêu thương. Nhưng hành trình trở về của ông còn gian nan hơn cả chiến trường, khi ông phải đối mặt với những quái vật chết người cùng sự phẫn nộ của các vị thần để giành lấy sự sống.",
-      "releaseInfo": "2026",
-      "imdbRating": "1.8"
-    },
-    {
-      "id": "tt43749709",
-      "type": "movie",
-      "name": "Grand Theft Auto VI: Cái Nhìn Sâu Hơn",
-      "poster": "https://phimimg.com/uploads/movies/20260829/grand-theft-auto-vi-cai-nhin-sau-hon-poster.webp",
-      "description": "Video tập trung khai thác mối quan hệ kiểu \"Bonnie và Clyde\" giữa Lucia và Jason. Người chơi có thể chuyển đổi mượt mà giữa hai nhân vật này khi thực hiện nhiệm vụ hoặc khám phá thế giới mở, kết hợp chiến đấu đồng đội ăn ý hơn so với các phần trước.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.3"
-    },
-    {
-      "id": "tt2404435",
-      "type": "movie",
-      "name": "Bảy Tay Súng Huyền Thoại",
-      "poster": "https://phimimg.com/uploads/movies/20260828/bay-tay-sung-huyen-thoai-poster.webp",
-      "description": "Bartholomew Bogue, một ông trùm tư bản độc ác, ép buộc người dân thị trấn phải bán rẻ đất đai để hắn mở rộng quy mô mỏ khai thác vàng gần đó, dẫn đến những món nợ máu. Emma Cullen, một góa phụ có chồng bị Bogue sát hại, đã thay mặt người dân thị trấn đi tìm những người có khả năng bảo vệ họ khỏi sự đàn áp, khủng bố của Bogue cùng tay chân. Sau khi thuyết phục được Sam Chisolm, cô cùng gã thợ săn tiền thưởng chính quy thuyết phục thêm sáu tay súng khác. Họ cùng nhau hợp lực bảo vệ sự tồn vong của Rose Creek khi Bogue chuẩn bị quay lại.",
-      "releaseInfo": "2016",
-      "imdbRating": "6.9"
-    },
-    {
-      "id": "tt22084616",
-      "type": "movie",
-      "name": "Người Nhện: Khởi Đầu Mới",
-      "poster": "https://phimimg.com/uploads/movies/20260827/nguoi-nhen-khoi-dau-moi-poster.webp",
-      "description": "Không còn Tony Stark, MJ hay Ned kề cận, Peter buộc phải đơn thân độc mã đối diện với phe đối đầu bí ẩn. Tuy nhiên, khi áp lực ngày càng gia tăng, nó kích hoạt một sự biến đổi thể chất bất ngờ, đe dọa chính sự tồn tại của anh. Đồng thời, một chuỗi tội phạm bí ẩn mới xuất hiện, kéo theo một trong những mối đe dọa mạnh mẽ nhất mà Spider-Man từng đối mặt.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt37603783",
-      "type": "movie",
-      "name": "Trời Cao Biển Sâu",
-      "poster": "https://phimimg.com/uploads/movies/20260827/troi-cao-bien-sau-poster.webp",
-      "description": "Cơn ác mộng thực sự bắt đầu khi nhóm bạn trẻ bị kẹt lại trong tình thế tiến thoái lưỡng nan: bên trên mặt nước là những tên tội phạm máu lạnh dưới sự chỉ huy trực tiếp của trùm sỏ Burns, còn bên dưới dòng nước sâu thẳm là chiếc lồng lặn bị bao vây bởi những con cá mập đói mồi. Tatiana buộc phải dũng cảm đứng lên, tìm mọi cách xoay sở mưu mẹo để cứu lấy bản thân và những người bạn của mình giữa ranh giới mong manh của sự sống và cái chết.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.2"
-    },
-    {
-      "id": "tt2012616",
-      "type": "movie",
-      "name": "Thành Phố Động Cơ",
-      "poster": "https://phimimg.com/uploads/movies/20260826/thanh-pho-dong-co-poster.webp",
-      "description": "Vào những năm 1970 tại Detroit, John Miller đem lòng yêu người phụ nữ của một kẻ găng-stơ địa phương và rồi bị tống vào tù vì một tội ác mà anh không hề phạm phải. Khi cuộc đời đã bị hủy hoại, Miller lập kế hoạch trả thù kẻ đã cướp đi người phụ nữ anh yêu.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.1"
     }
   ]
 }

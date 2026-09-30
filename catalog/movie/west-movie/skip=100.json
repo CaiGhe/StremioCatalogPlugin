@@ -1,6 +1,60 @@
 {
   "metas": [
     {
+      "id": "tt41605854",
+      "type": "movie",
+      "name": "The Odyssey",
+      "poster": "https://phimimg.com/uploads/movies/20260829/the-odyssey-poster.webp",
+      "description": "Dựa trên thiên sử thi Hy Lạp cổ đại. Sau mười năm chiến tranh, Vua Odysseus ra khơi trở về quê nhà Ithaca, khát khao được đoàn tụ với người vợ yêu thương. Nhưng hành trình trở về của ông còn gian nan hơn cả chiến trường, khi ông phải đối mặt với những quái vật chết người cùng sự phẫn nộ của các vị thần để giành lấy sự sống.",
+      "releaseInfo": "2026",
+      "imdbRating": "1.8"
+    },
+    {
+      "id": "tt43749709",
+      "type": "movie",
+      "name": "Grand Theft Auto VI: Cái Nhìn Sâu Hơn",
+      "poster": "https://phimimg.com/uploads/movies/20260829/grand-theft-auto-vi-cai-nhin-sau-hon-poster.webp",
+      "description": "Video tập trung khai thác mối quan hệ kiểu \"Bonnie và Clyde\" giữa Lucia và Jason. Người chơi có thể chuyển đổi mượt mà giữa hai nhân vật này khi thực hiện nhiệm vụ hoặc khám phá thế giới mở, kết hợp chiến đấu đồng đội ăn ý hơn so với các phần trước.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt2404435",
+      "type": "movie",
+      "name": "Bảy Tay Súng Huyền Thoại",
+      "poster": "https://phimimg.com/uploads/movies/20260828/bay-tay-sung-huyen-thoai-poster.webp",
+      "description": "Bartholomew Bogue, một ông trùm tư bản độc ác, ép buộc người dân thị trấn phải bán rẻ đất đai để hắn mở rộng quy mô mỏ khai thác vàng gần đó, dẫn đến những món nợ máu. Emma Cullen, một góa phụ có chồng bị Bogue sát hại, đã thay mặt người dân thị trấn đi tìm những người có khả năng bảo vệ họ khỏi sự đàn áp, khủng bố của Bogue cùng tay chân. Sau khi thuyết phục được Sam Chisolm, cô cùng gã thợ săn tiền thưởng chính quy thuyết phục thêm sáu tay súng khác. Họ cùng nhau hợp lực bảo vệ sự tồn vong của Rose Creek khi Bogue chuẩn bị quay lại.",
+      "releaseInfo": "2016",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt22084616",
+      "type": "movie",
+      "name": "Người Nhện: Khởi Đầu Mới",
+      "poster": "https://phimimg.com/uploads/movies/20260827/nguoi-nhen-khoi-dau-moi-poster.webp",
+      "description": "Không còn Tony Stark, MJ hay Ned kề cận, Peter buộc phải đơn thân độc mã đối diện với phe đối đầu bí ẩn. Tuy nhiên, khi áp lực ngày càng gia tăng, nó kích hoạt một sự biến đổi thể chất bất ngờ, đe dọa chính sự tồn tại của anh. Đồng thời, một chuỗi tội phạm bí ẩn mới xuất hiện, kéo theo một trong những mối đe dọa mạnh mẽ nhất mà Spider-Man từng đối mặt.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt37603783",
+      "type": "movie",
+      "name": "Trời Cao Biển Sâu",
+      "poster": "https://phimimg.com/uploads/movies/20260827/troi-cao-bien-sau-poster.webp",
+      "description": "Cơn ác mộng thực sự bắt đầu khi nhóm bạn trẻ bị kẹt lại trong tình thế tiến thoái lưỡng nan: bên trên mặt nước là những tên tội phạm máu lạnh dưới sự chỉ huy trực tiếp của trùm sỏ Burns, còn bên dưới dòng nước sâu thẳm là chiếc lồng lặn bị bao vây bởi những con cá mập đói mồi. Tatiana buộc phải dũng cảm đứng lên, tìm mọi cách xoay sở mưu mẹo để cứu lấy bản thân và những người bạn của mình giữa ranh giới mong manh của sự sống và cái chết.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.2"
+    },
+    {
+      "id": "tt2012616",
+      "type": "movie",
+      "name": "Thành Phố Động Cơ",
+      "poster": "https://phimimg.com/uploads/movies/20260826/thanh-pho-dong-co-poster.webp",
+      "description": "Vào những năm 1970 tại Detroit, John Miller đem lòng yêu người phụ nữ của một kẻ găng-stơ địa phương và rồi bị tống vào tù vì một tội ác mà anh không hề phạm phải. Khi cuộc đời đã bị hủy hoại, Miller lập kế hoạch trả thù kẻ đã cướp đi người phụ nữ anh yêu.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.1"
+    },
+    {
       "id": "tt27676959",
       "type": "movie",
       "name": "Lazareth: Thế Giới Cô Lập",
@@ -841,60 +895,6 @@
       "description": "Nếu một ngày bạn nhận ra rằng chúng ta chưa bao giờ đơn độc, nếu có ai đó đứng trước mặt bạn và chứng minh điều đó là sự thật, liệu việc đó khiến bạn sợ hãi? Mùa Hè 2026, sự thật nằm trong tay của bảy tỷ con người. Chúng ta đang tiến rất gần đến… Thời Khắc Công Bố.",
       "releaseInfo": "2026",
       "imdbRating": "6.4"
-    },
-    {
-      "id": "tt30825738",
-      "type": "movie",
-      "name": "Star Wars: Mandalorian và Grogu",
-      "poster": "https://phimimg.com/upload/vod/20260625-1/e43e9e9207618823fa3ca762e8fc274e.jpg",
-      "description": "Đế Chế tàn bạo đã sụp đổ, nhưng những lãnh chúa chiến tranh của phe Đế Chế vẫn còn rải rác khắp thiên hà. Khi Nền Cộng hòa Mới nỗ lực bảo vệ những gì Quân Nổi Loạn đã chiến đấu để giành lấy, họ đã nhờ đến sự trợ giúp của thợ săn tiền thưởng Mandalorian - huyền thoại Din Djarin và cậu bé học việc Grogu.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt7074886",
-      "type": "movie",
-      "name": "Ứng Viên Dẫn Đầu",
-      "poster": "https://phimimg.com/uploads/movies/20260721/ung-vien-dan-dau-poster.webp",
-      "description": "Gary Hart, cựu Thượng nghị sĩ tiểu bang Colorado, trở thành ứng viên hàng đầu cho đề cử tổng thống của Đảng Dân chủ vào năm 1987. Trí tuệ, sự cuốn hút và lý tưởng của Hart giúp ông rất được lòng các cử tri trẻ tuổi, mở ra cho ông một con đường dường như rộng mở tiến vào Nhà Trắng. Tất cả sụp đổ khi những cáo buộc về ngoại tình xuất hiện trên truyền thông, buộc vị ứng cử viên phải đối mặt với một bê bối đe dọa chôn vùi cả chiến dịch tranh cử lẫn cuộc sống cá nhân của mình.",
-      "releaseInfo": "2018",
-      "imdbRating": "6.1"
-    },
-    {
-      "id": "tt0091763",
-      "type": "movie",
-      "name": "Trung Đội",
-      "poster": "https://phimimg.com/uploads/movies/20260721/trung-doi-poster.webp",
-      "description": "Trung Đội mang lại cái nhìn rõ ràng hơn về cuộc chiến tranh phi nghĩa của đế quốc Mỹ tại Việt Nam. Phim khắc họa sâu sắc sự khủng hoảng cùng cực, bệ rạc của những tên lính xâm lược.Tân binh Chris Taylor (Charlie Sheen) là lính tình nguyện được điều động sang Việt Nam năm 1967, anh được bổ sung vào trung đội Bravo 6 thuộc Sư đoàn Bộ binh 25 Mỹ, vốn đã bị tiêu hao nặng sau những trận càn liên miên ở biên giới Việt Nam - Campuchia. Bravo 6 dưới quyền chỉ huy của trung úy Wolfe trẻ tuổi và chưa có kinh nghiệm trận mạc. Những cựu binh của trung đội là trung sĩ Barnes (Tom Berenger) và trung sĩ Elias (Willem Dafoe) luôn đối chọi nhau và lấn lướt quyền của trung đội trưởng.Trong một cuộc hành quân càn quét, Bravo 6 đã tràn vào ngôi làng tình nghi có ...",
-      "releaseInfo": "1986",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt0349710",
-      "type": "movie",
-      "name": "Nấc Thang Lửa / Đội Cứu Hỏa 49",
-      "poster": "https://phimimg.com/uploads/movies/20260721/nac-thang-lua-doi-cuu-hoa-49-poster.webp",
-      "description": "Ladder 49 tập trung vào cuộc sống của lính cứu hỏa Jack Morrison (Joaquin Phoenix) khi nó bị treo trong thế cân bằng. Trong sự nhiệt tình của mình để giúp giải cứu một công dân bị mắc kẹt, Jack bị ném vào một phần sâu của một nhà kho giờ đã biến thành một vạc lửa cháy, khói đen không thể xuyên thủng và các mảnh vỡ sụp đổ. Bị cô lập khỏi mọi sự giúp đỡ, Jack đấu tranh để sinh tồn, trong khi bên ngoài người cố vấn và Trưởng phòng cứu hỏa, Mike Kennedy (John Travolta), đấu tranh để đưa người bạn thân nhất của mình ra ngoài sống. Khi hai người đàn ông thực hiện một động thái tuyệt vọng cuối cùng, Jack xem xét lại cuộc sống của mình từ đầu đến giây phút cuối cùng khủng khiếp này.",
-      "releaseInfo": "2004",
-      "imdbRating": "6.5"
-    },
-    {
-      "id": "tt13863968",
-      "type": "movie",
-      "name": "Trí Tuệ Từ Chấn Thương (Sự Khôn Ngoan Từ Tổn Thương)",
-      "poster": "https://phimimg.com/uploads/movies/20260720/tri-tue-tu-chan-thuong-poster.webp",
-      "description": "Cứ năm người Mỹ thì có một người được chẩn đoán mắc bệnh tâm thần mỗi năm. Tự tử là nguyên nhân gây tử vong phổ biến thứ hai tại Mỹ đối với thanh thiếu niên từ 15 đến 24 tuổi, và cướp đi sinh mạng của hơn 800.000 người trên toàn cầu mỗi năm. Quá liều chất gây nghiện khiến 81.000 người tử vong ở Mỹ hàng năm. Cuộc đại dịch rối loạn tự miễn đang ảnh hưởng đến 24 triệu người chỉ riêng tại Mỹ. Điều gì đang thực sự xảy ra? Theo Tiến sĩ Gabor Maté, những dịch bệnh có mối liên hệ chặt chẽ với nhau như lo âu, bệnh mãn tính và lạm dụng chất gây nghiện là điều bình thường — nhưng không phải theo cách bạn vẫn nghĩ.",
-      "releaseInfo": "2021",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt1790864",
-      "type": "movie",
-      "name": "Giải Mã Mê Cung",
-      "poster": "https://phimimg.com/uploads/movies/20260720/giai-ma-me-cung-poster.webp",
-      "description": "The Maze Runner là bộ phim được chuyển thể từ bộ truyện cùng tên có nội dung giả tưởng về nhóm bạn trẻ bị giam giữ trong 'Trảng' với một trí nhớ không rõ ràng, và cuộc vật lộn tìm lối thoát. Làm thế nào họ sống sót được giữa một mê cung khổng lồ đầy những sinh vật nguy hiểm và thay đổi lời giải hằng đêm? Ai sẽ là người sống sót cuối cùng sau những bí mật chết người kia?",
-      "releaseInfo": "2014",
-      "imdbRating": "6.8"
     }
   ]
 }
