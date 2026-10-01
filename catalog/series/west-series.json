@@ -1,6 +1,42 @@
 {
   "metas": [
     {
+      "id": "tt14186672",
+      "type": "series",
+      "name": "Ông Trùm Dầu Mỏ / Người Xăng Dầu (Phần 1)",
+      "poster": "https://phimimg.com/upload/vod/20251121-1/02c08944cb538f1c01b2ab6bafb49cdb.jpg",
+      "description": "Lấy bối cảnh tại những thị trấn bùng nổ của Tây Texas, bộ phim kể về cuộc săn tìm vận may trong thế giới giàn khoan dầu thời hiện đại. Đây là câu chuyện đối lập giữa tầng lớp lao động khắc khổ và các tỷ phú táo bạo, những người đang thổi bùng cơn sốt dầu mỏ khổng lồ – một làn sóng đủ mạnh để định hình lại khí hậu, nền kinh tế và cục diện chính trị toàn cầu.",
+      "releaseInfo": "2024",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt26591147",
+      "type": "series",
+      "name": "Matlock (Phần 1)",
+      "poster": "https://phimimg.com/uploads/movies/20261001/matlock-phan-1-poster.webp",
+      "description": "Bị thôi thúc bởi nỗi bất công cá nhân, luật sư đã về hưu Madeline Matlock quay trở lại nghề, dựa vào vẻ ngoài hiền lành cùng tư duy pháp lý sắc bén để xử lý các vụ án.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt5875444",
+      "type": "series",
+      "name": "Những Điệp Viên Hết Thời (Phần 6)",
+      "poster": "https://phimimg.com/uploads/movies/20260925/nhung-diep-vien-het-thoi-phan-6-poster.webp",
+      "description": "Bộ phim điệp viên hài hước theo chân hành trình của một nhóm đặc vụ MI5 vô tích sự và ông sếp đáng ghét của họ - Jackson Lamb khét tiếng - trong thế giới tình báo đầy lừa lọc nhằm bảo vệ nước Anh trước những thế lực xấu xa.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt10986410",
+      "type": "series",
+      "name": "Huấn Luyện Viên Ted Lasso (Phần 4)",
+      "poster": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-poster.webp",
+      "description": "Ted Lasso là một huấn luyện viên bóng bầu dục đang dẫn dắt một đội bóng đá của Anh. Lỗ hổng kiến thức của anh được bù đắp bằng sự lạc quan... và bánh quy.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.7"
+    },
+    {
       "id": "tt26545992",
       "type": "series",
       "name": "Lực lượng Lanterns (Phần 1)",
@@ -46,15 +82,6 @@
       "imdbRating": "8.3"
     },
     {
-      "id": "tt5875444",
-      "type": "series",
-      "name": "Những Điệp Viên Hết Thời (Phần 6)",
-      "poster": "https://phimimg.com/uploads/movies/20260925/nhung-diep-vien-het-thoi-phan-6-poster.webp",
-      "description": "Bộ phim điệp viên hài hước theo chân hành trình của một nhóm đặc vụ MI5 vô tích sự và ông sếp đáng ghét của họ - Jackson Lamb khét tiếng - trong thế giới tình báo đầy lừa lọc nhằm bảo vệ nước Anh trước những thế lực xấu xa.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.3"
-    },
-    {
       "id": "tt33081352",
       "type": "series",
       "name": "Một thế giới khác biệt (Phần 1)",
@@ -96,15 +123,6 @@
       "poster": "https://phimimg.com/uploads/movies/20260920/truy-tim-cong-ly-poster.webp",
       "description": "Frances Neagley là một điều tra viên tư nhân tại Chicago và là cựu đồng nghiệp quân ngũ của Jack Reacher trong Đơn vị Điều tra Đặc biệt 110 của Lục quân. Khi nhận được tin một người bạn thân thiết, yêu quý từ quá khứ của mình bị sát hại trong một vụ tai nạn đầy nghi vấn, cô quyết tâm bằng mọi giá phải đòi lại công lý.",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "tt10986410",
-      "type": "series",
-      "name": "Huấn Luyện Viên Ted Lasso (Phần 4)",
-      "poster": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-poster.webp",
-      "description": "Ted Lasso là một huấn luyện viên bóng bầu dục đang dẫn dắt một đội bóng đá của Anh. Lỗ hổng kiến thức của anh được bù đắp bằng sự lạc quan... và bánh quy.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.7"
     },
     {
       "id": "tt1837642",
@@ -875,24 +893,6 @@
       "description": "Bộ phim là góc nhìn cận cảnh về một thị trấn vùng New England có vẻ ngoài yên bình nhưng bên trong lại đầy rẫy những mối quan hệ bất chính, tội ác và bi kịch. Tất cả được kể qua lăng kính của Olive, một người phụ nữ sở hữu trí tuệ sắc sảo nhưng cay nghiệt, cùng vẻ ngoài khắc nghiệt che giấu một trái tim ấm áp đầy tổn thương và một nguyên tắc đạo đức kiên định. Câu chuyện trải dài suốt 25 năm, xoay quanh mối quan hệ giữa Olive với chồng cô, Henry, một dược sĩ tốt bụng, hiền lành của thị trấn; người con trai Christopher luôn oán hận cách nuôi dạy con của mẹ; cùng các thành viên khác trong cộng đồng.",
       "releaseInfo": "2014",
       "imdbRating": "8.3"
-    },
-    {
-      "id": "tt9018736",
-      "type": "series",
-      "name": "Thế Thần: Ngự Khí Sư Cuối Cùng (Phần 2)",
-      "poster": "https://phimimg.com/upload/vod/20260625-1/3fc3c3144a3cf7dbc9cab49f185f1843.jpg",
-      "description": "Cậu bé nổi tiếng với danh xưng Thế thần phải thuần thục bốn sức mạnh nguyên tố để cứu thế giới đang chiến tranh... và chiến đấu với kẻ thù tàn nhẫn muốn ngăn cản mình.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt42605728",
-      "type": "series",
-      "name": "Thử Nghiệm Hoa Kỳ",
-      "poster": "https://phimimg.com/upload/vod/20260625-1/e71191d70c79e8ccbe4dbc5596ab99f1.jpg",
-      "description": "Sự sống. Quyền tự do. Và mưu cầu hạnh phúc. Loạt phim tài liệu lịch sử hoành tráng này sẽ tái hiện lại hành trình những lý tưởng của các nhà lập quốc Hoa Kỳ đã khơi nguồn và khai sinh ra một quốc gia như thế nào.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.1"
     }
   ]
 }

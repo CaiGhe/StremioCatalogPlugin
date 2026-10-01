@@ -1,6 +1,23 @@
 {
   "metas": [
     {
+      "id": "tt11561116",
+      "type": "movie",
+      "name": "Người Thì Thầm",
+      "poster": "https://phimimg.com/uploads/movies/20260829/nguoi-thi-tham-poster.webp",
+      "description": "Khi con trai nhỏ mất tích, một người đàn ông góa vợ phải nhờ đến người cha xa cách từ lâu – cựu thanh tra từng bắt giữ tên sát nhân hàng loạt, kẻ giờ đây có liên quan đến vụ án.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt33764258",
+      "type": "movie",
+      "name": "Sử Thi Odyssey",
+      "poster": "https://phimimg.com/uploads/movies/20260829/su-thi-odyssey-poster.webp",
+      "description": "Câu chuyện theo chân Odysseus trong hành trình kéo dài 10 năm trở về nhà sau cuộc chiến thành Troy, nơi ông phải đối mặt với các vị thần, quái vật và vô vàn thử thách, đồng thời nỗ lực đoàn tụ với vợ và giành lại vương quốc của mình.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.4"
+    },
+    {
       "id": "tt41605854",
       "type": "movie",
       "name": "The Odyssey",
@@ -877,24 +894,6 @@
       "description": "Vật lộn với quá khứ sau một đời đầy tội lỗi và đổ máu, Robin Hood bị trọng thương sau trận chiến mà anh tưởng là cuối cùng. Rơi vào tay một người phụ nữ bí ẩn, anh được trao cho một cơ hội chuộc lỗi và tìm kiếm sự cứu rỗi.",
       "releaseInfo": "2026",
       "imdbRating": "6.0"
-    },
-    {
-      "id": "tt6019206",
-      "type": "movie",
-      "name": "Cô Dâu Báo Thù: Trọn Bộ Đẫm Máu",
-      "poster": "https://phimimg.com/uploads/movies/20260722/co-dau-bao-thu-tron-bo-dam-mau-2004-poster.webp",
-      "description": "Tác phẩm hoàn chỉnh của Quentin Tarantino, kết hợp Kill Bill: Vol. 1 và Vol. 2, theo chân The Bride — một sát thủ đã rời bỏ giới giang hồ — tỉnh dậy sau bốn năm hôn mê vì bị chính người thầy và người tình của mình, Bill, bắn hạ. Cô bắt đầu hành trình báo thù tàn khốc, quyết tâm tiêu diệt Bill và nhóm sát thủ Deadly Viper Assassination Squad đã phản bội cô.",
-      "releaseInfo": "2004",
-      "imdbRating": "8.8"
-    },
-    {
-      "id": "tt15047880",
-      "type": "movie",
-      "name": "Thời Khắc Công Bố",
-      "poster": "https://phimimg.com/uploads/movies/20260722/thoi-khac-cong-bo-poster.webp",
-      "description": "Nếu một ngày bạn nhận ra rằng chúng ta chưa bao giờ đơn độc, nếu có ai đó đứng trước mặt bạn và chứng minh điều đó là sự thật, liệu việc đó khiến bạn sợ hãi? Mùa Hè 2026, sự thật nằm trong tay của bảy tỷ con người. Chúng ta đang tiến rất gần đến… Thời Khắc Công Bố.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.4"
     }
   ]
 }

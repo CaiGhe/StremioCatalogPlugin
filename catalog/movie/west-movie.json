@@ -1,6 +1,23 @@
 {
   "metas": [
     {
+      "id": "tt0102926",
+      "type": "movie",
+      "name": "Sự Im Lặng Của Bầy Cừu",
+      "poster": "https://phimimg.com/uploads/movies/20261001/su-im-lang-cua-bay-cuu-poster.webp",
+      "description": "Một cô gái trẻ mất tích và vụ án này có liên quan đến một kẻ giết người hàng loạt, để thỏa mãn cho những ý nghĩ bệnh hoạn của gã. Người duy nhất có thể làm vụ án sáng tỏ là tên tù nhân tâm thần, chuyên ăn thịt người Hannibal Lecter ( Anthony Hopkins ). Cô nhân viên trẻ Clarice được giao nhiệm vụ khai thác thông tin ở Hannibal. Từ đó, cô dần khám phá ra bí mật của những tiếng kêu kì lạ từ đàn cừu mà mình hằng ám ảnh…Một bộ phim đầy tính nhân bản được thể hiện qua những đoạn đốI thoại của Clarice và Hannibal và ở cái kết khiến người xem phải suy nghĩ rất nhiều…Bộ phim đã đoạt cùng lúc 5 giải Oscar quan trọng: giải phim hay nhất, đạo diễn, biên kịch, nam nữ diễn viên chính xuất sắc nhất. Đây là một thành tích ...",
+      "releaseInfo": "1991",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt44568097",
+      "type": "movie",
+      "name": "Quan Phu: Đến Khi Cái Chết Chia Lìa",
+      "poster": "https://phimimg.com/uploads/movies/20261001/quan-phu-den-khi-cai-chet-chia-lia-poster.webp",
+      "description": "Trong phim tài liệu này, một nhà báo và một thanh tra phanh phui sự thật về một kẻ sát nhân có sức hút che giấu cả một chuỗi hôn nhân đổ vỡ và những cái chết đáng ngờ.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt0092906",
       "type": "movie",
       "name": "Ma Búp Bê",
@@ -167,7 +184,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260922/chat-poster.webp",
       "description": "Khởi đầu mới của một gia đình tại ngôi nhà mới bỗng chốc sụp đổ khi đứa con trai của họ phát hiện ra một chiếc máy tính bảng tích hợp công nghệ trí tuệ nhân tạo (AI). Chiếc máy đã giải phóng một làn sóng kinh hoàng không chỉ liên quan đến các thế lực siêu nhiên mà còn dính líu đến những bí mật đen tối về lòng tham và sự tham nhũng đang bủa vằn quanh họ.",
       "releaseInfo": "2026",
-      "imdbRating": "4.8"
+      "imdbRating": "4.7"
     },
     {
       "id": "tt0080040",
@@ -658,7 +675,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260907/nhung-loi-tran-troi-noi-tieng-gloria-steinem-poster.webp",
       "description": "Trước khi qua đời, nhà hoạt động Gloria Steinem gửi gắm thông điệp chân thành cuối cùng đến thế giới, biết rằng buổi phỏng vấn này chỉ lên sóng sau khi bà đã ra đi.",
       "releaseInfo": "2026",
-      "imdbRating": "8.2"
+      "imdbRating": "8.1"
     },
     {
       "id": "tt28014327",
@@ -875,23 +892,6 @@
       "description": "Seymour Krelborn là một anh chàng mồ côi ngô nghê làm việc tại tiệm hoa Mushnik ở khu phố ổ chuột Skid Row. Cậu thầm thương cô đồng nghiệp Audrey Fulquard, trong khi hàng ngày vẫn bị ông chủ Mushnik la mắng. Một ngày nọ, Seymour tìm thấy một cây trồng bí ẩn chưa xác định và đặt tên cho nó là Audrey II. Cái cây này dường như có niềm khao khát máu người và sớm cất tiếng hát đòi ăn tối.",
       "releaseInfo": "1986",
       "imdbRating": "7.1"
-    },
-    {
-      "id": "tt11561116",
-      "type": "movie",
-      "name": "Người Thì Thầm",
-      "poster": "https://phimimg.com/uploads/movies/20260829/nguoi-thi-tham-poster.webp",
-      "description": "Khi con trai nhỏ mất tích, một người đàn ông góa vợ phải nhờ đến người cha xa cách từ lâu – cựu thanh tra từng bắt giữ tên sát nhân hàng loạt, kẻ giờ đây có liên quan đến vụ án.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt33764258",
-      "type": "movie",
-      "name": "Sử Thi Odyssey",
-      "poster": "https://phimimg.com/uploads/movies/20260829/su-thi-odyssey-poster.webp",
-      "description": "Câu chuyện theo chân Odysseus trong hành trình kéo dài 10 năm trở về nhà sau cuộc chiến thành Troy, nơi ông phải đối mặt với các vị thần, quái vật và vô vàn thử thách, đồng thời nỗ lực đoàn tụ với vợ và giành lại vương quốc của mình.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.4"
     }
   ]
 }
