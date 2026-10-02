@@ -1,6 +1,15 @@
 {
   "metas": [
     {
+      "id": "tt0091419",
+      "type": "movie",
+      "name": "Cửa Hàng Kinh Dị Nhỏ",
+      "poster": "https://phimimg.com/uploads/movies/20260829/cua-hang-kinh-di-nho-poster.webp",
+      "description": "Seymour Krelborn là một anh chàng mồ côi ngô nghê làm việc tại tiệm hoa Mushnik ở khu phố ổ chuột Skid Row. Cậu thầm thương cô đồng nghiệp Audrey Fulquard, trong khi hàng ngày vẫn bị ông chủ Mushnik la mắng. Một ngày nọ, Seymour tìm thấy một cây trồng bí ẩn chưa xác định và đặt tên cho nó là Audrey II. Cái cây này dường như có niềm khao khát máu người và sớm cất tiếng hát đòi ăn tối.",
+      "releaseInfo": "1986",
+      "imdbRating": "7.1"
+    },
+    {
       "id": "tt11561116",
       "type": "movie",
       "name": "Người Thì Thầm",
@@ -885,15 +894,6 @@
       "description": "Câu Chuyện Tình Yêu – Restless kể về Enoch, chàng trai lập dị thích dự đám tang và trò chuyện cùng “người bạn ma” phi công cảm tử Hiroshi. Tại một tang lễ, anh gặp Annabel, cô gái yêu sinh học đang mắc bệnh nan y. Từ đó, cả hai bước vào mối tình dịu dàng mà ngắn ngủi, cùng nhau đối diện cái chết, nỗi sợ và ý nghĩa của sự sống, một câu chuyện lãng mạn tối giản, thấm đượm nhân hậu theo phong cách Gus Van Sant.",
       "releaseInfo": "2011",
       "imdbRating": "6.7"
-    },
-    {
-      "id": "tt32273171",
-      "type": "movie",
-      "name": "Cái Chết của Robin Hood",
-      "poster": "https://phimimg.com/uploads/movies/20260723/cai-chet-cua-robin-hood-poster.webp",
-      "description": "Vật lộn với quá khứ sau một đời đầy tội lỗi và đổ máu, Robin Hood bị trọng thương sau trận chiến mà anh tưởng là cuối cùng. Rơi vào tay một người phụ nữ bí ẩn, anh được trao cho một cơ hội chuộc lỗi và tìm kiếm sự cứu rỗi.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.0"
     }
   ]
 }
