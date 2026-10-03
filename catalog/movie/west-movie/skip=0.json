@@ -1,6 +1,42 @@
 {
   "metas": [
     {
+      "id": "tt8820258",
+      "type": "movie",
+      "name": "Đồn Cảnh Sát Nhí Nhố 3",
+      "poster": "https://phimimg.com/uploads/movies/20261002/don-canh-sat-nhi-nho-3-poster.webp",
+      "description": "Khi lễ đính hôn phong cách Ấn Độ đầy khoa trương và náo nhiệt của Farva với em gái của Thorny rơi vào cảnh hỗn loạn, biệt đội cảnh sát siêu quậy phải tìm cách xoay xở trước những mưu đồ phá hoại tình cảm của Thorny, đồng thời nỗ lực phá giải một đường dây buôn bán ma túy mới đầy hiểm hóc — tất cả nhằm giải cứu tình thế và bảo vệ cho chính đám cưới này.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.1"
+    },
+    {
+      "id": "tt0859635",
+      "type": "movie",
+      "name": "Đồn Cảnh Sát Nhí Nhố 2",
+      "poster": "https://phimimg.com/uploads/movies/20261002/don-canh-sat-nhi-nho-2-poster.webp",
+      "description": "Khi một cuộc tranh chấp biên giới quốc tế nảy sinh giữa Mỹ và Canada, nhóm cảnh sát tuần tra siêu quậy — Mac, Thorny, Foster, Rabbit và Farva — được triệu tập để thành lập một trạm Tuần tra Đường cao tốc mới tại khu vực đang tranh chấp.",
+      "releaseInfo": "2018",
+      "imdbRating": "6.0"
+    },
+    {
+      "id": "tt0247745",
+      "type": "movie",
+      "name": "Đồn Cảnh Sát Nhí Nhố",
+      "poster": "https://phimimg.com/uploads/movies/20261002/don-canh-sat-nhi-nho-poster.webp",
+      "description": "Năm cảnh sát tuần tra bang Vermont nhàn rỗi, thỉnh thoảng phê thuốc và luôn làm việc kém hiệu quả phải chứng minh giá trị của mình với Thống đốc nếu không muốn bị sa thải. Sau khi vô tình vấp phải một đường dây buôn bán ma túy, họ lên kế hoạch triệt phá tổ chức này, nhưng lực lượng cảnh sát địa phương đối thủ lại tìm mọi cách để tranh công.",
+      "releaseInfo": "2001",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt1756855",
+      "type": "movie",
+      "name": "Coyote Đấu Với Acme",
+      "poster": "https://phimimg.com/uploads/movies/20261002/coyote-dau-voi-acme-poster.webp",
+      "description": "Sau quá nhiều lần thất bại vì những món hàng lỗi của công ty Acme trong cuộc săn đuổi không ngừng nghỉ chú chim Roadrunner, Wile E. Coyote quyết định thuê một luật sư… từ biển quảng cáo, để kiện tập đoàn Acme ra tòa.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6"
+    },
+    {
       "id": "tt36983905",
       "type": "movie",
       "name": "Tro Tàn Vùng Lên",
@@ -192,7 +228,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260922/chat-poster.webp",
       "description": "Khởi đầu mới của một gia đình tại ngôi nhà mới bỗng chốc sụp đổ khi đứa con trai của họ phát hiện ra một chiếc máy tính bảng tích hợp công nghệ trí tuệ nhân tạo (AI). Chiếc máy đã giải phóng một làn sóng kinh hoàng không chỉ liên quan đến các thế lực siêu nhiên mà còn dính líu đến những bí mật đen tối về lòng tham và sự tham nhũng đang bủa vằn quanh họ.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3"
+      "imdbRating": "6.5"
     },
     {
       "id": "tt0080040",
@@ -855,42 +891,6 @@
       "description": "The Shining của đạo diễn Stanley Kubrick dẫn đầu danh sách mười bộ phim ma rùng rợn nhất mọi thời đại. Jack Torrance tìm việc trông coi khách sạn Overlook, trên dãy núi Colorado và cả gia đình ông đã chuyển tới sống ở đây. Do nơi này bị đóng cửa trong suốt mùa đông, vì thế chỉ có gia đình của Jack Torrance sống ở đây trong một thời gian dài. Sau đó, một cơn bão tuyết ập xuống và khiến gia đình ông bị kẹt lại bên trong khách sạn. Danny - con trai của Torrance, một cậu bé có khả năng thần giao cách cảm và có thể nhìn thấy những việc trong quá khứ cũng như trong tương lai. Cậu bé phát hiện ra rằng rằng khách sạn này đang bị ma ám và hồn ma đó đang dần biến cha của cậu thành một kẻ hung ác...",
       "releaseInfo": "1980",
       "imdbRating": "8.4"
-    },
-    {
-      "id": "tt0057413",
-      "type": "movie",
-      "name": "Điệp Vụ Báo Hồng",
-      "poster": "https://phimimg.com/uploads/movies/20260822/diep-vu-bao-hong-1963-poster.webp",
-      "description": "Nhãn hiệu của The Phantom, một tên trộm trang sức nổi tiếng, là một chiếc găng tay bị bỏ lại tại hiện trường vụ án. Thanh tra Clouseau, một chuyên gia về các kỳ tích của Bóng ma, cảm thấy chắc chắn rằng anh ta biết Bóng ma sẽ tấn công tiếp theo ở đâu và rời Paris đến Tyrolean Alps, nơi sẽ có viên ngọc quý nổi tiếng của Lugashi 'The Pink Panther'. Tuy nhiên, anh ta không biết Bóng ma thực sự là ai, hay bất kỳ ai khác thực sự là ai ...",
-      "releaseInfo": "1963",
-      "imdbRating": "7.0"
-    },
-    {
-      "id": "tt15978956",
-      "type": "movie",
-      "name": "Vợ Nhân Tạo",
-      "poster": "https://phimimg.com/uploads/movies/20260830/vo-nhan-tao-poster.webp",
-      "description": "Khi một người nhân tạo được chỉ định làm bạn đồng hành với một người đàn ông góa vợ đau buồn, nó phải hành động giống như người vợ quá cố của anh ta. Một tổ chức ngầm đang cố gắng phá hoại chương trình của Meredith trong cuộc chiến chấm dứt hoạt động khai thác trí tuệ nhân tạo. Khi những ký ức về tiền kiếp bắt đầu quay trở lại trong một thế giới không có gì giống như người ta tưởng, nó sẽ sớm bắt đầu đặt câu hỏi về thực tại.",
-      "releaseInfo": "2022",
-      "imdbRating": "4.9"
-    },
-    {
-      "id": "tt0090305",
-      "type": "movie",
-      "name": "Khoa Học Kỳ Quái",
-      "poster": "https://phimimg.com/uploads/movies/20260829/khoa-hoc-ky-quai-poster.webp",
-      "description": "Hai cậu thiếu niên không mấy nổi tiếng, Gary và Wyatt, thất bại trong mọi nỗ lực để được bạn bè đồng lứa chấp nhận. Sự tuyệt vọng muốn được yêu thích đã dẫn họ đến việc \"tạo ra\" một người phụ nữ thông qua máy tính. Sản phẩm bằng xương bằng thịt của họ là Lisa — một người phụ nữ tuyệt đẹp, người mang sứ mệnh nâng cao sự tự tin cho Gary và Wyatt bằng cách đưa họ vào những tình huống buộc họ phải hành xử như những người đàn ông thực thụ.",
-      "releaseInfo": "1985",
-      "imdbRating": "6.6"
-    },
-    {
-      "id": "tt0091630",
-      "type": "movie",
-      "name": "Đêm Của Những Kẻ Rùng Rợn",
-      "poster": "https://phimimg.com/uploads/movies/20260829/dem-cua-nhung-ke-rung-ron-poster.webp",
-      "description": "Năm 1959, một thí nghiệm của người ngoài hành tinh rơi xuống Trái Đất và lây nhiễm vào một nam sinh thuộc hội sinh viên. Người ta đông lạnh cái xác của anh ta, nhưng đến thời hiện đại, hai anh chàng \"mọt sách\" trong lúc thực hiện thử thách gia nhập hội sinh viên đã vô tình làm tan băng cái xác. Thi thể này sau đó bắt đầu lây nhiễm cho toàn bộ khuôn viên trường đại học bằng những ký sinh trùng biến vật chủ thành những thây ma sát nhân.",
-      "releaseInfo": "1986",
-      "imdbRating": "6.7"
     }
   ]
 }
