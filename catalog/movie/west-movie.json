@@ -1,6 +1,23 @@
 {
   "metas": [
     {
+      "id": "tt1959563",
+      "type": "movie",
+      "name": "Vệ Sĩ Sát Thủ",
+      "poster": "https://phimimg.com/uploads/movies/20261004/ve-si-sat-thu-poster.webp",
+      "description": "Vệ Sĩ Sát Thủ: xoay quanh nhân vật do Ryan Reynold thủ vai. Anh chàng dị nhân Deadpool vào vai một chuyên gia bảo vệ, được đánh giá hạng AAA; còn Samuel Jackson thì hóa thân nhân vật sát thủ bị săn lùng nhất thế giới. Hai người, như hai kẻ không đội trời chung, nhưng lại bị ép phải “bảo vệ” nhau trong suốt 24 giờ. Thật trớ trêu khi một sát thủ “khét tiếng” mà cũng có lúc cần đến vệ sĩ riêng. Và trên hành trình đồng hành từ Anh đến Hague, họ sẽ phải đối mặt và “xử lý” rất nhiều tình huống nguy hiểm hay sự truy đuổi của nhiều nhóm khác nhau.",
+      "releaseInfo": "2017",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt36429458",
+      "type": "movie",
+      "name": "Sống Đời",
+      "poster": "https://phimimg.com/uploads/movies/20261004/song-doi-poster.webp",
+      "description": "Trong bộ phim chính kịch đô thị đầy kịch tính này, một cựu quản giáo trại giam và một người đàn ông từng ở tù tạo nên sợi dây liên kết kỳ lạ khiến cuộc đời cả hai thay đổi.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt8820258",
       "type": "movie",
       "name": "Đồn Cảnh Sát Nhí Nhố 3",
@@ -228,7 +245,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260922/chat-poster.webp",
       "description": "Khởi đầu mới của một gia đình tại ngôi nhà mới bỗng chốc sụp đổ khi đứa con trai của họ phát hiện ra một chiếc máy tính bảng tích hợp công nghệ trí tuệ nhân tạo (AI). Chiếc máy đã giải phóng một làn sóng kinh hoàng không chỉ liên quan đến các thế lực siêu nhiên mà còn dính líu đến những bí mật đen tối về lòng tham và sự tham nhũng đang bủa vằn quanh họ.",
       "releaseInfo": "2026",
-      "imdbRating": "6.5"
+      "imdbRating": "4.7"
     },
     {
       "id": "tt0080040",
@@ -873,24 +890,6 @@
       "description": "Từ những khoảnh khắc đầu tiên của vụ tấn công đến những ngày cuối cùng đầy ám ảnh ở Kabul hai thập kỷ sau, bộ phim tài liệu cuốn hút này tìm hiểu hệ quả của sự kiện 11/9.",
       "releaseInfo": "2026",
       "imdbRating": "6.3"
-    },
-    {
-      "id": "tt0060862",
-      "type": "movie",
-      "name": "Những Tay Chuyên Nghiệp",
-      "poster": "https://phimimg.com/uploads/movies/20260831/nhung-tay-chuyen-nghiep-poster.webp",
-      "description": "Hai cậu thiếu niên không mấy nổi tiếng, Gary và Wyatt, thất bại trong mọi nỗ lực để được bạn bè đồng lứa chấp nhận. Sự tuyệt vọng muốn được yêu thích đã dẫn họ đến việc \"tạo ra\" một người phụ nữ thông qua máy tính. Sản phẩm bằng xương bằng thịt của họ là Lisa — một người phụ nữ tuyệt đẹp, người mang sứ mệnh nâng cao sự tự tin cho Gary và Wyatt bằng cách đưa họ vào những tình huống buộc họ phải hành xử như những người đàn ông thực thụ.",
-      "releaseInfo": "1966",
-      "imdbRating": "7.3"
-    },
-    {
-      "id": "tt0081505",
-      "type": "movie",
-      "name": "Khách Sạn Ma Ám / Ngôi Nhà Ma",
-      "poster": "https://phimimg.com/uploads/movies/20260831/khach-san-ma-am-poster.webp",
-      "description": "The Shining của đạo diễn Stanley Kubrick dẫn đầu danh sách mười bộ phim ma rùng rợn nhất mọi thời đại. Jack Torrance tìm việc trông coi khách sạn Overlook, trên dãy núi Colorado và cả gia đình ông đã chuyển tới sống ở đây. Do nơi này bị đóng cửa trong suốt mùa đông, vì thế chỉ có gia đình của Jack Torrance sống ở đây trong một thời gian dài. Sau đó, một cơn bão tuyết ập xuống và khiến gia đình ông bị kẹt lại bên trong khách sạn. Danny - con trai của Torrance, một cậu bé có khả năng thần giao cách cảm và có thể nhìn thấy những việc trong quá khứ cũng như trong tương lai. Cậu bé phát hiện ra rằng rằng khách sạn này đang bị ma ám và hồn ma đó đang dần biến cha của cậu thành một kẻ hung ác...",
-      "releaseInfo": "1980",
-      "imdbRating": "8.4"
     }
   ]
 }

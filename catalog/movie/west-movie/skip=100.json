@@ -1,6 +1,24 @@
 {
   "metas": [
     {
+      "id": "tt0060862",
+      "type": "movie",
+      "name": "Những Tay Chuyên Nghiệp",
+      "poster": "https://phimimg.com/uploads/movies/20260831/nhung-tay-chuyen-nghiep-poster.webp",
+      "description": "Hai cậu thiếu niên không mấy nổi tiếng, Gary và Wyatt, thất bại trong mọi nỗ lực để được bạn bè đồng lứa chấp nhận. Sự tuyệt vọng muốn được yêu thích đã dẫn họ đến việc \"tạo ra\" một người phụ nữ thông qua máy tính. Sản phẩm bằng xương bằng thịt của họ là Lisa — một người phụ nữ tuyệt đẹp, người mang sứ mệnh nâng cao sự tự tin cho Gary và Wyatt bằng cách đưa họ vào những tình huống buộc họ phải hành xử như những người đàn ông thực thụ.",
+      "releaseInfo": "1966",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt0081505",
+      "type": "movie",
+      "name": "Khách Sạn Ma Ám / Ngôi Nhà Ma",
+      "poster": "https://phimimg.com/uploads/movies/20260831/khach-san-ma-am-poster.webp",
+      "description": "The Shining của đạo diễn Stanley Kubrick dẫn đầu danh sách mười bộ phim ma rùng rợn nhất mọi thời đại. Jack Torrance tìm việc trông coi khách sạn Overlook, trên dãy núi Colorado và cả gia đình ông đã chuyển tới sống ở đây. Do nơi này bị đóng cửa trong suốt mùa đông, vì thế chỉ có gia đình của Jack Torrance sống ở đây trong một thời gian dài. Sau đó, một cơn bão tuyết ập xuống và khiến gia đình ông bị kẹt lại bên trong khách sạn. Danny - con trai của Torrance, một cậu bé có khả năng thần giao cách cảm và có thể nhìn thấy những việc trong quá khứ cũng như trong tương lai. Cậu bé phát hiện ra rằng rằng khách sạn này đang bị ma ám và hồn ma đó đang dần biến cha của cậu thành một kẻ hung ác...",
+      "releaseInfo": "1980",
+      "imdbRating": "8.4"
+    },
+    {
       "id": "tt0057413",
       "type": "movie",
       "name": "Điệp Vụ Báo Hồng",
@@ -876,24 +894,6 @@
       "description": "Sau khi tìm thấy cơ thể vật chủ trong tay phóng viên điều tra Eddie Brock, người ngoài hành tinh symbiote phải đối mặt với kẻ thù mới, Carnage, bản ngã thay thế của kẻ giết người hàng loạt Cletus Kasady.",
       "releaseInfo": "2021",
       "imdbRating": "5.9"
-    },
-    {
-      "id": "tt5518902",
-      "type": "movie",
-      "name": "Cám Dỗ Chết Người",
-      "poster": "https://phimimg.com/uploads/movies/20260725/cam-do-chet-nguoi-2016-poster.webp",
-      "description": "Mọi người tin rằng giám đốc quảng cáo Nina và luật sư Sebastian có cuộc sống hoàn hảo bên nhau. Nhưng đằng sau cánh cửa đóng kín, ngọn lửa đam mê mà họ từng chia sẻ đã tắt từ lâu, và cặp đôi đã cam chịu chỉ là hợp đồng hôn nhân.",
-      "releaseInfo": "2016",
-      "imdbRating": "4.6"
-    },
-    {
-      "id": "tt0078723",
-      "type": "movie",
-      "name": "1941",
-      "poster": "https://phimimg.com/uploads/movies/20260724/1941-poster.webp",
-      "description": "Vào những ngày ngay sau cuộc tấn công Trận Châu Cảng, sự hoảng loạn bao trùm khắp tiểu bang California, nơi một sĩ quan quân đội chỉ huy một đám đông hỗn loạn truy đuổi một chiếc tàu ngầm Nhật Bản.",
-      "releaseInfo": "1979",
-      "imdbRating": "5.8"
     }
   ]
 }
