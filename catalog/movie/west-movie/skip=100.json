@@ -1,6 +1,15 @@
 {
   "metas": [
     {
+      "id": "tt0100419",
+      "type": "movie",
+      "name": "Cậu Bé Rắc Rối",
+      "poster": "https://phimimg.com/uploads/movies/20260903/cau-be-rac-roi-poster.webp",
+      "description": "Ben Healy và người vợ thích đua đòi Flo nhận nuôi Junior — một cậu bé 7 tuổi tinh nghịch, hiếu động. Nhưng họ sớm nhận ra cậu bé là một \"quái vật nhí\" chính hiệu khi biến chuyến đi dã ngoại, một bữa tiệc sinh nhật và cả một trận bóng chày thành những cơn ác mộng dở khóc dở cười.",
+      "releaseInfo": "1990",
+      "imdbRating": "5.5"
+    },
+    {
       "id": "tt44322266",
       "type": "movie",
       "name": "Bước Ngoặt Thế Hệ: 11 Tháng 9",
@@ -105,7 +114,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260829/grand-theft-auto-vi-cai-nhin-sau-hon-poster.webp",
       "description": "Video tập trung khai thác mối quan hệ kiểu \"Bonnie và Clyde\" giữa Lucia và Jason. Người chơi có thể chuyển đổi mượt mà giữa hai nhân vật này khi thực hiện nhiệm vụ hoặc khám phá thế giới mở, kết hợp chiến đấu đồng đội ăn ý hơn so với các phần trước.",
       "releaseInfo": "2026",
-      "imdbRating": "8.3"
+      "imdbRating": "8.2"
     },
     {
       "id": "tt2404435",
@@ -885,15 +894,6 @@
       "description": "Thomas Johnson — một người đàn ông cuồng công việc — qua đời trong một tai nạn giao thông và tái sinh thành một chú chó. Nhớ lại một vài ký ức từ kiếp trước, chú quay trở về bên người vợ và con trai để bảo vệ họ khỏi người đàn ông mà chú cho rằng đã gây ra tai nạn của mình. Thế nhưng, theo thời gian, khi toàn bộ ký ức dần khôi phục, Thomas mới bàng hoàng nhận ra rằng bản thân trước đây chưa từng là một người chồng, người cha tốt.",
       "releaseInfo": "1995",
       "imdbRating": "6.6"
-    },
-    {
-      "id": "tt7097896",
-      "type": "movie",
-      "name": "Venom: Đối Mặt Tử Thù",
-      "poster": "https://phimimg.com/uploads/movies/20260726/venom-doi-mat-tu-thu-poster.webp",
-      "description": "Sau khi tìm thấy cơ thể vật chủ trong tay phóng viên điều tra Eddie Brock, người ngoài hành tinh symbiote phải đối mặt với kẻ thù mới, Carnage, bản ngã thay thế của kẻ giết người hàng loạt Cletus Kasady.",
-      "releaseInfo": "2021",
-      "imdbRating": "5.9"
     }
   ]
 }
