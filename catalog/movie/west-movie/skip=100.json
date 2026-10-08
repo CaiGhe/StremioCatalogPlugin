@@ -1,6 +1,60 @@
 {
   "metas": [
     {
+      "id": "tt3687398",
+      "type": "movie",
+      "name": "Kẻ Trốn Chạy",
+      "poster": "https://phimimg.com/uploads/movies/20260904/ke-tron-chay-poster.webp",
+      "description": "Sau thảm họa tràn dầu BP, một chính khách New Orleans đầy lý tưởng nhưng không hề hoàn hảo (Nicolas Cage thủ vai) nhận ra kế hoạch phục hồi vùng đất của mình dần sụp đổ khi chính cuộc sống cá nhân bị vấy bẩn bởi tham nhũng, bê bối tình ái và sự dối trá.",
+      "releaseInfo": "2015",
+      "imdbRating": "4.7"
+    },
+    {
+      "id": "tt0462329",
+      "type": "movie",
+      "name": "Cận Vệ Cừ Khôi",
+      "poster": "https://phimimg.com/uploads/movies/20260904/can-ve-cu-khoi-poster.webp",
+      "description": "Tamara thuê một cựu binh Đặc nhiệm bảo vệ người anh từ võ sĩ chuyển sang kinh doanh khỏi một ông trùm âm nhạc đang nung nấu màn trả thù đẫm máu.",
+      "releaseInfo": "2005",
+      "imdbRating": "5.2"
+    },
+    {
+      "id": "tt1150934",
+      "type": "movie",
+      "name": "Trăn Khổng Lồ 4",
+      "poster": "https://phimimg.com/uploads/movies/20260903/tran-khong-lo-4-poster.webp",
+      "description": "Một Anaconda di truyền tạo ra, giảm một nửa khả năng tái tạo chính nó vào hai con rắn khổng lồ hung hãn.",
+      "releaseInfo": "2009",
+      "imdbRating": "2.9"
+    },
+    {
+      "id": "tt0460829",
+      "type": "movie",
+      "name": "Đế Chế Nội Địa",
+      "poster": "https://phimimg.com/uploads/movies/20260903/de-che-noi-dia-poster.webp",
+      "description": "Khi nữ diễn viên Nikki Grace giành được vai chính trong một bộ phim bị dính lời nguyền, thế giới của cô ngày càng trở nên siêu thực, làm xóa mờ ranh giới giữa thực tại và hư cấu, đan xen những ý niệm về sự ngoại tình, đầu thai tái sinh và các thế lực siêu nhiên.",
+      "releaseInfo": "2006",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0114188",
+      "type": "movie",
+      "name": "Cậu Bé Rắc Rối 3",
+      "poster": "https://phimimg.com/uploads/movies/20260903/cau-be-rac-roi-3-poster.webp",
+      "description": "Giờ đây đã là một cậu thiếu niên thiếu niên (pre-teen), Junior đem lòng yêu say đắm một cô bạn cùng lớp. Tuy nhiên, cô bạn này lại chẳng hề chú ý đến cậu mà chỉ để mắt tới ba cậu con trai khác — một ngôi sao nhí, một vận động viên khúc côn cầu và một hướng đạo sinh — những kẻ nghiễm nhiên trở thành tình địch của Junior. Điều này đồng nghĩa với việc: Chiến tranh chính thức bắt đầu!",
+      "releaseInfo": "1995",
+      "imdbRating": "3.4"
+    },
+    {
+      "id": "tt0102719",
+      "type": "movie",
+      "name": "Cậu Bé Rắc Rối 2",
+      "poster": "https://phimimg.com/uploads/movies/20260903/cau-be-rac-roi-2-poster.webp",
+      "description": "Junior và người cha Ben chuyển từ Cold River đến thị trấn Mortville. Junior cảm thấy bị đe dọa trước mong muốn tìm kiếm đối tượng hẹn hò và tìm một người mẹ mới cho cậu của Ben, nên đã ra tay phá hỏng tất cả các buổi hẹn hò của cha mình.",
+      "releaseInfo": "1991",
+      "imdbRating": "4.9"
+    },
+    {
       "id": "tt0100419",
       "type": "movie",
       "name": "Cậu Bé Rắc Rối",
@@ -840,60 +894,6 @@
       "poster": "https://phimimg.com/uploads/movies/20260731/the-punisher-phat-sung-cuoi-cung-poster.webp",
       "description": "Frank Castle (The Punisher) cố gắng từ bỏ cuộc đời đẫm máu để tìm ý nghĩa mới sau nhiều năm chỉ biết báo thù. Tuy nhiên, sự trỗi dậy của một đế chế tội phạm mới cùng quá khứ không ngừng ám ảnh đã kéo anh trở lại con đường bạo lực.",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "tt0815245",
-      "type": "movie",
-      "name": "Khách Không Mời",
-      "poster": "https://phimimg.com/uploads/movies/20260731/khach-khong-moi-poster.webp",
-      "description": "Ám ảnh bởi ác mộng sau cái chết của mẹ, một thiếu nữ cùng em gái cố chứng minh rằng nữ y tá của mẹ – và là mẹ kế tương lai – là người không thể tin tưởng.",
-      "releaseInfo": "2009",
-      "imdbRating": "6.3"
-    },
-    {
-      "id": "tt1270797",
-      "type": "movie",
-      "name": "Venom",
-      "poster": "https://phimimg.com/uploads/movies/20260730/venom-poster.webp",
-      "description": "Quái Vật Venom là một kẻ thù nguy hiểm và nặng ký của Người nhện trong loạt series của Marvel. Chàng phóng viên Eddie Brock bí mật theo dõi âm mưu xấu xa của một tổ chức và đã không may mắn khi nhiễm phải loại cộng sinh trùng ngoài hành tinh (Symbiote) và từ đó đã không còn làm chủ bản thân về thể chất lẫn tinh thần. Điều này đã dần biến anh thành quái vật đen tối và nguy hiểm nhất chống lại người Nhện - Venom ...",
-      "releaseInfo": "2018",
-      "imdbRating": "6.6"
-    },
-    {
-      "id": "tt35892608",
-      "type": "movie",
-      "name": "Lời Thì Thầm Ma Quái / Vọng Âm Vô Hình",
-      "poster": "https://phimimg.com/uploads/movies/20260715/loi-thi-tham-ma-quai-poster.webp",
-      "description": "Người dẫn một podcast nổi tiếng về hiện tượng siêu nhiên bắt đầu bị ám ảnh bởi những bản ghi âm kinh hoàng được gửi đến cô một cách bí ẩn. Khi càng đào sâu vào nguồn gốc của các đoạn ghi ấy, ranh giới giữa công việc và nỗi sợ cá nhân dần sụp đổ.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.9"
-    },
-    {
-      "id": "tt43708434",
-      "type": "movie",
-      "name": "Instadocs: Trò Chơi Dự Đoán",
-      "poster": "https://phimimg.com/uploads/movies/20260728/instadocs-tro-choi-du-doan-poster.webp",
-      "description": "Thị trường dự đoán cho phép ai cũng có thể đặt cược bất cứ điều gì, từ World Cup đến cuộc xâm lược của người ngoài hành tinh. \"Instadocs\" điều tra sự bùng nổ của cá cược toàn cầu.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.3"
-    },
-    {
-      "id": "tt8814476",
-      "type": "movie",
-      "name": "Nữ Siêu Nhân",
-      "poster": "https://phimimg.com/uploads/movies/20260727/nu-sieu-nhan-2026-poster.webp",
-      "description": "Khi một kẻ thù tàn nhẫn và không ngờ tới ra tay quá gần với những gì cô trân quý, Kara Zor-El, còn được biết đến với cái tên Supergirl, miễn cưỡng hợp tác với một người đồng hành không ai ngờ tới, bước vào hành trình liên thiên hà đầy sử thi để tìm kiếm sự trả thù và công lý.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.8"
-    },
-    {
-      "id": "tt0113089",
-      "type": "movie",
-      "name": "Chú Chó Fluke",
-      "poster": "https://phimimg.com/uploads/movies/20260727/chu-cho-fluke-poster.webp",
-      "description": "Thomas Johnson — một người đàn ông cuồng công việc — qua đời trong một tai nạn giao thông và tái sinh thành một chú chó. Nhớ lại một vài ký ức từ kiếp trước, chú quay trở về bên người vợ và con trai để bảo vệ họ khỏi người đàn ông mà chú cho rằng đã gây ra tai nạn của mình. Thế nhưng, theo thời gian, khi toàn bộ ký ức dần khôi phục, Thomas mới bàng hoàng nhận ra rằng bản thân trước đây chưa từng là một người chồng, người cha tốt.",
-      "releaseInfo": "1995",
-      "imdbRating": "6.6"
     }
   ]
 }
