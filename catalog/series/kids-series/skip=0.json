@@ -37,15 +37,6 @@
       "imdbRating": "9.0"
     },
     {
-      "id": "tt2771780",
-      "type": "series",
-      "name": "Teen Titans Go!",
-      "poster": "https://image.tmdb.org/t/p/w500/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-      "description": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
-      "releaseInfo": "2013",
-      "imdbRating": "5.8"
-    },
-    {
       "id": "tt0118375",
       "type": "series",
       "name": "Ông Vua Đồi Gió",
@@ -64,13 +55,13 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt1871731",
+      "id": "tt2771780",
       "type": "series",
-      "name": "Ninjago: Masters of Spinjitzu",
-      "poster": "https://image.tmdb.org/t/p/w500/wz6ZqlyndVpdRayZi1gbYHWcqFi.jpg",
-      "description": "When the fate of their world, Ninjago, is challenged by great threats, it's up to the ninja: Kai, Jay, Cole, Zane, Lloyd and Nya to save the world.",
-      "releaseInfo": "2012",
-      "imdbRating": "7.9"
+      "name": "Teen Titans Go!",
+      "poster": "https://image.tmdb.org/t/p/w500/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+      "description": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
+      "releaseInfo": "2013",
+      "imdbRating": "5.8"
     },
     {
       "id": "tt1710308",
@@ -89,6 +80,15 @@
       "description": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-savvy 10-year-old boy, each of them is equipped with special equipment and together they help anyone who finds themselves in trouble. No task is too big for them and no puppy is too small.",
       "releaseInfo": "2013",
       "imdbRating": "6.1"
+    },
+    {
+      "id": "tt1871731",
+      "type": "series",
+      "name": "Ninjago: Masters of Spinjitzu",
+      "poster": "https://image.tmdb.org/t/p/w500/wz6ZqlyndVpdRayZi1gbYHWcqFi.jpg",
+      "description": "When the fate of their world, Ninjago, is challenged by great threats, it's up to the ninja: Kai, Jay, Cole, Zane, Lloyd and Nya to save the world.",
+      "releaseInfo": "2012",
+      "imdbRating": "7.9"
     },
     {
       "id": "tt1561755",
@@ -118,13 +118,12 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt0101188",
+      "id": "tt35854736",
       "type": "series",
-      "name": "Rugrats",
-      "poster": "https://image.tmdb.org/t/p/w500/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-      "description": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, usually involving common life experiences that become adventures in the babies' imaginations. Adults in the series are almost always unaware of what the children are up to; however, this only provides more room for the babies to explore and discover their surroundings.",
-      "releaseInfo": "1991",
-      "imdbRating": "7.4"
+      "name": "Avatar: Seven Havens",
+      "poster": "https://image.tmdb.org/t/p/w500/vYNar1VtdNyQXXUt16uPbIT6wzr.jpg",
+      "description": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
+      "releaseInfo": "2026"
     },
     {
       "id": "tt0426769",
@@ -136,6 +135,15 @@
       "imdbRating": "6.2"
     },
     {
+      "id": "tt0101188",
+      "type": "series",
+      "name": "Rugrats",
+      "poster": "https://image.tmdb.org/t/p/w500/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+      "description": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, usually involving common life experiences that become adventures in the babies' imaginations. Adults in the series are almost always unaware of what the children are up to; however, this only provides more room for the babies to explore and discover their surroundings.",
+      "releaseInfo": "1991",
+      "imdbRating": "7.4"
+    },
+    {
       "id": "tt0149460",
       "type": "series",
       "name": "Futurama",
@@ -143,6 +151,15 @@
       "description": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "releaseInfo": "1999",
       "imdbRating": "8.5"
+    },
+    {
+      "id": "tt4859164",
+      "type": "series",
+      "name": "Ngôi Nhà Náo Nhiệt",
+      "poster": "https://image.tmdb.org/t/p/w500/v0xMCeZIkgBUQtiije0IDc8ReHr.jpg",
+      "description": "Trong hành trình âm nhạc toàn cầu này, Lincoln Loud cùng bố mẹ và toàn bộ 10 chị em gái đến Scotland và biết được rằng gia đình mình có dòng máu hoàng gia!",
+      "releaseInfo": "2016",
+      "imdbRating": "6.9"
     },
     {
       "id": "tt4558858",
@@ -172,6 +189,15 @@
       "imdbRating": "8.5"
     },
     {
+      "id": "tt0437745",
+      "type": "series",
+      "name": "Robot Chicken",
+      "poster": "https://image.tmdb.org/t/p/w500/x5O2W1JulF0TM16HEITgVNML3KS.jpg",
+      "description": "A series of pop-culture parodies using stop-motion animation of toys, action figures and dolls. The title character was an ordinary chicken until he was run down by a car and subsequently brought back to life in cyborg form by mad scientist Fritz Huhnmorder, who tortures Robot Chicken by forcing him to watch a random selection of TV shows, the sketches that make up the body of each episode.",
+      "releaseInfo": "2005",
+      "imdbRating": "7.7"
+    },
+    {
       "id": "tt1751105",
       "type": "series",
       "name": "My Little Pony: Friendship Is Magic",
@@ -179,15 +205,6 @@
       "description": "Journey to the enchanted land of Equestria, where unicorn Twilight Sparkle and her pals have adventures and learn valuable lessons about friendship.",
       "releaseInfo": "2010",
       "imdbRating": "7.8"
-    },
-    {
-      "id": "tt4859164",
-      "type": "series",
-      "name": "Ngôi Nhà Náo Nhiệt",
-      "poster": "https://image.tmdb.org/t/p/w500/v0xMCeZIkgBUQtiije0IDc8ReHr.jpg",
-      "description": "Trong hành trình âm nhạc toàn cầu này, Lincoln Loud cùng bố mẹ và toàn bộ 10 chị em gái đến Scotland và biết được rằng gia đình mình có dòng máu hoàng gia!",
-      "releaseInfo": "2016",
-      "imdbRating": "6.9"
     },
     {
       "id": "tt0115157",
@@ -199,13 +216,13 @@
       "imdbRating": "7.9"
     },
     {
-      "id": "tt0437745",
+      "id": "tt1695360",
       "type": "series",
-      "name": "Robot Chicken",
-      "poster": "https://image.tmdb.org/t/p/w500/x5O2W1JulF0TM16HEITgVNML3KS.jpg",
-      "description": "A series of pop-culture parodies using stop-motion animation of toys, action figures and dolls. The title character was an ordinary chicken until he was run down by a car and subsequently brought back to life in cyborg form by mad scientist Fritz Huhnmorder, who tortures Robot Chicken by forcing him to watch a random selection of TV shows, the sketches that make up the body of each episode.",
-      "releaseInfo": "2005",
-      "imdbRating": "7.7"
+      "name": "Truyền Thuyết Về Korra",
+      "poster": "https://image.tmdb.org/t/p/w500/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
+      "description": "70 năm sau chiến tranh với Hỏa Quốc, Avatar Aang đã qua đời và người lãnh nhiệm trọng trách tiếp theo của ông là Korra, một cô bé sinh ra tại một ngôi làng Thủy tộc ở Nam cực. Lúc bước vào tuổi 17, sau khi đã thuần thục ba nguyên tố lửa, nước và đất, Korra khăn gói đến thành phố Cộng Hòa để mong được sư Tenzin truyền dạy nguyên tố cuối cùng. Nhưng tất cả trở nên khó khăn hơn khi cô gái trẻ Korra không thể làm chủ bản thân để có thể tới đích đến mình mong muốn. Và trên con đường gian nan đó, Korra dần khám phá những thế lực phản động phía sau mặt tối đô thành...",
+      "releaseInfo": "2012",
+      "imdbRating": "8.3"
     },
     {
       "id": "tt1641384",
@@ -217,31 +234,13 @@
       "imdbRating": "8.6"
     },
     {
-      "id": "tt1877889",
+      "id": "tt1942683",
       "type": "series",
-      "name": "Ninja Rùa",
-      "poster": "https://image.tmdb.org/t/p/w500/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
-      "description": "The Teenage Mutant Ninja Turtles are back in an all-new animated series on Nickelodeon! Surfacing topside for the first time on their fifteenth birthday, the titular turtles, Leonardo, Michelangelo, Raphael and Donatello, find that life out of the sewers isn't exactly what they thought it would be. Now the turtles must work together as a team to take on new enemies that arise to take over New York City.",
-      "releaseInfo": "2012",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt7678620",
-      "type": "series",
-      "name": "Bluey",
-      "poster": "https://image.tmdb.org/t/p/w500/9p4pNoGcuyCfHcGWKNrTopqMWtq.jpg",
-      "description": "Bluey is an inexhaustible six year-old Blue Heeler dog, who loves to play and turns everyday family life into extraordinary adventures, developing her imagination as well as her mental, physical and emotional resilience.",
-      "releaseInfo": "2018",
-      "imdbRating": "9.2"
-    },
-    {
-      "id": "tt1695360",
-      "type": "series",
-      "name": "Truyền Thuyết Về Korra",
-      "poster": "https://image.tmdb.org/t/p/w500/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
-      "description": "70 năm sau chiến tranh với Hỏa Quốc, Avatar Aang đã qua đời và người lãnh nhiệm trọng trách tiếp theo của ông là Korra, một cô bé sinh ra tại một ngôi làng Thủy tộc ở Nam cực. Lúc bước vào tuổi 17, sau khi đã thuần thục ba nguyên tố lửa, nước và đất, Korra khăn gói đến thành phố Cộng Hòa để mong được sư Tenzin truyền dạy nguyên tố cuối cùng. Nhưng tất cả trở nên khó khăn hơn khi cô gái trẻ Korra không thể làm chủ bản thân để có thể tới đích đến mình mong muốn. Và trên con đường gian nan đó, Korra dần khám phá những thế lực phản động phía sau mặt tối đô thành...",
-      "releaseInfo": "2012",
-      "imdbRating": "8.3"
+      "name": "Thế Giới Kì Diệu Của Gumball",
+      "poster": "https://image.tmdb.org/t/p/w500/VYnnyA2hyxi3VUPgCA71mMtt69.jpg",
+      "description": "The life of Gumball Watterson, a 12-year old cat who attends middle school in Elmore. Accompanied by his pet, adoptive brother, and best friend Darwin Watterson, he frequently finds himself involved in various shenanigans around the city, during which he interacts with various family members: Anais, Richard, and Nicole Watterson, and other various citizens.",
+      "releaseInfo": "2011",
+      "imdbRating": "8.4"
     },
     {
       "id": "tt0175058",
@@ -253,6 +252,24 @@
       "imdbRating": "7.3"
     },
     {
+      "id": "tt27502465",
+      "type": "series",
+      "name": "LEGO Ninjago: Những Con Rồng Trỗi Dậy",
+      "poster": "https://image.tmdb.org/t/p/w500/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
+      "description": "Hai thiếu niên đến từ hai thế giới khác nhau sử dụng sức mạnh Ninja mới được phát hiện để bảo vệ rồng khỏi những kẻ hung ác muốn sử dụng sinh khí cho mục đích xấu xa.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt6741278",
+      "type": "series",
+      "name": "BẤT KHẢ CHIẾN BẠI",
+      "poster": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+      "description": "Invincible là series hoạt hình siêu anh hùng dành cho người lớn được chuyển thể từ truyện tranh cùng tên của Skybound/Image Comic do Robert Kirkman sáng tác. Phim được lên kế hoạch kéo dài trong 3 mùa và sẽ phát sóng thông qua nền tảng Amazon Prime Video.\n\nInvincible là câu chuyện xoay quanh Mark Grayson, con trai của anh hùng mạnh nhất hành tinh - Omni-Man. Sau khi vừa tròn 17 tuổi, Mark bắt đầu thức tỉnh sức mạnh của riêng mình. Dưới sự giám hộ của Omni-Man, Mark dấn thân vào con đường trở thành siêu anh hùng và đối đầu với thử thách cam go.",
+      "releaseInfo": "2021",
+      "imdbRating": "8.7"
+    },
+    {
       "id": "tt3398228",
       "type": "series",
       "name": "BoJack Horseman",
@@ -262,22 +279,13 @@
       "imdbRating": "8.8"
     },
     {
-      "id": "tt1942683",
+      "id": "tt7678620",
       "type": "series",
-      "name": "Thế Giới Kì Diệu Của Gumball",
-      "poster": "https://image.tmdb.org/t/p/w500/VYnnyA2hyxi3VUPgCA71mMtt69.jpg",
-      "description": "The life of Gumball Watterson, a 12-year old cat who attends middle school in Elmore. Accompanied by his pet, adoptive brother, and best friend Darwin Watterson, he frequently finds himself involved in various shenanigans around the city, during which he interacts with various family members: Anais, Richard, and Nicole Watterson, and other various citizens.",
-      "releaseInfo": "2011",
-      "imdbRating": "8.4"
-    },
-    {
-      "id": "tt27502465",
-      "type": "series",
-      "name": "LEGO Ninjago: Những Con Rồng Trỗi Dậy",
-      "poster": "https://image.tmdb.org/t/p/w500/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
-      "description": "Hai thiếu niên đến từ hai thế giới khác nhau sử dụng sức mạnh Ninja mới được phát hiện để bảo vệ rồng khỏi những kẻ hung ác muốn sử dụng sinh khí cho mục đích xấu xa.",
-      "releaseInfo": "2023",
-      "imdbRating": "7.9"
+      "name": "Bluey",
+      "poster": "https://image.tmdb.org/t/p/w500/9p4pNoGcuyCfHcGWKNrTopqMWtq.jpg",
+      "description": "Bluey is an inexhaustible six year-old Blue Heeler dog, who loves to play and turns everyday family life into extraordinary adventures, developing her imagination as well as her mental, physical and emotional resilience.",
+      "releaseInfo": "2018",
+      "imdbRating": "9.2"
     },
     {
       "id": "tt0105941",
@@ -298,66 +306,12 @@
       "imdbRating": "6.3"
     },
     {
-      "id": "tt1486217",
-      "type": "series",
-      "name": "Archer",
-      "poster": "https://image.tmdb.org/t/p/w500/vhnrkTGYPqcB63ALcSJm0WoaKHT.jpg",
-      "description": "Smart-mouthed superspy Sterling Archer and his dysfunctional team of secret agents turn dangerous missions into messy misadventures around the globe.",
-      "releaseInfo": "2009",
-      "imdbRating": "8.6"
-    },
-    {
       "id": "tt3559124",
       "type": "series",
       "name": "The Tom and Jerry Show",
       "poster": "https://image.tmdb.org/t/p/w500/41EWXLXTZO4MLb2BL28mWZuydyq.jpg",
       "description": "The iconic cat and mouse rivals are back in a fresh take on the classic series. Preserving the look, characters and sensibility of the original, this series shines a brightly colored, high-definition lens on the madcap slapstick and never-ending battle that has made Tom and Jerry two of the most beloved characters of all time.",
       "releaseInfo": "2014",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt3061046",
-      "type": "series",
-      "name": "Steven Universe",
-      "poster": "https://image.tmdb.org/t/p/w500/8zRstOgaipruJPlsHK2diMx4lPy.jpg",
-      "description": "A young boy takes his mother's place in a group of gemstone-based beings, and must learn to control his powers.",
-      "releaseInfo": "2013",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt4839610",
-      "type": "series",
-      "name": "Chúng Tôi Đơn Giản Là Gấu",
-      "poster": "https://image.tmdb.org/t/p/w500/3xWzlLZ0kAD6SkVZTekFM9lxZyP.jpg",
-      "description": "Three brother bears awkwardly attempt to find their place in civilized  society, whether they're looking for food, trying to make human friends,  or scheming to become famous on the internet. Grizzly, Panda and Ice  Bear stack atop one another when they leave their cave and explore the  hipster environs of the San Francisco Bay Area, and it's clear the  siblings have a lot to learn about a technologically driven world. By  their side on many adventures are best friend Chloe (the only human  character in the cast), fame-obsessed panda Nom Nom, and Charlie, aka  Bigfoot.",
-      "releaseInfo": "2015",
-      "imdbRating": "7.8"
-    },
-    {
-      "id": "tt0449545",
-      "type": "series",
-      "name": "Curious George",
-      "poster": "https://image.tmdb.org/t/p/w500/1FsihcjjTrzkmD9i8hRPzE6GhZf.jpg",
-      "description": "With the help of his friend “The Man in the Yellow Hat,” a curious little monkey named George sets out on adventures to learn about the world around him.",
-      "releaseInfo": "2006",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt6741278",
-      "type": "series",
-      "name": "BẤT KHẢ CHIẾN BẠI",
-      "poster": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
-      "description": "Invincible là series hoạt hình siêu anh hùng dành cho người lớn được chuyển thể từ truyện tranh cùng tên của Skybound/Image Comic do Robert Kirkman sáng tác. Phim được lên kế hoạch kéo dài trong 3 mùa và sẽ phát sóng thông qua nền tảng Amazon Prime Video.\n\nInvincible là câu chuyện xoay quanh Mark Grayson, con trai của anh hùng mạnh nhất hành tinh - Omni-Man. Sau khi vừa tròn 17 tuổi, Mark bắt đầu thức tỉnh sức mạnh của riêng mình. Dưới sự giám hộ của Omni-Man, Mark dấn thân vào con đường trở thành siêu anh hùng và đối đầu với thử thách cam go.",
-      "releaseInfo": "2021",
-      "imdbRating": "8.7"
-    },
-    {
-      "id": "tt0094469",
-      "type": "series",
-      "name": "Garfield and Friends",
-      "poster": "https://image.tmdb.org/t/p/w500/pE6l6I1ICKOu4pDUXxkl87TTLZx.jpg",
-      "description": "The animated stories of Garfield the cat, Odie the dog, their owner Jon and the trouble they get into. And also Orson the Pig and his adventures on a farm with his fellow farm animals.",
-      "releaseInfo": "1988",
       "imdbRating": "7.2"
     },
     {
@@ -370,13 +324,58 @@
       "imdbRating": "8.9"
     },
     {
-      "id": "tt0103359",
+      "id": "tt0449545",
       "type": "series",
-      "name": "Batman: Phim Hoạt Hình",
-      "poster": "https://image.tmdb.org/t/p/w500/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg",
-      "description": "Vowing to avenge the murder of his parents, Bruce Wayne devotes his life to wiping out crime in Gotham City as the masked vigilante \"Batman\".",
-      "releaseInfo": "1992",
-      "imdbRating": "9.0"
+      "name": "Curious George",
+      "poster": "https://image.tmdb.org/t/p/w500/1FsihcjjTrzkmD9i8hRPzE6GhZf.jpg",
+      "description": "With the help of his friend “The Man in the Yellow Hat,” a curious little monkey named George sets out on adventures to learn about the world around him.",
+      "releaseInfo": "2006",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt4839610",
+      "type": "series",
+      "name": "Chúng Tôi Đơn Giản Là Gấu",
+      "poster": "https://image.tmdb.org/t/p/w500/3xWzlLZ0kAD6SkVZTekFM9lxZyP.jpg",
+      "description": "Three brother bears awkwardly attempt to find their place in civilized  society, whether they're looking for food, trying to make human friends,  or scheming to become famous on the internet. Grizzly, Panda and Ice  Bear stack atop one another when they leave their cave and explore the  hipster environs of the San Francisco Bay Area, and it's clear the  siblings have a lot to learn about a technologically driven world. By  their side on many adventures are best friend Chloe (the only human  character in the cast), fame-obsessed panda Nom Nom, and Charlie, aka  Bigfoot.",
+      "releaseInfo": "2015",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt3061046",
+      "type": "series",
+      "name": "Steven Universe",
+      "poster": "https://image.tmdb.org/t/p/w500/8zRstOgaipruJPlsHK2diMx4lPy.jpg",
+      "description": "A young boy takes his mother's place in a group of gemstone-based beings, and must learn to control his powers.",
+      "releaseInfo": "2013",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0094469",
+      "type": "series",
+      "name": "Garfield and Friends",
+      "poster": "https://image.tmdb.org/t/p/w500/3HyTfZ9sSCoZPYrYHMffhRVm3Af.jpg",
+      "description": "The animated stories of Garfield the cat, Odie the dog, their owner Jon and the trouble they get into. And also Orson the Pig and his adventures on a farm with his fellow farm animals.",
+      "releaseInfo": "1988",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt1486217",
+      "type": "series",
+      "name": "Archer",
+      "poster": "https://image.tmdb.org/t/p/w500/vhnrkTGYPqcB63ALcSJm0WoaKHT.jpg",
+      "description": "Smart-mouthed superspy Sterling Archer and his dysfunctional team of secret agents turn dangerous missions into messy misadventures around the globe.",
+      "releaseInfo": "2009",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt1877889",
+      "type": "series",
+      "name": "Ninja Rùa",
+      "poster": "https://image.tmdb.org/t/p/w500/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
+      "description": "The Teenage Mutant Ninja Turtles are back in an all-new animated series on Nickelodeon! Surfacing topside for the first time on their fifteenth birthday, the titular turtles, Leonardo, Michelangelo, Raphael and Donatello, find that life out of the sewers isn't exactly what they thought it would be. Now the turtles must work together as a team to take on new enemies that arise to take over New York City.",
+      "releaseInfo": "2012",
+      "imdbRating": "7.9"
     },
     {
       "id": "tt0053502",
@@ -388,15 +387,6 @@
       "imdbRating": "7.5"
     },
     {
-      "id": "tt0086815",
-      "type": "series",
-      "name": "Thomas & Friends",
-      "poster": "https://image.tmdb.org/t/p/w500/wrFb5dE2yxUjz3a5V7PEXPPzsFU.jpg",
-      "description": "Thomas & Friends is a British children's television series, which had its first broadcast on the ITV network on 4 September 1984. It is based on The Railway Series of books by the Reverend Wilbert Awdry and his son, Christopher Awdry. These books deal with the adventures of a group of anthropomorphised locomotives and road vehicles who live on the fictional Island of Sodor. The books were based on stories Wilbert told to entertain his son, Christopher during his recovery from measles. From Series one to four, many of the stories are based on events from Awdry's personal experience.",
-      "releaseInfo": "1984",
-      "imdbRating": "6.5"
-    },
-    {
       "id": "tt0081933",
       "type": "series",
       "name": "Xì Trum",
@@ -404,6 +394,15 @@
       "description": "Loạt phim thiếu nhi theo dấu cuộc phiêu lưu của các cô cậu Xì Trum, những cư dân màu xanh bé nhỏ sống ở ngôi làng yên bình và đang tìm cách đánh bại kẻ ác Gargamel.",
       "releaseInfo": "1981",
       "imdbRating": "7.1"
+    },
+    {
+      "id": "tt0103359",
+      "type": "series",
+      "name": "Batman: Phim Hoạt Hình",
+      "poster": "https://image.tmdb.org/t/p/w500/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg",
+      "description": "Vowing to avenge the murder of his parents, Bruce Wayne devotes his life to wiping out crime in Gotham City as the masked vigilante \"Batman\".",
+      "releaseInfo": "1992",
+      "imdbRating": "9.0"
     },
     {
       "id": "tt0784896",
@@ -424,13 +423,13 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt10862280",
+      "id": "tt7713450",
       "type": "series",
-      "name": "Spidey and His Amazing Friends",
-      "poster": "https://image.tmdb.org/t/p/w500/etO5jDS5WgR4Y1lTyXhQcilJ6u2.jpg",
-      "description": "Follow Peter Parker, Gwen Stacy and Miles Morales and their adventures as the young heroes team up with Hulk, Ms. Marvel and Black Panther to defeat foes like Rhino, Doc Ock and Green Goblin and learn that teamwork is the best way to save the day.",
-      "releaseInfo": "2021",
-      "imdbRating": "5.8"
+      "name": "Cậu Bé Craig và Con Suối Nhỏ",
+      "poster": "https://image.tmdb.org/t/p/w500/u4LaONJSBi0khRe2L8nqBk81dlc.jpg",
+      "description": "Theo chân cậu bé 10 tuổi Craig Williams cùng hai người bạn thân nhất là Kelsey và J.P., khi họ khám phá một vùng đất thần tiên do trẻ em làm chủ tại bang Maryland.",
+      "releaseInfo": "2018",
+      "imdbRating": "7.6"
     },
     {
       "id": "tt0115200",
@@ -442,22 +441,13 @@
       "imdbRating": "7.6"
     },
     {
-      "id": "tt0259141",
+      "id": "tt4458594",
       "type": "series",
-      "name": "Jackie Chan Adventures",
-      "poster": "https://image.tmdb.org/t/p/w500/by2GTFpd2BQ5uJxWPlfcmfrNrfB.jpg",
-      "description": "Archaeologist Jackie Chan joins forces with his adventurous 11-year-old niece, Jade, to race around the world in search of twelve powerful magical talismans before they fall into the hands of the sinister Dark Hand crime syndicate. Along the way, they're aided by Uncle, Jackie's eccentric yet brilliant uncle, whose ancient knowledge and mystical expertise often prove to be the key to defeating dark forces.",
-      "releaseInfo": "2000",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt1710177",
-      "type": "series",
-      "name": "Octonauts",
-      "poster": "https://image.tmdb.org/t/p/w500/iYUhUSKWKpSBahaWLUQIPckAy8p.jpg",
-      "description": "Follows an underwater exploring crew made up of stylized anthropomorphic animals, a team of eight adventurers who live in an undersea base, the Octopod, from where they go on undersea adventures with the help of a fleet of aquatic vehicles.",
-      "releaseInfo": "2010",
-      "imdbRating": "7.6"
+      "name": "Blaze and the Monster Machines",
+      "poster": "https://image.tmdb.org/t/p/w500/5DzjYIdgoePjMlmS7RCyUYWhpIK.jpg",
+      "description": "AJ is an 8-year-old techie who drives monster-truck Blaze, the top racer in Axle City. The two go on adventures that have them taking on problems involving science and math. Many predicaments they face are caused by Blaze's rival, Crusher, a tractor-trailer that will do anything to beat other vehicles to the finish line. The animated series is billed as the first TV show for preschoolers to comprehensively cover areas of science, technology, engineering and math. Each episode introduces different STEM concepts, including buoyancy and trajectory.",
+      "releaseInfo": "2014",
+      "imdbRating": "5.7"
     },
     {
       "id": "tt0118360",
@@ -469,31 +459,22 @@
       "imdbRating": "7.2"
     },
     {
-      "id": "tt5531466",
+      "id": "tt0259141",
       "type": "series",
-      "name": "DuckTales",
-      "poster": "https://image.tmdb.org/t/p/w500/3klapeIKLp9IBy4uHo7szTeMTdQ.jpg",
-      "description": "The adventures of billionaire Scrooge McDuck and his nephews Huey, Dewey and Louie, their famous uncle Donald Duck, pilot extraordinaire Launchpad, Mrs. Beakly, Webby and Roboduck. Adventures and hidden treasures are everywhere, in their hometown Duckburg and all around the world.",
-      "releaseInfo": "2017",
-      "imdbRating": "8.3"
+      "name": "Jackie Chan Adventures",
+      "poster": "https://image.tmdb.org/t/p/w500/by2GTFpd2BQ5uJxWPlfcmfrNrfB.jpg",
+      "description": "Archaeologist Jackie Chan joins forces with his adventurous 11-year-old niece, Jade, to race around the world in search of twelve powerful magical talismans before they fall into the hands of the sinister Dark Hand crime syndicate. Along the way, they're aided by Uncle, Jackie's eccentric yet brilliant uncle, whose ancient knowledge and mystical expertise often prove to be the key to defeating dark forces.",
+      "releaseInfo": "2000",
+      "imdbRating": "7.4"
     },
     {
-      "id": "tt12915960",
+      "id": "tt10862280",
       "type": "series",
-      "name": "The Patrick Star Show",
-      "poster": "https://image.tmdb.org/t/p/w500/44zbV1t35gxgcSN7sTlkUY85GC9.jpg",
-      "description": "Follow a younger Patrick Star living at home with his family, where he hosts his own variety show for the neighborhood from his television-turned-bedroom.",
+      "name": "Spidey and His Amazing Friends",
+      "poster": "https://image.tmdb.org/t/p/w500/etO5jDS5WgR4Y1lTyXhQcilJ6u2.jpg",
+      "description": "Follow Peter Parker, Gwen Stacy and Miles Morales and their adventures as the young heroes team up with Hulk, Ms. Marvel and Black Panther to defeat foes like Rhino, Doc Ock and Green Goblin and learn that teamwork is the best way to save the day.",
       "releaseInfo": "2021",
-      "imdbRating": "3.6"
-    },
-    {
-      "id": "tt2758770",
-      "type": "series",
-      "name": "Star và Cuộc Chiến Với Các Thế Lực Yêu Quái",
-      "poster": "https://image.tmdb.org/t/p/w500/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
-      "description": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains throughout the universe and high school, mainly to protect her extremely powerful wand, an object that still confuses her.",
-      "releaseInfo": "2015",
-      "imdbRating": "7.9"
+      "imdbRating": "5.8"
     },
     {
       "id": "tt1710295",
@@ -505,40 +486,40 @@
       "imdbRating": "6.5"
     },
     {
-      "id": "tt0278866",
+      "id": "tt5531466",
       "type": "series",
-      "name": "Kim Possible",
-      "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
-      "description": "If there's danger or trouble, Kim Possible is there on the double to save the world from villains... and still make it home in time for cheerleading practice! Luckily, Kim has her sidekick Ron Stoppable and his pet naked mole-rat Rufus by her side.",
-      "releaseInfo": "2002",
-      "imdbRating": "7.2"
+      "name": "DuckTales",
+      "poster": "https://image.tmdb.org/t/p/w500/3klapeIKLp9IBy4uHo7szTeMTdQ.jpg",
+      "description": "The adventures of billionaire Scrooge McDuck and his nephews Huey, Dewey and Louie, their famous uncle Donald Duck, pilot extraordinaire Launchpad, Mrs. Beakly, Webby and Roboduck. Adventures and hidden treasures are everywhere, in their hometown Duckburg and all around the world.",
+      "releaseInfo": "2017",
+      "imdbRating": "8.3"
     },
     {
-      "id": "tt7216636",
+      "id": "tt2758770",
       "type": "series",
-      "name": "Hazbin Hotel",
-      "poster": "https://image.tmdb.org/t/p/w500/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg",
-      "description": "In attempt to find a non-violent alternative for reducing Hell's overpopulation, the daughter of Lucifer opens a rehabilitation hotel that offers a group of misfit demons a chance at redemption.",
-      "releaseInfo": "2024",
+      "name": "Star và Cuộc Chiến Với Các Thế Lực Yêu Quái",
+      "poster": "https://image.tmdb.org/t/p/w500/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
+      "description": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains throughout the universe and high school, mainly to protect her extremely powerful wand, an object that still confuses her.",
+      "releaseInfo": "2015",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt1710177",
+      "type": "series",
+      "name": "Octonauts",
+      "poster": "https://image.tmdb.org/t/p/w500/iYUhUSKWKpSBahaWLUQIPckAy8p.jpg",
+      "description": "Follows an underwater exploring crew made up of stylized anthropomorphic animals, a team of eight adventurers who live in an undersea base, the Octopod, from where they go on undersea adventures with the help of a fleet of aquatic vehicles.",
+      "releaseInfo": "2010",
       "imdbRating": "7.6"
     },
     {
-      "id": "tt3061050",
+      "id": "tt0086815",
       "type": "series",
-      "name": "Clarence",
-      "poster": "https://image.tmdb.org/t/p/w500/qZkAyOlDAxHtQreQE4ZzGfrSQl8.jpg",
-      "description": "In a world of noise, Clarence is a jar of sunshine, pure and simple. He sees the world only in his favorite colors: goofy grape and neon green. Clarence values his friends Jeff and Sumo and his mother Mary more than gold. No matter what happens, good or bad, nothing brings Clarence down.",
-      "releaseInfo": "2014",
-      "imdbRating": "6.9"
-    },
-    {
-      "id": "tt0131613",
-      "type": "series",
-      "name": "Ninja Rùa",
-      "poster": "https://image.tmdb.org/t/p/w500/AaihPizftZo5YCqzEgHMwkceaEo.jpg",
-      "description": "Four turtles fall into the sewers and are befriended by Hamato Yoshi a Japanese man sent to New York who was forced to live in the sewers. One day he sees a strange green glow which transforms the four turtles into human-like creatures. Hamato (now Master Splinter) changes into a giant rat from the green glow and teaches the turtles the skills of the ninja as they team up with news reporter April O'Neil to battle against Yoshi's arch enemy Shredder and Krang, an alien warlord from Dimension X.",
-      "releaseInfo": "1987",
-      "imdbRating": "7.9"
+      "name": "Thomas & Friends",
+      "poster": "https://image.tmdb.org/t/p/w500/wrFb5dE2yxUjz3a5V7PEXPPzsFU.jpg",
+      "description": "Thomas & Friends is a British children's television series, which had its first broadcast on the ITV network on 4 September 1984. It is based on The Railway Series of books by the Reverend Wilbert Awdry and his son, Christopher Awdry. These books deal with the adventures of a group of anthropomorphised locomotives and road vehicles who live on the fictional Island of Sodor. The books were based on stories Wilbert told to entertain his son, Christopher during his recovery from measles. From Series one to four, many of the stories are based on events from Awdry's personal experience.",
+      "releaseInfo": "1984",
+      "imdbRating": "6.5"
     },
     {
       "id": "tt10684374",
@@ -550,15 +531,6 @@
       "imdbRating": "7.4"
     },
     {
-      "id": "tt10168312",
-      "type": "series",
-      "name": "Nếu Như…?",
-      "poster": "https://image.tmdb.org/t/p/w500/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
-      "description": "What If...? là series phim truyền hình Mỹ, phát sóng trên nền tảng xem phim trực tuyến Disney+. Giám chế phim là A.C. Bradley, cùng với đạo diễn là Bryan Andrews. Tác phẩm được xây dựng trong bối cảnh của Vũ trụ Điện ảnh Marvel (MCU), nói về những biến cố có thể xảy ra nếu các sự kiện trong các phim điện ảnh của vũ trụ này không đi theo chiều hướng ban đầu.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.3"
-    },
-    {
       "id": "tt0118289",
       "type": "series",
       "name": "Cow and Chicken",
@@ -568,13 +540,49 @@
       "imdbRating": "6.5"
     },
     {
-      "id": "tt8146760",
+      "id": "tt0131613",
       "type": "series",
-      "name": "Hòn Đảo Trại Hè",
-      "poster": "https://image.tmdb.org/t/p/w500/syipk7iIpV4DTvGuBuEqrVbAbaY.jpg",
-      "description": "Oscar and Hedgehog are dropped off at a strange summer camp, full of fantastical things ranging from magical camp counselors to sticky notes that are portals to other dimensions.",
-      "releaseInfo": "2018",
-      "imdbRating": "7.7"
+      "name": "Ninja Rùa",
+      "poster": "https://image.tmdb.org/t/p/w500/AaihPizftZo5YCqzEgHMwkceaEo.jpg",
+      "description": "Four turtles fall into the sewers and are befriended by Hamato Yoshi a Japanese man sent to New York who was forced to live in the sewers. One day he sees a strange green glow which transforms the four turtles into human-like creatures. Hamato (now Master Splinter) changes into a giant rat from the green glow and teaches the turtles the skills of the ninja as they team up with news reporter April O'Neil to battle against Yoshi's arch enemy Shredder and Krang, an alien warlord from Dimension X.",
+      "releaseInfo": "1987",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt0278866",
+      "type": "series",
+      "name": "Kim Possible",
+      "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+      "description": "If there's danger or trouble, Kim Possible is there on the double to save the world from villains... and still make it home in time for cheerleading practice! Luckily, Kim has her sidekick Ron Stoppable and his pet naked mole-rat Rufus by her side.",
+      "releaseInfo": "2002",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt12915960",
+      "type": "series",
+      "name": "The Patrick Star Show",
+      "poster": "https://image.tmdb.org/t/p/w500/44zbV1t35gxgcSN7sTlkUY85GC9.jpg",
+      "description": "Follow a younger Patrick Star living at home with his family, where he hosts his own variety show for the neighborhood from his television-turned-bedroom.",
+      "releaseInfo": "2021",
+      "imdbRating": "3.6"
+    },
+    {
+      "id": "tt3061050",
+      "type": "series",
+      "name": "Clarence",
+      "poster": "https://image.tmdb.org/t/p/w500/qZkAyOlDAxHtQreQE4ZzGfrSQl8.jpg",
+      "description": "In a world of noise, Clarence is a jar of sunshine, pure and simple. He sees the world only in his favorite colors: goofy grape and neon green. Clarence values his friends Jeff and Sumo and his mother Mary more than gold. No matter what happens, good or bad, nothing brings Clarence down.",
+      "releaseInfo": "2014",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt1833403",
+      "type": "series",
+      "name": "Jake and the Never Land Pirates",
+      "poster": "https://image.tmdb.org/t/p/w500/uet64gptwR7iDGc0laIRmYNtNH0.jpg",
+      "description": "A crew of kid pirates - leader Jake and pals Izzy and Cubby - and their Never Land adventures as they work to outwit two infamous characters, the one and only Captain Hook and Smee.",
+      "releaseInfo": "2011",
+      "imdbRating": "5.7"
     },
     {
       "id": "tt6524350",
@@ -604,58 +612,49 @@
       "imdbRating": "7.1"
     },
     {
-      "id": "tt1833403",
+      "id": "tt10168312",
       "type": "series",
-      "name": "Jake and the Never Land Pirates",
-      "poster": "https://image.tmdb.org/t/p/w500/uet64gptwR7iDGc0laIRmYNtNH0.jpg",
-      "description": "A crew of kid pirates - leader Jake and pals Izzy and Cubby - and their Never Land adventures as they work to outwit two infamous characters, the one and only Captain Hook and Smee.",
-      "releaseInfo": "2011",
-      "imdbRating": "5.7"
+      "name": "Nếu Như…?",
+      "poster": "https://image.tmdb.org/t/p/w500/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
+      "description": "What If...? là series phim truyền hình Mỹ, phát sóng trên nền tảng xem phim trực tuyến Disney+. Giám chế phim là A.C. Bradley, cùng với đạo diễn là Bryan Andrews. Tác phẩm được xây dựng trong bối cảnh của Vũ trụ Điện ảnh Marvel (MCU), nói về những biến cố có thể xảy ra nếu các sự kiện trong các phim điện ảnh của vũ trụ này không đi theo chiều hướng ban đầu.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.3"
     },
     {
-      "id": "tt7713450",
+      "id": "tt7216636",
       "type": "series",
-      "name": "Cậu Bé Craig và Con Suối Nhỏ",
-      "poster": "https://image.tmdb.org/t/p/w500/u4LaONJSBi0khRe2L8nqBk81dlc.jpg",
-      "description": "Theo chân cậu bé 10 tuổi Craig Williams cùng hai người bạn thân nhất là Kelsey và J.P., khi họ khám phá một vùng đất thần tiên do trẻ em làm chủ tại bang Maryland.",
-      "releaseInfo": "2018",
+      "name": "Hazbin Hotel",
+      "poster": "https://image.tmdb.org/t/p/w500/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg",
+      "description": "In attempt to find a non-violent alternative for reducing Hell's overpopulation, the daughter of Lucifer opens a rehabilitation hotel that offers a group of misfit demons a chance at redemption.",
+      "releaseInfo": "2024",
       "imdbRating": "7.6"
     },
     {
-      "id": "tt0892700",
+      "id": "tt8146760",
       "type": "series",
-      "name": "Biệt Đội Cánh Cụt Vùng Madagascar",
-      "poster": "https://image.tmdb.org/t/p/w500/1fRG81M83HgwupmndtgZQOBHh8o.jpg",
-      "description": "The adventures of four penguins—Skipper, Kowalski, Private, and Rico, who perform various commando-like missions to protect their home in the Central Park Zoo. The penguins often have to deal with problems caused, or made worse, by their zoo neighbors, King Julien XIII (a ring-tailed lemur), Maurice (an aye-aye), and Mort (a mouse lemur).",
-      "releaseInfo": "2008",
-      "imdbRating": "7.5"
+      "name": "Hòn Đảo Trại Hè",
+      "poster": "https://image.tmdb.org/t/p/w500/syipk7iIpV4DTvGuBuEqrVbAbaY.jpg",
+      "description": "Oscar and Hedgehog are dropped off at a strange summer camp, full of fantastical things ranging from magical camp counselors to sticky notes that are portals to other dimensions.",
+      "releaseInfo": "2018",
+      "imdbRating": "7.7"
     },
     {
-      "id": "tt3604232",
+      "id": "tt0052507",
       "type": "series",
-      "name": "Transformers: Robots In Disguise",
-      "poster": "https://image.tmdb.org/t/p/w500/pbRpKAGbXnASnNFHCGFC4CwVPla.jpg",
-      "description": "Years after the events of Predacons Rising, Bumblebee is summoned back to Earth to battle several of Cybertron's most wanted Decepticons that escaped from a crashed prison ship and assembles a team of young Autobots that includes Sideswipe (a rebel \"bad boy bot\"), Strongarm (an Elite Guard cadet), Grimlock (a bombastic Dinobot), and Fixit (a hyperactive Mini-Con with faulty wiring).",
-      "releaseInfo": "2015",
-      "imdbRating": "6.0"
+      "name": "The Bullwinkle Show",
+      "poster": "https://image.tmdb.org/t/p/w500/cAMWBJyYynFWxJNrIvVnHlN2e9P.jpg",
+      "description": "A variety show, with the main feature being the serialized adventures of the two title characters, the anthropomorphic moose Bullwinkle and flying squirrel Rocky. The main adversaries in most of their adventures are the Russian-like spies Boris Badenov and Natasha Fatale. Supporting segments include Dudley Do-Right, Peabody's Improbable History, and Fractured Fairy Tales, among others.",
+      "releaseInfo": "1959",
+      "imdbRating": "7.8"
     },
     {
-      "id": "tt4458594",
+      "id": "tt7165904",
       "type": "series",
-      "name": "Blaze and the Monster Machines",
-      "poster": "https://image.tmdb.org/t/p/w500/5DzjYIdgoePjMlmS7RCyUYWhpIK.jpg",
-      "description": "AJ is an 8-year-old techie who drives monster-truck Blaze, the top racer in Axle City. The two go on adventures that have them taking on problems involving science and math. Many predicaments they face are caused by Blaze's rival, Crusher, a tractor-trailer that will do anything to beat other vehicles to the finish line. The animated series is billed as the first TV show for preschoolers to comprehensively cover areas of science, technology, engineering and math. Each episode introduces different STEM concepts, including buoyancy and trajectory.",
-      "releaseInfo": "2014",
-      "imdbRating": "5.7"
-    },
-    {
-      "id": "tt11126994",
-      "type": "series",
-      "name": "Arcane",
-      "poster": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
-      "description": "Khi hai thành phố song sinh Piltover và Zaun ở thế mâu thuẫn gay gắt, hai chị em chiến đấu ở hai bên chiến tuyến cùng các công nghệ ma thuật và những niềm tin trái chiều.",
-      "releaseInfo": "2021",
-      "imdbRating": "9.0"
+      "name": "Big City Greens",
+      "poster": "https://image.tmdb.org/t/p/w500/buRk2Vrz8UhF5nZUOADSRZLEU1f.jpg",
+      "description": "The offbeat adventures of 10-year-old Cricket Green, a mischievous and optimistic country boy who moves to the big city with his wildly out of place family – older sister Tilly, father Bill and Gramma Alice.",
+      "releaseInfo": "2018",
+      "imdbRating": "7.6"
     },
     {
       "id": "tt0320808",
@@ -667,6 +666,24 @@
       "imdbRating": "6.7"
     },
     {
+      "id": "tt0892700",
+      "type": "series",
+      "name": "Biệt Đội Cánh Cụt Vùng Madagascar",
+      "poster": "https://image.tmdb.org/t/p/w500/1fRG81M83HgwupmndtgZQOBHh8o.jpg",
+      "description": "The adventures of four penguins—Skipper, Kowalski, Private, and Rico, who perform various commando-like missions to protect their home in the Central Park Zoo. The penguins often have to deal with problems caused, or made worse, by their zoo neighbors, King Julien XIII (a ring-tailed lemur), Maurice (an aye-aye), and Mort (a mouse lemur).",
+      "releaseInfo": "2008",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt11126994",
+      "type": "series",
+      "name": "Arcane",
+      "poster": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+      "description": "Khi hai thành phố song sinh Piltover và Zaun ở thế mâu thuẫn gay gắt, hai chị em chiến đấu ở hai bên chiến tuyến cùng các công nghệ ma thuật và những niềm tin trái chiều.",
+      "releaseInfo": "2021",
+      "imdbRating": "9.0"
+    },
+    {
       "id": "tt3042608",
       "type": "series",
       "name": "Uncle Grandpa",
@@ -676,13 +693,13 @@
       "imdbRating": "4.5"
     },
     {
-      "id": "tt0052507",
+      "id": "tt2930604",
       "type": "series",
-      "name": "The Bullwinkle Show",
-      "poster": "https://image.tmdb.org/t/p/w500/cAMWBJyYynFWxJNrIvVnHlN2e9P.jpg",
-      "description": "A variety show, with the main feature being the serialized adventures of the two title characters, the anthropomorphic moose Bullwinkle and flying squirrel Rocky. The main adversaries in most of their adventures are the Russian-like spies Boris Badenov and Natasha Fatale. Supporting segments include Dudley Do-Right, Peabody's Improbable History, and Fractured Fairy Tales, among others.",
-      "releaseInfo": "1959",
-      "imdbRating": "7.8"
+      "name": "Star Wars Rebels",
+      "poster": "https://image.tmdb.org/t/p/w500/eLrScs6Bs26JMcS8hiZhf7YRROr.jpg",
+      "description": "Set between the events of Star Wars: Episodes III and IV, the story unfolds during a dark time when the evil Galactic Empire is tightening its grip of power on the galaxy. Imperial forces have occupied a remote planet and are ruining the lives of its people. The motley but clever crew of the starship Ghost — cowboy Jedi Kanan, ace pilot Hera, street-smart teenager Ezra, the “muscle” Zeb, warrior firebrand Sabine, and cantankerous old astromech droid Chopper — is among a select few who are brave enough to stand against the Empire. Together, they will face threatening new villains, encounter colorful adversaries, embark on thrilling adventures, and become heroes with the power to ignite a rebellion.",
+      "releaseInfo": "2014",
+      "imdbRating": "8.1"
     },
     {
       "id": "tt1660055",
@@ -712,40 +729,22 @@
       "imdbRating": "7.0"
     },
     {
-      "id": "tt7165904",
+      "id": "tt4148744",
       "type": "series",
-      "name": "Big City Greens",
-      "poster": "https://image.tmdb.org/t/p/w500/buRk2Vrz8UhF5nZUOADSRZLEU1f.jpg",
-      "description": "The offbeat adventures of 10-year-old Cricket Green, a mischievous and optimistic country boy who moves to the big city with his wildly out of place family – older sister Tilly, father Bill and Gramma Alice.",
-      "releaseInfo": "2018",
-      "imdbRating": "7.6"
+      "name": "PJ Masks",
+      "poster": "https://image.tmdb.org/t/p/w500/sl4flhzM3uJAxfgQ9ibfEGbmn5I.jpg",
+      "description": "Connor, Greg and Amaya are normal kids by day, but at night they activate their bracelets, which link into their pajamas and give them fantastic super powers, turning them into their alternate identities: the PJ Masks! The team consists of Catboy (Connor), Gekko (Greg) and Owlette (Amaya). Together, they go on adventures, solve mysteries, and learn valuable lessons. Watch the first six seasons of PJ Masks now on Disney+!",
+      "releaseInfo": "2015",
+      "imdbRating": "5.3"
     },
     {
-      "id": "tt2930604",
+      "id": "tt11247158",
       "type": "series",
-      "name": "Star Wars Rebels",
-      "poster": "https://image.tmdb.org/t/p/w500/eLrScs6Bs26JMcS8hiZhf7YRROr.jpg",
-      "description": "Set between the events of Star Wars: Episodes III and IV, the story unfolds during a dark time when the evil Galactic Empire is tightening its grip of power on the galaxy. Imperial forces have occupied a remote planet and are ruining the lives of its people. The motley but clever crew of the starship Ghost — cowboy Jedi Kanan, ace pilot Hera, street-smart teenager Ezra, the “muscle” Zeb, warrior firebrand Sabine, and cantankerous old astromech droid Chopper — is among a select few who are brave enough to stand against the Empire. Together, they will face threatening new villains, encounter colorful adversaries, embark on thrilling adventures, and become heroes with the power to ignite a rebellion.",
-      "releaseInfo": "2014",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt1705038",
-      "type": "series",
-      "name": "G.I. Joe: Renegades",
-      "poster": "https://image.tmdb.org/t/p/w500/sRGqn7kzeQOVUdRdYGRZlYDObdu.jpg",
-      "description": "The adventures of the elite G.I. Joe unit, whose members: Duke, Snake Eyes, Scarlett, Roadblock, Tunnel Rat and Ripcord were charged with crimes they did not commit. In order to clear themselves of the charges, they must expose the real culprits, who belong to the powerful corporation COBRA Industries.",
-      "releaseInfo": "2010",
-      "imdbRating": "7.1"
-    },
-    {
-      "id": "tt0451460",
-      "type": "series",
-      "name": "Handy Manny",
-      "poster": "https://image.tmdb.org/t/p/w500/7CCeh3UHSLedhi0wqz3dQmByaA6.jpg",
-      "description": "Manny Garcia, a kind, generous, outgoing handyman and his eclectic mix of talking tools help the people of Sheet Rock Hills with repairs both large and small, while teaching kids how to confront and conquer everyday problems.",
-      "releaseInfo": "2006",
-      "imdbRating": "5.6"
+      "name": "Truyền thuyết về Vox Machina",
+      "poster": "https://image.tmdb.org/t/p/w500/zjQTSYZEmy0GVnK1aFLvNiAwluo.jpg",
+      "description": "Chuyển thể từ web series Critical Role, phim là câu chuyện về Vox Machina, một băng nhóm gồm 8 kẻ ko ăn nhập gì với nhau, trong nỗ lực kiếm tiền nuôi thân... phải cứu vương quốc Exandria khỏi những thế lực ma thuật đen tối.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.4"
     },
     {
       "id": "tt8050740",
@@ -757,6 +756,15 @@
       "imdbRating": "8.3"
     },
     {
+      "id": "tt0367367",
+      "type": "series",
+      "name": "Max & Ruby",
+      "poster": "https://image.tmdb.org/t/p/w500/bIiWnjewlhINR1bv1sRfBiIEn9a.jpg",
+      "description": "Meet two funny bunny siblings, the energetic and mischievous Max, and the patient, smart and goal-oriented Ruby. The show models empowering messages by showing Max and Ruby playing together and resolving their differences respectfully and supportively.",
+      "releaseInfo": "2002",
+      "imdbRating": "6.1"
+    },
+    {
       "id": "tt0235917",
       "type": "series",
       "name": "Dora the Explorer",
@@ -764,6 +772,15 @@
       "description": "A young girl named Dora goes on adventures with her red boot-wearing monkey named Boots.",
       "releaseInfo": "2000",
       "imdbRating": "4.4"
+    },
+    {
+      "id": "tt9561862",
+      "type": "series",
+      "name": "Love, Death & Robots",
+      "poster": "https://image.tmdb.org/t/p/w500/vL5BQvXH96cJzmNK5n7QliQxy90.jpg",
+      "description": "Các sinh vật đáng sợ, những bất ngờ kinh hoàng và hài kịch đen hội tụ trong tuyển tập hoạt hình do Tim Miller và David Fincher sáng tạo này. Phim chứa nội dung nhạy cảm.",
+      "releaseInfo": "2019",
+      "imdbRating": "8.4"
     },
     {
       "id": "tt0092345",
@@ -775,13 +792,13 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt11247158",
+      "id": "tt0105950",
       "type": "series",
-      "name": "Truyền thuyết về Vox Machina",
-      "poster": "https://image.tmdb.org/t/p/w500/zjQTSYZEmy0GVnK1aFLvNiAwluo.jpg",
-      "description": "Chuyển thể từ web series Critical Role, phim là câu chuyện về Vox Machina, một băng nhóm gồm 8 kẻ ko ăn nhập gì với nhau, trong nỗ lực kiếm tiền nuôi thân... phải cứu vương quốc Exandria khỏi những thế lực ma thuật đen tối.",
-      "releaseInfo": "2022",
-      "imdbRating": "8.4"
+      "name": "Beavis and Butt-Head",
+      "poster": "https://image.tmdb.org/t/p/w500/8BwmD9hMsfUHTAAsVephjJS8pIF.jpg",
+      "description": "Two dimwitted teenagers discuss TV, heavy-metal music, nachos, and trying to \"score with chicks.\" When the duo aren't sitting on the couch, they try to pick up girls at the local convenience store, slack off at school, or wreak havoc while working at a burger joint.",
+      "releaseInfo": "1993",
+      "imdbRating": "7.5"
     },
     {
       "id": "tt0454349",
@@ -802,76 +819,31 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt0105950",
+      "id": "tt0983983",
       "type": "series",
-      "name": "Beavis and Butt-Head",
-      "poster": "https://image.tmdb.org/t/p/w500/8BwmD9hMsfUHTAAsVephjJS8pIF.jpg",
-      "description": "Two dimwitted teenagers discuss TV, heavy-metal music, nachos, and trying to \"score with chicks.\" When the duo aren't sitting on the couch, they try to pick up girls at the local convenience store, slack off at school, or wreak havoc while working at a burger joint.",
-      "releaseInfo": "1993",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt13303478",
-      "type": "series",
-      "name": "Chúng Tôi Đơn Giản Là Gấu Con",
-      "poster": "https://image.tmdb.org/t/p/w500/cXJ1m6f8KORhoIcrPSOYap56aAe.jpg",
-      "description": "Follow Grizz, Panda and Ice Bear – as their younger baby selves – traveling in a magical box to fantastic new worlds searching for a place to call home. Along the way, they meet new friends, learn a few lessons and discover that “home” can mean wherever they are, as long as they’re together.",
-      "releaseInfo": "2022",
-      "imdbRating": "5.7"
-    },
-    {
-      "id": "tt6951546",
-      "type": "series",
-      "name": "Animaniacs",
-      "poster": "https://image.tmdb.org/t/p/w500/wmPZzLov9OhiknK4jW4qE6mgvHf.jpg",
-      "description": "Yakko, Wakko and Dot return for all-new big laughs and the occasional epic takedown of authority figures in serious need of an ego check. Joining the Warners are Starbox & Cindy on their latest play date while Pinky and the Brain's ideas for world domination lead them to all new adventures.",
-      "releaseInfo": "2020",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt0278238",
-      "type": "series",
-      "name": "Samurai Jack",
-      "poster": "https://image.tmdb.org/t/p/w500/ddZ7Q2WZ0xAHkVXYvcEgNGFgVkw.jpg",
-      "description": "A great warrior is displaced to the distant future by the evil shape-shifting wizard Aku. The world has become a bleak place under the rule of Aku, segregated into fantastic tribes and ruled by Aku's evil robot warlords. Jack travels this foreign landscape in search of a time portal that can return him to his home time so he can \"undo the future that is Aku!\".",
-      "releaseInfo": "2001",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt0167743",
-      "type": "series",
-      "name": "The Wild Thornberrys",
-      "poster": "https://image.tmdb.org/t/p/w500/6SHAvvwmOFJwFhbkAqa6MjsiO7P.jpg",
-      "description": "Travel the world with the Thornberrys and come face-to-face with blue sheep in Nepal, emus in Australia, marmots in Pakistan, flash floods in Siberia, Egyptian burial chambers, a runaway hot air balloon, a rock slide on the Karakoram Highway and more!",
-      "releaseInfo": "1998",
-      "imdbRating": "6.6"
-    },
-    {
-      "id": "tt4148744",
-      "type": "series",
-      "name": "PJ Masks",
-      "poster": "https://image.tmdb.org/t/p/w500/sl4flhzM3uJAxfgQ9ibfEGbmn5I.jpg",
-      "description": "Connor, Greg and Amaya are normal kids by day, but at night they activate their bracelets, which link into their pajamas and give them fantastic super powers, turning them into their alternate identities: the PJ Masks! The team consists of Catboy (Connor), Gekko (Greg) and Owlette (Amaya). Together, they go on adventures, solve mysteries, and learn valuable lessons. Watch the first six seasons of PJ Masks now on Disney+!",
-      "releaseInfo": "2015",
-      "imdbRating": "5.3"
-    },
-    {
-      "id": "tt4816058",
-      "type": "series",
-      "name": "Bí Kíp Luyện Rồng: Hướng Tới Trạm Rồng",
-      "poster": "https://image.tmdb.org/t/p/w500/zE9duk5puTx3OvGALWeytWzRPN8.jpg",
-      "description": "Từ những bàn tay tạo nên \"Bí kíp luyện rồng\", một loạt phim mới ra đời đưa Hiccup và Toothless đến bến bờ phiêu lưu.",
-      "releaseInfo": "2015",
+      "name": "Chú Cừu Shaun",
+      "poster": "https://image.tmdb.org/t/p/w500/z2gPfTQd3I0JLWOAEdKYMQRLoun.jpg",
+      "description": "Shaun sống cùng đàn cừu của mình tại Trang trại Mossy Bottom nằm ở Bắc Anh. Mỗi tập phim đều xoay quanh những nỗ lực của Shaun nhằm mang lại sự thú vị cho cuộc sống vốn dĩ tẻ nhạt của chúng. Hành động dần trở thành những cuộc phiêu lưu kỳ thú theo phong cách hài kịch tình huống, chủ yếu là vì bầy cừu bị mê hoặc bởi công nghệ và văn hóa của con người. Điều này thường khiến chúng hợp tác - và đôi khi xung đột - với chú chó chăn cừu Bitzer, trong khi tất cả cùng lúc cố gắng tránh việc bị người nông dân phát hiện ra khả năng nhân hóa của mình.",
+      "releaseInfo": "2007",
       "imdbRating": "8.2"
     },
     {
-      "id": "tt7658402",
+      "id": "tt0451460",
       "type": "series",
-      "name": "Harley Quinn",
-      "poster": "https://image.tmdb.org/t/p/w500/9Dm1SEh8Wxt8LNNg02exHQ595zg.jpg",
-      "description": "Harley Quinn has finally broken things off once and for all with the Joker. Now, she's trying to make it on her own as the criminal Queenpin of Gotham City, with help from Poison Ivy and a ragtag crew of DC castoffs.",
-      "releaseInfo": "2019",
-      "imdbRating": "8.3"
+      "name": "Handy Manny",
+      "poster": "https://image.tmdb.org/t/p/w500/7CCeh3UHSLedhi0wqz3dQmByaA6.jpg",
+      "description": "Manny Garcia, a kind, generous, outgoing handyman and his eclectic mix of talking tools help the people of Sheet Rock Hills with repairs both large and small, while teaching kids how to confront and conquer everyday problems.",
+      "releaseInfo": "2006",
+      "imdbRating": "5.6"
+    },
+    {
+      "id": "tt3496230",
+      "type": "series",
+      "name": "ALVINNN!!! và Nhóm Sóc Chuột",
+      "poster": "https://image.tmdb.org/t/p/w500/9s8yTj7UzE45qMFr3BLHGDq7nwG.jpg",
+      "description": "Được ông bố con người nuôi dạy, một nhạc sĩ sóc chuột còn trẻ thích gây sự và các em của nó bày trò nghịch phá, và học được nhiều bài học giá trị trong suốt quá trình.",
+      "releaseInfo": "2015",
+      "imdbRating": "4.6"
     },
     {
       "id": "tt0220880",
@@ -883,22 +855,49 @@
       "imdbRating": "8.3"
     },
     {
-      "id": "tt0983983",
+      "id": "tt16117344",
       "type": "series",
-      "name": "Chú Cừu Shaun",
-      "poster": "https://image.tmdb.org/t/p/w500/z2gPfTQd3I0JLWOAEdKYMQRLoun.jpg",
-      "description": "Shaun sống cùng đàn cừu của mình tại Trang trại Mossy Bottom nằm ở Bắc Anh. Mỗi tập phim đều xoay quanh những nỗ lực của Shaun nhằm mang lại sự thú vị cho cuộc sống vốn dĩ tẻ nhạt của chúng. Hành động dần trở thành những cuộc phiêu lưu kỳ thú theo phong cách hài kịch tình huống, chủ yếu là vì bầy cừu bị mê hoặc bởi công nghệ và văn hóa của con người. Điều này thường khiến chúng hợp tác - và đôi khi xung đột - với chú chó chăn cừu Bitzer, trong khi tất cả cùng lúc cố gắng tránh việc bị người nông dân phát hiện ra khả năng nhân hóa của mình.",
-      "releaseInfo": "2007",
-      "imdbRating": "8.2"
+      "name": "Rock, Paper, Scissors",
+      "poster": "https://image.tmdb.org/t/p/w500/2DZI8fK4eFlKqAsroe3YlPCaXEo.jpg",
+      "description": "Rock, Paper, and Scissors are best friends and roommates who compete over everything, but it’s (mostly) all love. They each bring something different to the friendship - Rock is the moral compass, Paper is the practical one, and Scissors is the right amount of chaos. Together, they get into the wildest adventures.",
+      "releaseInfo": "2024",
+      "imdbRating": "6.6"
     },
     {
-      "id": "tt0367367",
+      "id": "tt0167743",
       "type": "series",
-      "name": "Max & Ruby",
-      "poster": "https://image.tmdb.org/t/p/w500/bIiWnjewlhINR1bv1sRfBiIEn9a.jpg",
-      "description": "Meet two funny bunny siblings, the energetic and mischievous Max, and the patient, smart and goal-oriented Ruby. The show models empowering messages by showing Max and Ruby playing together and resolving their differences respectfully and supportively.",
-      "releaseInfo": "2002",
-      "imdbRating": "6.1"
+      "name": "The Wild Thornberrys",
+      "poster": "https://image.tmdb.org/t/p/w500/6SHAvvwmOFJwFhbkAqa6MjsiO7P.jpg",
+      "description": "Travel the world with the Thornberrys and come face-to-face with blue sheep in Nepal, emus in Australia, marmots in Pakistan, flash floods in Siberia, Egyptian burial chambers, a runaway hot air balloon, a rock slide on the Karakoram Highway and more!",
+      "releaseInfo": "1998",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt13303478",
+      "type": "series",
+      "name": "Chúng Tôi Đơn Giản Là Gấu Con",
+      "poster": "https://image.tmdb.org/t/p/w500/cXJ1m6f8KORhoIcrPSOYap56aAe.jpg",
+      "description": "Follow Grizz, Panda and Ice Bear – as their younger baby selves – traveling in a magical box to fantastic new worlds searching for a place to call home. Along the way, they meet new friends, learn a few lessons and discover that “home” can mean wherever they are, as long as they’re together.",
+      "releaseInfo": "2022",
+      "imdbRating": "5.7"
+    },
+    {
+      "id": "tt0278238",
+      "type": "series",
+      "name": "Samurai Jack",
+      "poster": "https://image.tmdb.org/t/p/w500/ddZ7Q2WZ0xAHkVXYvcEgNGFgVkw.jpg",
+      "description": "A great warrior is displaced to the distant future by the evil shape-shifting wizard Aku. The world has become a bleak place under the rule of Aku, segregated into fantastic tribes and ruled by Aku's evil robot warlords. Jack travels this foreign landscape in search of a time portal that can return him to his home time so he can \"undo the future that is Aku!\".",
+      "releaseInfo": "2001",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt8910922",
+      "type": "series",
+      "name": "Solar Opposites",
+      "poster": "https://image.tmdb.org/t/p/w500/nuBD4dlO7gfg4RhW0sS0pTeiYRc.jpg",
+      "description": "A family of aliens from a much better world must take refuge in middle America after the destruction of their planet. Their mission: protect the Pupa, a living super computer that will one day evolve into its true form, consume them and terraform the Earth.",
+      "releaseInfo": "2020",
+      "imdbRating": "7.9"
     }
   ]
 }
