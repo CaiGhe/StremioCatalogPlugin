@@ -1,12 +1,46 @@
 {
   "metas": [
     {
+      "id": "tt39328047",
+      "type": "series",
+      "name": "Bác Sĩ X",
+      "poster": "https://phimimg.com/uploads/movies/20261010/bac-si-x-poster.webp",
+      "description": "Ở một bệnh viện nơi cái tôi và tham nhũng lộng hành, một bác sĩ phẫu thuật bí ẩn nhưng tài năng xuất hiện – nhận những ca tưởng chừng bất khả thi bất chấp sự phản đối quyết liệt.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt39201866",
+      "type": "series",
+      "name": "100 Ngày Lừa Dối",
+      "poster": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-poster.webp",
+      "description": "Khao khát tự do, cô nàng móc túi số một của Gyeongseong thâm nhập vào chính quyền thực dân Nhật để đánh cắp bí mật, nhưng lại phải lòng con trai của mục tiêu.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt37737331",
+      "type": "series",
+      "name": "Nạp Đầy Trái Tim",
+      "poster": "https://phimimg.com/uploads/movies/20261010/nap-day-trai-tim-poster.webp",
+      "description": "Một người thừa kế tập đoàn với trái tim nhân tạo gặp một cô gái thực sự mang điện. Họ lập một thỏa thuận khiến tim anh đập – theo nhiều nghĩa.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt34058365",
+      "type": "series",
+      "name": "Hương Vị Của Biển (Mùa 3)",
+      "poster": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-poster.webp",
+      "description": "Mùa thứ hai trở lại với chị đẹp Yum Jung Ah, \"cây hài\" Park Jun Myun cùng hai thành viên mới là diễn viên Lim Ji Yeon và Lee Jae Wook. Họ sẽ cùng khám phá những điểm đến mới, tự tay khai thác những nguyên liệu tươi ngon theo mùa và quây quần bên những bữa ăn ấm cúng.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.8"
+    },
+    {
       "id": "tt42798488",
       "type": "series",
       "name": "Trò Chơi Bắt Cóc (Phần 1)",
       "poster": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-poster.webp",
       "description": "Bộ phim xoay quanh một loạt các vụ bắt cóc đồng loạt tại 7 thành phố lớn ở châu Á (Tokyo, Seoul, Đài Bắc, Singapore, Bangkok, Naha, Manila), buộc các gia đình phải tham gia vào một trò chơi sinh tử thông qua các chỉ thị từ một email bí ẩn.",
-      "releaseInfo": "2026"
+      "releaseInfo": "2026",
+      "imdbRating": "9.3"
     },
     {
       "id": "tt38937897",
@@ -40,7 +74,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260927/chim-vao-mat-em-phan-1-poster.webp",
       "description": "Xoay quanh Lee A-ran (Bona), một vận động viên lặn trẻ tuổi phải dừng lại sự nghiệp vì hội chứng sợ nước sau một tai nạn bí ẩn. Khi trở lại ngôi trường cấp 3 ven biển, cô gặp lại Jang Se-jin (Park Seo-ham) — người bạn thơ ấu nắm giữ khả năng đọc được ký ức của người khác thông qua va chạm nước. Cả hai cùng nhau khám phá ra bí mật liên quan đến biến cố năm xưa và hành trình chữa lành tổn thương tâm lý.",
       "releaseInfo": "2026",
-      "imdbRating": "8.5"
+      "imdbRating": "8.3"
     },
     {
       "id": "tt39368345",
@@ -58,16 +92,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260914/yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em-poster.webp",
       "description": "Phim khai thác câu chuyện thực tế và đầy cảm xúc về cặp đôi Namgoong Ho và Lee Mi-do đã gắn bó bên nhau suốt 10 năm. Khi sự quen thuộc dần lấn át những rung động ban đầu và họ đứng trước ngưỡng cửa hôn nhân, mối quan hệ bắt đầu xuất hiện những vết rạn và khoảng cách.",
       "releaseInfo": "2026",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt34058365",
-      "type": "series",
-      "name": "Hương Vị Của Biển (Mùa 3)",
-      "poster": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-poster.webp",
-      "description": "Mùa thứ hai trở lại với chị đẹp Yum Jung Ah, \"cây hài\" Park Jun Myun cùng hai thành viên mới là diễn viên Lim Ji Yeon và Lee Jae Wook. Họ sẽ cùng khám phá những điểm đến mới, tự tay khai thác những nguyên liệu tươi ngon theo mùa và quây quần bên những bữa ăn ấm cúng.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.8"
+      "imdbRating": "6.7"
     },
     {
       "id": "tt7976532",
@@ -146,7 +171,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260802/sat-thu-noi-tro-poster.webp",
       "description": "Yoo Bo Na có một cuộc sống tưởng chừng bình thường bên chồng con và công việc quản lý bán hàng. Nhưng đằng sau vẻ ngoài của một người vợ, người mẹ mẫu mực, cô lại là “Kingfisher” – nữ sát thủ bắn tỉa khét tiếng chuyên xử lý những kẻ phạm tội thoát khỏi sự trừng phạt của pháp luật. Sau ba năm tạm rời nghề để sinh con, Bo Na buộc phải tái xuất và bước vào cuộc sống hai mặt đầy nguy hiểm. Trong lúc cố gắng giữ kín thân phận, cô không ngờ người chồng làm nghề phóng viên lại ngày càng tiến gần đến bí mật của mình.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5"
+      "imdbRating": "7.4"
     },
     {
       "id": "tt43648966",
@@ -155,7 +180,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260806/sep-chinh-la-than-tuong-bias-toi-sep-cua-toi-poster.webp",
       "description": "Nam Da Reum (Kim Hye Joon) là một fan cuồng đã theo đuổi thần tượng Lee Chan suốt 11 năm. Cô từ chối một công việc tốt để gia nhập công ty thời trang Appello, nơi Lee Chan hiện làm giám đốc sáng tạo, với hy vọng được làm việc gần thần tượng. Tuy nhiên, ngay trong ngày đầu tiên, Da Reum lại liên tục chạm mặt Kang Ha Gi (Kang Hoon) – vị CEO lạnh lùng nhưng tốt bụng của công ty. Những hiểu lầm và tình huống dở khóc dở cười khiến mối quan hệ giữa hai người ngày càng phát triển, trong khi Da Reum vẫn phải đối diện với tình cảm dành cho thần tượng Lee Chan.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3"
+      "imdbRating": "7.2"
     },
     {
       "id": "tt36808372",
@@ -182,7 +207,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-poster.webp",
       "description": "Kyung Hee, một influencer có gia đình kiểu mẫu và sự nghiệp đáng ngưỡng mộ. Nhưng khi phát hiện chồng mình che giấu một bí mật kinh hoàng, cô buộc phải cùng anh chôn vùi sự thật. Một tin nhắn nặc danh xuất hiện, kéo cả gia đình vào cơn ác mộng không lối thoát.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6"
+      "imdbRating": "7.5"
     },
     {
       "id": "tt3378278",
@@ -270,7 +295,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260712/phi-vu-chung-cu-poster.webp",
       "description": "Túng tiền, cựu trùm băng đảng nọ bắt tay với một người theo đuổi nghề luật sư để chiếm đoạt quỹ dự phòng của một khu chung cư, nào ngờ phát hiện đường dây tham nhũng có hệ thống.",
       "releaseInfo": "2026",
-      "imdbRating": "7.0"
+      "imdbRating": "6.9"
     },
     {
       "id": "tt34440854",
@@ -403,7 +428,7 @@
       "poster": "https://phimimg.com/upload/vod/20260627-1/9c11aa80dd2d77cb3130d3f41cf08f5f.jpg",
       "description": "Một ông bố yêu con từng là lính đặc nhiệm đáng gờm. Quản lý Kim phải đánh thức những kĩ năng đã ngủ quên để cứu con gái trong hành trình báo thù không khoan nhượng.",
       "releaseInfo": "2026",
-      "imdbRating": "8.1"
+      "imdbRating": "7.6"
     },
     {
       "id": "tt43592244",
@@ -474,7 +499,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260706/ky-niem-10-nam-phim-goblin-poster.webp",
       "description": "Kỷ niệm 10 năm phát sóng bộ phim Yêu Tinh từng gây sốt toàn châu Á, dàn diễn viên chính gồm Gong Yoo, Kim Go Eun, Lee Dong Wook và Yoo In Na đã hội ngộ trong một chuyến đi đặc biệt trở lại Gangneung. Họ cùng đến những địa điểm quay phim, tái hiện những cảnh quay và câu thoại đã trở thành biểu tượng và chia sẻ những câu chuyện hậu trường.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6"
+      "imdbRating": "7.4"
     },
     {
       "id": "tt40529147",
@@ -483,7 +508,7 @@
       "poster": "https://phimimg.com/upload/vod/20260401-1/2ce035e2b1c5494938e002300f9b939f.jpg",
       "description": "Khi giám đốc điều hành Seong Tae Hun bất ngờ bị điều chuyển công tác về ngôi làng hẻo lánh Yeonri-ri, gia đình anh bỗng chốc rơi vào cảnh hỗn loạn giữa cuộc sống nông thôn. Mi Ryeo chật vật thích nghi với công việc đồng áng, Ji Cheon bắt đầu phải suy nghĩ lại về tương lai của chính mình, trong khi vị trưởng làng luôn giữ thái độ cảnh giác và xa cách. Khi nỗi nhớ nhà ngày một lớn dần và những căng thẳng bắt đầu nảy sinh, cả gia đình phải đứng trước lựa chọn khó khăn: tiếp tục chịu đựng để hòa nhập hay tìm đường quay trở lại thành phố.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1"
+      "imdbRating": "7.2"
     },
     {
       "id": "tt27329405",
@@ -809,7 +834,7 @@
       "poster": "https://phimimg.com/upload/vod/20260326-1/fef2b9e88f9ac3cb7d7dd1cd331fcc30.jpg",
       "description": "Một tai nạn bất ngờ khiến ngôi sao hàng đầu Mo Mo (Baek Seo Ra) rơi vào hôn mê sâu, để lại người mẹ Ran Hui (Joo Se Bin) tuyệt vọng nhìn con gái dần tàn lụi. Trong khoảnh khắc giữa sống và chết, Ran Hui đưa ra quyết định điên rồ – đánh đổi chính mạng sống mình để cứu lấy Mo Mo. Từ đó, bác sĩ thiên tài Ju Sin (Jung E Chan) bước vào, người từng yêu Mo Mo và nay bị cuốn vào một thử nghiệm vượt qua ranh giới của Thượng Đế. Khi Mo Mo tỉnh lại, cô dường như là một người khác – nụ cười, ánh mắt, cách nói chuyện… tất cả đều lạ lẫm. Giữa những người đàn ông từng yêu cô và những bí mật ẩn sâu trong phòng thí nghiệm, câu hỏi ám ảnh dần hiện ra: khi ta yêu một người, ta yêu linh hồn hay thể xác? Bộ phim xoáy sâu vào ranh giới mong manh giữa khoa học và cảm xúc, giữa tình yêu và tội lỗi, nơi mọi lựa chọn đều mang theo cái giá không thể đo đếm.",
       "releaseInfo": "2026",
-      "imdbRating": "6.3"
+      "imdbRating": "6.4"
     },
     {
       "id": "tt31324295",
@@ -854,33 +879,6 @@
       "poster": "https://phimimg.com/upload/vod/20260314-1/3c0e3fe8e9dcfacb2ac5ff882a3b6af9.jpg",
       "description": "Bộ phim xoay quanh Shin Yi Rang (Yoo Yeon Seok), một luật sư bất ngờ có khả năng nhìn thấy hồn ma sau khi chuyển văn phòng đến nơi từng là nhà của một pháp sư. Những linh hồn mang theo uẩn khúc chưa được giải quyết tìm đến anh để nhờ giúp đỡ, buộc Yi Rang phải hóa thân, sống lại ký ức của họ nhằm tìm manh mối cho các vụ án. Đồng hành cùng anh là Han Na Hyun (Esom), nữ luật...Xem thêm",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "tt33364760",
-      "type": "series",
-      "name": "Điệp Vụ Thanh Xuân",
-      "poster": "https://phimimg.com/upload/vod/20250222-1/766117a9a994b533eb515dc7b84f92d7.jpg",
-      "description": "\"Điệp vụ thanh xuân\" là bộ phim hài hành động kể về Jung Hae Sung (Seo Kang Joon), đặc vụ xuất sắc của Cơ quan Tình báo Quốc gia Hàn Quốc (NIS). Sau một sự cố nghiêm trọng, anh bị giáng chức và nhận nhiệm vụ đặc biệt: giả dạng học sinh trung học để điều tra về kho vàng thất lạc của Hoàng đế Gojong.",
-      "releaseInfo": "2025",
-      "imdbRating": "8.7"
-    },
-    {
-      "id": "tt38629393",
-      "type": "series",
-      "name": "Cẩm Nang Yêu",
-      "poster": "https://phimimg.com/upload/vod/20260304-1/251f3e72d214418826f7ef6a3a96ce64.jpg",
-      "description": "Một người phụ nữ quyết tâm mở lòng mình đã đi hẹn hò giấu mặt với hai người đàn ông rất khác nhau, và giữa những hỗn loạn và sự quyến rũ của cuộc gặp gỡ, cuối cùng cô ấy đã hiểu được ý nghĩa thực sự của tình yêu đối với mình.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.6"
-    },
-    {
-      "id": "tt30324574",
-      "type": "series",
-      "name": "Nghi Phạm Cận Kề (Kẻ Phản Bội Thân Mật)",
-      "poster": "https://phimimg.com/upload/vod/20260426-1/f1b513d8075df0a157d55bfe2acdc6cf.jpg",
-      "description": "Một chuyên gia phân tích tội phạm bắt đầu đặt câu hỏi về mọi thứ anh từng tin về việc tìm kiếm công lý sau khi biết con gái mình có liên quan đến một vụ án giết người.",
-      "releaseInfo": "2024",
-      "imdbRating": "7.6"
     }
   ]
 }
