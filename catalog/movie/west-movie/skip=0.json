@@ -1,6 +1,23 @@
 {
   "metas": [
     {
+      "id": "tt1365519",
+      "type": "movie",
+      "name": "Tomb Raider: Huyền Thoại Bắt Đầu",
+      "poster": "https://phimimg.com/upload/vod/20251002-1/4a17777db8336a77babdbe6a63558ae4.jpg",
+      "description": "Tomb Raider kể về chuyến hành trình đầy hiểm nguy của cô gái trẻ Lara Croft nhằm tìm ra lời giải cho cái chết bí ẩn của cha mình. Trước khi qua đời, ông đã để lại lời nhắn cho cô về một tổ chức tên Trinity đang cố khởi động kế hoạch diệt chủng toàn thế giới. Lara Croft lên đường đến Biển Quỷ để thực hiện di chúc của cha. Đây là một địa danh có thật và được biết tới với tên gọi là Tam Giác Rồng, nằm trong vùng biển Nhật Bản và nổi tiếng bởi những vụ mất tích tàu thuyền bí ẩn.",
+      "releaseInfo": "2018",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt28498219",
+      "type": "movie",
+      "name": "Matchbox: Phim Điện Ảnh",
+      "poster": "https://phimimg.com/uploads/movies/20261011/matchbox-phim-dien-anh-poster.webp",
+      "description": "Cuộc hội ngộ của một nhóm bạn thuở nhỏ bỗng rẽ vào một bước ngoặt bất ngờ khi cả bọn rơi vào một âm mưu quốc tế nguy hiểm và phải đứng lên cứu thế giới.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt0228333",
       "type": "movie",
       "name": "Bóng Ma Trên Sao Hỏa",
@@ -183,7 +200,8 @@
       "name": "Quan Phu: Đến Khi Cái Chết Chia Lìa",
       "poster": "https://phimimg.com/uploads/movies/20261001/quan-phu-den-khi-cai-chet-chia-lia-poster.webp",
       "description": "Trong phim tài liệu này, một nhà báo và một thanh tra phanh phui sự thật về một kẻ sát nhân có sức hút che giấu cả một chuỗi hôn nhân đổ vỡ và những cái chết đáng ngờ.",
-      "releaseInfo": "2026"
+      "releaseInfo": "2026",
+      "imdbRating": "6.6"
     },
     {
       "id": "tt0092906",
@@ -353,7 +371,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260922/chat-poster.webp",
       "description": "Khởi đầu mới của một gia đình tại ngôi nhà mới bỗng chốc sụp đổ khi đứa con trai của họ phát hiện ra một chiếc máy tính bảng tích hợp công nghệ trí tuệ nhân tạo (AI). Chiếc máy đã giải phóng một làn sóng kinh hoàng không chỉ liên quan đến các thế lực siêu nhiên mà còn dính líu đến những bí mật đen tối về lòng tham và sự tham nhũng đang bủa vằn quanh họ.",
       "releaseInfo": "2026",
-      "imdbRating": "4.7"
+      "imdbRating": "2.9"
     },
     {
       "id": "tt0080040",
@@ -872,24 +890,6 @@
       "description": "Khi vợ chốt được một thương vụ trên Shark Tank, Nate trở thành ông bố nội trợ của ba cô con gái. Hành trình đầy tiếng cười giúp anh khám phá ý nghĩa thực sự của gia đình.",
       "releaseInfo": "2026",
       "imdbRating": "5.6"
-    },
-    {
-      "id": "tt21815562",
-      "type": "movie",
-      "name": "Những Hiệp Sĩ Alto",
-      "poster": "https://phimimg.com/uploads/movies/20260906/nhung-hiep-si-alto-poster.webp",
-      "description": "Hai ông trùm khét tiếng Frank Costello và Vito Genovese từng là bạn thân, nhưng ganh tị và phản bội đã biến họ thành kẻ thù không đội trời chung. Cuộc chiến giành quyền lực giữa họ không chỉ định hình lại thế giới ngầm New York, mà còn làm rung chuyển cả nước Mỹ.",
-      "releaseInfo": "2025",
-      "imdbRating": "5.9"
-    },
-    {
-      "id": "tt0974583",
-      "type": "movie",
-      "name": "Hồ Cá Sấu 2",
-      "poster": "https://phimimg.com/uploads/movies/20260906/ho-ca-sau-2-poster.webp",
-      "description": "Cá sấu ăn thịt người quay trở lại hồ nước khi hai con cá sấu đực cùng một con cá sấu mái cực kỳ hung dữ — kẻ đang điên cuồng bảo vệ tổ trứng của mình — gieo rắc kinh hoàng và tàn phá cuộc sống của người dân địa phương.",
-      "releaseInfo": "2007",
-      "imdbRating": "3.2"
     }
   ]
 }

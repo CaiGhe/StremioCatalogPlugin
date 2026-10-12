@@ -1,6 +1,24 @@
 {
   "metas": [
     {
+      "id": "tt21815562",
+      "type": "movie",
+      "name": "Những Hiệp Sĩ Alto",
+      "poster": "https://phimimg.com/uploads/movies/20260906/nhung-hiep-si-alto-poster.webp",
+      "description": "Hai ông trùm khét tiếng Frank Costello và Vito Genovese từng là bạn thân, nhưng ganh tị và phản bội đã biến họ thành kẻ thù không đội trời chung. Cuộc chiến giành quyền lực giữa họ không chỉ định hình lại thế giới ngầm New York, mà còn làm rung chuyển cả nước Mỹ.",
+      "releaseInfo": "2025",
+      "imdbRating": "5.9"
+    },
+    {
+      "id": "tt0974583",
+      "type": "movie",
+      "name": "Hồ Cá Sấu 2",
+      "poster": "https://phimimg.com/uploads/movies/20260906/ho-ca-sau-2-poster.webp",
+      "description": "Cá sấu ăn thịt người quay trở lại hồ nước khi hai con cá sấu đực cùng một con cá sấu mái cực kỳ hung dữ — kẻ đang điên cuồng bảo vệ tổ trứng của mình — gieo rắc kinh hoàng và tàn phá cuộc sống của người dân địa phương.",
+      "releaseInfo": "2007",
+      "imdbRating": "3.2"
+    },
+    {
       "id": "tt44942157",
       "type": "movie",
       "name": "Instadocs: Máy Bay Mồi Nhử",
@@ -204,7 +222,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260829/grand-theft-auto-vi-cai-nhin-sau-hon-poster.webp",
       "description": "Video tập trung khai thác mối quan hệ kiểu \"Bonnie và Clyde\" giữa Lucia và Jason. Người chơi có thể chuyển đổi mượt mà giữa hai nhân vật này khi thực hiện nhiệm vụ hoặc khám phá thế giới mở, kết hợp chiến đấu đồng đội ăn ý hơn so với các phần trước.",
       "releaseInfo": "2026",
-      "imdbRating": "8.2"
+      "imdbRating": "8.3"
     },
     {
       "id": "tt2404435",
@@ -877,24 +895,6 @@
       "description": "Tom Junod, một nhà báo đoạt nhiều giải thưởng nhưng có tính hay hoài nghi đã chấp nhận trong niềm ghen tỵ khi nhận lời viết một bài về tiểu sử về Fred Rogers – một biểu tượng truyền hình nước Mỹ được nhiều người yêu mến. Nhờ đó anh ta đã vượt qua sự hoài nghi, học cách biết cảm thông và cả sự khuôn phép, lễ nghi, tính lịch sự từ “người hàng xóm” đáng mến nhất nước Mỹ này.",
       "releaseInfo": "2019",
       "imdbRating": "7.2"
-    },
-    {
-      "id": "tt3009772",
-      "type": "movie",
-      "name": "Hễ Vui Là Xỉu",
-      "poster": "https://phimimg.com/upload/vod/20250616-1/e8ce03e9b61da687fb0e9252179285f4.jpg",
-      "description": "Charlie mắc chứng rối loạn hiếm gặp khiến anh xỉu khi cảm thấy hạnh phúc. Charlie đã tìm cách từ chối niềm vui nhưng rồi một người phụ nữ xuất hiện và thay đổi hoàn toàn cuộc đời anh.",
-      "releaseInfo": "2019",
-      "imdbRating": "6.4"
-    },
-    {
-      "id": "tt6902696",
-      "type": "movie",
-      "name": "Gái Già Phố Thị",
-      "poster": "https://phimimg.com/upload/vod/20240108-1/dacba293babefebb27b592eb170cc087.jpg",
-      "description": "Quý Cô Gloria Bell nói về một người phụ nữ vừa tìm thấy được tự do sau khi ly dị. Ban ngày, cô dành thời gian cho một công việc tại văn phòng và ban đêm bung lụa hết cỡ trên sàn nhảy của các câu lạc bộ khắp Los Angeles...",
-      "releaseInfo": "2018",
-      "imdbRating": "6.3"
     }
   ]
 }
