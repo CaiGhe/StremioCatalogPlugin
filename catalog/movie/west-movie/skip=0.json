@@ -1,6 +1,33 @@
 {
   "metas": [
     {
+      "id": "tt0103644",
+      "type": "movie",
+      "name": "Quái Vật Không Gian 3",
+      "poster": "https://phimimg.com/uploads/movies/20261012/quai-vat-khong-gian-3-poster.webp",
+      "description": "Trốn thoát khỏi hành tinh chết chóc, số phận đã quá khắc nghiệt với Ripley khi bắt cô luôn đơn độc trước hiểm nguy, những người bạn đồng hành lần lượt bỏ xác trong vũ trụ sâu thẳm. Tàu cứu sinh đưa Ripley lạc đến 1 hành tinh hoang vắng, nơi lưu đày tù nhân liên hành tinh. Nhưng sự hiểm nguy luôn rình rập, khi 1 tế bào quái vật ký sinh đã kịp len lỏi vào trong thân tàu cứu sinh kia của Ripley. Một lần nữa, cuộc chiến đấu sinh tồn không khoan nhượng lại bùng nổ nhưng lần này, cái giá phải trả là quá lớn...",
+      "releaseInfo": "1992",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt0090605",
+      "type": "movie",
+      "name": "Quái Vật Không Gian 2",
+      "poster": "https://phimimg.com/uploads/movies/20261012/quai-vat-khong-gian-2-poster.webp",
+      "description": "Từ sau thảm họa tàu Nostromo, cùng 57 năm trôi dạt trong không gian, dường như câu chuyện về lòai quái vật ký sinh của Ripley không được Liên đòan Thương mại công nhận. Một ngày nọ, một tiểu hành tinh bỗng nhiên bị mất liên lạc hòan tòan với trái đất, để xác minh sự việc, Liên đòan cử Ripley cùng một tóan đặc nhiệm thẳng tiến đến tiểu hành tinh nọ. Cũng như số phận của những con người trên tàu Nostromo thuở nào, họ lại tiến vào địa ngục không lối thoát, đó là hành tinh xa lạ tràn ngập lũ quái vật ký sinh đang không ngừng phát triển cùng những mưu mô toan tính và lòng tham vô đáy của con người…",
+      "releaseInfo": "1986",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt0078748",
+      "type": "movie",
+      "name": "Quái Vật Không Gian",
+      "poster": "https://phimimg.com/uploads/movies/20261012/quai-vat-khong-gian-poster.webp",
+      "description": "Alien 1 (Quái Vật Không Gian) là phần mở đầu series phim khoa học viễn tưởng, kinh dị Alien. Bộ phim lấy bối cảnh không gian bao la, thiên hà xa xôi, tàu Nostromo như thông lệ hướng thẳng Trái đất chở chuyến quặng cuối cùng của đợt hàng nhưng 1 tín hiệu lạ đã khiến họ thay đổi lịch trình. 1 tín hiệu phát ra từ 1 con tàu xa lạ, cứ ngỡ là tín hiệu SOS, phi hành đoàn thẳng hướng tiếp cứu nhưng họ không hề biết đó là đường vào địa ngục không lối thoát. Tin nhắn kia chẳng phải là tin nhắn SOS mà đó là 1 tín hiệu...cảnh báo nguy hiểm khi 1 chủng loài quái vật chuyên ký sinh bắt đầu xuất hiện...",
+      "releaseInfo": "1979",
+      "imdbRating": "8.4"
+    },
+    {
       "id": "tt1365519",
       "type": "movie",
       "name": "Tomb Raider: Huyền Thoại Bắt Đầu",
@@ -200,8 +227,7 @@
       "name": "Quan Phu: Đến Khi Cái Chết Chia Lìa",
       "poster": "https://phimimg.com/uploads/movies/20261001/quan-phu-den-khi-cai-chet-chia-lia-poster.webp",
       "description": "Trong phim tài liệu này, một nhà báo và một thanh tra phanh phui sự thật về một kẻ sát nhân có sức hút che giấu cả một chuỗi hôn nhân đổ vỡ và những cái chết đáng ngờ.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.6"
+      "releaseInfo": "2026"
     },
     {
       "id": "tt0092906",
@@ -371,7 +397,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260922/chat-poster.webp",
       "description": "Khởi đầu mới của một gia đình tại ngôi nhà mới bỗng chốc sụp đổ khi đứa con trai của họ phát hiện ra một chiếc máy tính bảng tích hợp công nghệ trí tuệ nhân tạo (AI). Chiếc máy đã giải phóng một làn sóng kinh hoàng không chỉ liên quan đến các thế lực siêu nhiên mà còn dính líu đến những bí mật đen tối về lòng tham và sự tham nhũng đang bủa vằn quanh họ.",
       "releaseInfo": "2026",
-      "imdbRating": "2.9"
+      "imdbRating": "4.7"
     },
     {
       "id": "tt0080040",
@@ -863,33 +889,6 @@
       "description": "Trước khi qua đời, nhà hoạt động Gloria Steinem gửi gắm thông điệp chân thành cuối cùng đến thế giới, biết rằng buổi phỏng vấn này chỉ lên sóng sau khi bà đã ra đi.",
       "releaseInfo": "2026",
       "imdbRating": "8.1"
-    },
-    {
-      "id": "tt28014327",
-      "type": "movie",
-      "name": "Báo Động Mayday",
-      "poster": "https://phimimg.com/uploads/movies/20260906/bao-dong-mayday-poster.webp",
-      "description": "Khi một phi công hải quân Hoa Kỳ bị mắc kẹt bên chiến tuyến địch khi đang thực hiện nhiệm vụ tối mật thời Chiến tranh Lạnh, cơ hội sống sót duy nhất của anh là bắt tay liên minh với một cựu đặc vụ KGB lập dị.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.9"
-    },
-    {
-      "id": "tt2117905",
-      "type": "movie",
-      "name": "Hồ Cá Sấu: Chương Cuối",
-      "poster": "https://phimimg.com/uploads/movies/20260906/ho-ca-sau-chuong-cuoi-poster.webp",
-      "description": "Nữ kiểm lâm chuẩn bị sẵn sàng vũ khí khi một nhóm sinh viên đi lạc vào \"khu bảo tồn thiên nhiên\" đầy rẫy những con cá sấu chết chóc thích ăn thịt người.",
-      "releaseInfo": "2013",
-      "imdbRating": "3.6"
-    },
-    {
-      "id": "tt34459219",
-      "type": "movie",
-      "name": "Khi Bố Thất Thủ / Trụ Cột Gia Đình",
-      "poster": "https://phimimg.com/uploads/movies/20260730/khi-bo-that-thu-poster.webp",
-      "description": "Khi vợ chốt được một thương vụ trên Shark Tank, Nate trở thành ông bố nội trợ của ba cô con gái. Hành trình đầy tiếng cười giúp anh khám phá ý nghĩa thực sự của gia đình.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.6"
     }
   ]
 }
