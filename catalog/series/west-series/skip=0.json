@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt35051210",
+      "type": "series",
+      "name": "TYSON",
+      "poster": "https://phimimg.com/uploads/movies/20261014/tyson-poster.webp",
+      "description": "Loạt phim tài liệu bốn tập lôi cuốn này khám phá cuộc đời đầy giông bão của Mike Tyson, một trong những nhân vật đáng sợ và cuốn hút nhất lịch sử thể thao.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt26591147",
       "type": "series",
       "name": "Matlock (Phần 2)",
@@ -398,7 +406,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260718/cuoc-dua-sinh-tu-poster.webp",
       "description": "Một cựu tội phạm đã hoàn lương buộc phải đối mặt với quá khứ và quay trở lại các hoạt động bất hợp pháp cho một phi vụ cuối cùng, với hy vọng giành được tự do và chấm dứt cuộc sống cũ mãi mãi.",
       "releaseInfo": "2026",
-      "imdbRating": "6.6"
+      "imdbRating": "6.7"
     },
     {
       "id": "tt6473344",
@@ -882,15 +890,6 @@
       "description": "Vào năm 1882, khi Thời kỳ Hoàng kim của nước Mỹ đang ở giai đoạn đỉnh cao rực rỡ, Marian Brook — cô con gái mồ côi trẻ tuổi của một vị tướng miền Nam — đã chuyển đến New York để sống cùng các dì của mình, những người luôn tuân thủ các quy tắc truyền thống một cách cứng nhắc. Với sự giúp đỡ của Peggy Scott, một phụ nữ Mỹ gốc Phi đang giả làm hầu gái của cô, Marian bị cuốn vào cuộc sống hào nhoáng của những người hàng xóm giàu có, đồng thời phải đấu tranh để lựa chọn giữa việc tuân theo các chuẩn mực xã hội cũ kỹ hay tự tìm kiếm lối đi riêng cho chính mình.",
       "releaseInfo": "2025",
       "imdbRating": "8.1"
-    },
-    {
-      "id": "tt3061830",
-      "type": "series",
-      "name": "Bên Nhau (Phần 2)",
-      "poster": "https://phimimg.com/upload/vod/20260630-1/ccd066a0b67d0c0d14854f77d7b1fceb.jpg",
-      "description": "Bốn người trưởng thành đang cận kề ngưỡng tuổi 40, cùng sống chung dưới một mái nhà, phải chật vật đấu tranh để vừa gìn giữ các mối quan hệ tình cảm, vừa nuôi dưỡng những ước mơ cá nhân của riêng mình.",
-      "releaseInfo": "2016",
-      "imdbRating": "7.5"
     }
   ]
 }
