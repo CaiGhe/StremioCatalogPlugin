@@ -1,6 +1,41 @@
 {
   "metas": [
     {
+      "id": "tt17491088",
+      "type": "series",
+      "name": "Nhà Ngoại Giao (Phần 4)",
+      "poster": "https://phimimg.com/uploads/movies/20261016/nha-ngoai-giao-phan-4-poster.webp",
+      "description": "Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng với một chính trị gia nổi tiếng.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt35673115",
+      "type": "series",
+      "name": "Nghệ Thuật Hollywood",
+      "poster": "https://phimimg.com/uploads/movies/20261016/nghe-thuat-hollywood-poster.webp",
+      "description": "Đến giờ vào lớp tại Hollywood Arts! Biểu tượng tự phong Trina Vega quay lại dẫn dắt nhóm thiếu niên tài năng trên con đường tới hào quang, địa vị và những màn náo loạn hài hước.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt5875444",
+      "type": "series",
+      "name": "Những Điệp Viên Hết Thời (Phần 6)",
+      "poster": "https://phimimg.com/uploads/movies/20260925/nhung-diep-vien-het-thoi-phan-6-poster.webp",
+      "description": "Bộ phim điệp viên hài hước theo chân hành trình của một nhóm đặc vụ MI5 vô tích sự và ông sếp đáng ghét của họ - Jackson Lamb khét tiếng - trong thế giới tình báo đầy lừa lọc nhằm bảo vệ nước Anh trước những thế lực xấu xa.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt6773088",
+      "type": "series",
+      "name": "Tình Anh Em (Phần 1)",
+      "poster": "https://phimimg.com/uploads/movies/20261008/tinh-anh-em-phan-1-poster.webp",
+      "description": "Hai tài tử Hollywood Matthew McConaughey và Woody Harrelson là đôi bạn thân nhiều năm—nhưng một bí mật gia đình chấn động cho thấy mối thâm tình này có thể còn khăng khít hơn thế.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.2"
+    },
+    {
       "id": "tt7235466",
       "type": "series",
       "name": "Cuộc Gọi Khẩn Cấp 9-1-1 (Phần 9",
@@ -72,24 +107,6 @@
       "imdbRating": "8.7"
     },
     {
-      "id": "tt5875444",
-      "type": "series",
-      "name": "Những Điệp Viên Hết Thời (Phần 6)",
-      "poster": "https://phimimg.com/uploads/movies/20260925/nhung-diep-vien-het-thoi-phan-6-poster.webp",
-      "description": "Bộ phim điệp viên hài hước theo chân hành trình của một nhóm đặc vụ MI5 vô tích sự và ông sếp đáng ghét của họ - Jackson Lamb khét tiếng - trong thế giới tình báo đầy lừa lọc nhằm bảo vệ nước Anh trước những thế lực xấu xa.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.4"
-    },
-    {
-      "id": "tt6773088",
-      "type": "series",
-      "name": "Tình Anh Em (Phần 1)",
-      "poster": "https://phimimg.com/uploads/movies/20261008/tinh-anh-em-phan-1-poster.webp",
-      "description": "Hai tài tử Hollywood Matthew McConaughey và Woody Harrelson là đôi bạn thân nhiều năm—nhưng một bí mật gia đình chấn động cho thấy mối thâm tình này có thể còn khăng khít hơn thế.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.2"
-    },
-    {
       "id": "tt5743796",
       "type": "series",
       "name": "Chiến Binh (Phần 3)",
@@ -122,7 +139,8 @@
       "name": "Phía Đông Vườn Địa Đàng",
       "poster": "https://phimimg.com/uploads/movies/20261002/phia-dong-vuon-dia-dang-2026-poster.webp",
       "description": "Đầu những năm 1900, một người phụ nữ vô cùng độc lập gây rạn nứt giữa hai anh em, châm ngòi cho câu chuyện kéo dài qua hai thế hệ.",
-      "releaseInfo": "2026"
+      "releaseInfo": "2026",
+      "imdbRating": "8.1"
     },
     {
       "id": "tt14186672",
@@ -157,7 +175,8 @@
       "name": "Một thế giới khác biệt (Phần 1)",
       "poster": "https://phimimg.com/uploads/movies/20260925/mot-the-gioi-khac-biet-phan-1-poster.webp",
       "description": "Một cô sinh viên năm nhất cùng hội bạn chí cốt xoay xở với chuyện học hành, rắc rối tình cảm và truyền thống gia đình tại trường đại học dành cho người Mỹ da đen có bề dày lịch sử.",
-      "releaseInfo": "2026"
+      "releaseInfo": "2026",
+      "imdbRating": "6.8"
     },
     {
       "id": "tt27497393",
@@ -874,24 +893,6 @@
       "description": "Những thời khắc tuyệt vọng đòi hỏi những biện pháp cực đoan, và hoàn cảnh của Ray Drecker lúc này quả thực không thể bi đát hơn. Từ một huyền thoại thể thao thời trung học, giờ đây ở tuổi trung niên, anh phải chật vật với đồng lương huấn luyện viên bóng rổ, vừa ly dị vợ, vừa phải gồng gánh nuôi con thì căn nhà vốn đã xập xệ lại bất ngờ bị hỏa hoạn. Để tìm kiếm một công việc tay trái nhằm trang trải cuộc sống, Ray quyết định khai thác \"vốn tự có\" trời ban của mình như một nỗ lực cuối cùng để thay đổi số phận.",
       "releaseInfo": "2011",
       "imdbRating": "7.2"
-    },
-    {
-      "id": "tt11468254",
-      "type": "series",
-      "name": "Đội Đặc Nhiệm Bí Mật Nhà Trắng",
-      "poster": "https://phimimg.com/upload/vod/20260630-1/733a04ba3828abf2d0b743ad9844d5cc.jpg",
-      "description": "Câu chuyện có thật về việc những kẻ phá hoại chính trị và cũng là những bộ óc đạo diễn vụ Watergate của chính Tổng thống Nixon, đã vô tình lật đổ chính chiếc ghế Tổng thống mà họ đang dùng mọi cách cực đoan nhất để ra sức bảo vệ.",
-      "releaseInfo": "2023",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt4406178",
-      "type": "series",
-      "name": "Thời Đại Vàng Son (Phần 3)",
-      "poster": "https://phimimg.com/upload/vod/20260630-1/b40d9aeb7bf30700d38e26ee48d2699e.jpg",
-      "description": "Vào năm 1882, khi Thời kỳ Hoàng kim của nước Mỹ đang ở giai đoạn đỉnh cao rực rỡ, Marian Brook — cô con gái mồ côi trẻ tuổi của một vị tướng miền Nam — đã chuyển đến New York để sống cùng các dì của mình, những người luôn tuân thủ các quy tắc truyền thống một cách cứng nhắc. Với sự giúp đỡ của Peggy Scott, một phụ nữ Mỹ gốc Phi đang giả làm hầu gái của cô, Marian bị cuốn vào cuộc sống hào nhoáng của những người hàng xóm giàu có, đồng thời phải đấu tranh để lựa chọn giữa việc tuân theo các chuẩn mực xã hội cũ kỹ hay tự tìm kiếm lối đi riêng cho chính mình.",
-      "releaseInfo": "2025",
-      "imdbRating": "8.1"
     }
   ]
 }

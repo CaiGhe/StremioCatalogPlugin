@@ -1,6 +1,24 @@
 {
   "metas": [
     {
+      "id": "tt0104897",
+      "type": "movie",
+      "name": "Lắm Tiền Nhiều Tội",
+      "poster": "https://phimimg.com/uploads/movies/20261015/lam-tien-nhieu-toi-poster.webp",
+      "description": "Để gây ấn tượng với một cô gái, một tay lừa đảo xin vào làm tại công ty thẻ tín dụng – nơi cơ hội làm giàu nhanh chóng trở nên khó cưỡng lại.",
+      "releaseInfo": "1992",
+      "imdbRating": "5.5"
+    },
+    {
+      "id": "tt0139239",
+      "type": "movie",
+      "name": "Go",
+      "poster": "https://phimimg.com/uploads/movies/20261015/go-1999-poster.webp",
+      "description": "Trong tác phẩm tiếp nối Swingers với tiết tấu dồn dập, những biến cố bất ngờ đưa một nhóm nhân vật vốn chẳng liên quan xích lại gần nhau trong một ngày mà cuộc sống của họ đan xen",
+      "releaseInfo": "1999",
+      "imdbRating": "7.2"
+    },
+    {
       "id": "tt6791096",
       "type": "movie",
       "name": "Chị Thấy Chị Đẹp",
@@ -872,23 +890,6 @@
       "name": "Tại Sao Tôi Lại Kết Hôn Nữa?",
       "poster": "https://phimimg.com/uploads/movies/20260910/tai-sao-toi-lai-ket-hon-nua-poster.webp",
       "description": "Các cặp đôi tái ngộ trong đám cưới của con gái của Marcus và Angela tại một điểm du lịch. Những rắc rối cũ lẫn mới lại kéo đến, khiến họ tự hỏi: \"Tại sao chúng ta lại kết hôn nhỉ?\"",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt32332915",
-      "type": "movie",
-      "name": "Anh Muốn \"Yêu\" Với Em",
-      "poster": "https://phimimg.com/uploads/movies/20260908/anh-muon-yeu-voi-em-poster.webp",
-      "description": "Khi Elliot ngây thơ nhận được một công việc mơ ước cho Erika Tracy — nữ nghệ sĩ lừng danh, biểu tượng đầy khiêu khích — những tưởng ảo tưởng của anh đã thành hiện thực khi Erika chọn anh làm \"chàng thơ\" tình dục của mình. Tuy nhiên, Elliot sớm nhận ra mình đã vượt quá giới hạn kiểm soát khi Erika đưa anh vào một hành trình sâu sắc hơn nhiều so với những gì anh từng hình dung: một thế giới của tình dục, sự ám ảnh, quyền lực, phản bội và cả án mạng.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.0"
-    },
-    {
-      "id": "tt27419466",
-      "type": "movie",
-      "name": "Hành Trình Của Moana",
-      "poster": "https://phimimg.com/uploads/movies/20260908/hanh-trinh-cua-moana-2026-poster.webp",
-      "description": "Nghe theo tiếng gọi của Đại Dương, Moana dũng cảm rời đảo Motunui, lần đầu vượt qua rạn san hô để khám phá thế giới rộng lớn. Cùng á thần Maui, cô bắt đầu hành trình phiêu lưu đầy kỳ diệu với sứ mệnh mang lại sự thịnh vượng cho quê hương.",
       "releaseInfo": "2026"
     }
   ]
