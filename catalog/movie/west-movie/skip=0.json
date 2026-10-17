@@ -1,6 +1,15 @@
 {
   "metas": [
     {
+      "id": "tt48437216",
+      "type": "movie",
+      "name": "Instadocs: AI mất kiểm soát",
+      "poster": "https://phimimg.com/uploads/movies/20261016/instadocs-ai-mat-kiem-soat-poster.webp",
+      "description": "Có phải AI đã phạm trọng tội? \"Instadocs\" điều tra vụ hack Hugging Face và lý do vụ tấn công mạng này có thể là phát súng cảnh báo cho tương lai của nhân loại.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.8"
+    },
+    {
       "id": "tt0104897",
       "type": "movie",
       "name": "Lắm Tiền Nhiều Tội",
@@ -883,14 +892,6 @@
       "description": "Việc sẩy thai khiến Kate và John, đặc biệt là Kate trở nên trầm cảm và bị ám ảnh bởi những cơn ác mộng khủng khiếp. Trong những nỗ lực để tìm lại cuộc sống bình thường, họ quyết định sẽ nhận con nuôi. Tại trại trẻ mồ côi địa phương, cả John và Kate rồi cảm thấy họ bị thu hút một cách kỳ lạ bởi cô bé Esther (Isabelle Fuhrman). Tuy nhiên, ngay khi họ chào đón Esther về nhà, thì một thuỗi các sự kiện lạ xảy ra, khiến Kate tin rằng có điều gì đó không ổn với Esther, rằng cô bé ấy không đơn giản như những gì cô bé thể hiện. Lo lắng về sự an nguy của gia đình, Kate cố gắng thuyết phục John và những người khác tìm hiểu bộ mặt thật của Esther. Nhưng chẳng ai chú ý đến lời cảnh báo của cô, cho đến khi mọi việc quá muộn.",
       "releaseInfo": "2009",
       "imdbRating": "7.0"
-    },
-    {
-      "id": "tt38061210",
-      "type": "movie",
-      "name": "Tại Sao Tôi Lại Kết Hôn Nữa?",
-      "poster": "https://phimimg.com/uploads/movies/20260910/tai-sao-toi-lai-ket-hon-nua-poster.webp",
-      "description": "Các cặp đôi tái ngộ trong đám cưới của con gái của Marcus và Angela tại một điểm du lịch. Những rắc rối cũ lẫn mới lại kéo đến, khiến họ tự hỏi: \"Tại sao chúng ta lại kết hôn nhỉ?\"",
-      "releaseInfo": "2026"
     }
   ]
 }
