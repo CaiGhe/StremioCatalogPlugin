@@ -1,87 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt21996220",
-      "type": "movie",
-      "name": "Hoa hồng Versailles",
-      "poster": "https://image.tmdb.org/t/p/w500/gPmmHX9Ipcl0pgwAuKmScZQFAGK.jpg",
-      "description": "Oscar François de Jarjayes, một cô gái được cha mình nuôi dạy như một người con trai để trở thành đội trưởng Cận vệ Hoàng gia, bảo vệ Hoàng hậu Marie Antoinette. Oscar sống trong một thế giới của sự xa hoa, âm mưu cung đình và những định kiến xã hội. Cô bị giằng xé giữa lòng trung thành với hoàng gia và tình cảm ngày càng lớn đối với người dân bị áp bức.",
-      "releaseInfo": "2025",
-      "imdbRating": "5.8"
-    },
-    {
-      "id": "tt26684398",
-      "type": "movie",
-      "name": "Gia Đình x Điệp Viên Mã: Trắng",
-      "poster": "https://image.tmdb.org/t/p/w500/xvcRvmpTIB37z4ga3AjFPrajE8o.jpg",
-      "description": "Trong bộ phim lần này, sau khi nhận được yêu cầu thay thế mình trong Chiến dịch Strix, Loid Forger quyết định giúp con gái Anya chiến thắng trong cuộc thi nấu ăn tại Học viện Eden bằng cách nấu bữa ăn yêu thích của hiệu trưởng để tránh bị thay thế khỏi nhiệm vụ mật. Nhưng từ đây, gia đình Forger phát hiện ra bí mật kinh hoàng ảnh hưởng đến hòa bình thế giới.",
-      "releaseInfo": "2023",
-      "imdbRating": "7.3"
-    },
-    {
-      "id": "tt0102812",
-      "type": "movie",
-      "name": "老人Z",
-      "poster": "https://image.tmdb.org/t/p/w500/kpJBEfjC9l7BFhmmGPmkNB8gl6h.jpg",
-      "description": "Mr. Takazawa, an elderly invalid who is cared for at his home by Haruko, a young nursing student, is chosen by the Japanese Ministry of Public Welfare to test the Z-001, a computerized hospital bed with robotic features that allegedly displays more efficiency and skills than any human nurse, but Haruko mistrusts a machine unable to consider human feelings.",
-      "releaseInfo": "1991",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt1999167",
-      "type": "movie",
-      "name": "Naruto Shippuden Movie 5: Huyết Ngục",
-      "poster": "https://image.tmdb.org/t/p/w500/4WT7zYFpe0fsbg6TitppiHddWAh.jpg",
-      "description": "Naruto bị bắt sau khi bị kết tội mưu đồ ám sát Raikage, lãnh đạo tối cao của làng Mây cũng như sát hại các ninja Thượng đẳng của làng Sương Mù và làng Đá, Naruto sau đó bị giam vào ngục Hozukijou (còn được gọi là Huyết Ngục).",
-      "releaseInfo": "2011",
-      "imdbRating": "7.1"
-    },
-    {
-      "id": "tt0189974",
-      "type": "movie",
-      "name": "ルパン三世『ワルサーP38』",
-      "poster": "https://image.tmdb.org/t/p/w500/9R23LFhmlzDGpYpKYjFyJ7XjRt7.jpg",
-      "description": "Lupin is framed for the murder of Inspector Zenigata by a mysterious assailant holding a silver-coloured Walther P38 pistol Lupin himself once owned. Tracking the true killer leads Lupin to the island of the bloodthirsty Tarantula assassins inside the Devil’s Triangle. After joining the spider-tattooed army against their will, Lupin and his gang make both new friends and enemies as they not only plan to take home the Tarantulas’ massive gold repository for themselves, but hunt down the shooter from Lupin’s past. Can Lupin put to rest this demon who haunts his memories with the Walther P38?",
-      "releaseInfo": "1997",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt13544716",
-      "type": "movie",
-      "name": "Học Viện Anh Hùng 3: Nhiệm Vụ Giải Cứu Thế Giới",
-      "poster": "https://image.tmdb.org/t/p/w500/3agqNqJq7Dzp3dANI89xNaaFgdh.jpg",
-      "description": "My Hero Academia: World Heroes' Mission sẽ tiếp nối các dự kiện diễn ra sau mùa 5 của anime TV. Một nhóm người bí ẩn tự xưng là Humarize rất tin tưởng vòa giả thuyết những đứa trẻ sở hữu Quirk có thể khiến sự sống của nhân loại kết thúc. Vì thế, họ thực hiện nhiệm vụ thanh lọc những đứa trẻ sở hữu Quirk, nhưng đồng thời cũng gây ra sự phá hoại khủng khiếp và hủy diệt vô số sinh mệnh.  Để cứu mọi người, các anh hùng chuyên nghiệp đã yêu cầu các anh hùng của trường trng học U.A ra tay ứng cứu. Thế nhưng trong quá trình thực hiện nhiệm vụ có những rắc rối đã xảy ra khiến thế giới thêm phần hỗn loạn.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.0"
-    },
-    {
-      "id": "tt0814243",
-      "type": "movie",
-      "name": "One Piece: Đảo Châu Báu",
-      "poster": "https://image.tmdb.org/t/p/w500/6QOrTYafoqzXPWLnR2K8129jTHH.jpg",
-      "description": "Đảo Hải Tặc 1: Đảo Châu Báu – Tương truyền rằng, 1/3 số vàng trên thế giới được nắm giữa trong tay một hải tặc ngoại hiệu là Woonan Vĩ Đại. Nhiều năm sau đó, bí mật nơi tên hải tặc vĩ đại này cất giấu số của cải trở thành mục tiêu săn tìm của bọn cướp biển và cả những tên săn trộm máu mặt khắp đại dương.",
-      "releaseInfo": "2000",
-      "imdbRating": "6.9"
-    },
-    {
-      "id": "tt4489416",
-      "type": "movie",
-      "name": "Tiếng Hát Từ Trái Tim",
-      "poster": "https://image.tmdb.org/t/p/w500/7bJHM6t6j3YLjDNTwe4hyghKqSr.jpg",
-      "description": "Naruse Jun, một con bé vui vẻ hoạt bát nhưng lại có tật nói nhiều. Chính vì tật xấu đó đã vô tình phá hoại chính gia đình mình. Cô trở nên sợ hãi và tự phong ấn tật lắm mồm của mình vào một Quả trứng và chờ hoàng tử đến mở nó ra. Khi lên cấp 3, nhiều chuyện xảy ra, cô được đề cử vào Ủy ban Tiếp cận Cộng đồng và gặp chàng hoàng tử trong mơ của mình. Trớ trêu thay, hoàng tử lại yêu bạn của công chúa Jun nhà ta và mọi chuyện bắt đầu…",
-      "releaseInfo": "2015",
-      "imdbRating": "7.3"
-    },
-    {
-      "id": "tt7745068",
-      "type": "movie",
-      "name": "Học Viện Siêu Anh Hùng: 2 Người Hùng",
-      "poster": "https://image.tmdb.org/t/p/w500/iPQNR9i5zzPGklnilE4eCjfArQJ.jpg",
-      "description": "Cuộc hành trình cậu bé Izuku sau học kỳ siêu anh hùng đầu tiên, cũng như sau khi trải qua những lần đối đầu với kẻ thù lớn nhất của thế giới là “All For One” - kẻ mang sức mạnh chiếm đoạt các dị năng khác. Mang nặng mối lo nhưng Izuku sẽ được thư giãn vui chơi tại hòn đảo của những nhà khoa học lừng danh và biết thêm về quá khứ của All Might. Tuy nhiên không vì lẽ đó mà cái ác chịu đứng yên khi những thế lực xấu tiếp tục lên kế hoạch tấn công vào hòn đảo kiên cố nhất thế giới này.",
-      "releaseInfo": "2018",
-      "imdbRating": "7.3"
-    },
-    {
       "id": "tt6317962",
       "type": "movie",
       "name": "Pháo Hoa, Nên Ngắm Từ Dưới Hay Bên Cạnh?",
@@ -89,60 +8,6 @@
       "description": "Phim lấy bối cảnh vào những ngày hè trong veo tại Nhật và câu chuyện xoay quanh những nhân vật chính là các cô cậu học trò cùng câu chuyện tình cảm trong sáng với những suy nghĩ và rung động tinh tươm tuổi mới lớn.",
       "releaseInfo": "2017",
       "imdbRating": "5.6"
-    },
-    {
-      "id": "tt5251328",
-      "type": "movie",
-      "name": "One Piece: GOLD",
-      "poster": "https://image.tmdb.org/t/p/w500/9PgiOFTLZXP7emlwcIt0yRasJ9h.jpg",
-      "description": "Đảo Hải Tặc 13: GOLD – Bối cảnh phim lấy mốc thời gian từ tập 80 trong loạt manga, sau khi băng hải tặc Mũ Rơm chiến thắng thất vũ hải Donquixote Doflamingo tại Dressrosa. Trong chuyến hành trình phiêu lưu trên biển cả mênh mông, họ bất ngờ bắt gặp Gran Tesoro – Một sòng bạc khổng lồ xa hoa dát vàng nằm trên một con tàu đặc biệt.  Tại đây, Luffy và đồng đội đã rơi vào bẫy của Gild Tesoro – thuyền trưởng và là kẻ đã ăn trái ác quỷ Goru Goru, giúp hắn ta có thể biến mọi thứ thành vàng. Theo nhiều khán giả nhận định, phim có chất lượng đồ họa tuyệt vời, ánh vàng chủ đạo xuất hiện ở hầu hết các chi tiết trong phim, xen kẽ với màu tối tương phản giúp người xem cân bằng về mặt thị giác. Con tàu Gran Tesoro được hoàn thiện một cách tỉ mỉ và kỳ công, không khác gì một thành phố giữa lòng đại dương.",
-      "releaseInfo": "2016",
-      "imdbRating": "7.1"
-    },
-    {
-      "id": "tt0802983",
-      "type": "movie",
-      "name": "Doraemon: Chú Khủng Long của Nobita",
-      "poster": "https://image.tmdb.org/t/p/w500/fC4PbXvtU8iJLPeiyBnHvTFECl0.jpg",
-      "description": "Nobita tình cờ tìm được một quả trứng khủng long hóa thạch, cậu dùng bảo bối \"Khăn trùm thời gian\" đưa quả trứng trở về thời điểm 100 triệu năm trước và ấp cho trứng nở để khoe với bạn bè mình. Nỗ lực của Nobita đã thành công khi chú khủng long thuộc chi Mamenchisaurus (xà đầu long) chào đời, được cậu đặt tên là Pisuke. Nobita và Doraemon bí mật chăm sóc Pīsuke đến khi khủng long trưởng thành, tình cảm của cậu dành cho khủng long cũng tăng dần theo thời gian. Đến khi Pisuke không thể sống vừa trong nhà nữa, Nobita phải nuôi khủng long ở hồ nước trong công viên, không may cư dân thành phố đã phát hiện ra và tiến hành chiến dịch truy bắt; Nobita và Doraemon đành thả Pīsuke về lại quê hương ở Kỷ Phấn trắng.",
-      "releaseInfo": "2006",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt0142232",
-      "type": "movie",
-      "name": "ドラゴンボールＧＴ 悟空外伝！ 勇気の証しは四星球",
-      "poster": "https://image.tmdb.org/t/p/w500/reNPMjkPg9f6wgf6kHSSkKjBarL.jpg",
-      "description": "Son Goku Jr. is the great-great-grandson of the legendary martial artist Son Goku. However, unlike his predecessor he's not a brave fighter. He's constantly picked on by school bullies, his grandmother Pan sees this and she's worried, but even though Goku Jr. is not a strong and powerful Saiyan, he has a kind heart, and Pan loves him. When Pan gets sick Goku Jr. realizes he must do something if he doesn't want to lose Pan. Then he will remember about the legends of the Dragon Balls. It was told they granted a wish to the bearer, Goku Jr. needs a magical wish more than ever.",
-      "releaseInfo": "1997",
-      "imdbRating": "6.4"
-    },
-    {
-      "id": "tt1071815",
-      "type": "movie",
-      "name": "Naruto Movie 3: Những Lính Gác Của Nguyệt Quốc",
-      "poster": "https://image.tmdb.org/t/p/w500/mmKiJ93x6uhTwJlrxCoY38R4qo6.jpg",
-      "description": "Câu chuyện bắt đầu từ việc bộ bốn Naruto, Sakura, Rock Lee và Kakashi nhận nhiệm vụ bảo vệ vị hoàng tử béo hay ham chơi Michiru và cậu con trai với cặp kính cận to Hikaru bắn mũi tên đầu cao su vào băng bảo vệ trán của Naruto và cho rằng những Ninja này thật vô dụng. Theo lời của Tsunade, đây là một nơi du lịch khá nổi tiếng với hòn đảo hình mặt trăng liềm cùng với biển đẹp luôn khiến bà bị cuốn hút bởi nó và rất mong một ngày nào đó sẽ được đến đây. Bộ bốn này phải chống lại bọn cướp tấn công những du khách theo cảnh báo của Tsunade. Ban đêm khi hai bố con Michiru ăn uống sung sướng mà cả bốn phải ăn mì ở ngoài, chưa kể cơn rét vào đêm khuya khoắt ...",
-      "releaseInfo": "2006",
-      "imdbRating": "6.3"
-    },
-    {
-      "id": "tt0791188",
-      "type": "movie",
-      "name": "Naruto Movie 2: Huyền Thoại Đá Gelel",
-      "poster": "https://image.tmdb.org/t/p/w500/itKMldwL6uhUZYO3X78NOFU4zzO.jpg",
-      "description": "Naruto the Movie 2: Huyền Thoại Đá Gelel: Câu chuyện mở đầu với trận chiến tại một bờ biển hoang vắng vào ban đêm giữa ninja làng Cát và những tên khổng lồ mặc chiếc áo giáp nâu. Những ninja làng Cát đang hoàn toàn bị thất thế trước những tên to lớn này. Một trận chiến mới của Naruto bắt đầu.",
-      "releaseInfo": "2005",
-      "imdbRating": "6.4"
-    },
-    {
-      "id": "tt1160524",
-      "type": "movie",
-      "name": "Naruto Shippuden Movie 2: Nhiệm Vụ Bí Mật",
-      "poster": "https://image.tmdb.org/t/p/w500/bBqEiQbbfyt4MWR3NhDZMbS4Wp8.jpg",
-      "description": "Phim kể về những thành viên bí ẩn của ninja từ Land of the Sky thực hiện một cuộc tấn công bất ngờ vào Konoha . Điều này là bởi vì Konoha đã gần như tiêu diệt đất của Sky trong Chiến tranh thế giới thứ hai Shinobi. Nhóm bắt đầu tấn công Konoha, gây ra tình trạng lộn xộn khối, với Sora-nin bay sử dụng một thiết bị Cơ Winged và bắn phá làng. Một cậu bé đã đi một chặng đường rất dài để thông báo cho Konoha rằng ngôi làng của mình đã bị tấn công, và rằng ông đang tìm kiếm sensei của mình, những người hiện đang ở Konoha, để ông có thể quay lại với anh ta để chữa lành những người bị thương tại ngôi làng của mình.Một nhóm ba người, gồm Naruto , Sakura và Hinata , đã được gửi đi cùng các cậu bé, Amaru , và Shinno , sensei của mình, để giúp làng của Amaru.",
-      "releaseInfo": "2008",
-      "imdbRating": "6.8"
     },
     {
       "id": "tt30476486",
@@ -163,22 +28,31 @@
       "imdbRating": "6.4"
     },
     {
-      "id": "tt12093860",
+      "id": "tt4489416",
       "type": "movie",
-      "name": "Thám Tử Lừng Danh Conan: Viên Đạn Đỏ",
-      "poster": "https://image.tmdb.org/t/p/w500/deFcJJaqgEu2m2jUYGczxqAcA5v.jpg",
-      "description": "Thám Tử Lừng Danh Conan 24: Viên Đạn Đỏ – Thế vận hội thể thao lớn nhất thế giới được tổ chức tại Tokyo, Nhật Bản thu hút rất nhiều sự chú ý. Khi sự kiện ra mắt con tàu siêu tốc với tốc độ 1000km/h diễn ra cũng là lúc hàng loạt các vụ bắt cóc xảy ra! Gia tộc hiểm ác tụ tập tại đây sẽ gây ra một loạt sự kiện chấn động thế giới!",
-      "releaseInfo": "2021",
-      "imdbRating": "6.3"
+      "name": "Tiếng Hát Từ Trái Tim",
+      "poster": "https://image.tmdb.org/t/p/w500/7bJHM6t6j3YLjDNTwe4hyghKqSr.jpg",
+      "description": "Naruse Jun, một con bé vui vẻ hoạt bát nhưng lại có tật nói nhiều. Chính vì tật xấu đó đã vô tình phá hoại chính gia đình mình. Cô trở nên sợ hãi và tự phong ấn tật lắm mồm của mình vào một Quả trứng và chờ hoàng tử đến mở nó ra. Khi lên cấp 3, nhiều chuyện xảy ra, cô được đề cử vào Ủy ban Tiếp cận Cộng đồng và gặp chàng hoàng tử trong mơ của mình. Trớ trêu thay, hoàng tử lại yêu bạn của công chúa Jun nhà ta và mọi chuyện bắt đầu…",
+      "releaseInfo": "2015",
+      "imdbRating": "7.3"
     },
     {
-      "id": "tt39026173",
+      "id": "tt0814243",
       "type": "movie",
-      "name": "Chiikawa: Bí Mật Của Đảo Người Cá",
-      "poster": "https://image.tmdb.org/t/p/w500/e1wTUMAR39i3jhPH0UrE9SPOzF2.jpg",
-      "description": "Chiikawa và các bạn lên đường cho chuyến phiêu lưu mùa hè đầy kỳ thú đến hòn đảo bí ẩn được đồn là giấu bí mật nàng tiên cá đã thất lạc từ lâu. Khởi đầu là chuyến đi chơi vui vẻ, chuyến đi nhanh chóng trở thành hành trình ấm lòng đầy bất ngờ, hồi hộp nhẹ nhàng và những hỗn loạn đáng yêu. Với biển lấp lánh, truyền thuyết kỳ lạ và những cuộc gặp khó quên, bộ ba học được về lòng dũng cảm, tình bạn và phép màu ẩn trong những khoảnh khắc nhỏ.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.4"
+      "name": "One Piece: Đảo Châu Báu",
+      "poster": "https://image.tmdb.org/t/p/w500/6QOrTYafoqzXPWLnR2K8129jTHH.jpg",
+      "description": "Đảo Hải Tặc 1: Đảo Châu Báu – Tương truyền rằng, 1/3 số vàng trên thế giới được nắm giữa trong tay một hải tặc ngoại hiệu là Woonan Vĩ Đại. Nhiều năm sau đó, bí mật nơi tên hải tặc vĩ đại này cất giấu số của cải trở thành mục tiêu săn tìm của bọn cướp biển và cả những tên săn trộm máu mặt khắp đại dương.",
+      "releaseInfo": "2000",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt1999167",
+      "type": "movie",
+      "name": "Naruto Shippuden Movie 5: Huyết Ngục",
+      "poster": "https://image.tmdb.org/t/p/w500/4WT7zYFpe0fsbg6TitppiHddWAh.jpg",
+      "description": "Naruto bị bắt sau khi bị kết tội mưu đồ ám sát Raikage, lãnh đạo tối cao của làng Mây cũng như sát hại các ninja Thượng đẳng của làng Sương Mù và làng Đá, Naruto sau đó bị giam vào ngục Hozukijou (còn được gọi là Huyết Ngục).",
+      "releaseInfo": "2011",
+      "imdbRating": "7.1"
     },
     {
       "id": "tt10621032",
@@ -190,166 +64,40 @@
       "imdbRating": "6.9"
     },
     {
-      "id": "tt14294724",
+      "id": "tt5251328",
       "type": "movie",
-      "name": "BanG Dream! Poppin'Dream!",
-      "poster": "https://image.tmdb.org/t/p/w500/7v50mbGYMQ7HmJjJOXoZ3llCjUk.jpg",
-      "description": "Buổi biểu diễn thành công của Poppin'Party, Roselia và RAISE A SUILEN tại Budokan đã khép lại. Kasumi và các bạn, những người đã để lại âm thanh còn vang mãi trên sân khấu của những giấc mơ, được một người phụ nữ bí ẩn tiếp cận. Sân khấu tiếp theo của họ là ở nước ngoài?! Âm nhạc của Poppin'Party vẫn chưa dừng lại!",
-      "releaseInfo": "2022",
-      "imdbRating": "7.6"
+      "name": "One Piece: GOLD",
+      "poster": "https://image.tmdb.org/t/p/w500/9PgiOFTLZXP7emlwcIt0yRasJ9h.jpg",
+      "description": "Đảo Hải Tặc 13: GOLD – Bối cảnh phim lấy mốc thời gian từ tập 80 trong loạt manga, sau khi băng hải tặc Mũ Rơm chiến thắng thất vũ hải Donquixote Doflamingo tại Dressrosa. Trong chuyến hành trình phiêu lưu trên biển cả mênh mông, họ bất ngờ bắt gặp Gran Tesoro – Một sòng bạc khổng lồ xa hoa dát vàng nằm trên một con tàu đặc biệt.  Tại đây, Luffy và đồng đội đã rơi vào bẫy của Gild Tesoro – thuyền trưởng và là kẻ đã ăn trái ác quỷ Goru Goru, giúp hắn ta có thể biến mọi thứ thành vàng. Theo nhiều khán giả nhận định, phim có chất lượng đồ họa tuyệt vời, ánh vàng chủ đạo xuất hiện ở hầu hết các chi tiết trong phim, xen kẽ với màu tối tương phản giúp người xem cân bằng về mặt thị giác. Con tàu Gran Tesoro được hoàn thiện một cách tỉ mỉ và kỳ công, không khác gì một thành phố giữa lòng đại dương.",
+      "releaseInfo": "2016",
+      "imdbRating": "7.1"
     },
     {
-      "id": "tt28036831",
+      "id": "tt0102812",
       "type": "movie",
-      "name": "Mèo Ma Bê Tha",
-      "poster": "https://image.tmdb.org/t/p/w500/kJIsWnDyJ8GtnsRS255909YNjFp.jpg",
-      "description": "Phim xoay quanh tình bạn của cô bé Karin mồ côi mẹ và bị cha bỏ rơi với Anzu, một con mèo ma sống hơi lôi thôi nhưng rất cố gắng chữa lành vết thương tinh thần của cô bé.",
-      "releaseInfo": "2024",
-      "imdbRating": "6.6"
-    },
-    {
-      "id": "tt1018764",
-      "type": "movie",
-      "name": "One Piece: Nam Tước Omatsuri Và Hòn Đảo Bí Mật",
-      "poster": "https://image.tmdb.org/t/p/w500/ueIR4LM4k8eKhSB8gGT9NMhCwGW.jpg",
-      "description": "Đảo Hải Tặc 6: Nam Tước Omatsuri Và Hòn Đảo Bí Mật – Sau khi nhận được lời mời bí ẩn từ đảo Omatsuri, nhóm Luffy không thể khước từ những ngày thư giãn và giải trí ở đây. Nhưng ít họ biết, để tận hưởng những ngày thư giãn này, họ phải tuân theo các quy tắc của Baron Omatsuri và tham gia vào cuộc thử thách địa ngục. Nhưng liệu nó có đáng giá? Luffy có vẻ suy nghĩ như vậy …",
-      "releaseInfo": "2005",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt16369708",
-      "type": "movie",
-      "name": "Tưởng tượng",
-      "poster": "https://image.tmdb.org/t/p/w500/4lOP2SxO4BQGPobpwBtrCLA2iDa.jpg",
-      "description": "Amanda và người bạn ảo ảnh Rudger của cô bé bước vào những cuộc phiêu lưu tưởng tượng đầy ly kỳ. Nhưng khi Rudger đơn độc, cậu đối mặt với một mối đe dọa bí ẩn.",
-      "releaseInfo": "2023",
-      "imdbRating": "6.7"
-    },
-    {
-      "id": "tt13424422",
-      "type": "movie",
-      "name": "Sword Art Online: Progressive - Khúc độc tấu trong đêm vắng sao",
-      "poster": "https://image.tmdb.org/t/p/w500/yD9RhgIVydQNBK7OLEbCWYcWMUd.jpg",
-      "description": "Một tháng đã trôi qua kể từ khi trò chơi chết người của Akihiko Kayaba bắt đầu, và số lượng người tử vong vẫn tiếp tục tăng. Hai nghìn người chơi đã chết. Kirito và Asuna là hai người trái ngược nhau hoàn toàn, nhưng cả hai đều muốn chiến đấu một mình. Tuy nhiên, cả hai phát hiện bản thân bị thu hút bởi nửa kia cũng như có những sự đồng điệu từ trong ra ngoài nên đã quyết định sẽ cùng nhau đối mặt với các thử thách. Cho rằng toàn bộ thế giới ảo mà họ hiện đang sống đã được tạo ra như một cái bẫy tử thần, những người chơi còn sống sót của Sword Art Online đang bắt đầu trở nên tuyệt vọng, việc đó trở thành mối nguy hại đối với những kẻ cô độc như Kirito và Asuna. Liệu cả hai có thể vượt qua sự khác biệt giữa họ và tin tưởng lẫn nhau để khám phá ra sức mạnh và cùng cố gắng sống sót?",
-      "releaseInfo": "2021",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt0495596",
-      "type": "movie",
-      "name": "Huyền Thoại Đất Liền Và Đại Dương",
-      "poster": "https://image.tmdb.org/t/p/w500/y0VnJt4eRPMjA1hpJ8f1EFoVaSf.jpg",
-      "description": "Thế giới dần suy tàn, Đại pháp sư đưa vị hoàng tử mang trong lòng nhiều trăn trở và cả ác tâm lên đường tìm kiếm ngọn nguồn cái ác, cứu lấy những người con gái họ yêu.",
-      "releaseInfo": "2006",
-      "imdbRating": "6.3"
-    },
-    {
-      "id": "tt0102587",
-      "type": "movie",
-      "name": "Chỉ Còn Ngày Hôm Qua",
-      "poster": "https://image.tmdb.org/t/p/w500/8L1QJ4iBORbyrb5fOQerhRdQyC8.jpg",
-      "description": "Từ trái dứa đến tình đầu: đó chính là câu chuyện ngày ấy bây giờ của cô gái 27 tuổi tại Tokyo. Khi cô rời thành phố cũng là lúc cô bước vào miền ký ức xa xôi.",
+      "name": "老人Z",
+      "poster": "https://image.tmdb.org/t/p/w500/kpJBEfjC9l7BFhmmGPmkNB8gl6h.jpg",
+      "description": "Mr. Takazawa, an elderly invalid who is cared for at his home by Haruko, a young nursing student, is chosen by the Japanese Ministry of Public Welfare to test the Z-001, a computerized hospital bed with robotic features that allegedly displays more efficiency and skills than any human nurse, but Haruko mistrusts a machine unable to consider human feelings.",
       "releaseInfo": "1991",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt0089943",
-      "type": "movie",
-      "name": "ルパン三世 バビロンの黄金伝説",
-      "poster": "https://image.tmdb.org/t/p/w500/sC0nlE0XiUYF2yL6tBpoDmHYyNK.jpg",
-      "description": "Lupin squares off with two criminal families and Inspector Zenigata's new female patrol to track down a hoard of biblical-era treasure.",
-      "releaseInfo": "1985",
-      "imdbRating": "6.1"
-    },
-    {
-      "id": "tt0988982",
-      "type": "movie",
-      "name": "Naruto Shippuden Movie 1: Cái Chết Tiên Đoán",
-      "poster": "https://image.tmdb.org/t/p/w500/vDkct38sSFSWJIATlfJw0l3QOIR.jpg",
-      "description": "Những con quỷ đã từng gần như phá hủy thế giới, được hồi sinh bởi một ai đó. Để ngăn chặn thế giới bị hủy diệt, con quỷ phải bị phong ấn và người duy nhất có thể làm điều đó là cô gái đền thờ Shion từ đất nước của quỷ, người có hai sức mạnh; Một người đang phong ấn quỷ và người kia dự đoán về cái chết của con người. Lần này, nhiệm vụ của Naruto là bảo vệ Shion, nhưng cô dự đoán cái chết của Naruto. Cách duy nhất để thoát khỏi nó, là tránh xa Shion, thứ sẽ khiến cô không được bảo vệ, sau đó là con quỷ, mục tiêu duy nhất là giết Shion sẽ làm như vậy, nghĩa là ngày tận thế. Naruto quyết định thách thức \"dự đoán về cái chết\" này.",
-      "releaseInfo": "2007",
-      "imdbRating": "6.7"
-    },
-    {
-      "id": "tt0210234",
-      "type": "movie",
-      "name": "Pokémon: Sự bùng nổ của Lugia huyền thoại",
-      "poster": "https://image.tmdb.org/t/p/w500/4SEABCXXNFpbqnWknQo1iUEIov6.jpg",
-      "description": "Lawrence III, một kẻ sưu tầm Pokémon ngạo mạn, đã phá vỡ sự cân bằng tự nhiên khi săn lùng bộ ba vị thần chim cai quản thời tiết tại quần đảo Orange: Moltres (Thần Lửa), Zapdos (Thần Lôi) và Articuno (Thần Băng) để phục vụ cho tham vọng ích kỷ của mình. Sự mất cân bằng nghiêm trọng này khiến thời tiết toàn cầu hoàn toàn đảo điên, đẩy Trái Đất vào bờ vực diệt vong bởi những thiên tai tàn khốc và những cơn bão hủy diệt. Cơn thịnh nộ của các vị thần chỉ có thể được xoa dịu bởi một \"Người Được Chọn\" theo lời tiên tri cổ xưa của bộ tộc đảo Shamouti.",
-      "releaseInfo": "1999",
-      "imdbRating": "6.1"
-    },
-    {
-      "id": "tt0875609",
-      "type": "movie",
-      "name": "Pokémon: Mew Và Người Hùng Của Ngọn Sóng Lucario",
-      "poster": "https://image.tmdb.org/t/p/w500/hCNvzsT8FK7Mjh8U2Io4Rkn1Szo.jpg",
-      "description": "Hàng nghìn năm trước, trước khi có sự xuất hiện của Pokéball, thế giới chìm trong một cuộc chiến tranh tàn khốc giữa hai thế lực quân đội hùng mạnh. Để bảo vệ vương quốc Cameran, dũng sĩ Aaron đã phong ấn cận vệ trung thành của mình là Lucario vào một vương trượng quyền năng, rồi tự mình hy sinh để lập lại hòa bình. Ở thời hiện đại, Satoshi vô tình giải phóng Lucario trong một lễ hội tôn vinh Aaron. Tuy nhiên, Lucario thức tỉnh với trái tim mang đầy hoài nghi và oán hận vì cho rằng mình đã bị người chủ mà nó kính trọng nhất phản bội. Cùng lúc đó, Pokémon huyền ảo Mew bất ngờ xuất hiện và mang Pikachu đến Cây Khởi Nguyên (Tree of Beginning) – thực thể sống khổng lồ duy trì sự sống của Trái Đất.",
-      "releaseInfo": "2005",
       "imdbRating": "6.8"
     },
     {
-      "id": "tt33384612",
+      "id": "tt21996220",
       "type": "movie",
-      "name": "VIRGIN PUNK Clockwork Girl",
-      "poster": "https://image.tmdb.org/t/p/w500/2Dn39hUknCFPcgNBk1YBeGdCDGx.jpg",
-      "description": "Trong một thế giới khắc nghiệt, Ubu Kamigori săn lùng tội phạm với tư cách một thợ săn tiền thưởng. Nhưng một ngày nọ, người đàn ông cô từng có quá khứ nhơ nhuốc cùng — Mr. Elegance — đang chờ sẵn trong nhà cô. Và từ đó, định mệnh của cô bắt đầu rạn vỡ.",
+      "name": "Hoa hồng Versailles",
+      "poster": "https://image.tmdb.org/t/p/w500/gPmmHX9Ipcl0pgwAuKmScZQFAGK.jpg",
+      "description": "Oscar François de Jarjayes, một cô gái được cha mình nuôi dạy như một người con trai để trở thành đội trưởng Cận vệ Hoàng gia, bảo vệ Hoàng hậu Marie Antoinette. Oscar sống trong một thế giới của sự xa hoa, âm mưu cung đình và những định kiến xã hội. Cô bị giằng xé giữa lòng trung thành với hoàng gia và tình cảm ngày càng lớn đối với người dân bị áp bức.",
       "releaseInfo": "2025",
-      "imdbRating": "6.8"
+      "imdbRating": "5.8"
     },
     {
-      "id": "tt3455204",
+      "id": "tt1840372",
       "type": "movie",
-      "name": "Thám Tử Lừng Danh Conan: Sát Thủ Bắn Tỉa Không Tưởng",
-      "poster": "https://image.tmdb.org/t/p/w500/wGy8wbRrzOeFqVxU39LJ5VspwDO.jpg",
-      "description": "Thám Tử Lừng Danh Conan 18: Sát Thủ Bắn Tỉa Không Tưởng – Một cựu lính bắn tỉa của \"Biệt đội hải cẩu\" hay còn gọi là SEALs (một nhánh đặc nhiệm tinh nhuệ của hải quân Hoa Kỳ, nhóm thường tham chiến tại chiến trường Trung Đông, tiêu diệt khủng bố, và Osama Binladen cũng do SEALs tiêu diệt) tên là Hunter bị tình nghi dính dáng đến 1 vụ giết người hàng loạt bằng súng bắn tỉa. Nạn nhân là những cựu thành viên của SEALs và những người có thù oán với Hunter.  Mỗi vụ đều để lại 1 con xúc xắc với các mặt khác nhau và 1 vỏ đạn rỗng. Cả phía FBI cũng tham gia vào vụ này. Ân oán uẩn khúc bên trong là gì? Phía cảnh sát phải làm gì để bảo vệ những mục tiêu tiếp theo? Hãy cùng xem 110 phút cân não, cuộc đấu giữa những cái đầu và cả những tay snipper không tưởng. Chỉ có snipper mới hạ được ...",
-      "releaseInfo": "2014",
-      "imdbRating": "6.7"
-    },
-    {
-      "id": "tt9507234",
-      "type": "movie",
-      "name": "Digimon Adventure: Last Evolution Kizuna",
-      "poster": "https://image.tmdb.org/t/p/w500/22oG48YszCraRJigJw5F6qFs4sR.jpg",
-      "description": "Tai giờ là sinh viên đại học sống một mình, vừa học vừa làm nhưng tương lai vẫn mông lung; Matt và các bạn tiếp tục xử lý những sự cố Digimon. Khi hiện tượng chưa từng có xảy ra, nhóm DigiDestined phát hiện rằng khi trưởng thành, mối liên kết giữa họ và Digimon đối tác sẽ dần đi đến hồi kết.",
-      "releaseInfo": "2020",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt1481363",
-      "type": "movie",
-      "name": "Naruto Shippuden Movie 3: Người Kế Thừa Hỏa Chí",
-      "poster": "https://image.tmdb.org/t/p/w500/pZzdFmztwmg0FUOVCMa7vReHhQN.jpg",
-      "description": "Nói về nguy cơ nổ ra Đại chiến Ninja lần thứ 4 khi các ninja có huyết kế giới hạn ở các làng sương mù, làng đá, làng mây và làng cát bỗng nhiên bắt đầu biến mất. Các quốc gia nghi ngờ làng lá - làng duy nhất không bị ảnh hưởng - đã gây ra tai nạn trên và tung tin đồn về việc Konoha đang có kế hoạch tạo phản. Đồng thời họ điều động quân đội đến biên giới Hỏa Quốc chuẩn bị phát động tấn công. Những người đứng đầu Hỏa Quốc phải chứng minh sự trong sạch của Konoha - tìm ra nguyên nhân vụ việc, nếu không họ sẽ phải xóa xổ cả làng để giữ hòa bình thế giới.",
-      "releaseInfo": "2009",
-      "imdbRating": "7.0"
-    },
-    {
-      "id": "tt8098546",
-      "type": "movie",
-      "name": "Doraemon: Nobita và Đảo Giấu Vàng",
-      "poster": "https://image.tmdb.org/t/p/w500/cmJ71gdZxCqkMUvGwWgSg3MK7pC.jpg",
-      "description": "“Tớ sẽ tìm ra hòn đảo kho báu!”… Quyết tâm thực hiện bằng được kế hoạch sau khi hùng hồn tuyên bố với nhóm bạn Jaian, Suneo và Shizuka, nhờ bảo bối “Bản đồ truy tìm kho báu” của Doraemon, Nobita đã tìm thấy một hòn đảo mới đột nhiên xuất hiện giữa Thái Bình Dương... Nobita cùng các bạn bắt đầu chuyến phiêu lưu hướng tới đảo kho báu trên con tàu mang tên “Vầng hào quang Nobita”.",
-      "releaseInfo": "2018",
+      "name": "Thám Tử Lừng Danh Conan: 15 Phút Tĩnh Lặng",
+      "poster": "https://image.tmdb.org/t/p/w500/nFx5fcz4l94UWCURcu3D0t3PMHd.jpg",
+      "description": "Thám Tử Lừng Danh Conan 15: 15 Phút Tĩnh Lặng – Câu chuyện bắt đầu với một tên được coi là mối đe dọa của chính phủ Nhật Bản, nhưng óc siêu phàm Conan sẽ ngăn chặn mọi tai họa có thể ập đến khi đường hầm xe điện ngầm bị nổ tung. Conan đã tìm ra được rằng có sự liên hệ giữa một ngôi làng đã bị dời đi vì một dự án làm con đập, và cậu ấy phải chạy đua để ngăn tên tội phạm trước khi có một vụ án mạng nào xảy ra.",
+      "releaseInfo": "2011",
       "imdbRating": "6.6"
-    },
-    {
-      "id": "tt15242330",
-      "type": "movie",
-      "name": "Cú Úp Rổ Đầu Tiên",
-      "poster": "https://image.tmdb.org/t/p/w500/uNLwAHGJnaz5APkct1Fb4tsbMFJ.jpg",
-      "description": "“Người bảo vệ tốc độ” và người bảo vệ điểm của Shohoku, Ryota Miyagi, luôn chơi trí tuệ và tốc độ cực nhanh, chạy vòng quanh đối thủ trong khi giả vờ bình tĩnh. Vào năm thứ hai trung học, Ryota chơi với đội bóng rổ của trường trung học Shohoku cùng với Sakuragi, Rukawa, Akagi và Mitsui khi họ lên sân khấu tại Giải vô địch quốc gia liên trường trung học. Và bây giờ, họ đang trên đà thách thức các nhà đương kim vô địch, trường trung học Sannoh Kogyo.",
-      "releaseInfo": "2022",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt5544384",
-      "type": "movie",
-      "name": "Đao Kiếm Thần Vực: Ranh Giới Hư Ảo",
-      "poster": "https://image.tmdb.org/t/p/w500/2szdEK0Mr0RG0nWGFVTseNQHbnP.jpg",
-      "description": "Vào năm 2026, các Augma được phát hành ra để thay thế hệ thống AmuSphere, với chức năng mô phỏng thực tế trong khi người chơi vẫn còn giữ được ý thức, an toàn hơn so với công nghệ FullDive. trò chơi chiến đấu nổi bật nhất là Ordinal Scale, với một hệ thống xếp hạng khả năng người chơi.  Asuna, Lisbeth và Silica đã khuyến khích Kirito chơi OS khi nghe được rằng các boss trong Aincrad sẽ xuất hiện. Kirito tham gia với Asuna và Klein trong một trận đánh boss nơi linh vật của game, ca sĩ thần tượng ảo Yuna, xuất hiện và mang đến cho người chơi những hiệu ứng buff khi cô hát. Kirito đã không thành công trong bất cứ điều gì do thiếu thể lực và tốc độ. Eiji, người chơi xếp hạng nhì, đã giúp nhóm trong quá trình tiêu diệt boss. trước khi Asuna ra đòn quyết định, Eiji thì thầm từ \"Switch\", một chiêu thức game từ SAO mà cô đã tinh ý nhận ra.",
-      "releaseInfo": "2017",
-      "imdbRating": "7.3"
     },
     {
       "id": "tt0388473",
@@ -361,31 +109,49 @@
       "imdbRating": "7.8"
     },
     {
-      "id": "tt1690483",
+      "id": "tt15242330",
       "type": "movie",
-      "name": "Công Chúa Ngủ Trong Rừng",
-      "poster": "https://image.tmdb.org/t/p/w500/wH9SSbsNWKLtZjA4LBQ7P2GwbLZ.jpg",
-      "description": "Thế giới đang bị tấn công bởi một loại virus vô cùng nguy hiểm có thể khiến con người biến thành đá, mang tên \"Medusa\". Trong tình trạng loại virus này lan toàn cầu với tốc độ 1 đại dịch chưa từng có, một nhóm người đã được chọn để ngủ đông, với hy vọng về một loại kháng thể trong tương lai. Kasumi là một trong những người được chọn đưa vào chiến dịch ngủ đông CSCC tại một lâu đài cổ kính. Dù hy vọng có mỏng manh, cô bé vẫn mong có ngày được gặp lại người em gái sinh đôi cùng mắc căn bệnh giống mình. Bộ phim lấy cảm hứng từ câu chuyện cổ tích \"Nàng công chúa ngủ trong rừng\" nhưng được viết lại hoàn toàn khác biệt, liệu công chúa ngủ trong rừng có muốn tỉnh dậy hay nàng ước được mãi mãi chìm trong giấc ngủ vĩnh hằng?",
-      "releaseInfo": "2010",
-      "imdbRating": "6.3"
+      "name": "Cú Úp Rổ Đầu Tiên",
+      "poster": "https://image.tmdb.org/t/p/w500/uNLwAHGJnaz5APkct1Fb4tsbMFJ.jpg",
+      "description": "“Người bảo vệ tốc độ” và người bảo vệ điểm của Shohoku, Ryota Miyagi, luôn chơi trí tuệ và tốc độ cực nhanh, chạy vòng quanh đối thủ trong khi giả vờ bình tĩnh. Vào năm thứ hai trung học, Ryota chơi với đội bóng rổ của trường trung học Shohoku cùng với Sakuragi, Rukawa, Akagi và Mitsui khi họ lên sân khấu tại Giải vô địch quốc gia liên trường trung học. Và bây giờ, họ đang trên đà thách thức các nhà đương kim vô địch, trường trung học Sannoh Kogyo.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.0"
     },
     {
-      "id": "tt35444710",
+      "id": "tt7745068",
       "type": "movie",
-      "name": "Thám Tử Lừng Danh Conan: Dư Ảnh Của Độc Nhãn",
-      "poster": "https://image.tmdb.org/t/p/w500/rMjZjNNz8M2Ul6AwHxgQtwiOLIB.jpg",
-      "description": "Thám Tử Lừng Danh Conan 28: Dư Ảnh Của Độc Nhãn – Trên những ngọn núi tuyết của Nagano, một vụ án bí ẩn đã đưa Conan và các thám tử quay trở lại quá khứ. Thanh tra Yamato Kansuke - người đã bị thương nặng trong một trận tuyết lở nhiều năm trước - bất ngờ phải đối mặt với những ký ức đau thương của mình trong khi điều tra một vụ tấn công tại Đài quan sát Nobeyama. Cùng lúc đó, Mori Kogoro nhận được một cuộc gọi từ một đồng nghiệp cũ, tiết lộ mối liên hệ đáng ngờ giữa anh ta và vụ án đã bị lãng quên từ lâu. Sự xuất hiện của Morofushi Takaaki, cùng với những nhân vật chủ chốt như Amuro Tooru, Kazami và cảnh sát Tokyo, càng làm phức tạp thêm cuộc điều tra. Khi quá khứ và hiện tại đan xen, một bí ẩn rùng rợn dần dần được hé lộ - và ký ức của Kansuke nắm giữ chìa khóa cho mọi thứ.",
-      "releaseInfo": "2025",
-      "imdbRating": "6.8"
+      "name": "Học Viện Siêu Anh Hùng: 2 Người Hùng",
+      "poster": "https://image.tmdb.org/t/p/w500/iPQNR9i5zzPGklnilE4eCjfArQJ.jpg",
+      "description": "Cuộc hành trình cậu bé Izuku sau học kỳ siêu anh hùng đầu tiên, cũng như sau khi trải qua những lần đối đầu với kẻ thù lớn nhất của thế giới là “All For One” - kẻ mang sức mạnh chiếm đoạt các dị năng khác. Mang nặng mối lo nhưng Izuku sẽ được thư giãn vui chơi tại hòn đảo của những nhà khoa học lừng danh và biết thêm về quá khứ của All Might. Tuy nhiên không vì lẽ đó mà cái ác chịu đứng yên khi những thế lực xấu tiếp tục lên kế hoạch tấn công vào hòn đảo kiên cố nhất thế giới này.",
+      "releaseInfo": "2018",
+      "imdbRating": "7.3"
     },
     {
-      "id": "tt13057626",
+      "id": "tt0210234",
       "type": "movie",
-      "name": "Đứa Con Của Tháng Các Vị Thần",
-      "poster": "https://image.tmdb.org/t/p/w500/zbajcTeE9NIOS5IzHqGDj0ZmW8b.jpg",
-      "description": "Một năm sau khi mẹ qua đời, một cô bé biết rằng mình sẽ phải có một chuyến đi xuyên Nhật Bản để đến nơi tụ họp hằng năm của các vị thần ở vùng đất thiêng Izumo.",
-      "releaseInfo": "2021",
-      "imdbRating": "5.9"
+      "name": "Pokémon: Sự bùng nổ của Lugia huyền thoại",
+      "poster": "https://image.tmdb.org/t/p/w500/4SEABCXXNFpbqnWknQo1iUEIov6.jpg",
+      "description": "Lawrence III, một kẻ sưu tầm Pokémon ngạo mạn, đã phá vỡ sự cân bằng tự nhiên khi săn lùng bộ ba vị thần chim cai quản thời tiết tại quần đảo Orange: Moltres (Thần Lửa), Zapdos (Thần Lôi) và Articuno (Thần Băng) để phục vụ cho tham vọng ích kỷ của mình. Sự mất cân bằng nghiêm trọng này khiến thời tiết toàn cầu hoàn toàn đảo điên, đẩy Trái Đất vào bờ vực diệt vong bởi những thiên tai tàn khốc và những cơn bão hủy diệt. Cơn thịnh nộ của các vị thần chỉ có thể được xoa dịu bởi một \"Người Được Chọn\" theo lời tiên tri cổ xưa của bộ tộc đảo Shamouti.",
+      "releaseInfo": "1999",
+      "imdbRating": "6.1"
+    },
+    {
+      "id": "tt1260351",
+      "type": "movie",
+      "name": "Doraemon: Nobita và Chuyến Phiêu Lưu Vào Xứ Quỷ",
+      "poster": "https://image.tmdb.org/t/p/w500/u28DgFvkimcXPV1VQjX43pl92LR.jpg",
+      "description": "Câu chuyện được bắt đầu với giấc mơ về một thế giới phù thủy của Nôbita. Tuy được Đêkhi giải thích rõ ràng nhưng Nôbita vẫn không nguôi mơ mộng về một thế giới phép thuật. Cùng với đó là sự xuất hiện của hai pho tượng đá Nôbita và Đôrêmon một cách bí ẩn...",
+      "releaseInfo": "2007",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt9507234",
+      "type": "movie",
+      "name": "Digimon Adventure: Last Evolution Kizuna",
+      "poster": "https://image.tmdb.org/t/p/w500/22oG48YszCraRJigJw5F6qFs4sR.jpg",
+      "description": "Tai giờ là sinh viên đại học sống một mình, vừa học vừa làm nhưng tương lai vẫn mông lung; Matt và các bạn tiếp tục xử lý những sự cố Digimon. Khi hiện tượng chưa từng có xảy ra, nhóm DigiDestined phát hiện rằng khi trưởng thành, mối liên kết giữa họ và Digimon đối tác sẽ dần đi đến hồi kết.",
+      "releaseInfo": "2020",
+      "imdbRating": "7.5"
     },
     {
       "id": "tt1125254",
@@ -397,165 +163,67 @@
       "imdbRating": "7.0"
     },
     {
-      "id": "tt0089206",
+      "id": "tt22192398",
       "type": "movie",
-      "name": "銀河鉄道の夜",
-      "poster": "https://image.tmdb.org/t/p/w500/lhuPBTDmQzFCK7ZkWeIzrFY4dXL.jpg",
-      "description": "Lonely and awkward, Giovanni struggles with his sick mother, absent father, and an afterschool job that isolates him from his peers. But on the night of the Festival of Stars, he is magically transported onto a celestial train with his only friend, Campanella. Together, they embark on an extraordinary journey through the galaxy, encountering mysterious characters and grappling with life's deepest questions.",
-      "releaseInfo": "1985",
+      "name": "Lupin III vs. Cat's Eye",
+      "poster": "https://image.tmdb.org/t/p/w500/y0RQ2B2Tz3diM25GJ8ir8JJMUkB.jpg",
+      "description": "Lupin III tranh giành với ba chị em nhà Kisugi để đánh cắp bộ ba bức tranh từng thuộc về cha họ — bộ tranh chứa chìa khóa của một bí ẩn lâu nay chưa có lời giải.",
+      "releaseInfo": "2023",
+      "imdbRating": "6.1"
+    },
+    {
+      "id": "tt1160524",
+      "type": "movie",
+      "name": "Naruto Shippuden Movie 2: Nhiệm Vụ Bí Mật",
+      "poster": "https://image.tmdb.org/t/p/w500/bBqEiQbbfyt4MWR3NhDZMbS4Wp8.jpg",
+      "description": "Phim kể về những thành viên bí ẩn của ninja từ Land of the Sky thực hiện một cuộc tấn công bất ngờ vào Konoha . Điều này là bởi vì Konoha đã gần như tiêu diệt đất của Sky trong Chiến tranh thế giới thứ hai Shinobi. Nhóm bắt đầu tấn công Konoha, gây ra tình trạng lộn xộn khối, với Sora-nin bay sử dụng một thiết bị Cơ Winged và bắn phá làng. Một cậu bé đã đi một chặng đường rất dài để thông báo cho Konoha rằng ngôi làng của mình đã bị tấn công, và rằng ông đang tìm kiếm sensei của mình, những người hiện đang ở Konoha, để ông có thể quay lại với anh ta để chữa lành những người bị thương tại ngôi làng của mình.Một nhóm ba người, gồm Naruto , Sakura và Hinata , đã được gửi đi cùng các cậu bé, Amaru , và Shinno , sensei của mình, để giúp làng của Amaru.",
+      "releaseInfo": "2008",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt13544716",
+      "type": "movie",
+      "name": "Học Viện Anh Hùng 3: Nhiệm Vụ Giải Cứu Thế Giới",
+      "poster": "https://image.tmdb.org/t/p/w500/3agqNqJq7Dzp3dANI89xNaaFgdh.jpg",
+      "description": "My Hero Academia: World Heroes' Mission sẽ tiếp nối các dự kiện diễn ra sau mùa 5 của anime TV. Một nhóm người bí ẩn tự xưng là Humarize rất tin tưởng vòa giả thuyết những đứa trẻ sở hữu Quirk có thể khiến sự sống của nhân loại kết thúc. Vì thế, họ thực hiện nhiệm vụ thanh lọc những đứa trẻ sở hữu Quirk, nhưng đồng thời cũng gây ra sự phá hoại khủng khiếp và hủy diệt vô số sinh mệnh.  Để cứu mọi người, các anh hùng chuyên nghiệp đã yêu cầu các anh hùng của trường trng học U.A ra tay ứng cứu. Thế nhưng trong quá trình thực hiện nhiệm vụ có những rắc rối đã xảy ra khiến thế giới thêm phần hỗn loạn.",
+      "releaseInfo": "2021",
       "imdbRating": "7.0"
     },
     {
-      "id": "tt0090248",
+      "id": "tt33384612",
       "type": "movie",
-      "name": "バンパイアハンターD",
-      "poster": "https://image.tmdb.org/t/p/w500/yhKS0Wi6HNOHauWl0M3fr23hiB7.jpg",
-      "description": "In a far-future time ruled by the supernatural, a young girl requests the help of a vampire hunter to kill the vampire who has bitten her and thus prevent her from becoming a vampire herself.",
-      "releaseInfo": "1985",
-      "imdbRating": "7.0"
-    },
-    {
-      "id": "tt35636950",
-      "type": "movie",
-      "name": "Kaiju No.8: Nhiệm Vụ Trinh Sát",
-      "poster": "https://image.tmdb.org/t/p/w500/qp0EuVdQZzb3lBf7acnr5wIOATx.jpg",
-      "description": "Kaiju No.8: Nhiệm Vụ Trinh Sát là một phần ngoại truyện của bộ manga Kaiju No.8 (Kaijuu 8-gou). Câu chuyện tập trung vào Kafka Hibino, người có khả năng biến hình thành quái vật (Kaiju) và phải giữ bí mật về năng lực này khi gia nhập Lực lượng Phòng vệ Nhật Bản, một tổ chức chuyên tiêu diệt quái vật. Nhiệm vụ của anh là vừa chiến đấu với quái vật, vừa che giấu thân phận thực sự của mình.",
+      "name": "VIRGIN PUNK Clockwork Girl",
+      "poster": "https://image.tmdb.org/t/p/w500/2Dn39hUknCFPcgNBk1YBeGdCDGx.jpg",
+      "description": "Trong một thế giới khắc nghiệt, Ubu Kamigori săn lùng tội phạm với tư cách một thợ săn tiền thưởng. Nhưng một ngày nọ, người đàn ông cô từng có quá khứ nhơ nhuốc cùng — Mr. Elegance — đang chờ sẵn trong nhà cô. Và từ đó, định mệnh của cô bắt đầu rạn vỡ.",
       "releaseInfo": "2025",
       "imdbRating": "6.8"
     },
     {
-      "id": "tt1468843",
+      "id": "tt1690483",
       "type": "movie",
-      "name": "Pokémon: Arceus Chinh Phục Khoảng Không Thời Gian",
-      "poster": "https://image.tmdb.org/t/p/w500/1z01afNtJrgpLxvNirqWYfAYgke.jpg",
-      "description": "Đấng sáng tạo tối cao Arceus thức tỉnh sau giấc ngủ ngàn năm với cơn thịnh nộ tột cùng, thề sẽ hủy diệt nhân loại vì sự phản bội của một con người trong quá khứ, kẻ đã lừa dối và không hoàn trả \"Viên Ngọc Sự Sống\" – báu vật được mượn từ nguồn năng lượng của chính Ngài. Trước sức mạnh áp đảo có thể xóa sổ thực tại của Arceus, ba vị thần Dialga, Palkia và Giratina đã phải cùng nhau hợp lực để cầm chân Đấng Sáng Tạo.",
-      "releaseInfo": "2009",
+      "name": "Công Chúa Ngủ Trong Rừng",
+      "poster": "https://image.tmdb.org/t/p/w500/wH9SSbsNWKLtZjA4LBQ7P2GwbLZ.jpg",
+      "description": "Thế giới đang bị tấn công bởi một loại virus vô cùng nguy hiểm có thể khiến con người biến thành đá, mang tên \"Medusa\". Trong tình trạng loại virus này lan toàn cầu với tốc độ 1 đại dịch chưa từng có, một nhóm người đã được chọn để ngủ đông, với hy vọng về một loại kháng thể trong tương lai. Kasumi là một trong những người được chọn đưa vào chiến dịch ngủ đông CSCC tại một lâu đài cổ kính. Dù hy vọng có mỏng manh, cô bé vẫn mong có ngày được gặp lại người em gái sinh đôi cùng mắc căn bệnh giống mình. Bộ phim lấy cảm hứng từ câu chuyện cổ tích \"Nàng công chúa ngủ trong rừng\" nhưng được viết lại hoàn toàn khác biệt, liệu công chúa ngủ trong rừng có muốn tỉnh dậy hay nàng ước được mãi mãi chìm trong giấc ngủ vĩnh hằng?",
+      "releaseInfo": "2010",
       "imdbRating": "6.3"
     },
     {
-      "id": "tt35487769",
+      "id": "tt0802983",
       "type": "movie",
-      "name": "Alice in Wonderland –Dive in Wonderland–",
-      "poster": "https://image.tmdb.org/t/p/w500/zrCBryoilZXicuzsABw3JUntfB4.jpg",
-      "description": "Nhân vật chính là một cô gái hiện đại tên Rise. Một ngày nọ, cô lạc vào Xứ Sở Thần Tiên, và khi gặp Alice, câu chuyện bắt đầu mở ra.",
-      "releaseInfo": "2025",
-      "imdbRating": "6.2"
-    },
-    {
-      "id": "tt41295042",
-      "type": "movie",
-      "name": "One Piece Heroines",
-      "poster": "https://image.tmdb.org/t/p/w500/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
-      "description": "Sau khi thất bại ngăn chặn bọn trộm vì đôi giày không vừa, Nami xông vào cửa hàng nơi cô mua chúng để đòi hoàn tiền. Tuy nhiên, nhà thiết kế trưởng đề nghị làm cho cô một đôi mới từ đầu với một điều kiện: cô phải sải bước trong show thời trang sắp tới của họ.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt0485323",
-      "type": "movie",
-      "name": "劇場版 鋼の錬金術師 シャンバラを征く者",
-      "poster": "https://image.tmdb.org/t/p/w500/kdovrjrKighUFEh9ZRQul0Evx6L.jpg",
-      "description": "Munich, Germany, 1923. Two years have passed since Edward Elric was dragged from his own world to ours, leaving behind his country, his friends and his younger brother, Alphonse. Stripped of his alchemical powers, he has been all this time researching rocketry together with Alphonse Heiderich, a young man who resembles his own brother, hoping to one day find a way back home. His efforts so far had proven fruitless, but after lending a hand to a troubled gipsy girl, Edward is thrown in a series of events that can wreak havoc in both worlds. Meanwhile, at his own world, Alphonse Elric ventures deeper into the mysteries of alchemy in search for a way to reunite with his older brother.",
-      "releaseInfo": "2005",
-      "imdbRating": "7.3"
-    },
-    {
-      "id": "tt0990372",
-      "type": "movie",
-      "name": "Thám Tử Lừng Danh Conan: Bóng Ma Đường Baker",
-      "poster": "https://image.tmdb.org/t/p/w500/bMLqoFuFYfBxNl9dcy8unEkuSgC.jpg",
-      "description": "Thám Tử Lừng Danh Conan 6: Bóng Ma Đường Baker – Với sự phát triển của công nghệ, một trò chơi mới ra đời và chỉ được giành cho các con cháu của quan chức Nhật Bản. Conan và Đội Thám Tử Nhí lớp 1B cũng có cơ hội được mời đến tham gia trò chơi máy tính ảo mới này. Tuy nhiên, người lập trình trò chơi đã phát biểu rằng nếu mọi người không thể trả lời câu đố trong trò chơi, tất cả họ đều phải chết. Conan nhanh chóng nhận ra đây là một cạm bẫy nguy hiểm đến tính mạng, cậu buộc phải chiến thắng để cứu mọi người. Liệu trò chơi ma quái này có buông tha những đứa trẻ hay không?",
-      "releaseInfo": "2002",
-      "imdbRating": "7.8"
-    },
-    {
-      "id": "tt29710588",
-      "type": "movie",
-      "name": "Sylvanian Families: The Movie",
-      "poster": "https://image.tmdb.org/t/p/w500/95j4uV9dUJjdUVsyEFU4RmkLeZ4.jpg",
-      "description": "Tại ngôi làng Sylvania đầy mê hoặc, Freya, cô thỏ Chocolate ngọt ngào, đảm nhận hai nhiệm vụ thú vị cho Lễ hội Ngôi sao: chọn \"Cây của năm\" và tìm món quà sinh nhật cho mẹ. Cùng những người bạn động vật đáng yêu, cô bước vào một cuộc phiêu lưu vui vẻ, học về tình bạn và sự cho đi.",
-      "releaseInfo": "2023",
-      "imdbRating": "5.5"
-    },
-    {
-      "id": "tt3335192",
-      "type": "movie",
-      "name": "Lupin Đệ Tam và Thám Tử Lừng Danh Conan",
-      "poster": "https://image.tmdb.org/t/p/w500/hyLW346kEV7E8GgibUGeG7pNSFO.jpg",
-      "description": "Conan Edogawa sets out to apprehend Lupin the Third, the suspect of stealing a jewel called Cherry Sapphire.",
-      "releaseInfo": "2013",
-      "imdbRating": "6.4"
-    },
-    {
-      "id": "tt1753496",
-      "type": "movie",
-      "name": "Vùng Đất Quỷ Dữ: Lời Nguyền",
-      "poster": "https://image.tmdb.org/t/p/w500/zkHSURVCrt7rpvDDgUXO75CV1v4.jpg",
-      "description": "Capcom Nhật Bạn đã thông báo chính thức về việc hãng sẽ thực hiện phần tiếp theo của loạt phim hoạt hình 3D GC phát hành vào năm 2008. Resident Evil: Damnation vẫn do Sony Pictures Entertainment phát hành. Phim dự định ra mắt vào năm 2012. Phim có sự trở lại của Leon S.Kennedy trong một nhiệm vụ hoàn toàn mới. Kỹ xảo 3D được thực hiện trong Resident Evil: Damnation sẽ hoàn toàn khác hẳn với kỷ xảo 3D trong phim RE: Afterlife.",
-      "releaseInfo": "2012",
-      "imdbRating": "6.4"
-    },
-    {
-      "id": "tt1037116",
-      "type": "movie",
-      "name": "One Piece: Cuộc Chiến Ở Vương Quốc Alabasta",
-      "poster": "https://image.tmdb.org/t/p/w500/qryaZLg7DkBkZtwKWTH6dfXjT3r.jpg",
-      "description": "Đảo Hải Tặc 8: Cuộc Chiến Ở Vương Quốc Alabasta – Luffy và băng Mũ Rơm giúp đỡ công chúa Vivi giải cứu đất nước đang chìm trong nội chiến của cô. Tất cả đều do một tay Crocodile – một DF user rất mạnh và tổ chức Baroque Works của hắn gây ra. Liệu họ có chống lại được Crocodile hùng mạnh hay không?",
-      "releaseInfo": "2007",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt0923811",
-      "type": "movie",
-      "name": "Đặc Vụ Không Gian: Không Đơn Độc",
-      "poster": "https://image.tmdb.org/t/p/w500/pETU4GurpeEjBOM8oytMH0yNBHx.jpg",
-      "description": "Bộ phim xoay quanh cuộc chiến chống lại sự xâm lược của sinh vật khổng lồ \"Angel\". Chuyện bắt đầu vào năm 2015, khi thế giới đã bị phá hủy bởi một sinh vật gọi là Adam, lúc này Ikari Shinji đến một thành phố và đã gặp một Angel đang phá hủy nó. Shinji đã được một cô gái trong tổ chức đưa xuống nơi đang chế tạo một robot có tên \"Eva\" để chiến đấu chống lại Angel...",
-      "releaseInfo": "2007",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt0498536",
-      "type": "movie",
-      "name": "Thám Tử Lừng Danh Conan: Lễ Cầu Hồn Của Thám Tử",
-      "poster": "https://image.tmdb.org/t/p/w500/b9a22TMbuTqkiPRJ6F2PkG8b4AZ.jpg",
-      "description": "Thám Tử Lừng Danh Conan 10: Lễ Cầu Hồn Của Thám Tử – Một người đàn ông bí ẩn hỏi Kogoro để đến Yokohama. He asked Ran, Conan and the others go with him. Ông đã yêu cầu Ran, Conan và những người khác đi với anh ta. However, it was a trap, and Ran and the Detective Boys are taken as hostage. Tuy nhiên, nó đã là một cái bẫy, và Ran và Detective Boys được lấy làm con tin. The case that the mysterious man gave Kogoro must be solved within 12 hours, or else the bomb, hidden in VIP passes for an amusement park and worn by Ran and the others, will explode. Các trường hợp đó, người đàn ông bí ẩn đã Kogoro phải được giải quyết trong vòng 12 giờ, hoặc người nào khác quả bom, ẩn trong VIP qua cho một khu vui chơi và mòn của Ran và những người khác, sẽ phát nổ. The criminal also knows that Conan is Shinichi Kudo. tội phạm cũng biết rằng Conan là Shinichi Kudo. Heiji Hattori ...",
+      "name": "Doraemon: Chú Khủng Long của Nobita",
+      "poster": "https://image.tmdb.org/t/p/w500/fC4PbXvtU8iJLPeiyBnHvTFECl0.jpg",
+      "description": "Nobita tình cờ tìm được một quả trứng khủng long hóa thạch, cậu dùng bảo bối \"Khăn trùm thời gian\" đưa quả trứng trở về thời điểm 100 triệu năm trước và ấp cho trứng nở để khoe với bạn bè mình. Nỗ lực của Nobita đã thành công khi chú khủng long thuộc chi Mamenchisaurus (xà đầu long) chào đời, được cậu đặt tên là Pisuke. Nobita và Doraemon bí mật chăm sóc Pīsuke đến khi khủng long trưởng thành, tình cảm của cậu dành cho khủng long cũng tăng dần theo thời gian. Đến khi Pisuke không thể sống vừa trong nhà nữa, Nobita phải nuôi khủng long ở hồ nước trong công viên, không may cư dân thành phố đã phát hiện ra và tiến hành chiến dịch truy bắt; Nobita và Doraemon đành thả Pīsuke về lại quê hương ở Kỷ Phấn trắng.",
       "releaseInfo": "2006",
-      "imdbRating": "7.1"
-    },
-    {
-      "id": "tt0142242",
-      "type": "movie",
-      "name": "Bảy Viên Ngọc Rồng Z: Broly - Siêu Saiyan Huyền Thoại",
-      "poster": "https://image.tmdb.org/t/p/w500/6iO8TJCyLI4BiPYOvdwzPV2bhoV.jpg",
-      "description": "Movie ngoại truyện thứ 8 của Dragon Ball Z. Khi Goku đi tìm hiểu nguyên nhân vài hành tinh ở ngân hà phía Nam, Vegeta được mời để trở thành vua của hành tinh Vegeta mới, và đến để đánh bại Broly - siêu saiyan huyền thoại.",
-      "releaseInfo": "1993",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt36148135",
-      "type": "movie",
-      "name": "ALL YOU NEED IS KILL",
-      "poster": "https://image.tmdb.org/t/p/w500/kznh3ACnXYVyyAYes7JN6i1wy2d.jpg",
-      "description": "Khi một đóa hoa ngoài hành tinh khổng lồ mang tên \"Darol\" bất ngờ bùng nổ trong một sự kiện chết chóc, giải phóng lũ quái vật tàn sát dân số Nhật Bản, Rita bị cuốn vào sự hủy diệt — và bị giết. Nhưng rồi cô tỉnh dậy lần nữa. Rồi lần nữa. Mắc kẹt trong vòng lặp thời gian vô tận, Rita phải vượt qua chấn thương và sự lặp lại của cái chết cho đến khi cô gặp Keiji — chàng trai nhút nhát cũng mắc kẹt trong cùng vòng lặp. Cùng nhau, họ chiến đấu để thoát khỏi vòng lặp và tìm ý nghĩa giữa hỗn loạn.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt1343046",
-      "type": "movie",
-      "name": "Thám Tử Lừng Danh Conan: Truy Lùng Tổ Chức Áo Đen",
-      "poster": "https://image.tmdb.org/t/p/w500/6WPTcAkyc1XuVFlXw3yhpWMGmOH.jpg",
-      "description": "Thám Tử Lừng Danh Conan 13: Truy Lùng Tổ Chức Áo Đen – Thám tử nhí Edogawa Conan lại một lần nữa đối mặt với Tổ chức Áo đen trong một cuộc thách đấu định mệnh.Câu truyện bắt đầu khi Tổ chức áo đen phát hiện ra tên thám tử học sinh Kudo Shinichi vẫn còn sống sót sau khi uống viên thuốc độc của bọn chúng, và giờ đang trú ngụ trong vỏ bọc của một học sinh cấp một.Tất cả những người có liên quan với Conan đều nằm trong vòng truy sát của Tổ chức Áo đen.Conan sẽ phải làm gì để bảo vệ những người quan trọng của cậu? Mời các bạn đón xem.",
-      "releaseInfo": "2009",
       "imdbRating": "7.2"
     },
     {
-      "id": "tt9850064",
+      "id": "tt1018764",
       "type": "movie",
-      "name": "Những Đứa Con Của Hải Thú",
-      "poster": "https://image.tmdb.org/t/p/w500/9Fch8X5C5yW2srPVBiq6LNRvwd.jpg",
-      "description": "Ruka, cô nữ sinh cấp II cảm thấy khó hoà nhập với môi trường sống và học tập quanh mình. Một lần tình cờ ghé thăm công viên thuỷ sinh, nơi bố cô bé đang làm việc, cô phát hiện ra hai anh em Umi và Sora đang bơi cùng đàn cá ở đây. Khi ba người bạn nhỏ trở nên thân thiết, những hiện tượng lạ ở ngoài trái đất liên tục xảy ra.",
-      "releaseInfo": "2019",
-      "imdbRating": "6.5"
+      "name": "One Piece: Nam Tước Omatsuri Và Hòn Đảo Bí Mật",
+      "poster": "https://image.tmdb.org/t/p/w500/ueIR4LM4k8eKhSB8gGT9NMhCwGW.jpg",
+      "description": "Đảo Hải Tặc 6: Nam Tước Omatsuri Và Hòn Đảo Bí Mật – Sau khi nhận được lời mời bí ẩn từ đảo Omatsuri, nhóm Luffy không thể khước từ những ngày thư giãn và giải trí ở đây. Nhưng ít họ biết, để tận hưởng những ngày thư giãn này, họ phải tuân theo các quy tắc của Baron Omatsuri và tham gia vào cuộc thử thách địa ngục. Nhưng liệu nó có đáng giá? Luffy có vẻ suy nghĩ như vậy …",
+      "releaseInfo": "2005",
+      "imdbRating": "7.2"
     },
     {
       "id": "tt2375379",
@@ -567,40 +235,139 @@
       "imdbRating": "7.7"
     },
     {
-      "id": "tt21223380",
+      "id": "tt0875609",
       "type": "movie",
-      "name": "Doraemon: Nobita và Vùng Đất Lý Tưởng Trên Bầu Trời",
-      "poster": "https://image.tmdb.org/t/p/w500/f0cSFvuuEXpQEHXn9jFpCblHyMI.jpg",
-      "description": "Phim điện ảnh Doraemon: Nobita Và Vùng Đất Lý Tưởng Trên Bầu Trời kể câu chuyện khi Nobita tìm thấy một hòn đảo hình lưỡi liềm trên trời mây. Ở nơi đó, tất cả đều hoàn hảo… đến mức cậu nhóc Nobita mê ngủ ngày cũng có thể trở thành một thần đồng toán học, một siêu sao thể thao. Cả hội Doraemon cùng sử dụng một món bảo bối độc đáo chưa từng xuất hiện trước đây để đến với vương quốc tuyệt vời này. Cùng với những người bạn ở đây, đặc biệt là chàng robot mèo Sonya, cả hội đã có chuyến hành trình tới vương quốc trên mây tuyệt vời… cho đến khi những bí mật đằng sau vùng đất lý tưởng này được hé lộ.",
-      "releaseInfo": "2023",
+      "name": "Pokémon: Mew Và Người Hùng Của Ngọn Sóng Lucario",
+      "poster": "https://image.tmdb.org/t/p/w500/hCNvzsT8FK7Mjh8U2Io4Rkn1Szo.jpg",
+      "description": "Hàng nghìn năm trước, trước khi có sự xuất hiện của Pokéball, thế giới chìm trong một cuộc chiến tranh tàn khốc giữa hai thế lực quân đội hùng mạnh. Để bảo vệ vương quốc Cameran, dũng sĩ Aaron đã phong ấn cận vệ trung thành của mình là Lucario vào một vương trượng quyền năng, rồi tự mình hy sinh để lập lại hòa bình. Ở thời hiện đại, Satoshi vô tình giải phóng Lucario trong một lễ hội tôn vinh Aaron. Tuy nhiên, Lucario thức tỉnh với trái tim mang đầy hoài nghi và oán hận vì cho rằng mình đã bị người chủ mà nó kính trọng nhất phản bội. Cùng lúc đó, Pokémon huyền ảo Mew bất ngờ xuất hiện và mang Pikachu đến Cây Khởi Nguyên (Tree of Beginning) – thực thể sống khổng lồ duy trì sự sống của Trái Đất.",
+      "releaseInfo": "2005",
       "imdbRating": "6.8"
     },
     {
-      "id": "tt0142236",
+      "id": "tt13424422",
       "type": "movie",
-      "name": "ドラゴンボールZ 復活のフュージョン!! 悟空とベジータ",
-      "poster": "https://image.tmdb.org/t/p/w500/rCU5ddP3FVSDJy81UldUsBuf3ag.jpg",
-      "description": "Not paying attention to his job, a young demon allows the evil cleansing machine to overflow and explode, turning the young demon into the infamous monster Janemba. Goku and Vegeta make solo attempts to defeat the monster, but realize their only option is fusion.",
-      "releaseInfo": "1995",
+      "name": "Sword Art Online: Progressive - Khúc độc tấu trong đêm vắng sao",
+      "poster": "https://image.tmdb.org/t/p/w500/yD9RhgIVydQNBK7OLEbCWYcWMUd.jpg",
+      "description": "Một tháng đã trôi qua kể từ khi trò chơi chết người của Akihiko Kayaba bắt đầu, và số lượng người tử vong vẫn tiếp tục tăng. Hai nghìn người chơi đã chết. Kirito và Asuna là hai người trái ngược nhau hoàn toàn, nhưng cả hai đều muốn chiến đấu một mình. Tuy nhiên, cả hai phát hiện bản thân bị thu hút bởi nửa kia cũng như có những sự đồng điệu từ trong ra ngoài nên đã quyết định sẽ cùng nhau đối mặt với các thử thách. Cho rằng toàn bộ thế giới ảo mà họ hiện đang sống đã được tạo ra như một cái bẫy tử thần, những người chơi còn sống sót của Sword Art Online đang bắt đầu trở nên tuyệt vọng, việc đó trở thành mối nguy hại đối với những kẻ cô độc như Kirito và Asuna. Liệu cả hai có thể vượt qua sự khác biệt giữa họ và tin tưởng lẫn nhau để khám phá ra sức mạnh và cùng cố gắng sống sót?",
+      "releaseInfo": "2021",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt41295042",
+      "type": "movie",
+      "name": "One Piece Heroines",
+      "poster": "https://image.tmdb.org/t/p/w500/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
+      "description": "Sau khi thất bại ngăn chặn bọn trộm vì đôi giày không vừa, Nami xông vào cửa hàng nơi cô mua chúng để đòi hoàn tiền. Tuy nhiên, nhà thiết kế trưởng đề nghị làm cho cô một đôi mới từ đầu với một điều kiện: cô phải sải bước trong show thời trang sắp tới của họ.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt39026173",
+      "type": "movie",
+      "name": "Chiikawa: Bí Mật Của Đảo Người Cá",
+      "poster": "https://image.tmdb.org/t/p/w500/e1wTUMAR39i3jhPH0UrE9SPOzF2.jpg",
+      "description": "Chiikawa và các bạn lên đường cho chuyến phiêu lưu mùa hè đầy kỳ thú đến hòn đảo bí ẩn được đồn là giấu bí mật nàng tiên cá đã thất lạc từ lâu. Khởi đầu là chuyến đi chơi vui vẻ, chuyến đi nhanh chóng trở thành hành trình ấm lòng đầy bất ngờ, hồi hộp nhẹ nhàng và những hỗn loạn đáng yêu. Với biển lấp lánh, truyền thuyết kỳ lạ và những cuộc gặp khó quên, bộ ba học được về lòng dũng cảm, tình bạn và phép màu ẩn trong những khoảnh khắc nhỏ.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt3335192",
+      "type": "movie",
+      "name": "Lupin Đệ Tam và Thám Tử Lừng Danh Conan",
+      "poster": "https://image.tmdb.org/t/p/w500/hyLW346kEV7E8GgibUGeG7pNSFO.jpg",
+      "description": "Conan Edogawa sets out to apprehend Lupin the Third, the suspect of stealing a jewel called Cherry Sapphire.",
+      "releaseInfo": "2013",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt35636950",
+      "type": "movie",
+      "name": "Kaiju No.8: Nhiệm Vụ Trinh Sát",
+      "poster": "https://image.tmdb.org/t/p/w500/qp0EuVdQZzb3lBf7acnr5wIOATx.jpg",
+      "description": "Kaiju No.8: Nhiệm Vụ Trinh Sát là một phần ngoại truyện của bộ manga Kaiju No.8 (Kaijuu 8-gou). Câu chuyện tập trung vào Kafka Hibino, người có khả năng biến hình thành quái vật (Kaiju) và phải giữ bí mật về năng lực này khi gia nhập Lực lượng Phòng vệ Nhật Bản, một tổ chức chuyên tiêu diệt quái vật. Nhiệm vụ của anh là vừa chiến đấu với quái vật, vừa che giấu thân phận thực sự của mình.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0495596",
+      "type": "movie",
+      "name": "Huyền Thoại Đất Liền Và Đại Dương",
+      "poster": "https://image.tmdb.org/t/p/w500/y0VnJt4eRPMjA1hpJ8f1EFoVaSf.jpg",
+      "description": "Thế giới dần suy tàn, Đại pháp sư đưa vị hoàng tử mang trong lòng nhiều trăn trở và cả ác tâm lên đường tìm kiếm ngọn nguồn cái ác, cứu lấy những người con gái họ yêu.",
+      "releaseInfo": "2006",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt0791188",
+      "type": "movie",
+      "name": "Naruto Movie 2: Huyền Thoại Đá Gelel",
+      "poster": "https://image.tmdb.org/t/p/w500/itKMldwL6uhUZYO3X78NOFU4zzO.jpg",
+      "description": "Naruto the Movie 2: Huyền Thoại Đá Gelel: Câu chuyện mở đầu với trận chiến tại một bờ biển hoang vắng vào ban đêm giữa ninja làng Cát và những tên khổng lồ mặc chiếc áo giáp nâu. Những ninja làng Cát đang hoàn toàn bị thất thế trước những tên to lớn này. Một trận chiến mới của Naruto bắt đầu.",
+      "releaseInfo": "2005",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt1071815",
+      "type": "movie",
+      "name": "Naruto Movie 3: Những Lính Gác Của Nguyệt Quốc",
+      "poster": "https://image.tmdb.org/t/p/w500/mmKiJ93x6uhTwJlrxCoY38R4qo6.jpg",
+      "description": "Câu chuyện bắt đầu từ việc bộ bốn Naruto, Sakura, Rock Lee và Kakashi nhận nhiệm vụ bảo vệ vị hoàng tử béo hay ham chơi Michiru và cậu con trai với cặp kính cận to Hikaru bắn mũi tên đầu cao su vào băng bảo vệ trán của Naruto và cho rằng những Ninja này thật vô dụng. Theo lời của Tsunade, đây là một nơi du lịch khá nổi tiếng với hòn đảo hình mặt trăng liềm cùng với biển đẹp luôn khiến bà bị cuốn hút bởi nó và rất mong một ngày nào đó sẽ được đến đây. Bộ bốn này phải chống lại bọn cướp tấn công những du khách theo cảnh báo của Tsunade. Ban đêm khi hai bố con Michiru ăn uống sung sướng mà cả bốn phải ăn mì ở ngoài, chưa kể cơn rét vào đêm khuya khoắt ...",
+      "releaseInfo": "2006",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt3455204",
+      "type": "movie",
+      "name": "Thám Tử Lừng Danh Conan: Sát Thủ Bắn Tỉa Không Tưởng",
+      "poster": "https://image.tmdb.org/t/p/w500/wGy8wbRrzOeFqVxU39LJ5VspwDO.jpg",
+      "description": "Thám Tử Lừng Danh Conan 18: Sát Thủ Bắn Tỉa Không Tưởng – Một cựu lính bắn tỉa của \"Biệt đội hải cẩu\" hay còn gọi là SEALs (một nhánh đặc nhiệm tinh nhuệ của hải quân Hoa Kỳ, nhóm thường tham chiến tại chiến trường Trung Đông, tiêu diệt khủng bố, và Osama Binladen cũng do SEALs tiêu diệt) tên là Hunter bị tình nghi dính dáng đến 1 vụ giết người hàng loạt bằng súng bắn tỉa. Nạn nhân là những cựu thành viên của SEALs và những người có thù oán với Hunter.  Mỗi vụ đều để lại 1 con xúc xắc với các mặt khác nhau và 1 vỏ đạn rỗng. Cả phía FBI cũng tham gia vào vụ này. Ân oán uẩn khúc bên trong là gì? Phía cảnh sát phải làm gì để bảo vệ những mục tiêu tiếp theo? Hãy cùng xem 110 phút cân não, cuộc đấu giữa những cái đầu và cả những tay snipper không tưởng. Chỉ có snipper mới hạ được ...",
+      "releaseInfo": "2014",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt0988982",
+      "type": "movie",
+      "name": "Naruto Shippuden Movie 1: Cái Chết Tiên Đoán",
+      "poster": "https://image.tmdb.org/t/p/w500/vDkct38sSFSWJIATlfJw0l3QOIR.jpg",
+      "description": "Những con quỷ đã từng gần như phá hủy thế giới, được hồi sinh bởi một ai đó. Để ngăn chặn thế giới bị hủy diệt, con quỷ phải bị phong ấn và người duy nhất có thể làm điều đó là cô gái đền thờ Shion từ đất nước của quỷ, người có hai sức mạnh; Một người đang phong ấn quỷ và người kia dự đoán về cái chết của con người. Lần này, nhiệm vụ của Naruto là bảo vệ Shion, nhưng cô dự đoán cái chết của Naruto. Cách duy nhất để thoát khỏi nó, là tránh xa Shion, thứ sẽ khiến cô không được bảo vệ, sau đó là con quỷ, mục tiêu duy nhất là giết Shion sẽ làm như vậy, nghĩa là ngày tận thế. Naruto quyết định thách thức \"dự đoán về cái chết\" này.",
+      "releaseInfo": "2007",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt8098546",
+      "type": "movie",
+      "name": "Doraemon: Nobita và Đảo Giấu Vàng",
+      "poster": "https://image.tmdb.org/t/p/w500/cmJ71gdZxCqkMUvGwWgSg3MK7pC.jpg",
+      "description": "“Tớ sẽ tìm ra hòn đảo kho báu!”… Quyết tâm thực hiện bằng được kế hoạch sau khi hùng hồn tuyên bố với nhóm bạn Jaian, Suneo và Shizuka, nhờ bảo bối “Bản đồ truy tìm kho báu” của Doraemon, Nobita đã tìm thấy một hòn đảo mới đột nhiên xuất hiện giữa Thái Bình Dương... Nobita cùng các bạn bắt đầu chuyến phiêu lưu hướng tới đảo kho báu trên con tàu mang tên “Vầng hào quang Nobita”.",
+      "releaseInfo": "2018",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt0102587",
+      "type": "movie",
+      "name": "Chỉ Còn Ngày Hôm Qua",
+      "poster": "https://image.tmdb.org/t/p/w500/8L1QJ4iBORbyrb5fOQerhRdQyC8.jpg",
+      "description": "Từ trái dứa đến tình đầu: đó chính là câu chuyện ngày ấy bây giờ của cô gái 27 tuổi tại Tokyo. Khi cô rời thành phố cũng là lúc cô bước vào miền ký ức xa xôi.",
+      "releaseInfo": "1991",
       "imdbRating": "7.6"
     },
     {
-      "id": "tt2231489",
+      "id": "tt8856470",
       "type": "movie",
-      "name": "聖闘士星矢 LEGEND of SANCTUARY",
-      "poster": "https://image.tmdb.org/t/p/w500/gxKfP9278RK4t3J8vLXoFfB8ihl.jpg",
-      "description": "Mitsumasa Kido discovers a misterious baby in the himalayas whom he adopts as his grandaughter. 16 years later, Saori Kido is a young girl troubled by her mysterious powers. She is saved by Seiya from an assassin sent to kill her. Saori then learns she is the reincarnation of the Goddess Athena with Seiya being one of her Saints sworn to protect her. Upon learning of her destiny, she heads to the Sanctuary to rebel against the Pope's murderous plot.",
-      "releaseInfo": "2014",
-      "imdbRating": "5.4"
+      "name": "Pokémon: Mewtwo Phản Công – Tiến Hóa",
+      "poster": "https://image.tmdb.org/t/p/w500/nmVL7aranAFEzsMJewonzwcED67.jpg",
+      "description": "Mewtwo – một Pokémon nhân tạo được tạo ra từ DNA của Mew – thức tỉnh với nỗi hận thù loài người sâu sắc sau khi bị biến thành công cụ thí nghiệm. Trốn chạy khỏi phòng thí nghiệm, Mewtwo xây dựng một pháo đài kiên cố trên đảo New Island và gửi lời thách thức đến những nhà huấn luyện Pokémon xuất sắc nhất, trong đó có Satoshi. Tại đây, Mewtwo sử dụng công nghệ nhân bản để tạo ra quân đoàn Pokémon sao chép có sức mạnh vượt trội nhằm lật đổ trật tự thế giới.",
+      "releaseInfo": "2019",
+      "imdbRating": "5.7"
     },
     {
-      "id": "tt6470762",
+      "id": "tt0142242",
       "type": "movie",
-      "name": "Mazinger Z: Infinity",
-      "poster": "https://image.tmdb.org/t/p/w500/muN1Gf5SnGz8Il2ViqsIX4pkfxA.jpg",
-      "description": "Khi Tiến sĩ Hell độc ác tấn công Trái Đất, cỗ mecha khổng lồ hùng mạnh Mazinger Z được tạo ra để ngăn chặn hắn.",
-      "releaseInfo": "2017",
-      "imdbRating": "5.9"
+      "name": "Bảy Viên Ngọc Rồng Z: Broly - Siêu Saiyan Huyền Thoại",
+      "poster": "https://image.tmdb.org/t/p/w500/6iO8TJCyLI4BiPYOvdwzPV2bhoV.jpg",
+      "description": "Movie ngoại truyện thứ 8 của Dragon Ball Z. Khi Goku đi tìm hiểu nguyên nhân vài hành tinh ở ngân hà phía Nam, Vegeta được mời để trở thành vua của hành tinh Vegeta mới, và đến để đánh bại Broly - siêu saiyan huyền thoại.",
+      "releaseInfo": "1993",
+      "imdbRating": "7.4"
     },
     {
       "id": "tt15494038",
@@ -612,22 +379,76 @@
       "imdbRating": "6.3"
     },
     {
-      "id": "tt0142243",
+      "id": "tt2231489",
       "type": "movie",
-      "name": "ドラゴンボールZ 龍拳爆発!!悟空がやらねば誰がやる",
-      "poster": "https://image.tmdb.org/t/p/w500/7uRu9EA3nie0n2mlVDDLlTI3IzC.jpg",
-      "description": "The Z Warriors discover an unopenable music box and are told to open it with the Dragon Balls. The contents turn out to be a warrior named Tapion who had sealed himself inside along with a monster called Hildegarn. Goku must now perfect a new technique to defeat the evil monster.",
-      "releaseInfo": "1995",
-      "imdbRating": "7.4"
+      "name": "聖闘士星矢 LEGEND of SANCTUARY",
+      "poster": "https://image.tmdb.org/t/p/w500/gxKfP9278RK4t3J8vLXoFfB8ihl.jpg",
+      "description": "Mitsumasa Kido discovers a misterious baby in the himalayas whom he adopts as his grandaughter. 16 years later, Saori Kido is a young girl troubled by her mysterious powers. She is saved by Seiya from an assassin sent to kill her. Saori then learns she is the reincarnation of the Goddess Athena with Seiya being one of her Saints sworn to protect her. Upon learning of her destiny, she heads to the Sanctuary to rebel against the Pope's murderous plot.",
+      "releaseInfo": "2014",
+      "imdbRating": "5.4"
     },
     {
-      "id": "tt13884166",
+      "id": "tt1133559",
       "type": "movie",
-      "name": "Thám Tử Lừng Danh Conan: Chứng Cứ Đỏ",
-      "poster": "https://image.tmdb.org/t/p/w500/qUu0OyoZWZkA35ycmvBcRly7ktX.jpg",
-      "description": "Chứng cứ ngoại phạm đỏ là một bộ phim tổng hợp các tập Anime Thám tử lừng danh Conan. Phim được phát hành tại Nhật Bản vào ngày 11 tháng 2 năm 2021. Phim được thực hiện để kỷ niệm ngày phát hành Movie 24 vào ngày 16 tháng 4 năm 2021, ban đầu dự kiến ​​phát hành vào vào ngày 17 tháng 4 năm 2020, nhưng đã bị hoãn lại do đại dịch COVID-19 đang diễn ra.",
+      "name": "Thám Tử Lừng Danh Conan: Nhà Ảo Thuật Với Đôi Cánh Bạc",
+      "poster": "https://image.tmdb.org/t/p/w500/jeKS4LsYqauEn3Ubmytywl8myzy.jpg",
+      "description": "Thám Tử Lừng Danh Conan 8: Nhà Ảo Thuật Với Đôi Cánh Bạc – Trong lần phá án này, nhiệm vụ của Conan là bảo vệ \"Viên Đá Định Mệnh\" trước lời thách thức của siêu trộm Kid. Trong buổi công diễn vở kịch cuối cùng, hắn hóa thân thành Shinichi và thản nhiên tới gần Ran. Mải tập trung vào mục đích chính, Conan bị mắc bẫy khi bị hắn đánh lạc hướng. Bởi Kid sẽ thực sự hành động trên chuyến bay của cô Juri tới Hakodate... Thảm họa xảy ra trên máy bay khi một hung thủ âm mưu giết cô Juri xuất hiện. Liệu mọi người có sống sót khi cả hai phi công bị nhiễm độc, máy bay đang rơi tự do? Conan có bắt được siêu trộm Kid và giao nộp hắn cho cảnh sát hay không?",
+      "releaseInfo": "2004",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt0990372",
+      "type": "movie",
+      "name": "Thám Tử Lừng Danh Conan: Bóng Ma Đường Baker",
+      "poster": "https://image.tmdb.org/t/p/w500/bMLqoFuFYfBxNl9dcy8unEkuSgC.jpg",
+      "description": "Thám Tử Lừng Danh Conan 6: Bóng Ma Đường Baker – Với sự phát triển của công nghệ, một trò chơi mới ra đời và chỉ được giành cho các con cháu của quan chức Nhật Bản. Conan và Đội Thám Tử Nhí lớp 1B cũng có cơ hội được mời đến tham gia trò chơi máy tính ảo mới này. Tuy nhiên, người lập trình trò chơi đã phát biểu rằng nếu mọi người không thể trả lời câu đố trong trò chơi, tất cả họ đều phải chết. Conan nhanh chóng nhận ra đây là một cạm bẫy nguy hiểm đến tính mạng, cậu buộc phải chiến thắng để cứu mọi người. Liệu trò chơi ma quái này có buông tha những đứa trẻ hay không?",
+      "releaseInfo": "2002",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt1037116",
+      "type": "movie",
+      "name": "One Piece: Cuộc Chiến Ở Vương Quốc Alabasta",
+      "poster": "https://image.tmdb.org/t/p/w500/qryaZLg7DkBkZtwKWTH6dfXjT3r.jpg",
+      "description": "Đảo Hải Tặc 8: Cuộc Chiến Ở Vương Quốc Alabasta – Luffy và băng Mũ Rơm giúp đỡ công chúa Vivi giải cứu đất nước đang chìm trong nội chiến của cô. Tất cả đều do một tay Crocodile – một DF user rất mạnh và tổ chức Baroque Works của hắn gây ra. Liệu họ có chống lại được Crocodile hùng mạnh hay không?",
+      "releaseInfo": "2007",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt9850064",
+      "type": "movie",
+      "name": "Những Đứa Con Của Hải Thú",
+      "poster": "https://image.tmdb.org/t/p/w500/9Fch8X5C5yW2srPVBiq6LNRvwd.jpg",
+      "description": "Ruka, cô nữ sinh cấp II cảm thấy khó hoà nhập với môi trường sống và học tập quanh mình. Một lần tình cờ ghé thăm công viên thuỷ sinh, nơi bố cô bé đang làm việc, cô phát hiện ra hai anh em Umi và Sora đang bơi cùng đàn cá ở đây. Khi ba người bạn nhỏ trở nên thân thiết, những hiện tượng lạ ở ngoài trái đất liên tục xảy ra.",
+      "releaseInfo": "2019",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt13057626",
+      "type": "movie",
+      "name": "Đứa Con Của Tháng Các Vị Thần",
+      "poster": "https://image.tmdb.org/t/p/w500/zbajcTeE9NIOS5IzHqGDj0ZmW8b.jpg",
+      "description": "Một năm sau khi mẹ qua đời, một cô bé biết rằng mình sẽ phải có một chuyến đi xuyên Nhật Bản để đến nơi tụ họp hằng năm của các vị thần ở vùng đất thiêng Izumo.",
       "releaseInfo": "2021",
-      "imdbRating": "6.3"
+      "imdbRating": "5.9"
+    },
+    {
+      "id": "tt1753496",
+      "type": "movie",
+      "name": "Vùng Đất Quỷ Dữ: Lời Nguyền",
+      "poster": "https://image.tmdb.org/t/p/w500/zkHSURVCrt7rpvDDgUXO75CV1v4.jpg",
+      "description": "Capcom Nhật Bạn đã thông báo chính thức về việc hãng sẽ thực hiện phần tiếp theo của loạt phim hoạt hình 3D GC phát hành vào năm 2008. Resident Evil: Damnation vẫn do Sony Pictures Entertainment phát hành. Phim dự định ra mắt vào năm 2012. Phim có sự trở lại của Leon S.Kennedy trong một nhiệm vụ hoàn toàn mới. Kỹ xảo 3D được thực hiện trong Resident Evil: Damnation sẽ hoàn toàn khác hẳn với kỷ xảo 3D trong phim RE: Afterlife.",
+      "releaseInfo": "2012",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt0498536",
+      "type": "movie",
+      "name": "Thám Tử Lừng Danh Conan: Lễ Cầu Hồn Của Thám Tử",
+      "poster": "https://image.tmdb.org/t/p/w500/b9a22TMbuTqkiPRJ6F2PkG8b4AZ.jpg",
+      "description": "Thám Tử Lừng Danh Conan 10: Lễ Cầu Hồn Của Thám Tử – Một người đàn ông bí ẩn hỏi Kogoro để đến Yokohama. He asked Ran, Conan and the others go with him. Ông đã yêu cầu Ran, Conan và những người khác đi với anh ta. However, it was a trap, and Ran and the Detective Boys are taken as hostage. Tuy nhiên, nó đã là một cái bẫy, và Ran và Detective Boys được lấy làm con tin. The case that the mysterious man gave Kogoro must be solved within 12 hours, or else the bomb, hidden in VIP passes for an amusement park and worn by Ran and the others, will explode. Các trường hợp đó, người đàn ông bí ẩn đã Kogoro phải được giải quyết trong vòng 12 giờ, hoặc người nào khác quả bom, ẩn trong VIP qua cho một khu vui chơi và mòn của Ran và những người khác, sẽ phát nổ. The criminal also knows that Conan is Shinichi Kudo. tội phạm cũng biết rằng Conan là Shinichi Kudo. Heiji Hattori ...",
+      "releaseInfo": "2006",
+      "imdbRating": "7.1"
     },
     {
       "id": "tt30400536",
@@ -639,93 +460,65 @@
       "imdbRating": "6.6"
     },
     {
-      "id": "tt1474276",
+      "id": "tt0089943",
       "type": "movie",
-      "name": "Cuộc Chiến Mùa Hè",
-      "poster": "https://image.tmdb.org/t/p/w500/eoZOvo86HXD4oaa4iset7lpJ1gN.jpg",
-      "description": "Một thiên tài toán học trẻ tuổi giải một phương trình phức tạp và vô tình đặt trí tuệ nhân tạo của thế giới ảo vào tình thế hủy diệt Trái đất.",
-      "releaseInfo": "2009",
+      "name": "ルパン三世 バビロンの黄金伝説",
+      "poster": "https://image.tmdb.org/t/p/w500/sC0nlE0XiUYF2yL6tBpoDmHYyNK.jpg",
+      "description": "Lupin squares off with two criminal families and Inspector Zenigata's new female patrol to track down a hoard of biblical-era treasure.",
+      "releaseInfo": "1985",
+      "imdbRating": "6.1"
+    },
+    {
+      "id": "tt16369708",
+      "type": "movie",
+      "name": "Tưởng tượng",
+      "poster": "https://image.tmdb.org/t/p/w500/4lOP2SxO4BQGPobpwBtrCLA2iDa.jpg",
+      "description": "Amanda và người bạn ảo ảnh Rudger của cô bé bước vào những cuộc phiêu lưu tưởng tượng đầy ly kỳ. Nhưng khi Rudger đơn độc, cậu đối mặt với một mối đe dọa bí ẩn.",
+      "releaseInfo": "2023",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt36148135",
+      "type": "movie",
+      "name": "ALL YOU NEED IS KILL",
+      "poster": "https://image.tmdb.org/t/p/w500/kznh3ACnXYVyyAYes7JN6i1wy2d.jpg",
+      "description": "Khi một đóa hoa ngoài hành tinh khổng lồ mang tên \"Darol\" bất ngờ bùng nổ trong một sự kiện chết chóc, giải phóng lũ quái vật tàn sát dân số Nhật Bản, Rita bị cuốn vào sự hủy diệt — và bị giết. Nhưng rồi cô tỉnh dậy lần nữa. Rồi lần nữa. Mắc kẹt trong vòng lặp thời gian vô tận, Rita phải vượt qua chấn thương và sự lặp lại của cái chết cho đến khi cô gặp Keiji — chàng trai nhút nhát cũng mắc kẹt trong cùng vòng lặp. Cùng nhau, họ chiến đấu để thoát khỏi vòng lặp và tìm ý nghĩa giữa hỗn loạn.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt0131479",
+      "type": "movie",
+      "name": "Thám Tử Lừng Danh Conan: Quả Bom Chọc Trời",
+      "poster": "https://image.tmdb.org/t/p/w500/DFAhTAEhJe4xY9z09wybhjMGCd.jpg",
+      "description": "Thám Tử Lừng Danh Conan 1: Quả Bom Chọc Trời – Trong tập phim này, Shinichi nhận lời mời dự tiệc từ kiến trúc sư Teiji Moriya, người không hề biết cậu đã bị thu nhỏ thành Conan. Cùng lúc đó, một kẻ lạ mặt gọi điện thách thức cậu tìm ra những quả bom đang được đặt xung quanh Tokyo. Hai sự kiện này liệu có liên quan đến nhau? Mọi việc càng trở nên nghiêm trọng khi Ran bị mắc kẹt tại một trong những tòa nhà đã bị đặt bom. Liệu Conan có tìm ra hung thủ và cứu cô bạn mình khỏi khoảnh khắc sinh tử?",
+      "releaseInfo": "1997",
       "imdbRating": "7.4"
     },
     {
-      "id": "tt2668134",
+      "id": "tt12093860",
       "type": "movie",
-      "name": "キャプテンハーロック",
-      "poster": "https://image.tmdb.org/t/p/w500/mlHoTQLYsuzJJArO2fHS5rqnLqe.jpg",
-      "description": "Space Pirate Captain Harlock and his fearless crew face off against the space invaders who seek to conquer the planet Earth.",
-      "releaseInfo": "2013",
-      "imdbRating": "6.4"
+      "name": "Thám Tử Lừng Danh Conan: Viên Đạn Đỏ",
+      "poster": "https://image.tmdb.org/t/p/w500/deFcJJaqgEu2m2jUYGczxqAcA5v.jpg",
+      "description": "Thám Tử Lừng Danh Conan 24: Viên Đạn Đỏ – Thế vận hội thể thao lớn nhất thế giới được tổ chức tại Tokyo, Nhật Bản thu hút rất nhiều sự chú ý. Khi sự kiện ra mắt con tàu siêu tốc với tốc độ 1000km/h diễn ra cũng là lúc hàng loạt các vụ bắt cóc xảy ra! Gia tộc hiểm ác tụ tập tại đây sẽ gây ra một loạt sự kiện chấn động thế giới!",
+      "releaseInfo": "2021",
+      "imdbRating": "6.3"
     },
     {
-      "id": "tt1485763",
+      "id": "tt0090248",
       "type": "movie",
-      "name": "One Piece: Thế Giới Sức Mạnh",
-      "poster": "https://image.tmdb.org/t/p/w500/z9S39hH4IOX9Hmtn3zho3Wdqem8.jpg",
-      "description": "Đảo Hải Tặc 10: Thế Giới Sức Mạnh – Câu chuyện bắt đầu từ một nhân vật, \"Golden Leo\" – Shiki. Shiki vốn là một hải tặc vĩ đại sánh ngang tầm với Roger – \"Vua hải tặc\". Trong suốt cuộc đời, Shiki luôn thích làm những \"điều vĩ đại và đáng sợ\". Shiki và Roger từng trải qua nhiều trận thư hùng làm chấn động biển khơi trước khi Roger tự nộp mình cho hải quân. Hay tin Roger bị bắt, Shiki nổi cơn lôi đình, vì cho rằng mạng sống của Roger chỉ mình hắn được quyền lấy. Trong cơn tức giận, Shiki đã một mình đến căn cứ hải quân, giết vô số quân lính với mục đích tìm Roger. Ở đây, Shiki đã gặp Garp – Ông của Luffy, phó đô đốc huyền thoại của hải quân và Sengokou – người sau này trở thành Đại đô đốc thống lĩnh toàn bộ lực lượng hải quân. Trận thư hùng của 3 người diễn ra long trời lở đất? Ai sẽ là người chiến thắng? Hậu quả của cuộc chiến kéo dài sau 20 năm sẽ như thế nào?",
-      "releaseInfo": "2010",
-      "imdbRating": "7.4"
+      "name": "バンパイアハンターD",
+      "poster": "https://image.tmdb.org/t/p/w500/yhKS0Wi6HNOHauWl0M3fr23hiB7.jpg",
+      "description": "In a far-future time ruled by the supernatural, a young girl requests the help of a vampire hunter to kill the vampire who has bitten her and thus prevent her from becoming a vampire herself.",
+      "releaseInfo": "1985",
+      "imdbRating": "7.0"
     },
     {
-      "id": "tt13428402",
+      "id": "tt0189974",
       "type": "movie",
-      "name": "Doraemon: Đôi Bạn Thân 2",
-      "poster": "https://image.tmdb.org/t/p/w500/zdYNwZZinyEDEl6IEk3Ad3fn2eP.jpg",
-      "description": "Phim Doraemon: Đôi Bạn Thân Phần 2 là câu chuyện kể về sự việc Doraemon, chú mèo máy đến từ thế kỷ 22. Vào ngày nay khi Doraemon và Nobita ở cùng nhau, Nobita tìm thấy một con gấu bông trong phòng. Đó là một món đồ kỉ niệm đã được may lại bởi bà nội cậu đã qua đời khi cậu lên mẫu giáo. Nobita, người nhớ đến bà của mình và không còn ngừng khóc, muốn gặp lại bà bằng cỗ máy thời gian. Doraemon phản đối, nhưng khởi hành đến quá khứ, nơi Nobita mới lên 3, với điều kiện cậu phải trở lại ngay khi nhìn thấy tình huống mà không gặp trực tiếp!",
-      "releaseInfo": "2020",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt10981202",
-      "type": "movie",
-      "name": "Bầu Trời Xanh Của Em",
-      "poster": "https://image.tmdb.org/t/p/w500/4gB3T6RA8RHSbiLaQznXvm0VBuN.jpg",
-      "description": "Cô học sinh Aoi Aioi sống tại một thị trấn nhỏ, say mê sáng tác nhạc. Aoi sống cùng chị gái Akane sau khi cha mẹ qua đời vì tai nạn 13 năm trước. Akane từng mối tình sâu đậm với tay guitar Shinnosuke Kanomura nhưng vì chăm sóc em gái, cô đã chia tay bạn trai và từ bỏ hy vọng đến Tokyo lập nghiệp. Từ đó, Aoi thấy nợ chị gái mình.",
-      "releaseInfo": "2019",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt0142249",
-      "type": "movie",
-      "name": "ドラゴンボール 魔神城のねむり姫",
-      "poster": "https://image.tmdb.org/t/p/w500/9BMFoAqU4DadJajmL3BX0CgJXfe.jpg",
-      "description": "Goku and Kuririn are given an assignment by Kame-Sen'nin: \"Retrieve the sleeping princess from Lucifer and I will take you as my students.\" But the mission proves to be more perilous than originally thought.",
-      "releaseInfo": "1987",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt1059950",
-      "type": "movie",
-      "name": "One Piece: Tên Khổng Lồ Trong Lâu Đài Karakuri",
-      "poster": "https://image.tmdb.org/t/p/w500/4Pu26TQNiyl8kjNe1sI3NMG2OQG.jpg",
-      "description": "Đảo Hải Tặc 7: Tên Khổng Lồ Trong Lâu Đài Karakuri – Băng Mũ Rơm đã vớt được hòm kho báu từ một con tàu chìm. Chiếc hòm được mở và bên trong chỉ có một bà lão đang trốn ở đó. Để được đưa về nhà, bà lão đã cho họ biết về chiếc vương miện vàng trên hòn đảo bà ta sống – Mecha Island. Khi đến nơi, tàu của họ đã bị chủ hòn đảo tấn công. Nhưng sau đó, người chủ đã nhờ hải tặc để khám phá bí mật của chiếc vương miện vàng. Chiếc vương miện này có phải là may mắn cho nhóm hải tặc Mũ Rơm hay không? Lời nguyền nào đang chờ đợi họ?",
-      "releaseInfo": "2006",
-      "imdbRating": "6.4"
-    },
-    {
-      "id": "tt2210479",
-      "type": "movie",
-      "name": "ベルセルク 黄金時代篇I 覇王の卵",
-      "poster": "https://image.tmdb.org/t/p/w500/vES8WAzjowrMT8gwnoEaCioZXXk.jpg",
-      "description": "Guts, an immensely strong sword-for-hire, has little direction in his life, simply fighting one battle after the next. However, this all changes suddenly when he meets and is bested by Griffith, a beautiful and charismatic young man who leads the Band of the Hawk mercenary army. After Guts joins the Band and the relationship between the two men begins to blossom, Casca, the tough, lone swordswoman in the Band of the Hawk, struggles to accept Guts and the influence he has on the world around her.  While the two men begin to fight together, Griffith continues to rise to power, all seemingly in order to reach his mysterious, prophesied goals. What lengths will Guts and Griffith go to in order to reach these goals, and where will fate take the two men?",
-      "releaseInfo": "2012",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt0808506",
-      "type": "movie",
-      "name": "Cô gái vượt thời gian",
-      "poster": "https://image.tmdb.org/t/p/w500/1pItbzMnPgT5SLbiMJ9gw7vkAnk.jpg",
-      "description": "Khi cô gái Makoto Konno 17 tuổi nhận ra mình có khả năng nhảy vượt thời gian, cô đã dành điều kì diệu này để sửa lại thành tích học tập cũng như những tai nạn ngớ ngẩn cô hay gặp phải. Tuy nhiên cô dần nhận ra việc thay đổi quá khứ không hề đơn giản như vậy, và tương lai của cô và bạn bè mình phụ thuộc vào chính khả năng nguy hiểm này.",
-      "releaseInfo": "2006",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt3830998",
-      "type": "movie",
-      "name": "Lupin Đệ Tam: Bia Mộ Của Daisuke Jigen",
-      "poster": "https://image.tmdb.org/t/p/w500/rFzjrIk8hPoWsZzE42iCUlZgu0p.jpg",
-      "description": "Trong một vụ ám sát, Jigen chứng kiến một tay súng bậc thầy được Nữ hoàng Yael thuê để hạ sát một mục tiêu. Tay súng này có khả năng bắn trúng mục tiêu từ khoảng cách xa một cách chính xác tuyệt đối, và Jigen nhận ra rằng mình có thể là mục tiêu tiếp theo. Cốt truyện tập trung vào cuộc đấu trí giữa Jigen và Nữ hoàng Yael, khi Jigen phải đối mặt với một sát thủ tài năng và quyết tâm trả thù cho một người bạn của mình.",
-      "releaseInfo": "2014",
+      "name": "ルパン三世『ワルサーP38』",
+      "poster": "https://image.tmdb.org/t/p/w500/9R23LFhmlzDGpYpKYjFyJ7XjRt7.jpg",
+      "description": "Lupin is framed for the murder of Inspector Zenigata by a mysterious assailant holding a silver-coloured Walther P38 pistol Lupin himself once owned. Tracking the true killer leads Lupin to the island of the bloodthirsty Tarantula assassins inside the Devil’s Triangle. After joining the spider-tattooed army against their will, Lupin and his gang make both new friends and enemies as they not only plan to take home the Tarantulas’ massive gold repository for themselves, but hunt down the shooter from Lupin’s past. Can Lupin put to rest this demon who haunts his memories with the Walther P38?",
+      "releaseInfo": "1997",
       "imdbRating": "7.2"
     },
     {
@@ -738,138 +531,74 @@
       "imdbRating": "7.2"
     },
     {
-      "id": "tt0142247",
+      "id": "tt1485763",
       "type": "movie",
-      "name": "ドラゴンボールZ 絶望への反抗!! 残された超戦士・悟飯とトランクス",
-      "poster": "https://image.tmdb.org/t/p/w500/AfUkiiR0UKeiPXPgTx9bRO4snTB.jpg",
-      "description": "It has been thirteen years since the Androids began their killing rampage and Son Gohan is the only person fighting back. He takes Bulma's son Trunks as a student and even gives his own life to save Trunks's. Now Trunks must figure out a way to change this apocalyptic future",
-      "releaseInfo": "1993",
-      "imdbRating": "7.8"
-    },
-    {
-      "id": "tt0107692",
-      "type": "movie",
-      "name": "Lãng Khách Ninja",
-      "poster": "https://image.tmdb.org/t/p/w500/8T5iSWwuxDBOoG0uiBhA3z7ot9e.jpg",
-      "description": "Ninja Scroll gây ấn tượng vì tốc độ và máu me trong phim. Rất nhiều máu… cho vỏn vẹn 90 phút phim, những cảnh chiến đấu với vũ khí và phép thuật mới lạ mang lại cho bạo lực một vẻ đẹp hoàn mỹ.  Phim kể về Jubei Kibagami, một ninja đánh thuê, nay đây mai đó, người có tài dùng kiếm chém được gió. Sau lần giải cứu một nữ ninja của mạc phủ từ tay một con quái vật thuộc nhóm ninja yêu quái đang âm mưu lật đổ mạc phủ, số phận đẩy anh vào một cuộc phiêu lưu nguy hiểm, đầy ác mộng trong thế giới yêu ma mà cái chết có thể đến bất kỳ lúc nào…  Cùng với Akira và Ghost in the Shell, Ninja được xem là một trong những bộ anime (cho người lớn) xuất sắc nhất tới hiện nay. Còn vào những năm 1990, đây chính là anime nổi tiếng nhất Nhật Bản. Ninja Scroll từng giành giải thưởng Citizen Award tại Liên hoan phim Yubari Fantastic quốc tế năm 1993.\"",
-      "releaseInfo": "1993",
-      "imdbRating": "7.8"
-    },
-    {
-      "id": "tt1264885",
-      "type": "movie",
-      "name": "Doraemon: Nobita và Lịch Sử Khai Phá Vũ Trụ",
-      "poster": "https://image.tmdb.org/t/p/w500/vG8NDqwlxXDQFTVrKzeXnJAf6Vh.jpg",
-      "description": "Nhờ vào hiện tượng thần giao cách cảm mà Nobita và Doraemon quen được 2 người bạn:Roppu và Chamy-cư dân hành tinh Koyakoya dưới không gian nền nhà căn phòng của Nobita do sự rối loạn không gian. Qua các buổi trò chuyện nên Doraemon và Nobita biết được hành tinh Đen có ý định cướp đoạt hành tinh Koyakoya để lấy đi Viên Đá Li Tâm-1 vật báu của hành tinh-tính năng gần giống như chong chóng tre nên Doraemon và Nobita giúp hành tinh Koyakoya đuổi bọn hành tinh Đen. Vì sự khác biệt về lực hấp dẫn nên khi Doraemon và Nobita ở hành tinh Koyakoya đã trở thành siêu nhân. Trong các trận chiến đã không có sự tham gia của Shizuka, Jaian và Suneo(vì lần trước do sân bóng bị mấy anh lớp trên chiếm nên nhóm bạn đã lên hành tinh Koyakoya chơi tạm nhưng không may lại bị người hành tinh Đen tấn công, sợ và bỏ về) cho đến khi Giramin đặt thiết bị nổ hòng phá huỷ hành tinh này Chamy đã đến cầu cứu và trận chiến đã trở nên gay cấn hơn khi có sự tham gia của Dorami.",
-      "releaseInfo": "2009",
-      "imdbRating": "6.6"
-    },
-    {
-      "id": "tt5595168",
-      "type": "movie",
-      "name": "Final Fantasy XV: Đội Vệ Binh Tinh Nhuệ",
-      "poster": "https://image.tmdb.org/t/p/w500/xGMgspge6uYoypRiasAmlluDlXH.jpg",
-      "description": "Kingsglaive diễn ra trong song song với những sự kiện trong Final Fantasy XV, tập trung vào các sự kiện xung quanh vua Regis Lucis Caelum CXIII, cha của nhân vật chính Noctis. Cốt truyện kể về các Kingsglaive, đội vệ binh tinh nhuệ của vua Regis, được thừa hưởng sức mạnh ma thuật từ vị vua nhầm bảo vệ vương quốc Lucis và Thánh Thạch khỏi sự xâm lăng của Đế quốc Niflheim.  Phải đối mặt với liên tục với những cuộc xung đột, vua Regis chấp nhận một hiệp định đình chiến với Niflheim. Một phần của các hiệp ước hòa bình yêu cầu Hoàng tử Noctis phải kết hôn với công chúa Lunafreya Nox Fleuret của thành bang Tenebrae. Hiệp ước hòa bình hóa ra là một cái bẫy để Niflheim xâm lược vương quốc. Nyx Ulric, vệ binh tinh nhuệ nhất Kingsglavie cùng với vua Regis và Lunafreya phải tham gia vào cuộc chiến vì vận mênh của Lucis.",
-      "releaseInfo": "2016",
-      "imdbRating": "6.7"
-    },
-    {
-      "id": "tt3737650",
-      "type": "movie",
-      "name": "Thám Tử Lừng Danh Conan: Hoa Hướng Dương Rực Lửa",
-      "poster": "https://image.tmdb.org/t/p/w500/omsiYOzx0DiO4unBB6UNNNWudJs.jpg",
-      "description": "Thám Tử Lừng Danh Conan 19: Hoa Hướng Dương Rực Lửa – Bộ phim xoay quanh việc Kaitou Kid tuyên bố trộm bức họa \"Hoa hướng dương\" nổi tiếng của Van Gogh. Rồi Conan cảm thấy hành động của tên Kid rất kì lạ, để khám phá ra sự thật sau hành động kì lạ đó, Conan cùng với nhóm cảnh sát truy bắt Kid... Từ đó Conan khám phá ra được rằng đó không phải là Kid, rất có thể là một kẻ mạo danh Kaitou Kid để hành động. Vậy bức tranh sẽ ra sao? Mục tiêu của Kid là bức tranh \"Hoa hướng dương\" nổi tiếng của Van Gohn. Tuy nhiên mọi chuyện không chỉ có vậy, Kid dường như đang chuẩn bị đẩy rất nhiều người vào nguy hiểm để đạt được mục đích của mình. Tại sao lại thế?",
-      "releaseInfo": "2015",
-      "imdbRating": "6.3"
-    },
-    {
-      "id": "tt38650422",
-      "type": "movie",
-      "name": "The Dangers in My Heart: The Movie",
-      "poster": "https://image.tmdb.org/t/p/w500/8aP916aOB8gvRPrL8aY9enflu3e.jpg",
-      "description": "Kyotaro Ichikawa là một cậu học sinh trung học vụng về đến đau lòng, đang chìm trong hội chứng học sinh lớp tám, dành cả ngày đắm chìm trong những cuốn sách bệnh hoạn. Thế giới yên tĩnh, khép kín của cậu đột nhiên bị đảo lộn khi Anna Yamada, ngôi sao của lớp, bất ngờ bước vào cuộc đời cậu. Và trước khi kịp nhận ra, cô đã chiếm trọn mọi suy nghĩ mỗi ngày của cậu.",
-      "releaseInfo": "2026",
+      "name": "One Piece: Thế Giới Sức Mạnh",
+      "poster": "https://image.tmdb.org/t/p/w500/z9S39hH4IOX9Hmtn3zho3Wdqem8.jpg",
+      "description": "Đảo Hải Tặc 10: Thế Giới Sức Mạnh – Câu chuyện bắt đầu từ một nhân vật, \"Golden Leo\" – Shiki. Shiki vốn là một hải tặc vĩ đại sánh ngang tầm với Roger – \"Vua hải tặc\". Trong suốt cuộc đời, Shiki luôn thích làm những \"điều vĩ đại và đáng sợ\". Shiki và Roger từng trải qua nhiều trận thư hùng làm chấn động biển khơi trước khi Roger tự nộp mình cho hải quân. Hay tin Roger bị bắt, Shiki nổi cơn lôi đình, vì cho rằng mạng sống của Roger chỉ mình hắn được quyền lấy. Trong cơn tức giận, Shiki đã một mình đến căn cứ hải quân, giết vô số quân lính với mục đích tìm Roger. Ở đây, Shiki đã gặp Garp – Ông của Luffy, phó đô đốc huyền thoại của hải quân và Sengokou – người sau này trở thành Đại đô đốc thống lĩnh toàn bộ lực lượng hải quân. Trận thư hùng của 3 người diễn ra long trời lở đất? Ai sẽ là người chiến thắng? Hậu quả của cuộc chiến kéo dài sau 20 năm sẽ như thế nào?",
+      "releaseInfo": "2010",
       "imdbRating": "7.4"
     },
     {
-      "id": "tt9418812",
+      "id": "tt35444710",
       "type": "movie",
-      "name": "Đi Ngược Thời Gian Để Tìm Em",
-      "poster": "https://image.tmdb.org/t/p/w500/vmizP4G4EWsxNf6PLOvGNaFJ89Y.jpg",
-      "description": "Bộ phim lãng mạn giả tưởng này lấy bối cảnh tại Kyoto vào năm 2027 và sẽ sử dụng nhiều địa danh nổi tiếng như Fushimi Inari Taisha và đền Kamo. Movie xoay quanh cậu bé học sinh cao trung Naomi Katagaki. Một ngày nọ, một người lạ đột ngột xuất hiện trước mặt cậu và tự xưng mình là Naomi đến từ tương lai 10 năm sau. Cùng với nhau, họ phải thay đổi tương lai và cứu lấy cô bạn Ruri, người mà 3 tháng sau sẽ hẹn hò với Naomi hiện tại.",
-      "releaseInfo": "2019",
-      "imdbRating": "6.7"
+      "name": "Thám Tử Lừng Danh Conan: Dư Ảnh Của Độc Nhãn",
+      "poster": "https://image.tmdb.org/t/p/w500/rMjZjNNz8M2Ul6AwHxgQtwiOLIB.jpg",
+      "description": "Thám Tử Lừng Danh Conan 28: Dư Ảnh Của Độc Nhãn – Trên những ngọn núi tuyết của Nagano, một vụ án bí ẩn đã đưa Conan và các thám tử quay trở lại quá khứ. Thanh tra Yamato Kansuke - người đã bị thương nặng trong một trận tuyết lở nhiều năm trước - bất ngờ phải đối mặt với những ký ức đau thương của mình trong khi điều tra một vụ tấn công tại Đài quan sát Nobeyama. Cùng lúc đó, Mori Kogoro nhận được một cuộc gọi từ một đồng nghiệp cũ, tiết lộ mối liên hệ đáng ngờ giữa anh ta và vụ án đã bị lãng quên từ lâu. Sự xuất hiện của Morofushi Takaaki, cùng với những nhân vật chủ chốt như Amuro Tooru, Kazami và cảnh sát Tokyo, càng làm phức tạp thêm cuộc điều tra. Khi quá khứ và hiện tại đan xen, một bí ẩn rùng rợn dần dần được hé lộ - và ký ức của Kansuke nắm giữ chìa khóa cho mọi thứ.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.8"
     },
     {
-      "id": "tt2358913",
+      "id": "tt39927807",
       "type": "movie",
-      "name": "ベルセルク 黄金時代篇Ⅲ 降臨",
-      "poster": "https://image.tmdb.org/t/p/w500/hZ7bjwg3x4uQHVmeeyoGgifWdyS.jpg",
-      "description": "One year has passed since Guts left the Band of the Hawk and Griffith was imprisoned by the Kingdom of Midland for treason. In the dead of night, at a camping site where they hide, the Band of the Hawk is attacked by Bakiraka assassins led by Silat. When all seems lost, Guts returns from his journey. \"You destroyed everything.\" Crying that Griffith is nothing without Guts, Casca and Guts are joined together body and soul. Griffith is imprisoned in the oldest building in Wyndham Catle, the Tower of Rebirth.",
-      "releaseInfo": "2013",
-      "imdbRating": "7.8"
+      "name": "Rascal Does Not Dream of a Dear Friend",
+      "poster": "https://image.tmdb.org/t/p/w500/772MwRZDJQa4b0NPGs7Fn5cfBeG.jpg",
+      "description": "Đối mặt với sự thật về Miori và Touko Kirishima, Sakuta phải đưa ra một lựa chọn. Đây sẽ là ca hội chứng tuổi dậy thì cuối cùng của cậu!",
+      "releaseInfo": "2026"
     },
     {
-      "id": "tt0087660",
+      "id": "tt13884166",
       "type": "movie",
-      "name": "超時空要塞マクロス 愛・おぼえていますか",
-      "poster": "https://image.tmdb.org/t/p/w500/oxGCI4H0ANXD8YoXnt3ZmjTjNIM.jpg",
-      "description": "It is A.D. 2009 and the human race is caught in a war between giant humanoids, male Zentrans and female Meltrans. Returning from the edge of our solar system after making a space fold, the SDF-1 Macross makes the long journey back to Earth with survivors of South Ataria Island.",
-      "releaseInfo": "1984",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt0240425",
-      "type": "movie",
-      "name": "楽しいムーミン一家 ムーミン谷の彗星",
-      "poster": "https://image.tmdb.org/t/p/w500/b4O25Joz13gZqXusA5tyqO4Y4OV.jpg",
-      "description": "Moomintroll, Sniff and Little My set out to stop a comet approaching the Moominvalley. Along the way they meet Snufkin, the beautiful Snorkmaiden, Snork and Hemulen, who join them in their quest.",
-      "releaseInfo": "1992",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt0385700",
-      "type": "movie",
-      "name": "Final Fantasy VII: Cuộc Hành Trình Của Những Đứa Trẻ",
-      "poster": "https://image.tmdb.org/t/p/w500/pTIXM2yu8McSlcQVs1VjVSNC45x.jpg",
-      "description": "Hai năm trôi qua, kể từ khi Cloud Strife sử dụng năng lượng \"Dòng sinh mệnh\" để ngăn chặn sự huỷ diệt của Jenova, những mầm mống hủy diệt và bệnh tật của Jenova vẫn còn ảnh hưởng đến những đứa trẻ sống tại khu vực tập đoàn Shinra. Thêm vào đó, thế hệ tiếp theo của Cloud với đại diện là Kajah, muốn kế thừa ý nguyện của Jenova là hủy diệt toàn bộ sự sống trên hành tinh. Trong khi đó, Cloud lại tiếp tục lạc hướng trên con đường tìm ra con người thật của mình. Đồng thời, mầm mống phá hoại của Jenova trong người anh vẫn chưa hoàn toàn bị mất đi và cái chết của Aeris, đã bào mòn ý chí chiến đấu trong anh. Nhưng vì sinh mạng của những đứa trẻ vô tội và cũng vì bảo vệ cho những người mà mình thương yêu, Cloud buộc phải cầm kiếm chiến đấu...",
-      "releaseInfo": "2005",
-      "imdbRating": "7.1"
-    },
-    {
-      "id": "tt0293416",
-      "type": "movie",
-      "name": "Thành Phố Kiểu Mẫu",
-      "poster": "https://image.tmdb.org/t/p/w500/41WtqvaObaYE3RuqgBfQFPV3aV1.jpg",
-      "description": "Metropolis là câu chuyện muôn thuở của về cú nhảy thần kỳ của nhân loại trong khoa học kỹ thuật. Con người tạo dựng nên Metropolis - một thành phố kiểu mẫu, nơi xe, tàu tối tân lượn bay vun vút, đan xen trong những dãy nhà cao chọc đến đỉnh trời. Thành phố phát triển trải dài đến tận chân trời song hành cùng sự tiến bộ như vô cùng vô tận. Nhưng ẩn trong lớp vỏ hào nhoáng bao bọc ấy là xã hội bị chia rẽ sâu sắc giữa các giai tầng khác nhau. Máy móc được gắn chặt vào đời sống thường nhật nhằm phục vụ nhu cầu muôn mặt của con người. Sự đào thải và nạn thất nghiệp của một bộ phận dân cư là kết cục tất yếu khi phát triển phủ vây và đẩy họ nhiều thêm vào những thành phần dưới đáy bùn của sự tiến bộ. Và người máy bị kết án như nguyên nhân xua họ vào đường cùng của thất nghiệp và đói nghèo. Từ đó ra đời một đảng chính trị với cái tên Mardurk, nổi lên với phương châm dẹp bỏ người máy ở Metropolis, được tầng lớp thua thiệt dồn hy vọng mong manh có thể thay đổi được số phận đầy nghiệt ngã.",
-      "releaseInfo": "2001",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt14935892",
-      "type": "movie",
-      "name": "maboroshi",
-      "poster": "https://image.tmdb.org/t/p/w500/7kzoPEasqFZGPGHj1imsLtTM20k.jpg",
-      "description": "Khi một vụ nổ nhà máy khiến thị trấn nhỏ rơi vào tình trạng đóng băng vĩnh viễn, cậu bé 14 tuổi Masamune cùng bạn bè vật lộn với thực tế nhanh chóng tồi tệ đi.",
-      "releaseInfo": "2023",
+      "name": "Thám Tử Lừng Danh Conan: Chứng Cứ Đỏ",
+      "poster": "https://image.tmdb.org/t/p/w500/qUu0OyoZWZkA35ycmvBcRly7ktX.jpg",
+      "description": "Chứng cứ ngoại phạm đỏ là một bộ phim tổng hợp các tập Anime Thám tử lừng danh Conan. Phim được phát hành tại Nhật Bản vào ngày 11 tháng 2 năm 2021. Phim được thực hiện để kỷ niệm ngày phát hành Movie 24 vào ngày 16 tháng 4 năm 2021, ban đầu dự kiến ​​phát hành vào vào ngày 17 tháng 4 năm 2020, nhưng đã bị hoãn lại do đại dịch COVID-19 đang diễn ra.",
+      "releaseInfo": "2021",
       "imdbRating": "6.3"
     },
     {
-      "id": "tt10766468",
+      "id": "tt21223380",
       "type": "movie",
-      "name": "Gintama: Hồi Kết",
-      "poster": "https://image.tmdb.org/t/p/w500/kxBHS1PGebEN0lrFdk0o9FZY6Rn.jpg",
-      "description": "Bộ phim kết thúc loạt phim hoạt hình Gintama, phỏng theo những chương cuối cùng của bộ truyện tranh cùng tên của Hideaki Sorachi. Bộ phim bao gồm các chương 699–704 của truyện tranh gốc, với tài liệu gốc được thêm vào.",
-      "releaseInfo": "2021",
-      "imdbRating": "8.6"
+      "name": "Doraemon: Nobita và Vùng Đất Lý Tưởng Trên Bầu Trời",
+      "poster": "https://image.tmdb.org/t/p/w500/f0cSFvuuEXpQEHXn9jFpCblHyMI.jpg",
+      "description": "Phim điện ảnh Doraemon: Nobita Và Vùng Đất Lý Tưởng Trên Bầu Trời kể câu chuyện khi Nobita tìm thấy một hòn đảo hình lưỡi liềm trên trời mây. Ở nơi đó, tất cả đều hoàn hảo… đến mức cậu nhóc Nobita mê ngủ ngày cũng có thể trở thành một thần đồng toán học, một siêu sao thể thao. Cả hội Doraemon cùng sử dụng một món bảo bối độc đáo chưa từng xuất hiện trước đây để đến với vương quốc tuyệt vời này. Cùng với những người bạn ở đây, đặc biệt là chàng robot mèo Sonya, cả hội đã có chuyến hành trình tới vương quốc trên mây tuyệt vời… cho đến khi những bí mật đằng sau vùng đất lý tưởng này được hé lộ.",
+      "releaseInfo": "2023",
+      "imdbRating": "6.8"
     },
     {
-      "id": "tt6595896",
+      "id": "tt32508210",
       "type": "movie",
-      "name": "Pokémon: Tớ Chọn Cậu!",
-      "poster": "https://image.tmdb.org/t/p/w500/5I75gmhkHt8SLJuY3fa4VWRxdGt.jpg",
-      "description": "Có một mảnh đất huyền bí mà ở đó, loài người và các Pokémon sống hòa thuận, luôn kề vai sát cánh, chiến đấu cùng nhau trong các giải đấu. Và tại thị trấn Masara thuộc vùng Kanto, cậu bé 10 tuổi Satoshi với ước mơ trở thành một người huấn luyện Pokémon, chu du khắp mọi miền và giành được danh hiệu “Chuyên gia Pokémon”. Nhưng mọi chuyện không hề dễ dàng với Satoshi tại buổi chọn lựa Pokémon đầu tiên khi cậu đến muộn và chỉ còn sót lại Pikachu. Cuộc sống của Satoshi cũng từ đó bị đảo lộn hoàn toàn với những tình huống tréo ngoe, những rắc rối dở khóc dở cười do chính sự ngây ngô của Pikachu mang lại. Và cũng từ đó, những hành trình đầy thách thức và thú vị bắt đầu.",
-      "releaseInfo": "2017",
+      "name": "Người Dơi Ninja Đối Đầu Liên Minh Yakuza",
+      "poster": "https://image.tmdb.org/t/p/w500/sVVT6GYFErVv0Lcc9NvqCu0iOxO.jpg",
+      "description": "Gia đình Batman trở về hiện tại và phát hiện Nhật Bản đã biến mất, thay vào đó là một hòn đảo khổng lồ tên Hinomoto lơ lửng trên bầu trời Gotham. Trên đỉnh quyền lực là Yakuza – một nhóm siêu nhân cai trị tàn bạo và trông rất giống Justice League. Giờ đây, Batman và đồng đội phải chiến đấu để cứu Gotham!",
+      "releaseInfo": "2025",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt2210479",
+      "type": "movie",
+      "name": "ベルセルク 黄金時代篇I 覇王の卵",
+      "poster": "https://image.tmdb.org/t/p/w500/vES8WAzjowrMT8gwnoEaCioZXXk.jpg",
+      "description": "Guts, an immensely strong sword-for-hire, has little direction in his life, simply fighting one battle after the next. However, this all changes suddenly when he meets and is bested by Griffith, a beautiful and charismatic young man who leads the Band of the Hawk mercenary army. After Guts joins the Band and the relationship between the two men begins to blossom, Casca, the tough, lone swordswoman in the Band of the Hawk, struggles to accept Guts and the influence he has on the world around her.  While the two men begin to fight together, Griffith continues to rise to power, all seemingly in order to reach his mysterious, prophesied goals. What lengths will Guts and Griffith go to in order to reach these goals, and where will fate take the two men?",
+      "releaseInfo": "2012",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt1468843",
+      "type": "movie",
+      "name": "Pokémon: Arceus Chinh Phục Khoảng Không Thời Gian",
+      "poster": "https://image.tmdb.org/t/p/w500/1z01afNtJrgpLxvNirqWYfAYgke.jpg",
+      "description": "Đấng sáng tạo tối cao Arceus thức tỉnh sau giấc ngủ ngàn năm với cơn thịnh nộ tột cùng, thề sẽ hủy diệt nhân loại vì sự phản bội của một con người trong quá khứ, kẻ đã lừa dối và không hoàn trả \"Viên Ngọc Sự Sống\" – báu vật được mượn từ nguồn năng lượng của chính Ngài. Trước sức mạnh áp đảo có thể xóa sổ thực tại của Arceus, ba vị thần Dialga, Palkia và Giratina đã phải cùng nhau hợp lực để cầm chân Đấng Sáng Tạo.",
+      "releaseInfo": "2009",
       "imdbRating": "6.3"
     },
     {
@@ -882,6 +611,195 @@
       "imdbRating": "7.7"
     },
     {
+      "id": "tt1481363",
+      "type": "movie",
+      "name": "Naruto Shippuden Movie 3: Người Kế Thừa Hỏa Chí",
+      "poster": "https://image.tmdb.org/t/p/w500/pZzdFmztwmg0FUOVCMa7vReHhQN.jpg",
+      "description": "Nói về nguy cơ nổ ra Đại chiến Ninja lần thứ 4 khi các ninja có huyết kế giới hạn ở các làng sương mù, làng đá, làng mây và làng cát bỗng nhiên bắt đầu biến mất. Các quốc gia nghi ngờ làng lá - làng duy nhất không bị ảnh hưởng - đã gây ra tai nạn trên và tung tin đồn về việc Konoha đang có kế hoạch tạo phản. Đồng thời họ điều động quân đội đến biên giới Hỏa Quốc chuẩn bị phát động tấn công. Những người đứng đầu Hỏa Quốc phải chứng minh sự trong sạch của Konoha - tìm ra nguyên nhân vụ việc, nếu không họ sẽ phải xóa xổ cả làng để giữ hòa bình thế giới.",
+      "releaseInfo": "2009",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt0089206",
+      "type": "movie",
+      "name": "銀河鉄道の夜",
+      "poster": "https://image.tmdb.org/t/p/w500/lhuPBTDmQzFCK7ZkWeIzrFY4dXL.jpg",
+      "description": "Lonely and awkward, Giovanni struggles with his sick mother, absent father, and an afterschool job that isolates him from his peers. But on the night of the Festival of Stars, he is magically transported onto a celestial train with his only friend, Campanella. Together, they embark on an extraordinary journey through the galaxy, encountering mysterious characters and grappling with life's deepest questions.",
+      "releaseInfo": "1985",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt0142236",
+      "type": "movie",
+      "name": "ドラゴンボールZ 復活のフュージョン!! 悟空とベジータ",
+      "poster": "https://image.tmdb.org/t/p/w500/rCU5ddP3FVSDJy81UldUsBuf3ag.jpg",
+      "description": "Not paying attention to his job, a young demon allows the evil cleansing machine to overflow and explode, turning the young demon into the infamous monster Janemba. Goku and Vegeta make solo attempts to defeat the monster, but realize their only option is fusion.",
+      "releaseInfo": "1995",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt0113799",
+      "type": "movie",
+      "name": "MEMORIES",
+      "poster": "https://image.tmdb.org/t/p/w500/e0HIBRiKS5dWmXkxWvEh6JQZcc2.jpg",
+      "description": "Three back-to-back anime films by three different directors make up this sci-fi trilogy three years in the making.",
+      "releaseInfo": "1995",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt14603848",
+      "type": "movie",
+      "name": "OVERLORD: Thánh Quốc",
+      "poster": "https://image.tmdb.org/t/p/w500/jEvytxNa5mfW7VAUmDWsZtIdATc.jpg",
+      "description": "Momonga, giờ đây được biết đến với tên gọi Pháp Sư Vương Ains Ooal Gown, tập hợp lực lượng của Vương Quốc Pháp Thuật cùng đội quân undead của mình để sát cánh chiến đấu cùng Thánh Quốc và Pháp Quốc Slane nhằm mục đích đánh bại Ma Đế Jaldabaoth.",
+      "releaseInfo": "2024",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0808506",
+      "type": "movie",
+      "name": "Cô gái vượt thời gian",
+      "poster": "https://image.tmdb.org/t/p/w500/1pItbzMnPgT5SLbiMJ9gw7vkAnk.jpg",
+      "description": "Khi cô gái Makoto Konno 17 tuổi nhận ra mình có khả năng nhảy vượt thời gian, cô đã dành điều kì diệu này để sửa lại thành tích học tập cũng như những tai nạn ngớ ngẩn cô hay gặp phải. Tuy nhiên cô dần nhận ra việc thay đổi quá khứ không hề đơn giản như vậy, và tương lai của cô và bạn bè mình phụ thuộc vào chính khả năng nguy hiểm này.",
+      "releaseInfo": "2006",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt6595896",
+      "type": "movie",
+      "name": "Pokémon: Tớ Chọn Cậu!",
+      "poster": "https://image.tmdb.org/t/p/w500/5I75gmhkHt8SLJuY3fa4VWRxdGt.jpg",
+      "description": "Có một mảnh đất huyền bí mà ở đó, loài người và các Pokémon sống hòa thuận, luôn kề vai sát cánh, chiến đấu cùng nhau trong các giải đấu. Và tại thị trấn Masara thuộc vùng Kanto, cậu bé 10 tuổi Satoshi với ước mơ trở thành một người huấn luyện Pokémon, chu du khắp mọi miền và giành được danh hiệu “Chuyên gia Pokémon”. Nhưng mọi chuyện không hề dễ dàng với Satoshi tại buổi chọn lựa Pokémon đầu tiên khi cậu đến muộn và chỉ còn sót lại Pikachu. Cuộc sống của Satoshi cũng từ đó bị đảo lộn hoàn toàn với những tình huống tréo ngoe, những rắc rối dở khóc dở cười do chính sự ngây ngô của Pikachu mang lại. Và cũng từ đó, những hành trình đầy thách thức và thú vị bắt đầu.",
+      "releaseInfo": "2017",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt0923811",
+      "type": "movie",
+      "name": "Đặc Vụ Không Gian: Không Đơn Độc",
+      "poster": "https://image.tmdb.org/t/p/w500/pETU4GurpeEjBOM8oytMH0yNBHx.jpg",
+      "description": "Bộ phim xoay quanh cuộc chiến chống lại sự xâm lược của sinh vật khổng lồ \"Angel\". Chuyện bắt đầu vào năm 2015, khi thế giới đã bị phá hủy bởi một sinh vật gọi là Adam, lúc này Ikari Shinji đến một thành phố và đã gặp một Angel đang phá hủy nó. Shinji đã được một cô gái trong tổ chức đưa xuống nơi đang chế tạo một robot có tên \"Eva\" để chiến đấu chống lại Angel...",
+      "releaseInfo": "2007",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt1474276",
+      "type": "movie",
+      "name": "Cuộc Chiến Mùa Hè",
+      "poster": "https://image.tmdb.org/t/p/w500/eoZOvo86HXD4oaa4iset7lpJ1gN.jpg",
+      "description": "Một thiên tài toán học trẻ tuổi giải một phương trình phức tạp và vô tình đặt trí tuệ nhân tạo của thế giới ảo vào tình thế hủy diệt Trái đất.",
+      "releaseInfo": "2009",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt28671146",
+      "type": "movie",
+      "name": "Blue Lock: Nagi",
+      "poster": "https://image.tmdb.org/t/p/w500/yZYZqT1f6rddhiSdjl8NVVCoZKE.jpg",
+      "description": "Nagi, cậu game thủ thờ ơ, đồng ý cùng bạn học giàu có Mikage chơi bóng đá; sự hợp tác của họ dẫn cả hai đến chương trình Blue Lock danh tiếng — và những đổi thay.",
+      "releaseInfo": "2024",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt5889204",
+      "type": "movie",
+      "name": "Pokémon XY&Z: Volkenion và Magiana Siêu Máy Móc",
+      "poster": "https://image.tmdb.org/t/p/w500/di6u1hc8Xa6F3XGiX78v4TOnmRQ.jpg",
+      "description": "Trong cuộc phiêu lưu lần này, Ash và nhóm bạn được viếng thăm Vương Quốc Cơ Khí – nơi có một báu vật vô cùng giá trị ẩn sau sự tân tiến trong kỹ thuật. Ash vô tình bị mắc kẹt cùng Pokémon Huyền Thoại Volcanion – sinh vật mang niềm hận thù và khinh miệt dành cho loài người. Rắc rối bắt đầu xảy ra khi người quản lý Vương quốc đã đánh cắp phát minh tối thượng, đó là Pokémon Magearna Nhân Tạo được tạo ra cách đây 500 năm về trước. Hắn dự định sẽ sử dụng sức mạnh bí ẩn của Magearna để kiểm soát vương quốc cơ khí này. Liệu Ash và Volcanion có hợp tác với nhau để giải cứu Magearna được hay không? Một trong những trận chiến lớn nhất trong lịch sử Pokémon chính thức bắt đầu!",
+      "releaseInfo": "2016",
+      "imdbRating": "5.9"
+    },
+    {
+      "id": "tt13428402",
+      "type": "movie",
+      "name": "Doraemon: Đôi Bạn Thân 2",
+      "poster": "https://image.tmdb.org/t/p/w500/zdYNwZZinyEDEl6IEk3Ad3fn2eP.jpg",
+      "description": "Phim Doraemon: Đôi Bạn Thân Phần 2 là câu chuyện kể về sự việc Doraemon, chú mèo máy đến từ thế kỷ 22. Vào ngày nay khi Doraemon và Nobita ở cùng nhau, Nobita tìm thấy một con gấu bông trong phòng. Đó là một món đồ kỉ niệm đã được may lại bởi bà nội cậu đã qua đời khi cậu lên mẫu giáo. Nobita, người nhớ đến bà của mình và không còn ngừng khóc, muốn gặp lại bà bằng cỗ máy thời gian. Doraemon phản đối, nhưng khởi hành đến quá khứ, nơi Nobita mới lên 3, với điều kiện cậu phải trở lại ngay khi nhìn thấy tình huống mà không gặp trực tiếp!",
+      "releaseInfo": "2020",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt0142249",
+      "type": "movie",
+      "name": "ドラゴンボール 魔神城のねむり姫",
+      "poster": "https://image.tmdb.org/t/p/w500/9BMFoAqU4DadJajmL3BX0CgJXfe.jpg",
+      "description": "Goku and Kuririn are given an assignment by Kame-Sen'nin: \"Retrieve the sleeping princess from Lucifer and I will take you as my students.\" But the mission proves to be more perilous than originally thought.",
+      "releaseInfo": "1987",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt35487769",
+      "type": "movie",
+      "name": "Alice in Wonderland –Dive in Wonderland–",
+      "poster": "https://image.tmdb.org/t/p/w500/zrCBryoilZXicuzsABw3JUntfB4.jpg",
+      "description": "Nhân vật chính là một cô gái hiện đại tên Rise. Một ngày nọ, cô lạc vào Xứ Sở Thần Tiên, và khi gặp Alice, câu chuyện bắt đầu mở ra.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt0142243",
+      "type": "movie",
+      "name": "ドラゴンボールZ 龍拳爆発!!悟空がやらねば誰がやる",
+      "poster": "https://image.tmdb.org/t/p/w500/7uRu9EA3nie0n2mlVDDLlTI3IzC.jpg",
+      "description": "The Z Warriors discover an unopenable music box and are told to open it with the Dragon Balls. The contents turn out to be a warrior named Tapion who had sealed himself inside along with a monster called Hildegarn. Goku must now perfect a new technique to defeat the evil monster.",
+      "releaseInfo": "1995",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt5526028",
+      "type": "movie",
+      "name": "Doukyuusei",
+      "poster": "https://image.tmdb.org/t/p/w500/cIfRCA5wEvj9tApca4UDUagQEiM.jpg",
+      "description": "Sajou Rihito, học sinh ưu tú đạt điểm tuyệt đối kỳ thi đầu vào, và Kusakabe Hikaru, chàng trai chơi band được các cô gái mến mộ — hai người tưởng chẳng bao giờ giao nhau, cho đến khi trò chuyện trong buổi tập hợp xướng chuẩn bị lễ hội trường. Sau giờ học, Hikaru thường giúp Rihito luyện thanh; khi lắng nghe giọng nhau hòa quyện, trái tim họ bắt đầu cùng nhịp đập.",
+      "releaseInfo": "2016",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt14935892",
+      "type": "movie",
+      "name": "maboroshi",
+      "poster": "https://image.tmdb.org/t/p/w500/7kzoPEasqFZGPGHj1imsLtTM20k.jpg",
+      "description": "Khi một vụ nổ nhà máy khiến thị trấn nhỏ rơi vào tình trạng đóng băng vĩnh viễn, cậu bé 14 tuổi Masamune cùng bạn bè vật lộn với thực tế nhanh chóng tồi tệ đi.",
+      "releaseInfo": "2023",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt7451284",
+      "type": "movie",
+      "name": "Người Dơi Ninja",
+      "poster": "https://image.tmdb.org/t/p/w500/5xSB0Npkc9Fd9kahKBsq9P4Cdzp.jpg",
+      "description": "Batman Ninja xoay quanh chuyến du hành vượt thời gian do cỗ máy dịch chuyển thời gian của Gorilla Grodd đã chuyển những kẻ đối địch với Batman đến Nhật Bản thời phong kiến. Kể cả Batman và đồng minh của anh cũng đã bị đưa đến nơi này. Dưới hình dáng lãnh chúa phong kiến, bọn gian ác ấy đã tung hoành ngang dọc và thống trị nhiều vùng đất ở đây và Joker là tên cầm đầu của bọn gây rối này. Ở nơi này, những món vũ khí công nghệ cao của Batman đã nhanh chóng hết nhiên liệu. Batman chỉ có thể trông cậy vào tài trí của bản thân cùng những người bạn đồng hành của mình để mang lại yên bình cho vùng đất này và quay trở lại thời điểm cũ.  Vẫn là Batman với cơ thể của người phàm và bộ não siêu việt, nhưng dùng phi tiêu của một ninja, mặc áo giáp và dùng kiếm như một chiến binh thời Chiến Quốc, Batman Ninja hứa hẹn là bộ phim vừa thân quen nhưng không kém phần mới mẻ hấp dẫn",
+      "releaseInfo": "2018",
+      "imdbRating": "5.6"
+    },
+    {
+      "id": "tt32915652",
+      "type": "movie",
+      "name": "MOBILE SUIT GUNDAM HATHAWAY: Phù Thủy Của Circe",
+      "poster": "https://image.tmdb.org/t/p/w500/2k06QlyCoiGV9zekG2CeMRoluW5.jpg",
+      "description": "Ám ảnh bởi chấn thương quá khứ, Hathaway Noa bị cuốn hút bởi cô gái bí ẩn tên Gigi Andalucia, người có sức mạnh kỳ lạ khơi dậy ký ức trong anh. Trong lúc bị lay động bởi những lời khó hiểu của cô, anh vẫn tiếp tục chuẩn bị cho nhiệm vụ của Mafty — cuộc tấn công vào Hội nghị Adelaide. Trong khi đó, Kenneth Sleg của Lực lượng Liên bang Trái Đất chuẩn bị chiến dịch phòng thủ cho Hội nghị Adelaide cùng kế hoạch tiêu diệt Mafty, và được Handley Yoxon của Tổ chức Cảnh sát Hình sự tiếp cận với một đề xuất bí mật. Khi Hathaway và Kenneth theo đuổi mục tiêu riêng, Gigi cũng lên đường đến Hồng Kông để hoàn thành vai trò của mình.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt1343046",
+      "type": "movie",
+      "name": "Thám Tử Lừng Danh Conan: Truy Lùng Tổ Chức Áo Đen",
+      "poster": "https://image.tmdb.org/t/p/w500/6WPTcAkyc1XuVFlXw3yhpWMGmOH.jpg",
+      "description": "Thám Tử Lừng Danh Conan 13: Truy Lùng Tổ Chức Áo Đen – Thám tử nhí Edogawa Conan lại một lần nữa đối mặt với Tổ chức Áo đen trong một cuộc thách đấu định mệnh.Câu truyện bắt đầu khi Tổ chức áo đen phát hiện ra tên thám tử học sinh Kudo Shinichi vẫn còn sống sót sau khi uống viên thuốc độc của bọn chúng, và giờ đang trú ngụ trong vỏ bọc của một học sinh cấp một.Tất cả những người có liên quan với Conan đều nằm trong vòng truy sát của Tổ chức Áo đen.Conan sẽ phải làm gì để bảo vệ những người quan trọng của cậu? Mời các bạn đón xem.",
+      "releaseInfo": "2009",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt9418812",
+      "type": "movie",
+      "name": "Đi Ngược Thời Gian Để Tìm Em",
+      "poster": "https://image.tmdb.org/t/p/w500/vmizP4G4EWsxNf6PLOvGNaFJ89Y.jpg",
+      "description": "Bộ phim lãng mạn giả tưởng này lấy bối cảnh tại Kyoto vào năm 2027 và sẽ sử dụng nhiều địa danh nổi tiếng như Fushimi Inari Taisha và đền Kamo. Movie xoay quanh cậu bé học sinh cao trung Naomi Katagaki. Một ngày nọ, một người lạ đột ngột xuất hiện trước mặt cậu và tự xưng mình là Naomi đến từ tương lai 10 năm sau. Cùng với nhau, họ phải thay đổi tương lai và cứu lấy cô bạn Ruri, người mà 3 tháng sau sẽ hẹn hò với Naomi hiện tại.",
+      "releaseInfo": "2019",
+      "imdbRating": "6.7"
+    },
+    {
       "id": "tt0407924",
       "type": "movie",
       "name": "機動戦艦ナデシコ -The prince of darkness-",
@@ -891,13 +809,94 @@
       "imdbRating": "6.5"
     },
     {
-      "id": "tt1572781",
+      "id": "tt5544384",
       "type": "movie",
-      "name": "涼宮ハルヒの消失",
-      "poster": "https://image.tmdb.org/t/p/w500/x52WmUnfpB2AB0YUNGWJZaRzcBx.jpg",
-      "description": "A week before Christmas, Kyon wakes up in a world where the SOS Brigade doesn't exist. Mikuru and Yuki don't recognize him, and Haruhi and Itsuki seem to have vanished.",
-      "releaseInfo": "2010",
-      "imdbRating": "8.0"
+      "name": "Đao Kiếm Thần Vực: Ranh Giới Hư Ảo",
+      "poster": "https://image.tmdb.org/t/p/w500/2szdEK0Mr0RG0nWGFVTseNQHbnP.jpg",
+      "description": "Vào năm 2026, các Augma được phát hành ra để thay thế hệ thống AmuSphere, với chức năng mô phỏng thực tế trong khi người chơi vẫn còn giữ được ý thức, an toàn hơn so với công nghệ FullDive. trò chơi chiến đấu nổi bật nhất là Ordinal Scale, với một hệ thống xếp hạng khả năng người chơi.  Asuna, Lisbeth và Silica đã khuyến khích Kirito chơi OS khi nghe được rằng các boss trong Aincrad sẽ xuất hiện. Kirito tham gia với Asuna và Klein trong một trận đánh boss nơi linh vật của game, ca sĩ thần tượng ảo Yuna, xuất hiện và mang đến cho người chơi những hiệu ứng buff khi cô hát. Kirito đã không thành công trong bất cứ điều gì do thiếu thể lực và tốc độ. Eiji, người chơi xếp hạng nhì, đã giúp nhóm trong quá trình tiêu diệt boss. trước khi Asuna ra đòn quyết định, Eiji thì thầm từ \"Switch\", một chiêu thức game từ SAO mà cô đã tinh ý nhận ra.",
+      "releaseInfo": "2017",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt6452332",
+      "type": "movie",
+      "name": "Lu Over the Wall",
+      "poster": "https://image.tmdb.org/t/p/w500/3L0a3iNraKyedBcHhrYD9sy4V5W.jpg",
+      "description": "Cậu học sinh u sầu Kai gặp nàng tiên cá Lu tại một làng chài nhỏ; tiếng hát và điệu nhảy của Lu mang đến những đổi thay cho cuộc sống của cậu.",
+      "releaseInfo": "2017",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0347246",
+      "type": "movie",
+      "name": "イノセンス",
+      "poster": "https://image.tmdb.org/t/p/w500/1ZJRbLDVr90KLtKdmTT4WZhT26E.jpg",
+      "description": "Cyborg detective Batou is assigned to investigate a series of murders committed by gynoids—doll-like cyborgs, which all malfunctioned, killed, then self-destructed afterwards. The brains of the gynoids initialize in order to protect their manufacturer's software, but in one gynoid, which Batou himself neutralized, one file remains: a voice speaking the phrase \"Help me.\"",
+      "releaseInfo": "2004",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt0485323",
+      "type": "movie",
+      "name": "劇場版 鋼の錬金術師 シャンバラを征く者",
+      "poster": "https://image.tmdb.org/t/p/w500/kdovrjrKighUFEh9ZRQul0Evx6L.jpg",
+      "description": "Munich, Germany, 1923. Two years have passed since Edward Elric was dragged from his own world to ours, leaving behind his country, his friends and his younger brother, Alphonse. Stripped of his alchemical powers, he has been all this time researching rocketry together with Alphonse Heiderich, a young man who resembles his own brother, hoping to one day find a way back home. His efforts so far had proven fruitless, but after lending a hand to a troubled gipsy girl, Edward is thrown in a series of events that can wreak havoc in both worlds. Meanwhile, at his own world, Alphonse Elric ventures deeper into the mysteries of alchemy in search for a way to reunite with his older brother.",
+      "releaseInfo": "2005",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt6470762",
+      "type": "movie",
+      "name": "Mazinger Z: Infinity",
+      "poster": "https://image.tmdb.org/t/p/w500/muN1Gf5SnGz8Il2ViqsIX4pkfxA.jpg",
+      "description": "Khi Tiến sĩ Hell độc ác tấn công Trái Đất, cỗ mecha khổng lồ hùng mạnh Mazinger Z được tạo ra để ngăn chặn hắn.",
+      "releaseInfo": "2017",
+      "imdbRating": "5.9"
+    },
+    {
+      "id": "tt1839494",
+      "type": "movie",
+      "name": "Những Đứa Trẻ Đuổi Theo Tinh Tú",
+      "poster": "https://image.tmdb.org/t/p/w500/8RE7Zz9oTzOeMcahqm74AWkOVpV.jpg",
+      "description": "Asuna mất cha từ nhỏ và sống một cuộc đời thật cô đơn. Cô dành thời gian nghe một bài hát kỳ lạ thông qua một thiết bị cũng kỳ lạ không kém, chiếc radio tinh thể của cha mình. Và cũng từ đó, cô bắt đầu chuyến hành trinh vào một thế giới hoàn toàn xa lạ để tìm ra ý nghĩa thật sự của \"chia ly\"- thứ nghiệt ngã nhưng cũng là vẻ đẹp của cuộc đời.\r \"Con người sống luôn phải chịu mất mát chia ly. Đó là lời nguyền của con người, nhưng chắc hẳn cũng là một phúc lành.\"",
+      "releaseInfo": "2011",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt4273562",
+      "type": "movie",
+      "name": "Yu-Gi-Oh!: The Dark Side of Dimensions",
+      "poster": "https://image.tmdb.org/t/p/w500/ti0CRprP9iSg9IDadTZ3TFnuczS.jpg",
+      "description": "Sau vô số lần đối đầu, Yugi và Kaiba một lần nữa mang niềm kiêu hãnh và kinh nghiệm ra thử thách trong trận đấu vượt qua mọi chiều không gian.",
+      "releaseInfo": "2016",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt2668134",
+      "type": "movie",
+      "name": "キャプテンハーロック",
+      "poster": "https://image.tmdb.org/t/p/w500/mlHoTQLYsuzJJArO2fHS5rqnLqe.jpg",
+      "description": "Space Pirate Captain Harlock and his fearless crew face off against the space invaders who seek to conquer the planet Earth.",
+      "releaseInfo": "2013",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt3830998",
+      "type": "movie",
+      "name": "Lupin Đệ Tam: Bia Mộ Của Daisuke Jigen",
+      "poster": "https://image.tmdb.org/t/p/w500/rFzjrIk8hPoWsZzE42iCUlZgu0p.jpg",
+      "description": "Trong một vụ ám sát, Jigen chứng kiến một tay súng bậc thầy được Nữ hoàng Yael thuê để hạ sát một mục tiêu. Tay súng này có khả năng bắn trúng mục tiêu từ khoảng cách xa một cách chính xác tuyệt đối, và Jigen nhận ra rằng mình có thể là mục tiêu tiếp theo. Cốt truyện tập trung vào cuộc đấu trí giữa Jigen và Nữ hoàng Yael, khi Jigen phải đối mặt với một sát thủ tài năng và quyết tâm trả thù cho một người bạn của mình.",
+      "releaseInfo": "2014",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt5979874",
+      "type": "movie",
+      "name": "Godzilla: Hành Tinh Quái Vật",
+      "poster": "https://image.tmdb.org/t/p/w500/hAuZ7g6TqDLv5fOqXIPgYRguOkm.jpg",
+      "description": "Mùa hè cuối cùng của thế kỷ 20. Vào thời điểm đó, loài người biết được rằng họ không phải là kẻ cai trị duy nhất trên Trái Đất. Sự xuất hiện của những con quái vật khổng lồ “Kaiju” và sự tồn tại của sinh vật huyền thoại có khả năng tiêu diệt bọn quái vật: Godzilla. Trải qua cuộc chiến chống lại Kaiju đã kéo dài trong nửa thế kỷ, con người đã trải qua vô số những thất bại, và cuối cùng cũng đành tiến hành kế hoạch chạy thoát khỏi Trái Đất. Và đến năm 2048, chỉ có những người được A.I lựa chọn và thuộc sự quản lý của chính quyền trung ương mới được bước chân lên tàu vũ trụ “Aratrum” để di cư tới hành tinh “Tau Cetus e”, cách Trái Đất hơn 11,9 năm ánh sáng. Tuy nhiên, Trái Đất mà họ muốn quay trở lại đã trải qua thời gian 20.000 năm, và đã trở thành một thế giới hoàn toàn xa lạ, với hệ sinh thái được cai trị bởi quái vật Godzilla. Cuối cùng, con người liệu có giành lại được Trái Đất? Và Haruo sẽ làm được gì trước thử thách của số phận?",
+      "releaseInfo": "2017",
+      "imdbRating": "6.0"
     }
   ]
 }
