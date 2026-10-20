@@ -10,15 +10,6 @@
       "imdbRating": "8.8"
     },
     {
-      "id": "tt31091039",
-      "type": "series",
-      "name": "The Secret Lives of Mormon Wives",
-      "poster": "https://image.tmdb.org/t/p/w500/xsBMFVUMxvmV2ZK6t1yrBwN6JAX.jpg",
-      "description": "The scandalous world of a group of Mormon mom influencers implodes when they get caught in the midst of a swinging sex scandal that makes international headlines. Now, their sisterhood is shook to its core. Faith, friendship and reputations are all on the line. Will #MomTok be able to survive and continue to give the rulebook a run for its money, or will this group fall from grace?",
-      "releaseInfo": "2024",
-      "imdbRating": "5.5"
-    },
-    {
       "id": "tt0199257",
       "type": "series",
       "name": "Panorama",
@@ -26,15 +17,6 @@
       "description": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
       "releaseInfo": "1953",
       "imdbRating": "7.0"
-    },
-    {
-      "id": "tt0199184",
-      "type": "series",
-      "name": "Arena",
-      "poster": "https://image.tmdb.org/t/p/w500/6dh235EYfy95s5Vin208Flcrng6.jpg",
-      "description": "Arena is a British television documentary series, made and broadcast by the BBC. Voted by leading TV executives in Broadcast as one of the top 50 most influential programmes of all time, it has run since 1 October 1975 with over five hundred episodes made, directed by the likes of Martin Scorsese, Alan Yentob, Roly Keating, Frederick Baker, Volker Schlondorff and Vikram Jayanti. Arena's subjects are a roll-call of the world's best known cultural figures from the 20th and 21st centuries, from singers Bob Dylan and Amy Winehouse to academics Edward Said and Eric Hobsbawm, from writers Jean Genet and V S Naipaul to artists Francis Bacon and Louise Bourgeois. The current series editor is Anthony Wall.",
-      "releaseInfo": "1975",
-      "imdbRating": "8.1"
     },
     {
       "id": "tt0159876",
@@ -46,13 +28,31 @@
       "imdbRating": "7.9"
     },
     {
-      "id": "tt0206501",
+      "id": "tt0199184",
       "type": "series",
-      "name": "NOVA",
-      "poster": "https://image.tmdb.org/t/p/w500/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-      "description": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demystifies science and technology, and highlights the people involved in scientific pursuits.",
-      "releaseInfo": "1974",
-      "imdbRating": "8.7"
+      "name": "Arena",
+      "poster": "https://image.tmdb.org/t/p/w500/6dh235EYfy95s5Vin208Flcrng6.jpg",
+      "description": "Arena is a British television documentary series, made and broadcast by the BBC. Voted by leading TV executives in Broadcast as one of the top 50 most influential programmes of all time, it has run since 1 October 1975 with over five hundred episodes made, directed by the likes of Martin Scorsese, Alan Yentob, Roly Keating, Frederick Baker, Volker Schlondorff and Vikram Jayanti. Arena's subjects are a roll-call of the world's best known cultural figures from the 20th and 21st centuries, from singers Bob Dylan and Amy Winehouse to academics Edward Said and Eric Hobsbawm, from writers Jean Genet and V S Naipaul to artists Francis Bacon and Louise Bourgeois. The current series editor is Anthony Wall.",
+      "releaseInfo": "1975",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt31091039",
+      "type": "series",
+      "name": "The Secret Lives of Mormon Wives",
+      "poster": "https://image.tmdb.org/t/p/w500/xsBMFVUMxvmV2ZK6t1yrBwN6JAX.jpg",
+      "description": "The scandalous world of a group of Mormon mom influencers implodes when they get caught in the midst of a swinging sex scandal that makes international headlines. Now, their sisterhood is shook to its core. Faith, friendship and reputations are all on the line. Will #MomTok be able to survive and continue to give the rulebook a run for its money, or will this group fall from grace?",
+      "releaseInfo": "2024",
+      "imdbRating": "5.5"
+    },
+    {
+      "id": "tt0094416",
+      "type": "series",
+      "name": "American Experience",
+      "poster": "https://image.tmdb.org/t/p/w500/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
+      "description": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of the world today.",
+      "releaseInfo": "1988",
+      "imdbRating": "8.6"
     },
     {
       "id": "tt0133302",
@@ -64,13 +64,13 @@
       "imdbRating": "8.6"
     },
     {
-      "id": "tt0094416",
+      "id": "tt0206501",
       "type": "series",
-      "name": "American Experience",
-      "poster": "https://image.tmdb.org/t/p/w500/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
-      "description": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of the world today.",
-      "releaseInfo": "1988",
-      "imdbRating": "8.6"
+      "name": "NOVA",
+      "poster": "https://image.tmdb.org/t/p/w500/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+      "description": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demystifies science and technology, and highlights the people involved in scientific pursuits.",
+      "releaseInfo": "1974",
+      "imdbRating": "8.7"
     },
     {
       "id": "tt0318224",
@@ -88,7 +88,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/QBT2EAFORGpvrCY2sVLbrSj8tS.jpg",
       "description": "The South Bank Show is a television arts magazine show produced by ITV between 1978 and 2010. A new series began on Sky Arts from 27 May 2012. Presented by Melvyn Bragg, the show aims to bring both high art and popular culture to a mass audience.",
       "releaseInfo": "1978",
-      "imdbRating": "6.9"
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt0083452",
+      "type": "series",
+      "name": "Nature",
+      "poster": "https://image.tmdb.org/t/p/w500/dmsnC5rDVGeBvjCUGPXhvoGw5Qx.jpg",
+      "description": "Consistently stunning documentaries transport viewers to far-flung locations ranging from the torrid African plains to the chilly splendours of icy Antarctica. The show's primary focus is on animals and ecosystems around the world. A comic book based on the show, meant to be used an as educational tool for kids, was briefly distributed to museums and schools at no cost in the mid-2000s.",
+      "releaseInfo": "1982",
+      "imdbRating": "8.9"
     },
     {
       "id": "tt0124932",
@@ -106,16 +115,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/pwMvc40mOHyZ9IsFPTcW0Jdm57l.jpg",
       "description": "A United States daily progressive, nonprofit, independently syndicated program of news, analysis, and opinion.",
       "releaseInfo": "2001",
-      "imdbRating": "7.4"
+      "imdbRating": "7.3"
     },
     {
-      "id": "tt0083452",
+      "id": "tt0379142",
       "type": "series",
-      "name": "Nature",
-      "poster": "https://image.tmdb.org/t/p/w500/dmsnC5rDVGeBvjCUGPXhvoGw5Qx.jpg",
-      "description": "Consistently stunning documentaries transport viewers to far-flung locations ranging from the torrid African plains to the chilly splendours of icy Antarctica. The show's primary focus is on animals and ecosystems around the world. A comic book based on the show, meant to be used an as educational tool for kids, was briefly distributed to museums and schools at no cost in the mid-2000s.",
-      "releaseInfo": "1982",
-      "imdbRating": "8.9"
+      "name": "Seven Wonders of the Industrial World",
+      "poster": "https://image.tmdb.org/t/p/w500/ySzZFZc5tXRkusW0nY7G5b3G6JR.jpg",
+      "description": "Seven Wonders of the Industrial World is a 7-part British documentary/docudrama television miniseries that originally aired from 4 September 2003 to 16 October 2003 on BBC. The programme examines seven engineering feats that occurred during the Industrial Revolution.",
+      "releaseInfo": "2003",
+      "imdbRating": "8.3"
     },
     {
       "id": "tt1643266",
@@ -136,24 +145,6 @@
       "imdbRating": "8.3"
     },
     {
-      "id": "tt14674086",
-      "type": "series",
-      "name": "Welcome to Wrexham",
-      "poster": "https://image.tmdb.org/t/p/w500/65Bs500TJ84QcgLQNBGmoWHtlna.jpg",
-      "description": "Documentary series tracking the dreams and worries of Wrexham, a working-class town in North Wales, UK, as two Hollywood stars (Rob McElhenney and Ryan Reynolds) take ownership of the town’s historic yet struggling football club.",
-      "releaseInfo": "2022",
-      "imdbRating": "8.3"
-    },
-    {
-      "id": "tt0896232",
-      "type": "series",
-      "name": "Intimate Portrait",
-      "poster": "https://image.tmdb.org/t/p/w500/3S3G8DTeWrXcQn1QQSfAZ9sWXk2.jpg",
-      "description": "Intimate Portrait is a biographical television series on the Lifetime Television cable network focusing on different celebrities, which includes interviews with each subject.\n\nAmong the people profiled were Grace Kelly, Natalie Wood, Carly Simon, Jackie Kennedy, Katharine Hepburn, Carol Burnett, Tanya Tucker, and Marla Maples.",
-      "releaseInfo": "1993",
-      "imdbRating": "7.6"
-    },
-    {
       "id": "tt1020913",
       "type": "series",
       "name": "Diners, Drive-Ins and Dives",
@@ -172,13 +163,13 @@
       "imdbRating": "7.5"
     },
     {
-      "id": "tt0103396",
+      "id": "tt14674086",
       "type": "series",
-      "name": "Dateline",
-      "poster": "https://image.tmdb.org/t/p/w500/xj9zonhdomfBpEhZQmAON5u3CiB.jpg",
-      "description": "Dateline NBC, or simply Dateline, is a weekly American television newsmagazine series. It was previously the network's flagship newsmagazine, but now focuses mainly on true crime stories with only occasional editions that focus on other topics.",
-      "releaseInfo": "1992",
-      "imdbRating": "7.4"
+      "name": "Welcome to Wrexham",
+      "poster": "https://image.tmdb.org/t/p/w500/65Bs500TJ84QcgLQNBGmoWHtlna.jpg",
+      "description": "Documentary series tracking the dreams and worries of Wrexham, a working-class town in North Wales, UK, as two Hollywood stars (Rob McElhenney and Ryan Reynolds) take ownership of the town’s historic yet struggling football club.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.3"
     },
     {
       "id": "tt0318912",
@@ -188,14 +179,6 @@
       "description": "Natural World is a nature documentary television series broadcast annually on BBC Two and regarded by the BBC as its flagship natural history brand. It is currently the longest-running series in its genre on British television, with more than 400 episodes broadcast since its inception in 1983.\n\nNatural World is produced by the BBC Natural History Unit in Bristol, but individual programmes can be in-house productions, collaborative productions with other broadcasters or films made and distributed by independent production companies and purchased by the BBC. Natural World programmes are often broadcast as PBS Nature episodes in the USA. Since 2008, most Natural World programmes have been shot and broadcast in high definition.",
       "releaseInfo": "1983",
       "imdbRating": "8.6"
-    },
-    {
-      "id": "tt4888842",
-      "type": "series",
-      "name": "BBC Proms",
-      "poster": "https://image.tmdb.org/t/p/w500/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
-      "description": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Royal Albert Hall in London, and in recent years has explored an innovative series of Proms around the UK with concerts in all four nations. Its aim: to bring the best in classical music to the widest possible audience, which remains true to founder-conductor Henry Wood’s original vision in 1895.  Whether you are a classical connoisseur or think classical music isn’t for you, there is something for everyone in the eight-week stretch of concerts.",
-      "releaseInfo": "1947"
     },
     {
       "id": "tt0486531",
@@ -216,6 +199,51 @@
       "imdbRating": "6.3"
     },
     {
+      "id": "tt0103396",
+      "type": "series",
+      "name": "Dateline",
+      "poster": "https://image.tmdb.org/t/p/w500/xj9zonhdomfBpEhZQmAON5u3CiB.jpg",
+      "description": "Dateline NBC, or simply Dateline, is a weekly American television newsmagazine series. It was previously the network's flagship newsmagazine, but now focuses mainly on true crime stories with only occasional editions that focus on other topics.",
+      "releaseInfo": "1992",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt0429434",
+      "type": "series",
+      "name": "Snapped",
+      "poster": "https://image.tmdb.org/t/p/w500/46YGiC5kJhX6ArAwOR8ONwCTgck.jpg",
+      "description": "The fascinating cases of every day, seemingly average moms, wives and girlfriends accused of murder. Did they really do it? And if so, why?",
+      "releaseInfo": "2004",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt1331516",
+      "type": "series",
+      "name": "Camp Woodward",
+      "poster": "https://image.tmdb.org/t/p/w500/hDDPqggZYrIti2ZgHIifCQDv2M7.jpg",
+      "description": "Egos clash and conflicts mount as young skaters and BMXers attend a specialty summer camp to learn tricks and tips from some of the biggest names in sport.",
+      "releaseInfo": "2008",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt4888842",
+      "type": "series",
+      "name": "BBC Proms",
+      "poster": "https://image.tmdb.org/t/p/w500/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
+      "description": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Royal Albert Hall in London, and in recent years has explored an innovative series of Proms around the UK with concerts in all four nations. Its aim: to bring the best in classical music to the widest possible audience, which remains true to founder-conductor Henry Wood’s original vision in 1895.  Whether you are a classical connoisseur or think classical music isn’t for you, there is something for everyone in the eight-week stretch of concerts.",
+      "releaseInfo": "1947",
+      "imdbRating": "5.1"
+    },
+    {
+      "id": "tt0896232",
+      "type": "series",
+      "name": "Intimate Portrait",
+      "poster": "https://image.tmdb.org/t/p/w500/3S3G8DTeWrXcQn1QQSfAZ9sWXk2.jpg",
+      "description": "Intimate Portrait is a biographical television series on the Lifetime Television cable network focusing on different celebrities, which includes interviews with each subject.\n\nAmong the people profiled were Grace Kelly, Natalie Wood, Carly Simon, Jackie Kennedy, Katharine Hepburn, Carol Burnett, Tanya Tucker, and Marla Maples.",
+      "releaseInfo": "1993",
+      "imdbRating": "7.6"
+    },
+    {
       "id": "tt0364151",
       "type": "series",
       "name": "American Masters",
@@ -231,7 +259,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/ioyz1WHZrv3LQ5j6LSAcQh5fhLA.jpg",
       "description": "World in Action was Granada Television’s flagship ITV current affairs series, running from 7 Jan 1963 to 7 Dec 1998, and built a reputation for film-led investigative reporting and a forceful editorial stance. Its journalism produced major public and political repercussions—including investigations associated with miscarriages of justice such as the Birmingham Six—and it also served as a platform for landmark documentary projects, including the first broadcast of “Seven Up!” as part of the strand in 1964.",
       "releaseInfo": "1963",
-      "imdbRating": "7.5"
+      "imdbRating": "7.0"
     },
     {
       "id": "tt0078701",
@@ -240,6 +268,15 @@
       "poster": "https://image.tmdb.org/t/p/w500/eKLaK1pivbX2z9aLev8IG2I9WG.jpg",
       "description": "TV's original home-improvement show, following one whole-house renovation over several episodes.",
       "releaseInfo": "1979",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0795174",
+      "type": "series",
+      "name": "POV",
+      "poster": "https://image.tmdb.org/t/p/w500/2yEQ75DyAGIu6p6GTfI9cpWFxti.jpg",
+      "description": "The home for the world's boldest contemporary filmmakers, celebrating intriguing personal stories that spark conversation and inspire action.",
+      "releaseInfo": "1988",
       "imdbRating": "8.1"
     },
     {
@@ -252,121 +289,12 @@
       "imdbRating": "7.2"
     },
     {
-      "id": "tt0429434",
+      "id": "tt3606422",
       "type": "series",
-      "name": "Snapped",
-      "poster": "https://image.tmdb.org/t/p/w500/46YGiC5kJhX6ArAwOR8ONwCTgck.jpg",
-      "description": "The fascinating cases of every day, seemingly average moms, wives and girlfriends accused of murder. Did they really do it? And if so, why?",
-      "releaseInfo": "2004",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt0138956",
-      "type": "series",
-      "name": "Beyond Belief: Fact or Fiction",
-      "poster": "https://image.tmdb.org/t/p/w500/x6t4LPGYdCLqsdijZqSOxzic3Tj.jpg",
-      "description": "Can you tell the difference between fact and fiction? Several stories of strange, mysterious and incredible occurrences are chronicled during each episode. It is up to the viewer to decide which stories actually happened and which were completely fabricated by the show’s writers. The answer is revealed by Jonathan Frakes at the conclusion of each episode.",
-      "releaseInfo": "1997",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt0181260",
-      "type": "series",
-      "name": "This Is Your Life",
-      "poster": "https://image.tmdb.org/t/p/w500/zMCF2uU9dleso6iKpFkHfrBxsQ6.jpg",
-      "description": "This is Your Life is a British biographical television documentary, based on the 1952 American show of the same name. It was hosted by Eamonn Andrews from 1955 until 1964, and then from 1969 until his death in 1987 aged 64. Michael Aspel then took up the role of host until the show ended in 2003. It returned in 2007 as a one-off special presented by Trevor McDonald, which to date was its most recent airing.\n\nIn the show the host surprises a special guest, before taking them through their life with the assistance of the 'big red book'. Both celebrities and non-celebrities have been 'victims' of the show. The show was originally broadcast live, and over its run it has alternated between being broadcast on the BBC and on ITV.",
-      "releaseInfo": "1955",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt1408430",
-      "type": "series",
-      "name": "30 for 30",
-      "poster": "https://image.tmdb.org/t/p/w500/g1CdZEUcnVYypLOp8cfb7W9mSp2.jpg",
-      "description": "30 for 30 is the title for a series of documentary films airing on ESPN, its sister networks, and online highlighting interesting people and events in sports history. This currently includes four \"volumes\" of 30 episodes each, a 13-episode series under the ESPN Films Presents title in 2011–2012, and a series of 30 for 30 Shorts shown through the ESPN.com website. The series has also expanded to include Soccer Stories, which aired in advance of the 2014 FIFA World Cup, and audio podcasts.  This entry refers to the main Volumes of the series presented by ESPN",
-      "releaseInfo": "2009",
-      "imdbRating": "8.8"
-    },
-    {
-      "id": "tt2326517",
-      "type": "series",
-      "name": "Finding Your Roots",
-      "poster": "https://image.tmdb.org/t/p/w500/25RJm3FmH8to42K5ZT9cGs6KUhY.jpg",
-      "description": "Noted Harvard scholar Henry Louis Gates, Jr.  has been helping people discover long-lost relatives hidden for generations within the branches of their family trees.  Professor Gates utilizes a team of genealogists to reconstruct the paper trail left behind by our ancestors and the world’s leading geneticists to decode our DNA and help us travel thousands of years into the past to discover the origins of our earliest forebears.",
-      "releaseInfo": "2012",
-      "imdbRating": "8.7"
-    },
-    {
-      "id": "tt9805674",
-      "type": "series",
-      "name": "Hành Tinh Trái Đất 3",
-      "poster": "https://image.tmdb.org/t/p/w500/tE1o6wrtZyqR9pidA9IxT1vtqkM.jpg",
-      "description": "Hành trình đến những vùng xa xôi của hành tinh chúng ta, loạt phim gồm tám phần này theo chân một số loài động thực vật tuyệt vời nhất thế giới, kể những câu chuyện phi thường, hấp dẫn, hài hước và đôi khi đau lòng, nhưng luôn tràn đầy hy vọng.",
-      "releaseInfo": "2023",
-      "imdbRating": "9.1"
-    },
-    {
-      "id": "tt1043090",
-      "type": "series",
-      "name": "Dispatches",
-      "poster": "https://image.tmdb.org/t/p/w500/u1QfxSMvcofJ4gCF29AOmOcpRpg.jpg",
-      "description": "An in-depth look at news stories. Documentaries that take you behind the scenes giving an insight into people's lives or institutions.",
-      "releaseInfo": "1987",
-      "imdbRating": "6.5"
-    },
-    {
-      "id": "tt1331516",
-      "type": "series",
-      "name": "Camp Woodward",
-      "poster": "https://image.tmdb.org/t/p/w500/hDDPqggZYrIti2ZgHIifCQDv2M7.jpg",
-      "description": "Egos clash and conflicts mount as young skaters and BMXers attend a specialty summer camp to learn tricks and tips from some of the biggest names in sport.",
-      "releaseInfo": "2008",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt2039535",
-      "type": "series",
-      "name": "Click",
-      "poster": "https://image.tmdb.org/t/p/w500/osUNbnb0iVTRpyhNnO153ddfXBh.jpg",
-      "description": "Your user-friendly guide to the latest technology news, issues, gadgets and apps.",
-      "releaseInfo": "2000",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt0906711",
-      "type": "series",
-      "name": "A Girl's Guide to 21st Century Sex",
-      "poster": "https://image.tmdb.org/t/p/w500/9NSX2YrFGBIih0XqRedsSbDVx4U.jpg",
-      "description": "A Girl's Guide to 21st Century Sex is a documentary TV series about sex, which ran in eight episodes on Channel 5 and was presented by Dr Catherine Hood. The 45-minute long episodes were broadcast on Monday nights. The series started on 30 October 2006, with the final programme broadcast on 18 December 2006.\n\nEach episode explained a sex position and covered a sexually transmitted disease. Additionally, the following topics were discussed: sex among handicapped and overweight people, penis enlargement devices, penis enlargement surgery, sexual violence against men and penis removal, tantric sex, the g-spot, erectile dysfunction, sex reassignment surgery, cosmetic surgery of the vagina, swinging, lichen sclerosus, the use of recreational drugs during sex, male homosexual sex in public toilets, full body plastic wrap bondage, and sex dolls.",
-      "releaseInfo": "2006",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt1538145",
-      "type": "series",
-      "name": "Pit Bulls and Parolees",
-      "poster": "https://image.tmdb.org/t/p/w500/lrgRiVK3GH0jxQLmUXrWIjFA9Jc.jpg",
-      "description": "Follow Tia Torres, founder of Villalobos Rescue Center, and her family as they rehabilitate both felons and ill-reputed pit bulls who come together to rescue one another from their dim pasts, and bring new meaning to life.",
-      "releaseInfo": "2009",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt3455408",
-      "type": "series",
-      "name": "The Curse of Oak Island",
-      "poster": "https://image.tmdb.org/t/p/w500/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg",
-      "description": "Follow brothers Marty and Rick Lagina through their effort to find the speculated - and as of yet undiscovered - buried treasure believed to have been concealed through extraordinary means on Oak Island.",
-      "releaseInfo": "2014",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt10366552",
-      "type": "series",
-      "name": "Cuộc Đời Thăng Trầm Của Boris Becker - Boom! Boom! The World vs Boris Becker",
-      "poster": "https://image.tmdb.org/t/p/w500/v6WaZYOH0CxOOPB8mCnnGECJ8LL.jpg",
-      "description": "Cái nhìn trong cuộc về cuộc đời và sự nghiệp đầy tranh cãi của tay vợt vĩ đại Boris Becker - có các cuộc phỏng vấn với John McEnroe, Novak Djokovic, Björn Borg và các biểu tượng khác.",
-      "releaseInfo": "2023",
-      "imdbRating": "7.4"
+      "name": "Know How...",
+      "poster": "https://image.tmdb.org/t/p/w500/6ieHlDLKbyETqUYauF061y6v9wE.jpg",
+      "description": "Get the know how to make technology work for you. TWiT shows you tech projects that you can do yourself and explains everything from tech basics to advanced techniques.",
+      "releaseInfo": "2012"
     },
     {
       "id": "tt0224884",
@@ -378,57 +306,22 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt0159156",
+      "id": "tt0138956",
       "type": "series",
-      "name": "Behind the Music",
-      "poster": "https://image.tmdb.org/t/p/w500/pMnNFb6eFKF5edRh62Km2IqfdAG.jpg",
-      "description": "An intimate look into the personal lives of pop music's greatest and most influential artists.",
+      "name": "Beyond Belief: Fact or Fiction",
+      "poster": "https://image.tmdb.org/t/p/w500/x6t4LPGYdCLqsdijZqSOxzic3Tj.jpg",
+      "description": "Can you tell the difference between fact and fiction? Several stories of strange, mysterious and incredible occurrences are chronicled during each episode. It is up to the viewer to decide which stories actually happened and which were completely fabricated by the show’s writers. The answer is revealed by Jonathan Frakes at the conclusion of each episode.",
       "releaseInfo": "1997",
-      "imdbRating": "7.4"
+      "imdbRating": "7.9"
     },
     {
-      "id": "tt13650480",
+      "id": "tt1408430",
       "type": "series",
-      "name": "Marvel Studios Legends",
-      "poster": "https://image.tmdb.org/t/p/w500/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg",
-      "description": "Revisit the epic heroes, villains and moments from across the MCU in preparation for the stories still to come. Each dynamic segment feeds directly into the upcoming series — setting the stage for future events. This series weaves together the many threads that constitute the unparalleled Marvel Cinematic Universe.",
-      "releaseInfo": "2021",
-      "imdbRating": "6.5"
-    },
-    {
-      "id": "tt8289930",
-      "type": "series",
-      "name": "Formula 1: Cuộc đua sống còn",
-      "poster": "https://image.tmdb.org/t/p/w500/xGOGjJFYYeRSoOpnhN9IHZTXIxj.jpg",
-      "description": "Mỗi mùa Công thức 1 khốc liệt, các tay đua, nhà quản lý và chủ đội đua đều dốc sức cho cuộc so tài tốc độ – dù ở trường đua hay cuộc sống thường nhật.",
-      "releaseInfo": "2019",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt0364784",
-      "type": "series",
-      "name": "Austin City Limits",
-      "poster": "https://image.tmdb.org/t/p/w500/q5jxpBFJvwMeqMI7Rg5cqZPdE7V.jpg",
-      "description": "Now the longest-running music series in American television history, ACL showcases popular music legends and innovators from every genre.",
-      "releaseInfo": "1975",
-      "imdbRating": "8.4"
-    },
-    {
-      "id": "tt11098768",
-      "type": "series",
-      "name": "DNA Journey",
-      "poster": "https://image.tmdb.org/t/p/w500/6GpovhuIaCJNXypB0taCbJZ4rGX.jpg",
-      "description": "Celebrities are given a unique insight into their lives using innovative DNA science and technology to trace their ancestors.",
-      "releaseInfo": "2019",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt3606422",
-      "type": "series",
-      "name": "Know How...",
-      "poster": "https://image.tmdb.org/t/p/w500/6ieHlDLKbyETqUYauF061y6v9wE.jpg",
-      "description": "Get the know how to make technology work for you. TWiT shows you tech projects that you can do yourself and explains everything from tech basics to advanced techniques.",
-      "releaseInfo": "2012"
+      "name": "30 for 30",
+      "poster": "https://image.tmdb.org/t/p/w500/g1CdZEUcnVYypLOp8cfb7W9mSp2.jpg",
+      "description": "30 for 30 is the title for a series of documentary films airing on ESPN, its sister networks, and online highlighting interesting people and events in sports history. This currently includes four \"volumes\" of 30 episodes each, a 13-episode series under the ESPN Films Presents title in 2011–2012, and a series of 30 for 30 Shorts shown through the ESPN.com website. The series has also expanded to include Soccer Stories, which aired in advance of the 2014 FIFA World Cup, and audio podcasts.  This entry refers to the main Volumes of the series presented by ESPN",
+      "releaseInfo": "2009",
+      "imdbRating": "8.8"
     },
     {
       "id": "tt31589872",
@@ -440,22 +333,85 @@
       "imdbRating": "6.4"
     },
     {
-      "id": "tt0429466",
+      "id": "tt8289930",
       "type": "series",
-      "name": "Who Do You Think You Are?",
-      "poster": "https://image.tmdb.org/t/p/w500/v7vzsmEDVDzUgEuiMAMRdyh0abW.jpg",
-      "description": "A British genealogy documentary series in which celebrities trace their ancestry, discovering secrets and surprises from their past.",
-      "releaseInfo": "2004",
-      "imdbRating": "8.0"
+      "name": "Formula 1: Cuộc đua sống còn",
+      "poster": "https://image.tmdb.org/t/p/w500/xGOGjJFYYeRSoOpnhN9IHZTXIxj.jpg",
+      "description": "Mỗi mùa Công thức 1 khốc liệt, các tay đua, nhà quản lý và chủ đội đua đều dốc sức cho cuộc so tài tốc độ – dù ở trường đua hay cuộc sống thường nhật.",
+      "releaseInfo": "2019",
+      "imdbRating": "8.5"
     },
     {
-      "id": "tt6233538",
+      "id": "tt26345409",
       "type": "series",
-      "name": "Đế Chế La Mã",
-      "poster": "https://image.tmdb.org/t/p/w500/uzgEzk9wve2O0uDPMy68SDLkjTl.jpg",
-      "description": "Sự kết hợp đặc sắc giữa thể loại phim tài liệu và sử thi xa hoa thuật lại triều đại Commodus, Julius Caesar và Caligula đầy hỗn loạn, bạo lực.",
-      "releaseInfo": "2016",
-      "imdbRating": "7.0"
+      "name": "Voices Rising: The Music of Wakanda Forever",
+      "poster": "https://image.tmdb.org/t/p/w500/tD0z0ONzplsO7JLkDk1cMTWR1Rd.jpg",
+      "description": "A documentary series focusing on the music from Marvel Studios’ Black Panther: Wakanda Forever. The show centers on the songs and score from the movie and features interview with director Ryan Coogler, composer Ludwig Göransson, among others.",
+      "releaseInfo": "2023",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt1043090",
+      "type": "series",
+      "name": "Dispatches",
+      "poster": "https://image.tmdb.org/t/p/w500/u1QfxSMvcofJ4gCF29AOmOcpRpg.jpg",
+      "description": "An in-depth look at news stories. Documentaries that take you behind the scenes giving an insight into people's lives or institutions.",
+      "releaseInfo": "1987",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt0159156",
+      "type": "series",
+      "name": "Behind the Music",
+      "poster": "https://image.tmdb.org/t/p/w500/pMnNFb6eFKF5edRh62Km2IqfdAG.jpg",
+      "description": "An intimate look into the personal lives of pop music's greatest and most influential artists.",
+      "releaseInfo": "1997",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt0364784",
+      "type": "series",
+      "name": "Austin City Limits",
+      "poster": "https://image.tmdb.org/t/p/w500/q5jxpBFJvwMeqMI7Rg5cqZPdE7V.jpg",
+      "description": "Now the longest-running music series in American television history, ACL showcases popular music legends and innovators from every genre.",
+      "releaseInfo": "1975",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt2039535",
+      "type": "series",
+      "name": "Click",
+      "poster": "https://image.tmdb.org/t/p/w500/osUNbnb0iVTRpyhNnO153ddfXBh.jpg",
+      "description": "Your user-friendly guide to the latest technology news, issues, gadgets and apps.",
+      "releaseInfo": "2000",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt0181260",
+      "type": "series",
+      "name": "This Is Your Life",
+      "poster": "https://image.tmdb.org/t/p/w500/zMCF2uU9dleso6iKpFkHfrBxsQ6.jpg",
+      "description": "This is Your Life is a British biographical television documentary, based on the 1952 American show of the same name. It was hosted by Eamonn Andrews from 1955 until 1964, and then from 1969 until his death in 1987 aged 64. Michael Aspel then took up the role of host until the show ended in 2003. It returned in 2007 as a one-off special presented by Trevor McDonald, which to date was its most recent airing.\n\nIn the show the host surprises a special guest, before taking them through their life with the assistance of the 'big red book'. Both celebrities and non-celebrities have been 'victims' of the show. The show was originally broadcast live, and over its run it has alternated between being broadcast on the BBC and on ITV.",
+      "releaseInfo": "1955",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt2326517",
+      "type": "series",
+      "name": "Finding Your Roots",
+      "poster": "https://image.tmdb.org/t/p/w500/25RJm3FmH8to42K5ZT9cGs6KUhY.jpg",
+      "description": "Noted Harvard scholar Henry Louis Gates, Jr.  has been helping people discover long-lost relatives hidden for generations within the branches of their family trees.  Professor Gates utilizes a team of genealogists to reconstruct the paper trail left behind by our ancestors and the world’s leading geneticists to decode our DNA and help us travel thousands of years into the past to discover the origins of our earliest forebears.",
+      "releaseInfo": "2012",
+      "imdbRating": "8.7"
+    },
+    {
+      "id": "tt3455408",
+      "type": "series",
+      "name": "The Curse of Oak Island",
+      "poster": "https://image.tmdb.org/t/p/w500/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg",
+      "description": "Follow brothers Marty and Rick Lagina through their effort to find the speculated - and as of yet undiscovered - buried treasure believed to have been concealed through extraordinary means on Oak Island.",
+      "releaseInfo": "2014",
+      "imdbRating": "6.8"
     },
     {
       "id": "tt2395695",
@@ -467,13 +423,58 @@
       "imdbRating": "9.2"
     },
     {
-      "id": "tt0795176",
+      "id": "tt8452382",
       "type": "series",
-      "name": "Hành Tinh Trái Đất",
-      "poster": "https://image.tmdb.org/t/p/w500/bNcNxUtZ520d5de5s78onoiSiwQ.jpg",
-      "description": "Hành Tinh Trái Đất của chúng ta thật đẹp và kì diệu - đẹp nhất, kì diệu nhất trong 10 hành tinh của hệ mặt trời. Planet Earth là một bộ phim tài liệu được dàn dựng công phu trong suốt 5 năm trời để tôn vinh vẻ đẹp ấy. Qua 11 phần của bộ phim này, bạn sẽ được chu du từ cực Nam tới cực Bắc, qua các Sa Mạc, rừng mưa, lên những dãy núi cao, lặn xuống dưới biển sâu, khám phá những hang động huyền bí v.v... rất thú vị và kích thích.",
-      "releaseInfo": "2006",
-      "imdbRating": "9.4"
+      "name": "The Biggest Weekend",
+      "poster": "https://image.tmdb.org/t/p/w500/6x2T3JCaXYqak9YIP7nmBdscWZU.jpg",
+      "description": "Live BBC coverage of the Biggest Weekend music festival",
+      "releaseInfo": "2018",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt36005664",
+      "type": "series",
+      "name": "Ngôi Sao Đầu Bảng - Number One on the Call Sheet",
+      "poster": "https://image.tmdb.org/t/p/w500/ytZbMimsL3ERBlw6OSU9c5mEdxd.jpg",
+      "description": "Một số ngôi sao Hollywood lớn nhất tiết lộ về hành trình đến các vai chính đổi đời của họ. Trong phỏng vấn, họ tiết lộ về những thăng trầm trong sự nghiệp, thời điểm đột phá, lộ trình thành công, và triển vọng to lớn của thế hệ sau.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt10366552",
+      "type": "series",
+      "name": "Cuộc Đời Thăng Trầm Của Boris Becker - Boom! Boom! The World vs Boris Becker",
+      "poster": "https://image.tmdb.org/t/p/w500/v6WaZYOH0CxOOPB8mCnnGECJ8LL.jpg",
+      "description": "Cái nhìn trong cuộc về cuộc đời và sự nghiệp đầy tranh cãi của tay vợt vĩ đại Boris Becker - có các cuộc phỏng vấn với John McEnroe, Novak Djokovic, Björn Borg và các biểu tượng khác.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt0092322",
+      "type": "series",
+      "name": "Biography",
+      "poster": "https://image.tmdb.org/t/p/w500/8R9gswhn3Cpul7dmjMpLv4aPYrK.jpg",
+      "description": "Biography is a documentary television series. It was originally a half-hour filmed series produced for CBS by David Wolper from 1961 to 1964 and hosted by Mike Wallace. The A&E Network later re-ran it and has produced new episodes since 1987. The older version featured historical figures such as Helen Keller and Mark Twain, or long-dead entertainment figures such as Will Rogers or John Barrymore. The A&E series has placed the emphasis on such people as Marilyn Monroe, Elvis Presley, Plácido Domingo, Freddie Mercury, Jacqueline Kennedy Onassis, Eric Clapton, Pope John Paul II, Gene Tierney, Selena, Diego Rivera, Mao Zedong and Queen Elizabeth II, and fictional characters like The Phantom, Superman, Hamlet, Betty Boop, and Santa Claus. The program ended up profiling enough figures that in 1999, A&E spun it off into an entire network, The Biography Channel.",
+      "releaseInfo": "1987",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt13650480",
+      "type": "series",
+      "name": "Marvel Studios Legends",
+      "poster": "https://image.tmdb.org/t/p/w500/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg",
+      "description": "Revisit the epic heroes, villains and moments from across the MCU in preparation for the stories still to come. Each dynamic segment feeds directly into the upcoming series — setting the stage for future events. This series weaves together the many threads that constitute the unparalleled Marvel Cinematic Universe.",
+      "releaseInfo": "2021",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt9805674",
+      "type": "series",
+      "name": "Hành Tinh Trái Đất 3",
+      "poster": "https://image.tmdb.org/t/p/w500/tE1o6wrtZyqR9pidA9IxT1vtqkM.jpg",
+      "description": "Hành trình đến những vùng xa xôi của hành tinh chúng ta, loạt phim gồm tám phần này theo chân một số loài động thực vật tuyệt vời nhất thế giới, kể những câu chuyện phi thường, hấp dẫn, hài hước và đôi khi đau lòng, nhưng luôn tràn đầy hy vọng.",
+      "releaseInfo": "2023",
+      "imdbRating": "9.1"
     },
     {
       "id": "tt0888420",
@@ -485,23 +486,6 @@
       "imdbRating": "7.6"
     },
     {
-      "id": "tt0795174",
-      "type": "series",
-      "name": "POV",
-      "poster": "https://image.tmdb.org/t/p/w500/2yEQ75DyAGIu6p6GTfI9cpWFxti.jpg",
-      "description": "The home for the world's boldest contemporary filmmakers, celebrating intriguing personal stories that spark conversation and inspire action.",
-      "releaseInfo": "1988",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt35407689",
-      "type": "series",
-      "name": "Vietnam: The War That Changed America",
-      "poster": "https://image.tmdb.org/t/p/w500/lJiG3rmP8smQ415jJ0J0SG0sDtU.jpg",
-      "description": "The reunion of old friends, first-person accounts, and rarely seen footage paint an extraordinary and deeply profound picture of what it was like to live through one of history's longest wars.",
-      "releaseInfo": "2025"
-    },
-    {
       "id": "tt0162829",
       "type": "series",
       "name": "Tomorrow's World",
@@ -511,13 +495,58 @@
       "imdbRating": "7.6"
     },
     {
-      "id": "tt0379142",
+      "id": "tt0262990",
       "type": "series",
-      "name": "Seven Wonders of the Industrial World",
-      "poster": "https://image.tmdb.org/t/p/w500/ySzZFZc5tXRkusW0nY7G5b3G6JR.jpg",
-      "description": "Seven Wonders of the Industrial World is a 7-part British documentary/docudrama television miniseries that originally aired from 4 September 2003 to 16 October 2003 on BBC. The programme examines seven engineering feats that occurred during the Industrial Revolution.",
-      "releaseInfo": "2003",
+      "name": "The Sky at Night",
+      "poster": "https://image.tmdb.org/t/p/w500/m0WlBOExJzajLPly4ebmCSxwta1.jpg",
+      "description": "Your monthly journey through the fascinating world of space and astronomy with the latest thinking on what's out there in space and what you can see in the night sky.",
+      "releaseInfo": "1957",
       "imdbRating": "8.3"
+    },
+    {
+      "id": "tt11098768",
+      "type": "series",
+      "name": "DNA Journey",
+      "poster": "https://image.tmdb.org/t/p/w500/6GpovhuIaCJNXypB0taCbJZ4rGX.jpg",
+      "description": "Celebrities are given a unique insight into their lives using innovative DNA science and technology to trace their ancestors.",
+      "releaseInfo": "2019",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt0429466",
+      "type": "series",
+      "name": "Who Do You Think You Are?",
+      "poster": "https://image.tmdb.org/t/p/w500/v7vzsmEDVDzUgEuiMAMRdyh0abW.jpg",
+      "description": "A British genealogy documentary series in which celebrities trace their ancestry, discovering secrets and surprises from their past.",
+      "releaseInfo": "2004",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt10162586",
+      "type": "series",
+      "name": "Marvel's 616",
+      "poster": "https://image.tmdb.org/t/p/w500/wBOIVb6zgsnfRhvCgdX04pLaYXQ.jpg",
+      "description": "Explore Marvel’s rich legacy of pioneering characters, creators and storytelling to reflect the world outside your window. Each documentary, helmed by a unique filmmaker, showcases the intersections of storytelling, pop culture, and fandom within the Marvel Universe.",
+      "releaseInfo": "2020",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt0906711",
+      "type": "series",
+      "name": "A Girl's Guide to 21st Century Sex",
+      "poster": "https://image.tmdb.org/t/p/w500/9NSX2YrFGBIih0XqRedsSbDVx4U.jpg",
+      "description": "A Girl's Guide to 21st Century Sex is a documentary TV series about sex, which ran in eight episodes on Channel 5 and was presented by Dr Catherine Hood. The 45-minute long episodes were broadcast on Monday nights. The series started on 30 October 2006, with the final programme broadcast on 18 December 2006.\n\nEach episode explained a sex position and covered a sexually transmitted disease. Additionally, the following topics were discussed: sex among handicapped and overweight people, penis enlargement devices, penis enlargement surgery, sexual violence against men and penis removal, tantric sex, the g-spot, erectile dysfunction, sex reassignment surgery, cosmetic surgery of the vagina, swinging, lichen sclerosus, the use of recreational drugs during sex, male homosexual sex in public toilets, full body plastic wrap bondage, and sex dolls.",
+      "releaseInfo": "2006",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt0407361",
+      "type": "series",
+      "name": "Australian Story",
+      "poster": "https://image.tmdb.org/t/p/w500/AdVz2lrwXb4SOV8V3yV8JSAuqWI.jpg",
+      "description": "Putting the \"real\" back into reality television, Australian Story is an award-winning documentary series with no narrator and no agendas — just authentic stories told entirely in people's own words.",
+      "releaseInfo": "1996",
+      "imdbRating": "7.7"
     },
     {
       "id": "tt8005374",
@@ -538,138 +567,30 @@
       "imdbRating": "7.5"
     },
     {
-      "id": "tt0262990",
+      "id": "tt0453422",
       "type": "series",
-      "name": "The Sky at Night",
-      "poster": "https://image.tmdb.org/t/p/w500/m0WlBOExJzajLPly4ebmCSxwta1.jpg",
-      "description": "Your monthly journey through the fascinating world of space and astronomy with the latest thinking on what's out there in space and what you can see in the night sky.",
-      "releaseInfo": "1957",
-      "imdbRating": "8.4"
+      "name": "Doctor Who Confidential",
+      "poster": "https://image.tmdb.org/t/p/w500/3TAO5VgSyICVTL5Hvv6L4V12nig.jpg",
+      "description": "Doctor Who Confidential is a documentary to complement the revival of the long-running British science fiction television series Doctor Who. Each episode was broadcast on BBC Three on Saturdays, immediately after the broadcast of the weekly television episode on BBC One. The running time of the first two series was 30 minutes, being extended to 45 minutes in the third. BBC Three also broadcast a cut-down edition of the programme, lasting 15 minutes, shown after the repeats on Sundays and Fridays and after the weekday evening repeats of earlier seasons.",
+      "releaseInfo": "2005",
+      "imdbRating": "8.0"
     },
     {
-      "id": "tt13228678",
+      "id": "tt0795176",
       "type": "series",
-      "name": "Siêu Mẫu - The Super Models",
-      "poster": "https://image.tmdb.org/t/p/w500/av2yJXwMqiU8WhER5vwyDum821K.jpg",
-      "description": "Những năm 1980, Naomi Campbell, Cindy Crawford, Linda Evangelista và Christy Turlington trở thành những biểu tượng thời trang, rồi vượt trội ngành của họ bằng cách đoàn kết. Đây là câu chuyện về cách họ khẳng định sức mạnh và định hình tương lai.",
-      "releaseInfo": "2023",
-      "imdbRating": "7.8"
+      "name": "Hành Tinh Trái Đất",
+      "poster": "https://image.tmdb.org/t/p/w500/bNcNxUtZ520d5de5s78onoiSiwQ.jpg",
+      "description": "Hành Tinh Trái Đất của chúng ta thật đẹp và kì diệu - đẹp nhất, kì diệu nhất trong 10 hành tinh của hệ mặt trời. Planet Earth là một bộ phim tài liệu được dàn dựng công phu trong suốt 5 năm trời để tôn vinh vẻ đẹp ấy. Qua 11 phần của bộ phim này, bạn sẽ được chu du từ cực Nam tới cực Bắc, qua các Sa Mạc, rừng mưa, lên những dãy núi cao, lặn xuống dưới biển sâu, khám phá những hang động huyền bí v.v... rất thú vị và kích thích.",
+      "releaseInfo": "2006",
+      "imdbRating": "9.4"
     },
     {
-      "id": "tt36005664",
+      "id": "tt40826311",
       "type": "series",
-      "name": "Ngôi Sao Đầu Bảng - Number One on the Call Sheet",
-      "poster": "https://image.tmdb.org/t/p/w500/ytZbMimsL3ERBlw6OSU9c5mEdxd.jpg",
-      "description": "Một số ngôi sao Hollywood lớn nhất tiết lộ về hành trình đến các vai chính đổi đời của họ. Trong phỏng vấn, họ tiết lộ về những thăng trầm trong sự nghiệp, thời điểm đột phá, lộ trình thành công, và triển vọng to lớn của thế hệ sau.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt0407361",
-      "type": "series",
-      "name": "Australian Story",
-      "poster": "https://image.tmdb.org/t/p/w500/AdVz2lrwXb4SOV8V3yV8JSAuqWI.jpg",
-      "description": "Putting the \"real\" back into reality television, Australian Story is an award-winning documentary series with no narrator and no agendas — just authentic stories told entirely in people's own words.",
-      "releaseInfo": "1996",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt13007904",
-      "type": "series",
-      "name": "Thế Giới Siêu Nhỏ - Tiny World",
-      "poster": "https://image.tmdb.org/t/p/w500/yKtYmsyuxwaLi7YWUHUYkp8UJlT.jpg",
-      "description": "Series phim tài liệu này nói về các anh hùng siêu nhỏ ít được chú ý ngoài thiên nhiên. Mỗi tập mang tới nhiều câu chuyện bất ngờ và các thước phim kinh ngạc về đời sống và bản năng sinh tồn kỳ diệu của những sinh vật bé nhỏ.",
-      "releaseInfo": "2020",
-      "imdbRating": "8.9"
-    },
-    {
-      "id": "tt8966970",
-      "type": "series",
-      "name": "The Pacific: In The Wake of Captain Cook",
-      "poster": "https://image.tmdb.org/t/p/w500/hoVtl0t2GmIrXoHZQulE6N4Tg1p.jpg",
-      "description": "History is taking to the seas and walking in the footsteps of Captain James Cook. 250 years after Cook began his epic exploration of the Pacific, Sam Neill (Jurassic Park, The Piano) journeys in his wake uncovering stories that resonate from those times on both sides of the beach. Sam begins with a disclaimer – he is merely an actor – but the story of Cook, and the impact he has had on the Pacific in the 250 years since his first voyage, has always fascinated him.",
-      "releaseInfo": "2018",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt0092322",
-      "type": "series",
-      "name": "Biography",
-      "poster": "https://image.tmdb.org/t/p/w500/8R9gswhn3Cpul7dmjMpLv4aPYrK.jpg",
-      "description": "Biography is a documentary television series. It was originally a half-hour filmed series produced for CBS by David Wolper from 1961 to 1964 and hosted by Mike Wallace. The A&E Network later re-ran it and has produced new episodes since 1987. The older version featured historical figures such as Helen Keller and Mark Twain, or long-dead entertainment figures such as Will Rogers or John Barrymore. The A&E series has placed the emphasis on such people as Marilyn Monroe, Elvis Presley, Plácido Domingo, Freddie Mercury, Jacqueline Kennedy Onassis, Eric Clapton, Pope John Paul II, Gene Tierney, Selena, Diego Rivera, Mao Zedong and Queen Elizabeth II, and fictional characters like The Phantom, Superman, Hamlet, Betty Boop, and Santa Claus. The program ended up profiling enough figures that in 1999, A&E spun it off into an entire network, The Biography Channel.",
-      "releaseInfo": "1987",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt9253866",
-      "type": "series",
-      "name": "Hành tinh của chúng ta",
-      "poster": "https://image.tmdb.org/t/p/w500/wRSnArnQBmeUYb5GWDU595bGsBr.jpg",
-      "description": "Loạt phim tài liệu đầy tham vọng với phạm vi ấn tượng đưa ta trải nghiệm vẻ đẹp tự nhiên của Trái đất và nghiên cứu cách khí hậu thay đổi tác động lên mọi sinh vật sống.",
-      "releaseInfo": "2019",
-      "imdbRating": "9.2"
-    },
-    {
-      "id": "tt0213372",
-      "type": "series",
-      "name": "That's Life!",
-      "poster": "https://image.tmdb.org/t/p/w500/w92eGLtdxJ037OQm80uZnkQ9G6W.jpg",
-      "description": "A magazine-style television series on BBC1 which was broadcast from May 1973 to June 1994, presented by Esther Rantzen, with various changes of co-presenters. The show presented hard-hitting investigations alongside satire and occasional light entertainment.",
-      "releaseInfo": "1973",
-      "imdbRating": "6.9"
-    },
-    {
-      "id": "tt15482680",
-      "type": "series",
-      "name": "Superpowered: The DC Story",
-      "poster": "https://image.tmdb.org/t/p/w500/2MKY8LIUIXPNUHIWneadd5dqPXF.jpg",
-      "description": "This docuseries takes an unprecedented look at the enduring and influential legacy of DC, allowing fans to rediscover the universe of characters, as well as the iconic comic book company’s origins, its evolution and its nearly nine-decade cultural impact across every artistic medium.",
-      "releaseInfo": "2023",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt0423652",
-      "type": "series",
-      "name": "The First 48",
-      "poster": "https://image.tmdb.org/t/p/w500/i6bSut4XPepaJ5VC6oG303iGKQU.jpg",
-      "description": "The First 48 follows detectives from around the country during these first critical hours as they race against time to find the suspect. Gritty and fast-paced, it takes viewers behind the scenes of real-life investigations with unprecedented access to crime scenes, autopsies, forensic processing, and interrogations.",
-      "releaseInfo": "2004",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt0796171",
-      "type": "series",
-      "name": "Timeshift",
-      "poster": "https://image.tmdb.org/t/p/w500/u3YthvdTOWgyG3bIHlUKVsuFSm9.jpg",
-      "description": "Documentary series which ranges widely over Britain's social and cultural history, its narrative-led storytelling offering a richly immersive and varied window onto the past.",
-      "releaseInfo": "2002",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt1647443",
-      "type": "series",
-      "name": "Journeys in Japan",
-      "poster": "https://image.tmdb.org/t/p/w500/9y6cze7R5skd1DSg7jTrfzv0IYH.jpg",
-      "description": "Journeys in Japan provides an eye-opening look at the many unique places to visit in Japan. English-speaking visitors travel the length of the country, exploring the culture, meeting the local people, visiting historic sites and offering travel hints rarely found in guidebooks.",
-      "releaseInfo": "2010",
-      "imdbRating": "8.7"
-    },
-    {
-      "id": "tt1554356",
-      "type": "series",
-      "name": "On the Case with Paula Zahn",
-      "poster": "https://image.tmdb.org/t/p/w500/5Hbir2fSCFr52t3snqMnzKRreV7.jpg",
-      "description": "Award winning journalist Paula Zahn unravels shocking crimes interviewing those closest to the case including lawyers, the victim's family, detectives and the convicted murderer themselves.",
-      "releaseInfo": "2009",
-      "imdbRating": "7.3"
-    },
-    {
-      "id": "tt0271894",
-      "type": "series",
-      "name": "48 Hours",
-      "poster": "https://image.tmdb.org/t/p/w500/kniPe4BLIcj2WnErZcFeHo50q6B.jpg",
-      "description": "This newsmagazine series investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening — and resolution — of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart.",
-      "releaseInfo": "1988",
+      "name": "Hãy tin tôi: Nhà tiên tri giả mạo",
+      "poster": "https://image.tmdb.org/t/p/w500/mDugtY17uzG4r6yU0pRgjawcfSA.jpg",
+      "description": "Trong phim tài liệu tội phạm có thật, một chuyên gia giáo phái và nhà làm phim nọ thâm nhập vào giáo phái đa thê nhằm vạch trần kẻ tự xưng là nhà tiên tri và đưa ra trước công lý.",
+      "releaseInfo": "2026",
       "imdbRating": "7.6"
     },
     {
@@ -681,67 +602,22 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tt0453422",
+      "id": "tt0213372",
       "type": "series",
-      "name": "Doctor Who Confidential",
-      "poster": "https://image.tmdb.org/t/p/w500/3TAO5VgSyICVTL5Hvv6L4V12nig.jpg",
-      "description": "Doctor Who Confidential is a documentary to complement the revival of the long-running British science fiction television series Doctor Who. Each episode was broadcast on BBC Three on Saturdays, immediately after the broadcast of the weekly television episode on BBC One. The running time of the first two series was 30 minutes, being extended to 45 minutes in the third. BBC Three also broadcast a cut-down edition of the programme, lasting 15 minutes, shown after the repeats on Sundays and Fridays and after the weekday evening repeats of earlier seasons.",
-      "releaseInfo": "2005",
-      "imdbRating": "8.1"
+      "name": "That's Life!",
+      "poster": "https://image.tmdb.org/t/p/w500/w92eGLtdxJ037OQm80uZnkQ9G6W.jpg",
+      "description": "A magazine-style television series on BBC1 which was broadcast from May 1973 to June 1994, presented by Esther Rantzen, with various changes of co-presenters. The show presented hard-hitting investigations alongside satire and occasional light entertainment.",
+      "releaseInfo": "1973",
+      "imdbRating": "6.9"
     },
     {
-      "id": "tt1146333",
+      "id": "tt35407689",
       "type": "series",
-      "name": "Shark Week",
-      "poster": "https://image.tmdb.org/t/p/w500/mvFyMXZwoHKUfnXyAQNrolGvePv.jpg",
-      "description": "The Discovery Channel's Shark Week, first broadcast on July 17, 1987, is a weeklong series of feature television programs dedicated to sharks. Held annually, normally in July or August, Shark Week was originally developed to raise awareness and respect for sharks. It is the longest-running cable television programming event in history. Now broadcast in over 72 countries, Shark Week is promoted heavily via social networks like Facebook and Twitter.",
-      "releaseInfo": "1988",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt0163503",
-      "type": "series",
-      "name": "Top Gear",
-      "poster": "https://image.tmdb.org/t/p/w500/7P7vi7RIn5qthQAZrOBIu8zA3pg.jpg",
-      "description": "Motoring programme featuring reviews of and reports about cars of all types.",
-      "releaseInfo": "1978",
-      "imdbRating": "8.4"
-    },
-    {
-      "id": "tt0324679",
-      "type": "series",
-      "name": "Fifth Gear",
-      "poster": "https://image.tmdb.org/t/p/w500/yAxMzWGCuQI1adyPOGNefZHLOIy.jpg",
-      "description": "Getting viewers up to speed on all the latest automotive information, with new car reviews, second hand bargains and industry tidbits being the focus of this magazine show.",
-      "releaseInfo": "2002",
-      "imdbRating": "6.5"
-    },
-    {
-      "id": "tt17736322",
-      "type": "series",
-      "name": "Người Ta Gọi Tôi Là Magic - They Call Me Magic",
-      "poster": "https://image.tmdb.org/t/p/w500/3Arv4dLqWyceOKcWoJAVkY1Vkuh.jpg",
-      "description": "Earvin\" Magic \"Johnson là biểu tượng của mọi thời đại — từ xuất thân khiêm tốn cho đến Dream Team và trở thành ông lớn trong lĩnh vực kinh doanh. Với các cuộc phỏng vấn với Tổng thống Obama, Larry Bird, Pat Riley, v.v., bộ phim tài liệu này ghi lại cuộc đời và sự nghiệp của một huyền thoại.",
-      "releaseInfo": "2022",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt36614693",
-      "type": "series",
-      "name": "WWE: Hậu Trường",
-      "poster": "https://image.tmdb.org/t/p/w500/fe6XV69u32zacyCuGOYxr5pAT8z.jpg",
-      "description": "Từ Monday Night RAW đến WrestleMania, loạt phim này đưa bạn vào hậu trường cùng các Siêu sao và đội ngũ nhân viên của WWE khi họ tạo nên những sự kiện hoành tráng nhất của công ty.",
+      "name": "Vietnam: The War That Changed America",
+      "poster": "https://image.tmdb.org/t/p/w500/lJiG3rmP8smQ415jJ0J0SG0sDtU.jpg",
+      "description": "The reunion of old friends, first-person accounts, and rarely seen footage paint an extraordinary and deeply profound picture of what it was like to live through one of history's longest wars.",
       "releaseInfo": "2025",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt0835010",
-      "type": "series",
-      "name": "How It's Made",
-      "poster": "https://image.tmdb.org/t/p/w500/jO3DKZyiEWQsEE6ji7IXwobDnl8.jpg",
-      "description": "Have you ever wondered how the products you use every day are made? How It's Made leads you through the process of how everyday products, such as apple juice, skateboards, engines, contact lenses, and many more objects are manufactured.",
-      "releaseInfo": "2001",
-      "imdbRating": "7.8"
+      "imdbRating": "8.1"
     },
     {
       "id": "tt5955168",
@@ -753,66 +629,48 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt9016022",
+      "id": "tt1554356",
       "type": "series",
-      "name": "Basketball: A Love Story",
-      "poster": "https://image.tmdb.org/t/p/w500/7At8dfNNXs9hnx2ZgTRyGMlwcA1.jpg",
-      "description": "'Basketball: A Love Story' is a series of 62 interconnected short stories that creates a vibrant mosaic of the game, featuring 165 exclusive interviews. The cast encompasses basketball's most prominent figures and explores the complex nature of love as it relates to the game.",
-      "releaseInfo": "2018",
-      "imdbRating": "8.4"
+      "name": "On the Case with Paula Zahn",
+      "poster": "https://image.tmdb.org/t/p/w500/5Hbir2fSCFr52t3snqMnzKRreV7.jpg",
+      "description": "Award winning journalist Paula Zahn unravels shocking crimes interviewing those closest to the case including lawyers, the victim's family, detectives and the convicted murderer themselves.",
+      "releaseInfo": "2009",
+      "imdbRating": "7.3"
     },
     {
-      "id": "tt0247882",
+      "id": "tt1146333",
       "type": "series",
-      "name": "Forensic Files",
-      "poster": "https://image.tmdb.org/t/p/w500/k7zrsnodHEe3UUdwHG207rjdbrB.jpg",
-      "description": "Real crimes, disease outbreaks and accidents around the world are solved by experts using scientific laboratory analysis which helps them find previously undetectable evidence. Brilliant scientific work helps convict the guilty and free the innocent.",
-      "releaseInfo": "1996",
-      "imdbRating": "8.8"
-    },
-    {
-      "id": "tt10681222",
-      "type": "series",
-      "name": "Những bộ phim lớn lên cùng chúng ta",
-      "poster": "https://image.tmdb.org/t/p/w500/l7p40cVratmPTdWrx4UFjZbANKF.jpg",
-      "description": "Những bộ phim bom tấn này đưa ta đến với nhau, cho ta những khoảnh khắc tuyệt vời. Hãy gặp gỡ các diễn viên, đạo diễn và người trong ngành đã làm nên những bộ phim này.",
-      "releaseInfo": "2019",
+      "name": "Shark Week",
+      "poster": "https://image.tmdb.org/t/p/w500/mvFyMXZwoHKUfnXyAQNrolGvePv.jpg",
+      "description": "The Discovery Channel's Shark Week, first broadcast on July 17, 1987, is a weeklong series of feature television programs dedicated to sharks. Held annually, normally in July or August, Shark Week was originally developed to raise awareness and respect for sharks. It is the longest-running cable television programming event in history. Now broadcast in over 72 countries, Shark Week is promoted heavily via social networks like Facebook and Twitter.",
+      "releaseInfo": "1988",
       "imdbRating": "7.7"
     },
     {
-      "id": "tt12615492",
+      "id": "tt0796171",
       "type": "series",
-      "name": "Giải Mã Sự Thành Công",
-      "poster": "https://image.tmdb.org/t/p/w500/qFkWvvGkP9RUtr1o4o5njQmot1k.jpg",
-      "description": "Các vận động viên hình mẫu làm sáng tỏ giây phút quan trọng của sự nghiệp khi họ chạm đến khoảnh khắc thành công. Là sự kết hợp đầy cách điệu giữa phim người đóng và hiệu ứng hình ảnh, loạt phim tài liệu ngắn này giúp ta hiểu hơn về những huyền thoại thể thao mà ta nghĩ rằng mình đã biết.",
-      "releaseInfo": "2020",
-      "imdbRating": "4.8"
+      "name": "Timeshift",
+      "poster": "https://image.tmdb.org/t/p/w500/u3YthvdTOWgyG3bIHlUKVsuFSm9.jpg",
+      "description": "Documentary series which ranges widely over Britain's social and cultural history, its narrative-led storytelling offering a richly immersive and varied window onto the past.",
+      "releaseInfo": "2002",
+      "imdbRating": "6.5"
     },
     {
-      "id": "tt1105711",
+      "id": "tt13228678",
       "type": "series",
-      "name": "1000 Ways to Die",
-      "poster": "https://image.tmdb.org/t/p/w500/yKZYX4D30R7ywy6f5yQDuXagSCr.jpg",
-      "description": "The science of living and the randomness of death are combined with a dash of Darwinism. Forensic experts, pathologists, toxicologists, herpetologists, and other experts offer eloquent explanations of mortality.",
-      "releaseInfo": "2009",
-      "imdbRating": "6.8"
+      "name": "Siêu Mẫu - The Super Models",
+      "poster": "https://image.tmdb.org/t/p/w500/av2yJXwMqiU8WhER5vwyDum821K.jpg",
+      "description": "Những năm 1980, Naomi Campbell, Cindy Crawford, Linda Evangelista và Christy Turlington trở thành những biểu tượng thời trang, rồi vượt trội ngành của họ bằng cách đoàn kết. Đây là câu chuyện về cách họ khẳng định sức mạnh và định hình tương lai.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.8"
     },
     {
-      "id": "tt1832668",
+      "id": "tt34280325",
       "type": "series",
-      "name": "How the Universe Works",
-      "poster": "https://image.tmdb.org/t/p/w500/t87KvAQEvt5FvEV2FA4rXvnrC2m.jpg",
-      "description": "A users' guide to the cosmos, from the Big Bang to galaxies, stars, planets and moons: where did it all come from and how does it all fit together? A primer for anyone who has ever looked up at the night sky and wondered.",
-      "releaseInfo": "2010",
-      "imdbRating": "8.9"
-    },
-    {
-      "id": "tt31495561",
-      "type": "series",
-      "name": "Oddity Archive",
-      "poster": "https://image.tmdb.org/t/p/w500/xR3vmpzfzyhiEwaTO2BwUfeHY4a.jpg",
-      "description": "The Oddity Archive is a web series that revolves around the \"cultural dustbin\", especially as it pertains to media. The Archive also functions as an actual archive of sorts, with a modest collection of off-air Betamax and VHS recordings (about 400 total as of June, 2014). There's also a decent collection of ephemeral video, \"ripoff\" and \"drugstore\" LP's/cassettes/8-tracks, as well as (working) obsolete technology.",
-      "releaseInfo": "2012"
+      "name": "Eyes on the Prize III: We Who Believe in Freedom Cannot Rest 1977-2015",
+      "poster": "https://image.tmdb.org/t/p/w500/r1acHeg4fXyIBu7BSLKYEpUnhys.jpg",
+      "description": "This new installment of the landmark 1987 documentary series Eyes on the Prize illuminates the bold stories of people and communities who continue to work for equity and racial justice in the years since the birth of the American Civil Rights movement.",
+      "releaseInfo": "2025"
     },
     {
       "id": "tt0149314",
@@ -824,31 +682,22 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt5489746",
+      "id": "tt13007904",
       "type": "series",
-      "name": "Evil Lives Here",
-      "poster": "https://image.tmdb.org/t/p/w500/tL5jRxrflh2et3whDxyXgRHEnGJ.jpg",
-      "description": "The true stories of people who lived with a killer. How well do you really know your family? Would you recognize the warning signs? Or would you become entangled in evil?",
-      "releaseInfo": "2016",
-      "imdbRating": "7.9"
+      "name": "Thế Giới Siêu Nhỏ - Tiny World",
+      "poster": "https://image.tmdb.org/t/p/w500/yKtYmsyuxwaLi7YWUHUYkp8UJlT.jpg",
+      "description": "Series phim tài liệu này nói về các anh hùng siêu nhỏ ít được chú ý ngoài thiên nhiên. Mỗi tập mang tới nhiều câu chuyện bất ngờ và các thước phim kinh ngạc về đời sống và bản năng sinh tồn kỳ diệu của những sinh vật bé nhỏ.",
+      "releaseInfo": "2020",
+      "imdbRating": "8.8"
     },
     {
-      "id": "tt0044296",
+      "id": "tt0423652",
       "type": "series",
-      "name": "This Is Your Life",
-      "poster": "https://image.tmdb.org/t/p/w500/ot1iWBTekpduO2q6TFto7zj2hf.jpg",
-      "description": "This Is Your Life is an American television documentary series broadcast on NBC, originally hosted by its producer, Ralph Edwards from 1952 to 1961. In the show, the host surprises a guest, and proceeds to take them through their life in front of an audience, including special guest appearances by colleagues, friends and family.\n\nEdwards revived the show in 1971-72, while Joseph Campanella hosted a version in 1983. Edwards returned for some specials in the late 1980s, before his death in 2005. The show originated as a radio show on NBC Radio airing from 1948 to 1952.",
-      "releaseInfo": "1952",
-      "imdbRating": "6.9"
-    },
-    {
-      "id": "tt19238142",
-      "type": "series",
-      "name": "Edge of the Unknown with Jimmy Chin",
-      "poster": "https://image.tmdb.org/t/p/w500/27QNTBhICUHRLc1O3D47rhaTdmH.jpg",
-      "description": "Take a look inside the minds of elite adventure athletes through transformative stories about facing fear, personal loss, and Mother Nature.",
-      "releaseInfo": "2022",
-      "imdbRating": "7.7"
+      "name": "The First 48",
+      "poster": "https://image.tmdb.org/t/p/w500/i6bSut4XPepaJ5VC6oG303iGKQU.jpg",
+      "description": "The First 48 follows detectives from around the country during these first critical hours as they race against time to find the suspect. Gritty and fast-paced, it takes viewers behind the scenes of real-life investigations with unprecedented access to crime scenes, autopsies, forensic processing, and interrogations.",
+      "releaseInfo": "2004",
+      "imdbRating": "8.2"
     },
     {
       "id": "tt10324164",
@@ -860,40 +709,193 @@
       "imdbRating": "8.4"
     },
     {
-      "id": "tt2543378",
+      "id": "tt0835010",
       "type": "series",
-      "name": "Tình yêu nghề y",
-      "poster": "https://image.tmdb.org/t/p/w500/wXLEtYR7xKCiqVnfMC10jHYlhQk.jpg",
-      "description": "Kết nối nhờ y khoa, nhóm phụ nữ năng nổ – gồm các nữ bác sĩ và vợ của bác sĩ – tìm cách cân bằng sự nghiệp, trách nhiệm gia đình và đời sống xã hội hối hả.",
-      "releaseInfo": "2013",
-      "imdbRating": "6.1"
+      "name": "How It's Made",
+      "poster": "https://image.tmdb.org/t/p/w500/jO3DKZyiEWQsEE6ji7IXwobDnl8.jpg",
+      "description": "Have you ever wondered how the products you use every day are made? How It's Made leads you through the process of how everyday products, such as apple juice, skateboards, engines, contact lenses, and many more objects are manufactured.",
+      "releaseInfo": "2001",
+      "imdbRating": "7.8"
     },
     {
-      "id": "tt14489308",
+      "id": "tt0163503",
       "type": "series",
-      "name": "The 1619 Project",
-      "poster": "https://image.tmdb.org/t/p/w500/5sNYUV5l130HIryGj4RdhzDtn7A.jpg",
-      "description": "In keeping with the original project, this series seeks to reframe the country's history by placing the consequences of slavery and the contributions of black Americans at the very center of our national narrative.",
+      "name": "Top Gear",
+      "poster": "https://image.tmdb.org/t/p/w500/7P7vi7RIn5qthQAZrOBIu8zA3pg.jpg",
+      "description": "Motoring programme featuring reviews of and reports about cars of all types.",
+      "releaseInfo": "1978",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt15482680",
+      "type": "series",
+      "name": "Superpowered: The DC Story",
+      "poster": "https://image.tmdb.org/t/p/w500/2MKY8LIUIXPNUHIWneadd5dqPXF.jpg",
+      "description": "This docuseries takes an unprecedented look at the enduring and influential legacy of DC, allowing fans to rediscover the universe of characters, as well as the iconic comic book company’s origins, its evolution and its nearly nine-decade cultural impact across every artistic medium.",
       "releaseInfo": "2023",
-      "imdbRating": "4.8"
+      "imdbRating": "7.2"
     },
     {
-      "id": "tt0790397",
+      "id": "tt9016022",
       "type": "series",
-      "name": "Where Are They Now?",
-      "poster": "https://images.metahub.space/poster/small/tt0790397/img",
-      "description": "Where Are They Now? was a television series on VH1 that featured past celebrities and updated on their current professional and personal status. Each episode was dedicated to another genre.\n\nThough not always in sequence, some episodes were a continuation of the motif of episodes from the past. Those episodes sometimes had Roman numerals in their title to signify their sequel status.",
-      "releaseInfo": "1999",
+      "name": "Basketball: A Love Story",
+      "poster": "https://image.tmdb.org/t/p/w500/7At8dfNNXs9hnx2ZgTRyGMlwcA1.jpg",
+      "description": "'Basketball: A Love Story' is a series of 62 interconnected short stories that creates a vibrant mosaic of the game, featuring 165 exclusive interviews. The cast encompasses basketball's most prominent figures and explores the complex nature of love as it relates to the game.",
+      "releaseInfo": "2018",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt0094415",
+      "type": "series",
+      "name": "America's Most Wanted",
+      "poster": "https://image.tmdb.org/t/p/w500/7ICJgQPSkf7ppVBD15teVuEL9iD.jpg",
+      "description": "Presented by Walsh, the show profiles and assist law enforcement in the apprehension of fugitives wanted for numerous crimes, including murder, rape, kidnapping, child molestation, white-collar crime, organized crime, armed robbery, gang violence, and terrorism, and also many of whom are currently on the FBI Ten Most Wanted Fugitives list.",
+      "releaseInfo": "1988",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt0324679",
+      "type": "series",
+      "name": "Fifth Gear",
+      "poster": "https://image.tmdb.org/t/p/w500/yAxMzWGCuQI1adyPOGNefZHLOIy.jpg",
+      "description": "Getting viewers up to speed on all the latest automotive information, with new car reviews, second hand bargains and industry tidbits being the focus of this magazine show.",
+      "releaseInfo": "2002",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt5489746",
+      "type": "series",
+      "name": "Evil Lives Here",
+      "poster": "https://image.tmdb.org/t/p/w500/tL5jRxrflh2et3whDxyXgRHEnGJ.jpg",
+      "description": "The true stories of people who lived with a killer. How well do you really know your family? Would you recognize the warning signs? Or would you become entangled in evil?",
+      "releaseInfo": "2016",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt1538145",
+      "type": "series",
+      "name": "Pit Bulls and Parolees",
+      "poster": "https://image.tmdb.org/t/p/w500/lrgRiVK3GH0jxQLmUXrWIjFA9Jc.jpg",
+      "description": "Follow Tia Torres, founder of Villalobos Rescue Center, and her family as they rehabilitate both felons and ill-reputed pit bulls who come together to rescue one another from their dim pasts, and bring new meaning to life.",
+      "releaseInfo": "2009",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt1832668",
+      "type": "series",
+      "name": "How the Universe Works",
+      "poster": "https://image.tmdb.org/t/p/w500/t87KvAQEvt5FvEV2FA4rXvnrC2m.jpg",
+      "description": "A users' guide to the cosmos, from the Big Bang to galaxies, stars, planets and moons: where did it all come from and how does it all fit together? A primer for anyone who has ever looked up at the night sky and wondered.",
+      "releaseInfo": "2010",
+      "imdbRating": "8.9"
+    },
+    {
+      "id": "tt10681222",
+      "type": "series",
+      "name": "Những bộ phim lớn lên cùng chúng ta",
+      "poster": "https://image.tmdb.org/t/p/w500/l7p40cVratmPTdWrx4UFjZbANKF.jpg",
+      "description": "Những bộ phim bom tấn này đưa ta đến với nhau, cho ta những khoảnh khắc tuyệt vời. Hãy gặp gỡ các diễn viên, đạo diễn và người trong ngành đã làm nên những bộ phim này.",
+      "releaseInfo": "2019",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt2845786",
+      "type": "series",
+      "name": "Anthony Bourdain: Những Gốc Khuất",
+      "poster": "https://image.tmdb.org/t/p/w500/qg7lcydNf8DBVFIFK3XEuccv1jf.jpg",
+      "description": "Bourdain đi khắp thế giới để khám phá các khu vực ít được biết đến trên thế giới và tôn vinh các nền văn hóa đa dạng bằng cách khám phá ẩm thực và các nghi lễ ăn uống. Nổi tiếng với sự tò mò, ham hiểu biết và thông minh nhạy bén, Bourdain đưa người xem ra khỏi con đường đông đúc của các địa điểm du lịch - bao gồm một số nơi  bị chiến tranh tàn phá trên thế giới - và gặp gỡ với nhiều công dân địa phương khác nhau để tìm hiểu lối sống của họ và đôi khi giao lưu với một đầu bếp được quốc tế đánh giá cao trong các chuyến hành trình của ông ấy.",
+      "releaseInfo": "2013",
+      "imdbRating": "8.9"
+    },
+    {
+      "id": "tt9253866",
+      "type": "series",
+      "name": "Hành tinh của chúng ta",
+      "poster": "https://image.tmdb.org/t/p/w500/wRSnArnQBmeUYb5GWDU595bGsBr.jpg",
+      "description": "Loạt phim tài liệu đầy tham vọng với phạm vi ấn tượng đưa ta trải nghiệm vẻ đẹp tự nhiên của Trái đất và nghiên cứu cách khí hậu thay đổi tác động lên mọi sinh vật sống.",
+      "releaseInfo": "2019",
+      "imdbRating": "9.2"
+    },
+    {
+      "id": "tt0173528",
+      "type": "series",
+      "name": "Bill Nye the Science Guy",
+      "poster": "https://image.tmdb.org/t/p/w500/xdGGiQ8gBEwjyafLxW34IK8sblZ.jpg",
+      "description": "It's \"Mr. Wizard\" for a different decade. Bill Nye is the Science Guy, a host who's hooked on experimenting and explaining. Picking one topic per show (like the human heart or electricity), Nye gets creative with teaching kids and adults alike the nuances of science.",
+      "releaseInfo": "1993",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt36614693",
+      "type": "series",
+      "name": "WWE: Hậu Trường",
+      "poster": "https://image.tmdb.org/t/p/w500/fe6XV69u32zacyCuGOYxr5pAT8z.jpg",
+      "description": "Từ Monday Night RAW đến WrestleMania, loạt phim này đưa bạn vào hậu trường cùng các Siêu sao và đội ngũ nhân viên của WWE khi họ tạo nên những sự kiện hoành tráng nhất của công ty.",
+      "releaseInfo": "2025",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt0271894",
+      "type": "series",
+      "name": "48 Hours",
+      "poster": "https://image.tmdb.org/t/p/w500/kniPe4BLIcj2WnErZcFeHo50q6B.jpg",
+      "description": "This newsmagazine series investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening — and resolution — of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart.",
+      "releaseInfo": "1988",
       "imdbRating": "7.6"
     },
     {
-      "id": "tt14094206",
+      "id": "tt6233538",
       "type": "series",
-      "name": "Marvel Studios Assembled",
-      "poster": "https://image.tmdb.org/t/p/w500/v2BHRwtQVkt5fssLdo5MpFgHJPY.jpg",
-      "description": "Go behind the scenes of the shows and movies of the Marvel Cinematic Universe, following the filmmakers, cast and crew, and Marvel heroes every step of the way.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.8"
+      "name": "Đế Chế La Mã",
+      "poster": "https://image.tmdb.org/t/p/w500/uzgEzk9wve2O0uDPMy68SDLkjTl.jpg",
+      "description": "Sự kết hợp đặc sắc giữa thể loại phim tài liệu và sử thi xa hoa thuật lại triều đại Commodus, Julius Caesar và Caligula đầy hỗn loạn, bạo lực.",
+      "releaseInfo": "2016",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt0247882",
+      "type": "series",
+      "name": "Forensic Files",
+      "poster": "https://image.tmdb.org/t/p/w500/k7zrsnodHEe3UUdwHG207rjdbrB.jpg",
+      "description": "Real crimes, disease outbreaks and accidents around the world are solved by experts using scientific laboratory analysis which helps them find previously undetectable evidence. Brilliant scientific work helps convict the guilty and free the innocent.",
+      "releaseInfo": "1996",
+      "imdbRating": "8.8"
+    },
+    {
+      "id": "tt0200325",
+      "type": "series",
+      "name": "Antiques Roadshow",
+      "poster": "https://image.tmdb.org/t/p/w500/dvMcQd0JKyHCORvDaQRmxIbyqZq.jpg",
+      "description": "Antiques Roadshow is a British television show in which antiques appraisers travel to various regions of the United Kingdom to appraise antiques brought in by local people. It has been running since 1979. There are also international versions of the programme.",
+      "releaseInfo": "1979",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt0044296",
+      "type": "series",
+      "name": "This Is Your Life",
+      "poster": "https://image.tmdb.org/t/p/w500/ot1iWBTekpduO2q6TFto7zj2hf.jpg",
+      "description": "This Is Your Life is an American television documentary series broadcast on NBC, originally hosted by its producer, Ralph Edwards from 1952 to 1961. In the show, the host surprises a guest, and proceeds to take them through their life in front of an audience, including special guest appearances by colleagues, friends and family.\n\nEdwards revived the show in 1971-72, while Joseph Campanella hosted a version in 1983. Edwards returned for some specials in the late 1980s, before his death in 2005. The show originated as a radio show on NBC Radio airing from 1948 to 1952.",
+      "releaseInfo": "1952",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt0783864",
+      "type": "series",
+      "name": "Modern Times",
+      "poster": "https://image.tmdb.org/t/p/w500/gX59YyJJEJbfcExrHbkYna54qBA.jpg",
+      "description": "Documentaries showing faces and places that make up the way we live today.",
+      "releaseInfo": "1995",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt1051155",
+      "type": "series",
+      "name": "The Universe",
+      "poster": "https://image.tmdb.org/t/p/w500/wbtVDGQbzvNSbAqXIVE1X7BUtq2.jpg",
+      "description": "From the planets to the stars and out to the edge of the unknown, history and science collide in a wondrous yet deadly adventure through space and time.",
+      "releaseInfo": "2007",
+      "imdbRating": "8.6"
     }
   ]
 }

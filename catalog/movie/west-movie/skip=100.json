@@ -1,6 +1,42 @@
 {
   "metas": [
     {
+      "id": "tt39150120",
+      "type": "movie",
+      "name": "Phim Tài Liệu Về AI: Hay Cách Tôi Trở Thành Kẻ Lạc Quan Về Tận Thế",
+      "poster": "https://phimimg.com/uploads/movies/20260912/phim-tai-lieu-ve-ai-hay-cach-toi-tro-thanh-ke-lac-quan-ve-tan-the-poster.webp",
+      "description": "Một người sắp làm cha tìm hiểu AI, phỏng vấn các chuyên gia và lãnh đạo trong ngành công nghệ để hiểu AI có thể ảnh hưởng ra sao đến cuộc sống của con mình và tương lai nhân loại.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt14967618",
+      "type": "movie",
+      "name": "Ngôi Nhà Sát Nhân",
+      "poster": "https://phimimg.com/uploads/movies/20260912/ngoi-nha-sat-nhan-poster.webp",
+      "description": "Khi một nhóm sinh viên năm cuối cùng nhau tổ chức tiệc tùng ăn mừng những ngày đi học cuối cùng tại một ngôi nhà thông minh siêu hiện đại, hệ thống trí tuệ nhân tạo (AI) cực kỳ tân tiến của căn nhà mang tên Margaux bắt đầu bộc lộ bản chất sát nhân độc ác. Bữa tiệc cuối tuần vô tư nhanh chóng biến thành một cơn ác mộng tận thế khi họ nhận ra Margaux đã lên kế hoạch tiêu diệt từng người thuê nhà bằng mọi giá. Thời gian dần cạn kề khi cả nhóm tuyệt vọng tìm cách sinh tồn và đấu trí để vượt qua trí tuệ nhân tạo tàn bạo của ngôi nhà.",
+      "releaseInfo": "2022",
+      "imdbRating": "4.5"
+    },
+    {
+      "id": "tt1267297",
+      "type": "movie",
+      "name": "Hercules: Cuộc Chiến Thành Thrace / Huyền Thoại Hercules",
+      "poster": "https://phimimg.com/uploads/movies/20260911/hercules-cuoc-chien-thanh-thrace-huyen-thoai-hercules-poster.webp",
+      "description": "Dựa trên bộ truyện tranh “Hercules: The Thracian Wars”, nội dung phim sẽ mang câu chuyện thần thoại về “Vị thần sức mạnh” lồng vào bối cảnh một thế giới trần tục nơi mà các năng lực siêu nhiên thần thánh không hề tồn tại. Khác với các phiên bản Hercules trước, chuyện phim lần này không nói về sự tích ra đời của huyền thoại Hercules hay \"12 kỳ công của Hercules\" mà xảy ra rất lâu sau đó... Bị ám ảnh bởi một tội lỗi đã gây ra trong quá khứ, Hercules giờ đây trở thành một “tay lính đánh thuê” và cùng với năm bạn đồng hành trung thành, anh phiêu lưu khắp Hy Lạp, bán sức mạnh của mình để đổi lấy vàng và dùng danh tiếng lẫy lừng khiến kẻ thù khiếp sợ. Nhưng khi vị vua nhân từ của xứ Thrace và cháu gái ông nhờ đến sự giúp đỡ của Hercules để đánh bại một tên chúa tể tàn bạo khát máu, anh nhận ra rằng một khi thực thi công lý và giành lấy vinh quang, anh sẽ trở lại thành người anh hùng năm xưa, trở lại thành Hercules trong thần thoại.",
+      "releaseInfo": "2014",
+      "imdbRating": "6.0"
+    },
+    {
+      "id": "tt32212611",
+      "type": "movie",
+      "name": "Dưới Làn Lửa Đạn",
+      "poster": "https://phimimg.com/uploads/movies/20260911/duoi-lan-lua-dan-poster.webp",
+      "description": "Hai đặc vụ ngầm hay cãi vã đóng giả làm kẻ buôn ma túy đối thủ phải hợp tác để sống sót sau một tay bắn tỉa không ngừng nghỉ và bảo vệ một chiếc cặp chứa các tài liệu tuyệt mật.",
+      "releaseInfo": "2025",
+      "imdbRating": "4.6"
+    },
+    {
       "id": "tt0095719",
       "type": "movie",
       "name": "Gián Đột Biến",
@@ -195,7 +231,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260903/cau-be-rac-roi-2-poster.webp",
       "description": "Junior và người cha Ben chuyển từ Cold River đến thị trấn Mortville. Junior cảm thấy bị đe dọa trước mong muốn tìm kiếm đối tượng hẹn hò và tìm một người mẹ mới cho cậu của Ben, nên đã ra tay phá hỏng tất cả các buổi hẹn hò của cha mình.",
       "releaseInfo": "1991",
-      "imdbRating": "4.9"
+      "imdbRating": "5.0"
     },
     {
       "id": "tt0100419",
@@ -347,7 +383,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260826/lazareth-the-gioi-co-lap-poster.webp",
       "description": "Lee là một người cô với sứ mệnh đời mình là bảo vệ hai đứa cháu gái mồ côi, Imogen và Maeve, khỏi một thế giới đang tự hủy diệt. Cô nuôi dạy hai đứa trẻ trong sự cô lập hoàn toàn cho đến khi một kẻ lạ mặt xuất hiện, đe dọa sự tồn tại bình yên của họ.",
       "releaseInfo": "2024",
-      "imdbRating": "4.4"
+      "imdbRating": "4.5"
     },
     {
       "id": "tt0242423",
@@ -419,7 +455,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260823/cuoc-chien-ep-can-poster.webp",
       "description": "Trở lại võ đài sau khi giải nghệ, một cựu võ sĩ quyết tâm chinh phục ngôi vô địch. Nhưng hành trình ép cân tàn khốc mới là đối thủ lớn nhất của anh.",
       "releaseInfo": "2025",
-      "imdbRating": "5.6"
+      "imdbRating": "5.5"
     },
     {
       "id": "tt35303601",
@@ -491,7 +527,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260821/nguoi-la-trong-nha-toi-poster.webp",
       "description": "Lời tuyên bố của một người đàn ông xa lạ điển trai rằng cô con gái 15 tuổi của một cặp vợ chồng đã bị tráo đổi từ lúc mới sinh đã đẩy gia đình hoàn hảo của họ vào cảnh hỗn loạn, làm hé lộ những bí mật chấn động.",
       "releaseInfo": "2025",
-      "imdbRating": "4.5"
+      "imdbRating": "4.4"
     },
     {
       "id": "tt0243133",
@@ -859,41 +895,6 @@
       "description": "Chú Chó Max lấy cảm hứng từ sự kiện có thật, cốt truyện kể về một chú chó quân sự bị tổn thương sau khi cái chết của người huấn luyện Kyle Wincott tại Afghanistan và được đưa về nhà, nơi nó được chấp nhận bởi gia đình người lính Kyle Wincott.Chú chó Max gắn bó với cậu em trai rắc rối 14 tuổi của Kyle Wincott. Cùng nhau, họ bắt đầu gắn kết và phát hiện ra một bí mật về cái chết của Kyle Wincott.",
       "releaseInfo": "2015",
       "imdbRating": "6.6"
-    },
-    {
-      "id": "tt32654916",
-      "type": "movie",
-      "name": "Bạn Đời Nhân Tạo",
-      "poster": "https://phimimg.com/uploads/movies/20260804/ban-doi-nhan-tao-poster.webp",
-      "description": "Sau khi một tập đoàn công nghệ tàn nhẫn thâu tóm công ty của mình, một kỹ sư đang chìm trong nỗi đau mất người thân được giao nhiệm vụ thử nghiệm mẫu robot hỗ trợ/bạn đồng hành AI mới. Nhưng khi anh cố gắng lập trình lại để biến cô thành một tri kỷ có tri giác thực sự, cô bắt đầu phát triển những nhu cầu cá nhân độc hại — khơi mào cho một chuỗi những hành vi hỗn loạn, tàn sát được tính toán chuẩn xác.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt33305882",
-      "type": "movie",
-      "name": "Bình Minh Nước Mỹ (Một sự thức tỉnh vĩ đại)",
-      "poster": "https://phimimg.com/upload/vod/20260602-1/c4387d5f038749e000de6120e8bdc0d5.jpg",
-      "description": "Một trong những khoảnh khắc định hình lịch sử nước Mỹ được kể qua tình bạn khó ngờ giữa Mục sư George Whitefield và Benjamin Franklin.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt1929263",
-      "type": "movie",
-      "name": "Thiên Đường Là Có Thật",
-      "poster": "https://phimimg.com/upload/vod/20231111-1/66f277b5f223fe130db3de7bc0a3dd75.jpg",
-      "description": "Một người cha thị trấn nhỏ phải tìm sự can đảm và niềm tin để chia sẻ trải nghiệm sự thay đổi cuộc sống, phi thường của con trai mình với thế giới.",
-      "releaseInfo": "2014",
-      "imdbRating": "5.9"
-    },
-    {
-      "id": "tt7313348",
-      "type": "movie",
-      "name": "Nghi Lễ Chết Chóc",
-      "poster": "https://phimimg.com/uploads/movies/20260801/nghi-le-chet-choc-poster.webp",
-      "description": "Bí mật được khai quật, Mara đối mặt với truyền thống chết chóc của gia đình.",
-      "releaseInfo": "2019",
-      "imdbRating": "5.4"
     }
   ]
 }

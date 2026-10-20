@@ -1,13 +1,48 @@
 {
   "metas": [
     {
+      "id": "tt22526100",
+      "type": "movie",
+      "name": "Giả Thuyết Tình Yêu",
+      "poster": "https://phimimg.com/uploads/movies/20261019/gia-thuyet-tinh-yeu-poster.webp",
+      "description": "Olive Smith, một nghiên cứu sinh tiến sĩ ngành sinh học, cùng Tiến sĩ Adam Carlsen — một giáo sư tài năng nhưng nổi tiếng là vị \"bạo quân\" gắt gao — cùng nhau bước vào một mối quan hệ giả tạo. Để rồi từ đây, cả hai đành bất lực nhìn những lý thuyết về tình yêu được tính toán kỹ lưỡng của mình hoàn toàn bị đảo lộn trong hỗn loạn.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt6262770",
+      "type": "movie",
+      "name": "Tenzing: Vươn Tới Đỉnh Everest",
+      "poster": "https://phimimg.com/uploads/movies/20261019/tenzing-vuon-toi-dinh-everest-poster.webp",
+      "description": "Một người đàn ông quyết chí dấn thân vào một sứ mệnh rủi ro—và vượt qua những khó khăn không tưởng để hoàn thành ước mơ trở thành người đầu tiên lên đỉnh Everest.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt29630464",
+      "type": "movie",
+      "name": "Đừng Di Chuyển",
+      "poster": "https://phimimg.com/uploads/movies/20261019/dung-di-chuyen-poster.webp",
+      "description": "Sâu trong khu rừng rậm rạp được bao phủ bởi một mê cung tơ nhện, cả nhóm bị săn đuổi bởi một loài nhện tiền sử đáng sợ — sinh vật săn mồi dựa vào độ rung cảm. Khi mỗi bước đi đều có thể là bước đi cuối cùng, họ chỉ có duy nhất một lựa chọn: Đứng yên. Mọi hy vọng giờ đây đè nặng lên vai Megan để kết nối những người còn sống sót và dẫn dắt họ thoát khỏi vùng đất chết.",
+      "releaseInfo": "2026",
+      "imdbRating": "4.6"
+    },
+    {
+      "id": "tt37281055",
+      "type": "movie",
+      "name": "Buddy",
+      "poster": "https://phimimg.com/uploads/movies/20261019/buddy-poster.webp",
+      "description": "Một kỳ lân màu cam kỳ diệu, biết hát đang bắt giữ dàn diễn viên của mình làm con tin trong một chiều không gian chương trình truyền hình siêu thực, khi hắn ngày càng trở nên điên loạn và quái đản hơn.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1"
+    },
+    {
       "id": "tt43739386",
       "type": "movie",
       "name": "V/H/S/Mixtape",
       "poster": "https://phimimg.com/uploads/movies/20261018/v-h-s-mixtape-poster.webp",
       "description": "Một tuyển tập kinh dị hỗn loạn theo phong cách băng VHS, nơi những đoạn phim kỳ quái, ghê rợn và đôi khi đen tối đến mức hài hước nối tiếp nhau như một cuộn băng bị nguyền rủa. Mỗi câu chuyện mở ra một cơn ác mộng khác, nhưng tất cả đều mang chung cảm giác méo mó, bẩn thỉu và không thể đoán trước.",
       "releaseInfo": "2026",
-      "imdbRating": "6.7"
+      "imdbRating": "4.3"
     },
     {
       "id": "tt32268691",
@@ -42,7 +77,7 @@
       "poster": "https://phimimg.com/uploads/movies/20261015/lam-tien-nhieu-toi-poster.webp",
       "description": "Để gây ấn tượng với một cô gái, một tay lừa đảo xin vào làm tại công ty thẻ tín dụng – nơi cơ hội làm giàu nhanh chóng trở nên khó cưỡng lại.",
       "releaseInfo": "1992",
-      "imdbRating": "5.5"
+      "imdbRating": "5.6"
     },
     {
       "id": "tt0139239",
@@ -425,7 +460,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260923/chuyen-xe-ruot-duoi-poster.webp",
       "description": "Theo chân Jason — một cựu quân nhân đang thất sủng và vật lộn với chứng nghiện ngập. Trong một lần nhận chở khách qua ứng dụng rideshare, anh vô tình phát hiện ra nữ hành khách mà mình đang chở thực chất đang bị giam cầm và buôn bán bởi một đường dây tội phạm tàn ác.",
       "releaseInfo": "2026",
-      "imdbRating": "4.2"
+      "imdbRating": "5.2"
     },
     {
       "id": "tt9601292",
@@ -460,7 +495,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260922/chat-poster.webp",
       "description": "Khởi đầu mới của một gia đình tại ngôi nhà mới bỗng chốc sụp đổ khi đứa con trai của họ phát hiện ra một chiếc máy tính bảng tích hợp công nghệ trí tuệ nhân tạo (AI). Chiếc máy đã giải phóng một làn sóng kinh hoàng không chỉ liên quan đến các thế lực siêu nhiên mà còn dính líu đến những bí mật đen tối về lòng tham và sự tham nhũng đang bủa vằn quanh họ.",
       "releaseInfo": "2026",
-      "imdbRating": "4.5"
+      "imdbRating": "2.9"
     },
     {
       "id": "tt0080040",
@@ -855,42 +890,6 @@
       "description": "Khi người cha qua đời để lại cô trong cảnh mồ côi và vô gia cư, cô bé 13 tuổi Maria Merryweather buộc phải rời bỏ cuộc sống thượng lưu xa hoa ở London để đến sống cùng Sir Benjamin — người chú kỳ quặc mà cô chưa từng biết mặt — tại trang dinh Moonacre đầy bí ẩn.",
       "releaseInfo": "2009",
       "imdbRating": "6.1"
-    },
-    {
-      "id": "tt39150120",
-      "type": "movie",
-      "name": "Phim Tài Liệu Về AI: Hay Cách Tôi Trở Thành Kẻ Lạc Quan Về Tận Thế",
-      "poster": "https://phimimg.com/uploads/movies/20260912/phim-tai-lieu-ve-ai-hay-cach-toi-tro-thanh-ke-lac-quan-ve-tan-the-poster.webp",
-      "description": "Một người sắp làm cha tìm hiểu AI, phỏng vấn các chuyên gia và lãnh đạo trong ngành công nghệ để hiểu AI có thể ảnh hưởng ra sao đến cuộc sống của con mình và tương lai nhân loại.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt14967618",
-      "type": "movie",
-      "name": "Ngôi Nhà Sát Nhân",
-      "poster": "https://phimimg.com/uploads/movies/20260912/ngoi-nha-sat-nhan-poster.webp",
-      "description": "Khi một nhóm sinh viên năm cuối cùng nhau tổ chức tiệc tùng ăn mừng những ngày đi học cuối cùng tại một ngôi nhà thông minh siêu hiện đại, hệ thống trí tuệ nhân tạo (AI) cực kỳ tân tiến của căn nhà mang tên Margaux bắt đầu bộc lộ bản chất sát nhân độc ác. Bữa tiệc cuối tuần vô tư nhanh chóng biến thành một cơn ác mộng tận thế khi họ nhận ra Margaux đã lên kế hoạch tiêu diệt từng người thuê nhà bằng mọi giá. Thời gian dần cạn kề khi cả nhóm tuyệt vọng tìm cách sinh tồn và đấu trí để vượt qua trí tuệ nhân tạo tàn bạo của ngôi nhà.",
-      "releaseInfo": "2022",
-      "imdbRating": "4.5"
-    },
-    {
-      "id": "tt1267297",
-      "type": "movie",
-      "name": "Hercules: Cuộc Chiến Thành Thrace / Huyền Thoại Hercules",
-      "poster": "https://phimimg.com/uploads/movies/20260911/hercules-cuoc-chien-thanh-thrace-huyen-thoai-hercules-poster.webp",
-      "description": "Dựa trên bộ truyện tranh “Hercules: The Thracian Wars”, nội dung phim sẽ mang câu chuyện thần thoại về “Vị thần sức mạnh” lồng vào bối cảnh một thế giới trần tục nơi mà các năng lực siêu nhiên thần thánh không hề tồn tại. Khác với các phiên bản Hercules trước, chuyện phim lần này không nói về sự tích ra đời của huyền thoại Hercules hay \"12 kỳ công của Hercules\" mà xảy ra rất lâu sau đó... Bị ám ảnh bởi một tội lỗi đã gây ra trong quá khứ, Hercules giờ đây trở thành một “tay lính đánh thuê” và cùng với năm bạn đồng hành trung thành, anh phiêu lưu khắp Hy Lạp, bán sức mạnh của mình để đổi lấy vàng và dùng danh tiếng lẫy lừng khiến kẻ thù khiếp sợ. Nhưng khi vị vua nhân từ của xứ Thrace và cháu gái ông nhờ đến sự giúp đỡ của Hercules để đánh bại một tên chúa tể tàn bạo khát máu, anh nhận ra rằng một khi thực thi công lý và giành lấy vinh quang, anh sẽ trở lại thành người anh hùng năm xưa, trở lại thành Hercules trong thần thoại.",
-      "releaseInfo": "2014",
-      "imdbRating": "6.0"
-    },
-    {
-      "id": "tt32212611",
-      "type": "movie",
-      "name": "Dưới Làn Lửa Đạn",
-      "poster": "https://phimimg.com/uploads/movies/20260911/duoi-lan-lua-dan-poster.webp",
-      "description": "Hai đặc vụ ngầm hay cãi vã đóng giả làm kẻ buôn ma túy đối thủ phải hợp tác để sống sót sau một tay bắn tỉa không ngừng nghỉ và bảo vệ một chiếc cặp chứa các tài liệu tuyệt mật.",
-      "releaseInfo": "2025",
-      "imdbRating": "4.7"
     }
   ]
 }
