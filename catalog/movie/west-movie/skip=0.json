@@ -1,6 +1,33 @@
 {
   "metas": [
     {
+      "id": "tt6852672",
+      "type": "movie",
+      "name": "Tiếng Nói Sợ Hãi",
+      "poster": "https://phimimg.com/uploads/movies/20261021/tieng-noi-so-hai-poster.webp",
+      "description": "Nữ giám đốc Violet Morton luôn bị một giọng nói trong đầu chỉ trích và khiến cô luôn sống sợ hãi. Không thể để nó mãi cản bước mình, cô quyết tâm sống thật để tìm lại tự do.",
+      "releaseInfo": "2021",
+      "imdbRating": "6.0"
+    },
+    {
+      "id": "tt1145144",
+      "type": "movie",
+      "name": "Sân Khấu Đam Mê 2",
+      "poster": "https://phimimg.com/uploads/movies/20261021/san-khau-dam-me-2-poster.webp",
+      "description": "Sau khi bị một học viện ba lê danh tiếng từ chối, một nữ vũ công tự học bắt đầu nghi ngờ liệu mình có đủ tố chất để thành công hay không.",
+      "releaseInfo": "2008",
+      "imdbRating": "6.0"
+    },
+    {
+      "id": "tt6852872",
+      "type": "movie",
+      "name": "Chân Dài Và Ác Quỷ",
+      "poster": "https://phimimg.com/uploads/movies/20261021/chan-dai-va-ac-quy-poster.webp",
+      "description": "Sau khi cưới tỷ phú Henry, Elizabeth được sống ở biệt thự xa hoa và điều cấm kỵ duy nhất là đừng bước vào một căn phòng. Vì tò mò, cô đã lẻn vào đó để rồi kinh hoàng phát hiện sự thật về chính mình.",
+      "releaseInfo": "2018",
+      "imdbRating": "5.8"
+    },
+    {
       "id": "tt22526100",
       "type": "movie",
       "name": "Giả Thuyết Tình Yêu",
@@ -24,7 +51,7 @@
       "poster": "https://phimimg.com/uploads/movies/20261019/dung-di-chuyen-poster.webp",
       "description": "Sâu trong khu rừng rậm rạp được bao phủ bởi một mê cung tơ nhện, cả nhóm bị săn đuổi bởi một loài nhện tiền sử đáng sợ — sinh vật săn mồi dựa vào độ rung cảm. Khi mỗi bước đi đều có thể là bước đi cuối cùng, họ chỉ có duy nhất một lựa chọn: Đứng yên. Mọi hy vọng giờ đây đè nặng lên vai Megan để kết nối những người còn sống sót và dẫn dắt họ thoát khỏi vùng đất chết.",
       "releaseInfo": "2026",
-      "imdbRating": "4.6"
+      "imdbRating": "6.7"
     },
     {
       "id": "tt37281055",
@@ -861,33 +888,6 @@
       "name": "Trò Chơi Hai Mặt",
       "poster": "https://phimimg.com/uploads/movies/20260913/tro-choi-hai-mat-poster.webp",
       "description": "Một cặp đôi nhân viên công ty – vốn đang có quan hệ tình cảm với nhau – vướng vào cuộc cạnh tranh khốc liệt giữa hai tập đoàn dược phẩm khổng lồ.",
-      "releaseInfo": "2009",
-      "imdbRating": "6.1"
-    },
-    {
-      "id": "tt2637276",
-      "type": "movie",
-      "name": "Chú Gấu Ted 2",
-      "poster": "https://phimimg.com/upload/vod/20250712-1/8cd0164a105071abb4aa7ff0d2f05203.jpg",
-      "description": "Chú Gấu Ted 2 kể về một cậu bé tên John đã ước một điều ước vào sinh nhật 6 tuổi của mình rằng chú gấu bông Ted của mình có thể nói chuyện và đi lại như con người, và điều ước đã thành hiện thực tên tuổi của John và Ted nổi tiếng khắp Thế Giới, đến khi John trưởng thành Ted cảm thấy mình dần dần xa lạ với John vì sư xuất hiện của bạn gái anh, thế nhưng đó vẫn không thể thay thế được tình bạn lâu năm của cả hai người. Tiếp theo phần 2 của bộ phim này John và Ted sẽ có một cuộc phiêu lưu đầy mới mẻ sau khi thoát khỏi tai họa của một người bố vì thương con nên đã bắt cóc Ted và gây ra cho anh cái kết không mấy đẹp đẽ. John kết hôn với bạn gái của mình và họ sinh con, một gia đình tốt đẹp và Ted sẽ phải làm thế nào chứng tỏ chổ đứng của mình trong đó?",
-      "releaseInfo": "2015",
-      "imdbRating": "6.3"
-    },
-    {
-      "id": "tt1637725",
-      "type": "movie",
-      "name": "Chú Gấu Ted",
-      "poster": "https://phimimg.com/upload/vod/20250712-1/465f6b0a9566b150ee525642805a4d2d.jpg",
-      "description": "Trong đêm Giáng sinh chú bé John đã ước Ted có thể cử động và nói chuyện được, thật bất ngờ điều ước trở thành hiện thực. Cuộc sống của John đã hoàn toàn thay đổi từ đó những rắc rối xuất hiện khi John ở tuổi “Băm” lăm. Ted không đơn giản chỉ là câu chuyện của cậu bé và con gấu bông mà chứa đựng trong những điều giản đơn đó là những thông điệp ý nghĩa từ cuộc sống mà tác giả muốn nhắn nhủ, qua bộ phim người xem sẽ rút ra cho chính mình. Ted thực sự là bộ phim hài hước kiểu người lớn rất đáng xem.",
-      "releaseInfo": "2012",
-      "imdbRating": "6.9"
-    },
-    {
-      "id": "tt0396707",
-      "type": "movie",
-      "name": "Bí Ẩn Cung Trăng / Bí Mật Thung Lũng Moonacre",
-      "poster": "https://phimimg.com/uploads/movies/20260912/bi-an-cung-trang-poster.webp",
-      "description": "Khi người cha qua đời để lại cô trong cảnh mồ côi và vô gia cư, cô bé 13 tuổi Maria Merryweather buộc phải rời bỏ cuộc sống thượng lưu xa hoa ở London để đến sống cùng Sir Benjamin — người chú kỳ quặc mà cô chưa từng biết mặt — tại trang dinh Moonacre đầy bí ẩn.",
       "releaseInfo": "2009",
       "imdbRating": "6.1"
     }
