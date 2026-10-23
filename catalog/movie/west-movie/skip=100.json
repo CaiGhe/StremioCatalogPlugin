@@ -1,6 +1,33 @@
 {
   "metas": [
     {
+      "id": "tt0037913",
+      "type": "movie",
+      "name": "Thời Kỳ Đại Suy Thoái",
+      "poster": "https://phimimg.com/uploads/movies/20260914/thoi-ky-dai-suy-thoai-poster.webp",
+      "description": "Vật lộn với cuộc sống khó khăn trong Thời Kỳ Đại Suy Thoái, người phụ nữ đã ly hôn một lần - Mildred (tài tử Joan Crawford) không biết làm thế nào để thỏa mãn tham vọng thăng tiến của cô con gái ngoài cách kết hôn với một người đàn ông chơi bời nhưng có thế lực với hy vọng có thể đổi đời cho cả hai mẹ con. Đáng tiếc, cô con gái của Mildred Pierce vì bị ám ảnh bởi danh vọng đã tán tỉnh cả bố dượng. Một chuyện phim như vậy trong thời đại ngày nay sẽ không gây tranh luận gì to tát nhưng ngày đó, cuốn tiểu thuyết của tác giả James M. Cain đã bị cấm phát hành tại thành phố Boston, Mỹ và đương nhiên bộ phim chuyển thể từ cuốn tiểu thuyết cũng bị cấm.",
+      "releaseInfo": "1945",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt10954718",
+      "type": "movie",
+      "name": "Siêu Cảnh Khuyển",
+      "poster": "https://phimimg.com/upload/vod/20250512-1/8fc7e83b01f3513e1a4221f1209377ac.jpg",
+      "description": "Câu chuyện bắt đầu khi sĩ quan cảnh sát Knight và chú chó nghiệp vụ Greg bị thương nặng trong một vụ nổ do âm mưu của mèo ác nhân Petey. Để cứu cả hai, các bác sĩ quyết định thực hiện một ca phẫu thuật ghép đôi, kết hợp đầu của Greg với thân thể của Knight, tạo nên Dog Man – một anh hùng nửa người nửa chó. Với bản năng trung thành của loài chó và trí tuệ của con người, Dog Man phải đối mặt với những kế hoạch xấu xa của Petey. Tình tiết trở nên phức tạp khi Petey tạo ra bản sao của mình, Lil Petey, nhưng Lil Petey lại hình thành mối quan hệ đặc biệt với Dog Man. Khi Lil Petey bị bắt cóc, Dog Man và Petey buộc phải hợp tác để giải cứu chú mèo con, dẫn đến những tình huống hài hước và cảm động.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt1135487",
+      "type": "movie",
+      "name": "Trò Chơi Hai Mặt",
+      "poster": "https://phimimg.com/uploads/movies/20260913/tro-choi-hai-mat-poster.webp",
+      "description": "Một cặp đôi nhân viên công ty – vốn đang có quan hệ tình cảm với nhau – vướng vào cuộc cạnh tranh khốc liệt giữa hai tập đoàn dược phẩm khổng lồ.",
+      "releaseInfo": "2009",
+      "imdbRating": "6.1"
+    },
+    {
       "id": "tt2637276",
       "type": "movie",
       "name": "Chú Gấu Ted 2",
@@ -868,33 +895,6 @@
       "description": "Những vị khách may mắn được mời đến hòn đảo trong mơ và hưởng thụ đãi ngộ xa hoa tại khu resort. Thế nhưng mọi thứ bỗng biến thành cơn ác mộng khi những vụ mất tích bí ẩn xảy ra.",
       "releaseInfo": "2020",
       "imdbRating": "4.9"
-    },
-    {
-      "id": "tt3142366",
-      "type": "movie",
-      "name": "Đưa Tôi Đến Dòng Sông",
-      "poster": "https://phimimg.com/uploads/movies/20260805/dua-toi-den-dong-song-poster.webp",
-      "description": "Một thiếu niên ngây thơ đến từ California lên kế hoạch đứng ngoài mọi rắc rối và giữ khoảng cách trong cuộc họp mặt gia đình tại Nebraska. Tuy nhiên, một cuộc gặp gỡ kỳ lạ đã vô tình đẩy cậu vào trung tâm của một bí mật gia tộc bí ẩn đã bị chôn giấu từ lâu.",
-      "releaseInfo": "2015",
-      "imdbRating": "6.2"
-    },
-    {
-      "id": "tt0054953",
-      "type": "movie",
-      "name": "Đại Pháo Thành Navarone",
-      "poster": "https://phimimg.com/uploads/movies/20260805/dai-phao-thanh-navarone-poster.webp",
-      "description": "Trong Thế chiến II, quân đội Anh mở cuộc tấn công nhằm phá hủy những khẩu pháo khổng lồ của Đức Quốc xã đang trấn giữ một tuyến đường biển trọng yếu.",
-      "releaseInfo": "1961",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt5751998",
-      "type": "movie",
-      "name": "Tội Phạm Thị Trấn Nhỏ",
-      "poster": "https://phimimg.com/uploads/movies/20260804/toi-pham-thi-tran-nho-poster.webp",
-      "description": "Một cựu cảnh sát nghiện rượu tìm thấy một người phụ nữ bên vệ đường bị bỏ mặc cho chết. Anh ta đề nghị tìm kẻ giết người miễn phí với tư cách là một thám tử tư. Ông nội của cô thuê anh ta. Mọi chuyện trở nên tồi tệ.",
-      "releaseInfo": "2018",
-      "imdbRating": "6.6"
     }
   ]
 }
