@@ -1,6 +1,24 @@
 {
   "metas": [
     {
+      "id": "tt0138510",
+      "type": "movie",
+      "name": "Bàn Tay Quỷ",
+      "poster": "https://phimimg.com/uploads/movies/20260914/ban-tay-quy-poster.webp",
+      "description": "Anton là một cậu thiếu niên 17 tuổi lười biếng, hài hước nhưng hoàn toàn không có chút tham vọng nào. Cuộc sống của cậu chỉ xoay quanh việc phê cần, xem truyền hình và thầm thương tơ tưởng Molly — cô bạn nhà bên xinh đẹp. Tuy nhiên, hóa ra câu ngạn ngữ cổ \"nhàn cư vi bất thiện\" (bàn tay rảnh rỗi là nơi quỷ dữ dạo chơi) lại ẩn chứa một phần sự thật kinh hoàng.",
+      "releaseInfo": "1999",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt37853455",
+      "type": "movie",
+      "name": "Một Đêm Duy Nhất",
+      "poster": "https://phimimg.com/uploads/movies/20260914/mot-dem-duy-nhat-poster.webp",
+      "description": "Sẽ ra sao nếu một đêm hỗn độn lại trở thành điều tuyệt vời nhất từng xảy ra trong đời bạn? Allie và Owen, hai kẻ xa lạ đang \"đói khát\" tình yêu, vô tình va vào nhau giữa lòng New York phiên bản được hư cấu đôi chút, vào đúng đêm duy nhất trong năm hội độc thân được phép \"làm chuyện ấy\". Chàng trai Owen vừa bị đá và cô nàng Allie mộng mơ có lẽ là hai kẻ độc thân duy nhất trong thành phố đang tìm kiếm điều gì đó ý nghĩa hơn là một cuộc tình chóng vánh. Cả hai dường như đã rung động ngay từ lần đầu gặp gỡ, nhưng hàng loạt tình huống dở khóc dở cười cùng những rắc rối phát sinh càng khiến đêm hôm đó trở nên phức tạp và đẩy họ ra xa nhau. Trong lúc mải miết đuổi theo rồi lại vuột mất nhau khắp thành phố, Owen và Allie dần nhận ra rằng, có lẽ điều bản thân khao khát nhất thực chất lại ở gần hơn họ tưởng.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.3"
+    },
+    {
       "id": "tt0037913",
       "type": "movie",
       "name": "Thời Kỳ Đại Suy Thoái",
@@ -877,24 +895,6 @@
       "description": "Hai chị em Becca và Tyler đến thăm ông bà tại một trang trại hẻo lánh và được dặn tuyệt đối không ra khỏi phòng sau 9 giờ 30 tối. Ban đầu mọi thứ có vẻ bình thường, cho đến khi cả hai lỡ “phá luật” và chứng kiến những hành vi kỳ quái khó lý giải. Từ đó, những dấu hiệu đáng sợ liên tiếp xuất hiện, khiến họ dần nhận ra có điều gì đó rất sai đang xảy ra trong ngôi nhà này. Khi sự thật ngày càng rõ ràng, chuyến thăm gia đình bỗng biến thành cơn ác mộng rợn người. Không còn ai để trông cậy, Becca và Tyler buộc phải tự mình đối mặt với những hiểm nguy đáng sợ nhất.",
       "releaseInfo": "2015",
       "imdbRating": "6.3"
-    },
-    {
-      "id": "tt32268156",
-      "type": "movie",
-      "name": "Ngôi nhà cuối cùng",
-      "poster": "https://phimimg.com/uploads/movies/20260808/ngoi-nha-cuoi-cung-poster.webp",
-      "description": "Một gia đình mắc kẹt một cách bí ẩn trong ngôi nhà phải đoàn kết để sinh tồn khi nhu yếu phẩm cạn kiệt và một thế lực đáng sợ không để họ thoát ra.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.5"
-    },
-    {
-      "id": "tt0983946",
-      "type": "movie",
-      "name": "Đảo Kinh Hoàng",
-      "poster": "https://phimimg.com/uploads/movies/20260808/dao-kinh-hoang-2020-poster.webp",
-      "description": "Những vị khách may mắn được mời đến hòn đảo trong mơ và hưởng thụ đãi ngộ xa hoa tại khu resort. Thế nhưng mọi thứ bỗng biến thành cơn ác mộng khi những vụ mất tích bí ẩn xảy ra.",
-      "releaseInfo": "2020",
-      "imdbRating": "4.9"
     }
   ]
 }

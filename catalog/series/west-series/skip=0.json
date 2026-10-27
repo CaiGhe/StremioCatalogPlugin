@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt42220724",
+      "type": "series",
+      "name": "Lương Tối Thiểu",
+      "poster": "https://phimimg.com/uploads/movies/20261027/luong-toi-thieu-poster.webp",
+      "description": "Dựa trên loạt video ngắn ăn khách trên mạng xã hội, loạt phim theo chân các thiếu niên vừa đi học vừa chật vật vận hành tiệm pizza với ông chủ thất thường và đồng lương tối thiểu.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt11743610",
       "type": "series",
       "name": "Danh Sách Tử Tù (Phần 2)",
@@ -78,7 +86,7 @@
       "poster": "https://phimimg.com/uploads/movies/20261021/ho-crystal-poster.webp",
       "description": "Pam Voorhees, một người mẹ đơn thân, vẫn chưa thể nguôi ngoai nỗi đau mất con sau khi Jason — đứa con trai nhỏ ốm yếu của bà — đuối nước thảm thương dưới hồ nước của thị trấn gần một năm trước. Khi hai kẻ xa lạ tìm đến tận nhà Pam để bới móc quá khứ của bà, một chuỗi sự kiện đáng sợ bắt đầu bùng nổ, khiến người dân thị trấn Crystal Lake phải bàng hoàng tự hỏi: Rốt cuộc Pam Voorhees là ai?",
       "releaseInfo": "2026",
-      "imdbRating": "7.8"
+      "imdbRating": "7.7"
     },
     {
       "id": "tt2375692",
@@ -883,15 +891,6 @@
       "description": "Hai con người lạ mặt, nhiều trăn trở, kết nối trong một thử nghiệm dược phẩm tâm thần của một bác sĩ đang vật lộn với việc làm mẹ cùng chiếc máy tính phức tạp về cảm xúc.",
       "releaseInfo": "2018",
       "imdbRating": "7.6"
-    },
-    {
-      "id": "tt9078908",
-      "type": "series",
-      "name": "Núi Sát Nhân",
-      "poster": "https://phimimg.com/upload/vod/20260704-1/fd283f70b430c5c023abd5974d6114f0.jpg",
-      "description": "Tại Hạt Humboldt, California, hoạt động buôn bán cần sa hợp pháp với quy mô lớn thu hút khách du lịch từ khắp nơi trên thế giới. Và có những người một đi không trở lại.",
-      "releaseInfo": "2018",
-      "imdbRating": "6.8"
     }
   ]
 }
