@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "tt38672588",
+      "type": "movie",
+      "name": "Kế Hoạch Hoàn Hảo",
+      "poster": "https://phimimg.com/uploads/movies/20261028/ke-hoach-hoan-hao-2026-poster.webp",
+      "description": "Khi một tên trộm huyền thoại nhắm đến bức tranh Mona Lisa, hắn chiêu mộ hai người lạ trẻ tuổi giúp mình trước khi tiết lộ họ là anh em ruột thất lạc từ lâu… và à vâng, hắn chính là cha của họ. Bị cuốn vào cuộc hội ngộ hỗn loạn mà họ không hề mong muốn, gia đình mới này phải học cách làm việc cùng nhau — và cố gắng không giết lẫn nhau — nếu họ muốn có cơ hội thực hiện vụ trộm thế kỷ.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt32358390",
+      "type": "movie",
+      "name": "Vòng Tội Lỗi / Vòng Lặp Định Mệnh",
+      "poster": "https://phimimg.com/uploads/movies/20261028/vong-toi-loi-vong-lap-dinh-menh-poster.webp",
+      "description": "Một người con gái bóc tách những góc khuất đen tối của người cha quá cố, sau khi thi thể của ông – người đã mất tích bí ẩn suốt 36 năm – đột ngột được tìm thấy tại một hiện trường vụ án mạng kinh hoàng.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt36834010",
       "type": "movie",
       "name": "Gail Daughtry Và Tấm Vé Ngoại Tình Với Người Nổi Tiếng",
@@ -421,7 +437,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260929/chuyen-van-chuyen-sinh-tu-poster.webp",
       "description": "Một cựu binh bị cuốn vào một cuộc đua sinh tử nghẹt thở với thời gian khi một chuyến vận chuyển thuốc cấp cứu sống còn biến anh cùng người đồng hành bất đắc dĩ thành mục tiêu săn đuổi của một băng đảng cartel tàn bạo. Khi nhiệm vụ dần vượt tầm kiểm soát thành một cuộc săn người đẫm máu, mỗi khúc ngoặt, sự trì hoãn và từng viên đạn đều đẩy họ đến gần hơn với thất bại. Trong bối cảnh sự phản bội bủa giăng khắp phía, họ buộc phải sống sót qua cuộc truy đuổi tàn khốc để giao kịp lô hàng nhằm cứu sống mạng mạng một cô bé.",
       "releaseInfo": "2026",
-      "imdbRating": "6.2"
+      "imdbRating": "6.6"
     },
     {
       "id": "tt0104449",
@@ -573,7 +589,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260922/chat-poster.webp",
       "description": "Khởi đầu mới của một gia đình tại ngôi nhà mới bỗng chốc sụp đổ khi đứa con trai của họ phát hiện ra một chiếc máy tính bảng tích hợp công nghệ trí tuệ nhân tạo (AI). Chiếc máy đã giải phóng một làn sóng kinh hoàng không chỉ liên quan đến các thế lực siêu nhiên mà còn dính líu đến những bí mật đen tối về lòng tham và sự tham nhũng đang bủa vằn quanh họ.",
       "releaseInfo": "2026",
-      "imdbRating": "2.9"
+      "imdbRating": "2.8"
     },
     {
       "id": "tt0080040",
@@ -870,24 +886,6 @@
       "description": "Bộ phim điện ảnh hoành tráng, ngân sách lớn kể về thời trẻ của Vua David — người chăn cừu nhỏ tuổi đã dũng cảm đối đầu và đánh bại gã khổng lồ chiến binh Goliath bất chấp mọi tỷ lệ cược bất lợi.",
       "releaseInfo": "2015",
       "imdbRating": "4.3"
-    },
-    {
-      "id": "tt27165187",
-      "type": "movie",
-      "name": "Ngày Tàn Của Phố Oak",
-      "poster": "https://phimimg.com/uploads/movies/20260914/ngay-tan-cua-pho-oak-poster.webp",
-      "description": "Sau khi một thảm họa thiên nhiên xé toạc Phố Oak khỏi khu ngoại ô và đưa con phố đến một nơi xa lạ, gia đình Platt nhanh chóng nhận ra rằng chỉ bằng cách luôn đứng bên nhau, họ mới có thể vượt qua vận mệnh nghiệt ngã này.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.5"
-    },
-    {
-      "id": "tt0090094",
-      "type": "movie",
-      "name": "Quái Vật Kem",
-      "poster": "https://phimimg.com/uploads/movies/20260914/quai-vat-kem-poster.webp",
-      "description": "Tập đoàn Amalgamated Dairies thuê David Rutherford — một cựu đặc vụ FBI chuyển sang làm gián điệp thương mại — để điều tra về một món ăn tráng miệng mới nổi cực kỳ ăn khách mang tên \"The Stuff\", món ăn đang đè bẹp doanh số của ngành kem truyền thống. Không ai biết món ăn này được làm ra như thế nào hay chứa thành phần gì, nhưng người dân lại rồng rắn xếp hàng để mua. Nó sở hữu một hương vị ngon đến mức \"có thể chết vì nó\"!",
-      "releaseInfo": "1985",
-      "imdbRating": "5.9"
     }
   ]
 }

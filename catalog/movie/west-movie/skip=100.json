@@ -1,6 +1,24 @@
 {
   "metas": [
     {
+      "id": "tt27165187",
+      "type": "movie",
+      "name": "Ngày Tàn Của Phố Oak",
+      "poster": "https://phimimg.com/uploads/movies/20260914/ngay-tan-cua-pho-oak-poster.webp",
+      "description": "Sau khi một thảm họa thiên nhiên xé toạc Phố Oak khỏi khu ngoại ô và đưa con phố đến một nơi xa lạ, gia đình Platt nhanh chóng nhận ra rằng chỉ bằng cách luôn đứng bên nhau, họ mới có thể vượt qua vận mệnh nghiệt ngã này.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt0090094",
+      "type": "movie",
+      "name": "Quái Vật Kem",
+      "poster": "https://phimimg.com/uploads/movies/20260914/quai-vat-kem-poster.webp",
+      "description": "Tập đoàn Amalgamated Dairies thuê David Rutherford — một cựu đặc vụ FBI chuyển sang làm gián điệp thương mại — để điều tra về một món ăn tráng miệng mới nổi cực kỳ ăn khách mang tên \"The Stuff\", món ăn đang đè bẹp doanh số của ngành kem truyền thống. Không ai biết món ăn này được làm ra như thế nào hay chứa thành phần gì, nhưng người dân lại rồng rắn xếp hàng để mua. Nó sở hữu một hương vị ngon đến mức \"có thể chết vì nó\"!",
+      "releaseInfo": "1985",
+      "imdbRating": "5.9"
+    },
+    {
       "id": "tt13611778",
       "type": "movie",
       "name": "Cầy Mangut",
@@ -876,24 +894,6 @@
       "description": "Một người đàn ông mù và giàu có... mục tiêu hoàn hảo cho phường trộm cắp. Nhưng tình thế lại lật ngược khi ba tên trộm thiếu niên bị rơi vào trò mèo vờn chuột chết người.",
       "releaseInfo": "2016",
       "imdbRating": "7.1"
-    },
-    {
-      "id": "tt0397101",
-      "type": "movie",
-      "name": "Chìa Khóa Xương Người",
-      "poster": "https://phimimg.com/uploads/movies/20260809/chia-khoa-xuong-nguoi-poster.webp",
-      "description": "Caroline, một nữ y tá được mời đến chăm lo cho người chồng bị liệt của một phụ nữ đứng tuổi tại ngôi nhà của họ ở gần dòng sông Louisiana. Ngôi biệt thự với lối kiến trúc Gothic này đầy vẻ bí ẩn và rùng rợn cùng những hành vi ứng xử kỳ lạ bí ẩn của cặp vợ chồng già khiến Caroline tò mò muốn khám phá ngôi nhà cũ này. Có trong tay chiếc chìa khoá thân xương có thể mở ra mọi cánh cửa, cô đã khám phá ra một căn phòng bí mật chứa đựng một bí mật chết người và rùng rợn.",
-      "releaseInfo": "2005",
-      "imdbRating": "6.5"
-    },
-    {
-      "id": "tt3567288",
-      "type": "movie",
-      "name": "9 Rưỡi Tối",
-      "poster": "https://phimimg.com/uploads/movies/20260809/9-ruoi-toi-poster.webp",
-      "description": "Hai chị em Becca và Tyler đến thăm ông bà tại một trang trại hẻo lánh và được dặn tuyệt đối không ra khỏi phòng sau 9 giờ 30 tối. Ban đầu mọi thứ có vẻ bình thường, cho đến khi cả hai lỡ “phá luật” và chứng kiến những hành vi kỳ quái khó lý giải. Từ đó, những dấu hiệu đáng sợ liên tiếp xuất hiện, khiến họ dần nhận ra có điều gì đó rất sai đang xảy ra trong ngôi nhà này. Khi sự thật ngày càng rõ ràng, chuyến thăm gia đình bỗng biến thành cơn ác mộng rợn người. Không còn ai để trông cậy, Becca và Tyler buộc phải tự mình đối mặt với những hiểm nguy đáng sợ nhất.",
-      "releaseInfo": "2015",
-      "imdbRating": "6.3"
     }
   ]
 }
