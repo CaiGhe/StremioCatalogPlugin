@@ -1,6 +1,59 @@
 {
   "metas": [
     {
+      "id": "tt0162346",
+      "type": "movie",
+      "name": "Thế Giới Ma",
+      "poster": "https://phimimg.com/uploads/movies/20261030/the-gioi-ma-poster.webp",
+      "description": "Ghost World ( Thế giới ma) là một bộ phim hài Mỹ năm 2001 của đạo diễn Terry Zwigoff, dựa trên cuốn truyện tranh cùng tên và kịch bản của Daniel Clowes. Câu chuyện tập trung vào cuộc sống của Enid và Rebecca, hai cô gái tuổi teen sống trong một thành phố vô danh của Mỹ. Cả hai đều có những vấn đề liên quan đến những người xung quanh. Khi họ gặp Seymour cũng sống tách biệt với xã hội và thích thu thập mọi thứ cũ kĩ, cuộc sống của Enid đã thay đổi mãi mãi.",
+      "releaseInfo": "2001",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt0113845",
+      "type": "movie",
+      "name": "Tàu Chở Tiền",
+      "poster": "https://phimimg.com/uploads/movies/20261030/tau-cho-tien-poster.webp",
+      "description": "Vì nợ nần chồng chất với giới xã hội đen, một cảnh sát chìm tàu điện ngầm và người anh em quyết định cướp chuyến tàu được canh gác nghiêm ngặt chở số tiền vé thu được trong ngày.",
+      "releaseInfo": "1995",
+      "imdbRating": "5.7"
+    },
+    {
+      "id": "tt9362736",
+      "type": "movie",
+      "name": "Em Sẽ Khử Anh",
+      "poster": "https://phimimg.com/upload/vod/20251209-1/de19f1954904beeef2e80e0c1231ea65.jpg",
+      "description": "Jennifer Lawrence vào vai Grace, một người mẹ trẻ rơi vào trầm cảm sau sinh và rối loạn lưỡng cực, khi hôn nhân cùng Robert Pattinson dần biến thành địa ngục.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.0"
+    },
+    {
+      "id": "tt32261958",
+      "type": "movie",
+      "name": "Verity: Bí Mật Bị Chôn Vùi",
+      "poster": "https://phimimg.com/uploads/movies/20261030/verity-bi-mat-bi-chon-vui-poster.webp",
+      "description": "Lowen Ashleigh được Jeremy Crawford thuê để viết tiếp các tiểu thuyết dang dở cho vợ anh là Verity, một nữ nhà văn nổi tiếng không còn khả năng hoàn thành công việc sau tai nạn. Trong thời gian sống tại nhà Crawford để làm việc, Lowen dần phát hiện những bí mật rùng rợn xoay quanh Verity.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt0107711",
+      "type": "movie",
+      "name": "Nowhere to Run",
+      "poster": "https://phimimg.com/uploads/movies/20261029/khong-noi-tron-chay-poster.webp",
+      "description": "Kẻ bị kết án vượt ngục Sam Gillen một mình đối đầu với những nhà phát triển tàn nhẫn quyết tâm trục xuất một góa phụ có hai con nhỏ.",
+      "releaseInfo": "1993",
+      "imdbRating": "5.7"
+    },
+    {
+      "id": "tt9140354",
+      "type": "movie",
+      "name": "Ainu Mosir",
+      "poster": "https://phimimg.com/uploads/movies/20261029/ainu-mosir-poster.webp",
+      "description": "Sau cái chết của cha, Kanto, một cậu bé 14 tuổi mang dòng máu Ainu, phải đối mặt với nỗi mất mát sâu sắc và những cảm xúc khó gọi tên. Khi biết về truyền thuyết một vách đá trong rừng được cho là lối dẫn đến thế giới của người đã khuất, cậu nuôi hy vọng có thể gặp lại cha. Hành trình tìm kiếm ấy đưa Kanto vào những trải nghiệm mới, giúp cậu dần đối diện với nỗi đau và những câu hỏi về cuộc sống. Qua đó, cậu từng bước chữa lành, trưởng thành và học cách chấp nhận sự ra đi của người thân.",
+      "releaseInfo": "2020",
+      "imdbRating": "6.6"
+    },
+    {
       "id": "tt38672588",
       "type": "movie",
       "name": "Kế Hoạch Hoàn Hảo",
@@ -832,60 +885,6 @@
       "description": "Một tên điên tại New York đã gây sóng gió cho vùng trung tâm thành phố khi hắn thường đi \"hành quân đêm\" mà mục tiêu nhắm vào các cô gái trẻ, có lẽ có dáng vẻ giống người yêu, hay vợ cũ của hắn. Mà mục đích chính là để \"giữ\" cô đó lại với hắn mãi không chia lìa.",
       "releaseInfo": "1980",
       "imdbRating": "6.3"
-    },
-    {
-      "id": "tt0383028",
-      "type": "movie",
-      "name": "Hơi Thở New York",
-      "poster": "https://phimimg.com/uploads/movies/20260918/hoi-tho-new-york-poster.webp",
-      "description": "Một đạo diễn sân khấu gặp khủng hoảng nghiêm trọng trong sự nghiệp lẫn mối quan hệ với những người phụ nữ xung quanh mình, khi ông nỗ lực dàn dựng một vở kịch mới bằng cách xây dựng một bản sao kích thước thật của thành phố New York ngay bên trong một kho hàng khổng lồ.",
-      "releaseInfo": "2008",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt0108339",
-      "type": "movie",
-      "name": "Ve Hút Máu",
-      "poster": "https://phimimg.com/uploads/movies/20260917/ve-hut-mau-poster.webp",
-      "description": "Một nhóm thiếu niên đi cắm trại tại một khu nghỉ dưỡng ở vùng Bắc California đã bị đe dọa, khủng bố bởi những sinh vật côn trùng đột biến độc hại — vốn được tạo ra bởi những kẻ trồng cần sa độc ác, làm ô nhiễm môi trường xung quanh.",
-      "releaseInfo": "1993",
-      "imdbRating": "5.5"
-    },
-    {
-      "id": "tt0083959",
-      "type": "movie",
-      "name": "Thế Giới Cấm",
-      "poster": "https://phimimg.com/uploads/movies/20260917/the-gioi-cam-poster.webp",
-      "description": "Ở một tương lai xa xôi, một sĩ quan cảnh sát liên bang đến một phòng thí nghiệm nghiên cứu trên một hành tinh hẻo lánh, nơi một sinh vật thí nghiệm di truyền đã vượt khỏi tầm kiểm soát và bắt đầu săn sát, ăn thịt nhóm các nhà khoa học đang ngày một thưa dần.",
-      "releaseInfo": "1982",
-      "imdbRating": "5.1"
-    },
-    {
-      "id": "tt0331933",
-      "type": "movie",
-      "name": "Cảnh sát bảo vệ",
-      "poster": "https://phimimg.com/uploads/movies/20260917/canh-sat-bao-ve-poster.webp",
-      "description": "Sĩ quan Roland Sharp ở Texas bỗng phải đi học đại học khi được giao nhiệm vụ bảo vệ một đội cổ vũ đầy huyên náo của Đại học Texas.",
-      "releaseInfo": "2005",
-      "imdbRating": "5.5"
-    },
-    {
-      "id": "tt4352408",
-      "type": "movie",
-      "name": "David Và Goliath",
-      "poster": "https://phimimg.com/uploads/movies/20260915/david-va-goliath-poster.webp",
-      "description": "Nằm ở giao điểm của hai đế chế cổ đại vĩ đại, một anh chàng chăn cừu mộc mạc tên David đã biến chuyển thành một chiến binh dũng cảm để đối đầu với một gã khổng lồ đáng sợ. Một trong những trận chiến huyền thoại nhất lịch sử được tái hiện qua một câu chuyện phong cách, đầy đẫm máu về lòng dũng cảm và đức tin.",
-      "releaseInfo": "2016",
-      "imdbRating": "3.1"
-    },
-    {
-      "id": "tt3962210",
-      "type": "movie",
-      "name": "Trận Chiến Với Người Khổng Lồ",
-      "poster": "https://phimimg.com/uploads/movies/20260915/tran-chien-voi-nguoi-khong-lo-poster.webp",
-      "description": "Bộ phim điện ảnh hoành tráng, ngân sách lớn kể về thời trẻ của Vua David — người chăn cừu nhỏ tuổi đã dũng cảm đối đầu và đánh bại gã khổng lồ chiến binh Goliath bất chấp mọi tỷ lệ cược bất lợi.",
-      "releaseInfo": "2015",
-      "imdbRating": "4.3"
     }
   ]
 }

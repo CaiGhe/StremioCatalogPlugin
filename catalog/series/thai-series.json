@@ -1,6 +1,15 @@
 {
   "metas": [
     {
+      "id": "tt47983833",
+      "type": "series",
+      "name": "Yêu Một Kẻ Ngốc",
+      "poster": "https://phimimg.com/uploads/movies/20261010/yeu-mot-ke-ngoc-poster.webp",
+      "description": "Ing — người thừa kế vô cùng tự tin của Tập đoàn Araya — tình cờ gặp gỡ Yok, người thừa kế của một gia đình quý tộc lâu đời, thông qua Itt (em cùng cha khác mẹ của Ing và cũng là bạn của Yok). Lấy cớ bàn chuyện công việc, Ing liên tục tìm mọi cách để bước vào cuộc sống của Yok. Thế rồi, trong một đêm hỗn loạn chìm đắm trong men rượu, cả hai vượt qua giới hạn và trở nên thân mật, khiến tình cảm mà Yok dành cho Ing dần dần thay đổi. Khi tình yêu bắt đầu chớm nở giữa họ, Ing hoàn toàn không hề hay biết rằng bản thân đã bước vào một cái bẫy do chính Yok giăng sẵn.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.3"
+    },
+    {
       "id": "tt39046052",
       "type": "series",
       "name": "Manga Sát Lệnh",
@@ -16,15 +25,6 @@
       "poster": "https://phimimg.com/uploads/movies/20260907/khom-khlang-poster.webp",
       "description": "Một nữ cảnh sát Bangkok bản tính đa nghi đang ráo riết truy lùng một tên trùm buôn người có năng lực kháng đạn. Cô lặn lội đến vùng Phop Phra, tỉnh Tak để tìm một vị cao nhân nhờ rèn những viên đạn yểm phép. Thế nhưng khi đến nơi, cô phát hiện ra người mình cất công tìm kiếm lại chính là mối duyên tiền định - người đã dành trọn cả cuộc đời chỉ để chờ đợi ngày được đoàn tụ cùng tình yêu đích thực.",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "tt47983833",
-      "type": "series",
-      "name": "Yêu Một Kẻ Ngốc",
-      "poster": "https://phimimg.com/uploads/movies/20261010/yeu-mot-ke-ngoc-poster.webp",
-      "description": "Ing — người thừa kế vô cùng tự tin của Tập đoàn Araya — tình cờ gặp gỡ Yok, người thừa kế của một gia đình quý tộc lâu đời, thông qua Itt (em cùng cha khác mẹ của Ing và cũng là bạn của Yok). Lấy cớ bàn chuyện công việc, Ing liên tục tìm mọi cách để bước vào cuộc sống của Yok. Thế rồi, trong một đêm hỗn loạn chìm đắm trong men rượu, cả hai vượt qua giới hạn và trở nên thân mật, khiến tình cảm mà Yok dành cho Ing dần dần thay đổi. Khi tình yêu bắt đầu chớm nở giữa họ, Ing hoàn toàn không hề hay biết rằng bản thân đã bước vào một cái bẫy do chính Yok giăng sẵn.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.3"
     },
     {
       "id": "tt39127238",
@@ -118,7 +118,7 @@
     {
       "id": "tt39378892",
       "type": "series",
-      "name": "Tổ Ấm Tình Yêu",
+      "name": "Tổ Ấm Tình Yêu / Kiến Tạo Trái Tim",
       "poster": "https://phimimg.com/uploads/movies/20261023/to-am-tinh-yeu-poster.webp",
       "description": "Khi kiến trúc sư tài năng như \"Soul\" phải chạm trán với thầy phong thủy đối thủ chuyên gây rắc rối như \"Xin Xin\". Một người tin vào nguyên tắc, người kia lại tin vào phong thủy. Nghề nghiệp và niềm tin của họ hoàn toàn trái ngược, nhưng định mệnh lại đưa đẩy khiến cả hai phải làm việc cùng nhau. Liệu những bất đồng sẽ dần “gây dựng” nên một mối quan hệ, hay những xáo trộn trong trái tim sẽ dần “gây dựng tình yêu”?",
       "releaseInfo": "2026",
@@ -136,7 +136,7 @@
     {
       "id": "tt37469215",
       "type": "series",
-      "name": "Chạm Vào Anh",
+      "name": "Chạm Vào Anh / Dạy Tôi Cách Yêu",
       "poster": "https://phimimg.com/uploads/movies/20261023/cham-vao-anh-poster.webp",
       "description": "Bị người yêu đá vì quá \"nhạt nhẽo\", Gear quyết định thuê một tay ăn chơi chính hiệu về dạy cho mình biết thế nào là sự đam mê. Thế nhưng, những bài học thân mật ấy đã nhanh chóng vượt qua ranh giới giả vờ để biến thành một tình yêu thực sự.",
       "releaseInfo": "2026",
@@ -343,7 +343,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260712/xich-tinh-ruc-lua-poster.webp",
       "description": "Tại vùng đất phương Nam, \"Fai\" Atchima Watinwanich có dịp tái ngộ với người đối đầu cũ của mình là \"Kaprao\" Athitaya Thitsama — một cuộc gặp gỡ có thể thắp lên ngọn lửa tình yêu hoặc sẽ lại vạch trần những vết thương cũ chưa lành.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9"
+      "imdbRating": "7.8"
     },
     {
       "id": "tt43408130",
