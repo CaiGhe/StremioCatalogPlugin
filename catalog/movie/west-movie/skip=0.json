@@ -1,6 +1,23 @@
 {
   "metas": [
     {
+      "id": "tt13609648",
+      "type": "movie",
+      "name": "Lý Trí Và Tình Cảm",
+      "poster": "https://phimimg.com/uploads/movies/20261103/ly-tri-va-tinh-cam-2026-poster.webp",
+      "description": "Một câu chuyện duyên dáng, hóm hỉnh và đầy đồng cảm về tình yêu cùng tình chị em sâu sắc.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt35538033",
+      "type": "movie",
+      "name": "Vùng Đất Quỷ Dữ",
+      "poster": "https://phimimg.com/uploads/movies/20261102/vung-dat-quy-du-2026-poster.webp",
+      "description": "Một phiên bản Resident Evil mới trở lại đầy kịch tính và kinh hoàng từ bộ óc quái kiệt của đạo diễn Zach Cregger đứng sau “Weapons” & “Barbarian”.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt18259086",
       "type": "movie",
       "name": "Nhím Sonic 3",
@@ -121,7 +138,7 @@
       "poster": "https://phimimg.com/uploads/movies/20261027/huyen-thoai-bach-long-poster.webp",
       "description": "Buộc phải ẩn mình trong bóng tối, người anh hùng đang bị truy nã Erik Reed phải tìm cách minh oan cho bản thân để có thể đoàn tụ với gia đình. Thế nhưng, ngáng đường anh là một kẻ phản diện bí ẩn với âm mưu lệch lạc: tiêu diệt Bạch Long vĩnh viễn.",
       "releaseInfo": "2026",
-      "imdbRating": "5.6"
+      "imdbRating": "4.1"
     },
     {
       "id": "tt21285562",
@@ -867,24 +884,6 @@
       "description": "Navin Johnson là một chàng trai vụng về được một gia đình da màu nuôi dưỡng ở vùng nông thôn và luôn tin rằng mình không có cùng nguồn gốc với họ. Quyết tâm tìm kiếm cuộc sống riêng, Navin rời nhà để đến thành phố, nơi anh trải qua đủ nghề và liên tục rơi vào những tình huống trớ trêu. Một phát minh tình cờ giúp anh trở nên giàu có, đưa chàng trai ngây ngô bước vào thế giới xa hoa. Tuy nhiên, tiền bạc và danh vọng cũng kéo theo những rắc rối khiến Navin đánh mất nhiều thứ quan trọng, từ tình yêu đến cuộc sống ổn định.",
       "releaseInfo": "1979",
       "imdbRating": "7.1"
-    },
-    {
-      "id": "tt0099141",
-      "type": "movie",
-      "name": "Chú Chim Trên Dây",
-      "poster": "https://phimimg.com/uploads/movies/20260921/chu-chim-tren-day-poster.webp",
-      "description": "Bộ phim hành động hài lãng mạn có sự góp mặt của người từng chiến thắng giải Oscar Mel Gibson và Goldie Hawn. Họ vào vai một cặp đôi bị cuộc đời quẳng vào với nhau. Anh ta là Rick Jarmin, anh bạn cùng trường đại học mà cô cho rằng đã chết. Khi anh chứng tỏ rằng mình vẫn còn sống và tỏ vẻ khó chịu thì cô ước rằng anh đã chết. Điều đó cứ tiếp diễn cho đến khi cô nhận ra rằng nhiều người cũng mong anh chết đi.",
-      "releaseInfo": "1990",
-      "imdbRating": "6.0"
-    },
-    {
-      "id": "tt1385826",
-      "type": "movie",
-      "name": "Bản Đồ Định Mệnh / Thế Lực Dàn Xếp",
-      "poster": "https://phimimg.com/uploads/movies/20260921/ban-do-dinh-menh-the-luc-dan-xep-poster.webp",
-      "description": "David Norris là một nghị sĩ trẻ đầy tham vọng, tình cờ gặp Elise Sellas và nhanh chóng bị cuốn hút bởi cô. Khi tình cảm giữa hai người ngày càng sâu đậm, David phát hiện một nhóm người bí ẩn đang âm thầm kiểm soát những bước ngoặt trong cuộc đời mình. Họ cảnh báo anh phải tránh xa Elise nếu không muốn làm chệch hướng kế hoạch đã được định sẵn. Bất chấp những trở ngại và sự can thiệp liên tục, David quyết tâm giành lại quyền lựa chọn tương lai của mình. Để ở bên người mình yêu, anh phải đối đầu với những thế lực có khả năng thay đổi cả số phận con người.",
-      "releaseInfo": "2011",
-      "imdbRating": "7.0"
     }
   ]
 }

@@ -1,6 +1,24 @@
 {
   "metas": [
     {
+      "id": "tt0099141",
+      "type": "movie",
+      "name": "Chú Chim Trên Dây",
+      "poster": "https://phimimg.com/uploads/movies/20260921/chu-chim-tren-day-poster.webp",
+      "description": "Bộ phim hành động hài lãng mạn có sự góp mặt của người từng chiến thắng giải Oscar Mel Gibson và Goldie Hawn. Họ vào vai một cặp đôi bị cuộc đời quẳng vào với nhau. Anh ta là Rick Jarmin, anh bạn cùng trường đại học mà cô cho rằng đã chết. Khi anh chứng tỏ rằng mình vẫn còn sống và tỏ vẻ khó chịu thì cô ước rằng anh đã chết. Điều đó cứ tiếp diễn cho đến khi cô nhận ra rằng nhiều người cũng mong anh chết đi.",
+      "releaseInfo": "1990",
+      "imdbRating": "6.0"
+    },
+    {
+      "id": "tt1385826",
+      "type": "movie",
+      "name": "Bản Đồ Định Mệnh / Thế Lực Dàn Xếp",
+      "poster": "https://phimimg.com/uploads/movies/20260921/ban-do-dinh-menh-the-luc-dan-xep-poster.webp",
+      "description": "David Norris là một nghị sĩ trẻ đầy tham vọng, tình cờ gặp Elise Sellas và nhanh chóng bị cuốn hút bởi cô. Khi tình cảm giữa hai người ngày càng sâu đậm, David phát hiện một nhóm người bí ẩn đang âm thầm kiểm soát những bước ngoặt trong cuộc đời mình. Họ cảnh báo anh phải tránh xa Elise nếu không muốn làm chệch hướng kế hoạch đã được định sẵn. Bất chấp những trở ngại và sự can thiệp liên tục, David quyết tâm giành lại quyền lựa chọn tương lai của mình. Để ở bên người mình yêu, anh phải đối đầu với những thế lực có khả năng thay đổi cả số phận con người.",
+      "releaseInfo": "2011",
+      "imdbRating": "7.0"
+    },
+    {
       "id": "tt0092744",
       "type": "movie",
       "name": "Trại Cổ Vũ",
@@ -877,23 +895,6 @@
       "description": "Quyết tâm thực hiện di nguyện của ông chú, vị giám đốc tiếp thị ở New York hợp tác với một nông dân đẹp trai để cứu lễ hội ở quê nhà của họ.",
       "releaseInfo": "2022",
       "imdbRating": "5.8"
-    },
-    {
-      "id": "tt36590417",
-      "type": "movie",
-      "name": "Đừng Nói Chúc May Mắn",
-      "poster": "https://phimimg.com/uploads/movies/20260815/dung-noi-chuc-may-man-poster.webp",
-      "description": "Sophie Birenbaum đã sẵn sàng tỏa sáng với vai chính trong vở nhạc kịch của trường trung học. Nhưng rồi cô đột nhiên phải đối mặt với nhiều sóng gió ở nhà hơn là trên sân khấu.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt28188089",
-      "type": "movie",
-      "name": "Buổi Hẹn Hò Hoàng Gia Dịp Giáng Sinh",
-      "poster": "https://phimimg.com/uploads/movies/20260815/buoi-hen-ho-hoang-gia-dip-giang-sinh-poster.webp",
-      "description": "Bella là chủ tiệm y phục ở thị trấn nhỏ và cô vừa có một khách hàng quý tộc mới. Liệu chuyện tình không tưởng với một công tước Anh quyến rũ có thể mở ra vào Giáng sinh này?",
-      "releaseInfo": "2023",
-      "imdbRating": "5.5"
     }
   ]
 }
