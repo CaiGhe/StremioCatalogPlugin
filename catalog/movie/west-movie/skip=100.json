@@ -1,6 +1,15 @@
 {
   "metas": [
     {
+      "id": "tt0079367",
+      "type": "movie",
+      "name": "Chuyện Một Gã Khờ",
+      "poster": "https://phimimg.com/uploads/movies/20260921/chuyen-mot-ga-kho-poster.webp",
+      "description": "Navin Johnson là một chàng trai vụng về được một gia đình da màu nuôi dưỡng ở vùng nông thôn và luôn tin rằng mình không có cùng nguồn gốc với họ. Quyết tâm tìm kiếm cuộc sống riêng, Navin rời nhà để đến thành phố, nơi anh trải qua đủ nghề và liên tục rơi vào những tình huống trớ trêu. Một phát minh tình cờ giúp anh trở nên giàu có, đưa chàng trai ngây ngô bước vào thế giới xa hoa. Tuy nhiên, tiền bạc và danh vọng cũng kéo theo những rắc rối khiến Navin đánh mất nhiều thứ quan trọng, từ tình yêu đến cuộc sống ổn định.",
+      "releaseInfo": "1979",
+      "imdbRating": "7.1"
+    },
+    {
       "id": "tt0099141",
       "type": "movie",
       "name": "Chú Chim Trên Dây",
@@ -886,15 +895,6 @@
       "description": "Ba sinh viên năm cuối đến New Orleans dự lễ hội Mardi Gras để bù đắp những trải nghiệm sôi nổi đã bỏ lỡ thời đại học, rồi hòa mình vào bầu không khí cuồng nhiệt của thành phố.",
       "releaseInfo": "2011",
       "imdbRating": "5.1"
-    },
-    {
-      "id": "tt19898828",
-      "type": "movie",
-      "name": "Lời Chúc Giáng Sinh An Lành",
-      "poster": "https://phimimg.com/uploads/movies/20260815/loi-chuc-giang-sinh-an-lanh-poster.webp",
-      "description": "Quyết tâm thực hiện di nguyện của ông chú, vị giám đốc tiếp thị ở New York hợp tác với một nông dân đẹp trai để cứu lễ hội ở quê nhà của họ.",
-      "releaseInfo": "2022",
-      "imdbRating": "5.8"
     }
   ]
 }
