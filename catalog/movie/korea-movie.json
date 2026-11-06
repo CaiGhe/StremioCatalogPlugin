@@ -1,6 +1,24 @@
 {
   "metas": [
     {
+      "id": "tt20038778",
+      "type": "movie",
+      "name": "Tang Lễ Đầu Xuân",
+      "poster": "https://phimimg.com/uploads/movies/20261106/tang-le-dau-xuan-poster.webp",
+      "description": "Sau 8 năm ngồi tù, Ho Sung trở về nhà ngay đúng thời điểm cha qua đời. Trong cơn tức giận và mặc cảm vì thiếu tình thương, anh biến lễ tang thành nơi tụ tập, vòi tiền và giải quyết ân oán giang hồ. Đến cuối cùng, khi mọi thứ trở nên hỗn loạn, chỉ còn người mẹ già là hy vọng cuối cùng cho đứa con trai ngỗ nghịch.",
+      "releaseInfo": "2022",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": "tt32628369",
+      "type": "movie",
+      "name": "Hỏa Thần",
+      "poster": "https://phimimg.com/upload/vod/20250416-1/96f9411e83de73829a71574cedb14ed5.jpg",
+      "description": "Đội cứu hoả khu Tây Seoul luôn phải làm việc trong điều kiện thiếu thốn và khắc nghiệt. Ngày nào họ cũng phải lặp lại câu hỏi: đây có phải là lần làm nhiệm vụ cuối cùng? Phải tập trung cứu người hay bảo vệ mạng sống của chính mình? Một ngày, đường dây khẩn báo động về một đám cháy tại Hongje-dong. Ngay lập tức, cả đội cảm nhận được sự nghiêm trọng của tình hình…",
+      "releaseInfo": "2024",
+      "imdbRating": "5.7"
+    },
+    {
       "id": "tt0295192",
       "type": "movie",
       "name": "Ngày Xuân Tươi Đẹp",
@@ -652,7 +670,7 @@
       "poster": "https://phimimg.com/upload/vod/20260416-1/94b71174cb422a9c30e133f9282bd3e6.jpg",
       "description": "Ai rồi cũng nói dối… Một rạng sáng sau đêm bão tuyết, Do Kyung (Jung Ryeo-won) hốt hoảng lái xe đưa chị gái mình đến bệnh viện trong tình trạng đẫm máu. Ngay sau đó, nữ cảnh sát Hyun Joo (Lee Jung-eun) có mặt tại hiện trường và nhanh chóng cảm nhận được rằng sau những lời khai rối ren của Do-kyung là một sự thật đang bị che giấu. Khi mỗi người kể lại vụ việc theo một góc nhìn khác nhau, ranh giới giữa sự thật và dối trá dần tan biến – để lộ một bức tranh tâm lý u tối, rùng mình. Đêm tuyết phủ khiến mọi dấu vết đều biến mất, vậy ai mới thực sự là kẻ thủ ác?",
       "releaseInfo": "2025",
-      "imdbRating": "6.3"
+      "imdbRating": "6.2"
     },
     {
       "id": "tt32606470",
@@ -875,25 +893,7 @@
       "poster": "https://phimimg.com/upload/vod/20260202-1/385412ad0c0d9d6d27af7cfe6a01501a.jpg",
       "description": "Cái chết của một học sinh tại một khu cắm trại đã mở ra nhiều vấn đề. Cảnh sát phát hiện cô bé ấy bị ảnh hưởng bởi sự nghi ngờ và cực đoan của người mẹ. Từ đó, dần hé lộ bi kịch phức tạp và ám ảnh.",
       "releaseInfo": "2023",
-      "imdbRating": "6.3"
-    },
-    {
-      "id": "tt2990738",
-      "type": "movie",
-      "name": "90 Phút Kinh Hoàng",
-      "poster": "https://phimimg.com/upload/vod/20260126-1/660ec59e5b6a184c56e068ac3bf4e327.jpg",
-      "description": "Yoon Young-Hwa vốn một bình luận viên truyền hình nhưng vì nhiều ly do, anh đang phải làm một công việc khác. Một buổi sáng, khi anh đang dẫn chương trình phát thanh quen thuộc thì một người nặc danh gọi vào chương trình và tuyên bố sẽ đánh sập cây cầu Mapo. Ban đầu, ai cũng nghĩ đó chỉ là trò đùa nhưng Yoon Young-Hwa nhanh chóng nhận ra đó là mối nguy thực sự. Từ nơi anh đang làm việc, có thể nhìn thấy cây cầu và ngay sau đó, thảm họa khủng khiếp đã xảy ra. Ngay khi đó, Yoon Young-Hwa đã nhận ra cơ hội để anh nổi tiếng đã tới và anh quyết định thực hiện bài bình luận nóng lên sóng trực tiếp .",
-      "releaseInfo": "2013",
-      "imdbRating": "7.1"
-    },
-    {
-      "id": "tt8119680",
-      "type": "movie",
-      "name": "7 Thi Thể",
-      "poster": "https://phimimg.com/upload/vod/20260126-1/8179d76156d19a273f76a3607dbe87fb.jpg",
-      "description": "Dựa tên một sự kiện chấn động có thật từng xảy ra tại Busan, nơi những tội ác đã bị vùi lấp, thi thể nạn nhân không được tìm thấy và các cuộc điều tra không được diễn ra.",
-      "releaseInfo": "2018",
-      "imdbRating": "6.7"
+      "imdbRating": "6.1"
     }
   ]
 }
