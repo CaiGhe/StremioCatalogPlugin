@@ -1,6 +1,68 @@
 {
   "metas": [
     {
+      "id": "tt7526136",
+      "type": "movie",
+      "name": "Trái Tim Quái Thú",
+      "poster": "https://phimimg.com/uploads/movies/20261109/trai-tim-quai-thu-poster.webp",
+      "description": "Sau một vụ tai nạn máy bay kinh hoàng, sĩ quan Lực lượng Đặc nhiệm James Belmont (Brad Pitt) và chú chó chiến đấu Odin bị mắc kẹt giữa vùng hoang dã sâu thẳm của Alaska. Từ đó, họ buộc phải cùng nhau bước vào cuộc chiến sinh tồn khốc liệt trước thiên nhiên khắc nghiệt. Từ đạo diễn danh tiếng David Ayer, Trái Tim Quái Thú là một bộ phim phiêu lưu đầy căng thẳng, khai thác mối gắn kết không thể tách rời giữa một người đàn ông và người bạn thân thiết nhất của mình, khi cả hai phải đối mặt với trận chiến lớn nhất cuộc đời.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt9731598",
+      "type": "movie",
+      "name": "Người Anh Em",
+      "poster": "https://phimimg.com/uploads/movies/20261109/bros-2022-poster.webp",
+      "description": "Có lẽ. Cả hai đều rất bận rộn. Từ bộ óc truyện tranh dữ dội của Billy Eichner và sự thành công rực rỡ của các nhà làm phim Nicholas Stoller và Judd Apatow, Bros, một bộ phim hài thông minh, cao ngạo và chân thành về việc tìm kiếm tình dục, tình yêu và sự lãng mạn giữa sự điên rồ.",
+      "releaseInfo": "2022",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt50389959",
+      "type": "movie",
+      "name": "Câu Chuyện Về Derry",
+      "poster": "https://phimimg.com/uploads/movies/20261109/cau-chuyen-ve-derry-poster.webp",
+      "description": "Lấy bối cảnh hàng trăm năm trước khi thực thể ma quái Pennywise xuất hiện tại thị trấn Derry, ba người trẻ tuổi mạo hiểm bước vào khu rừng Western Wood và đối đầu với một linh hồn cổ xưa đầy kinh hoàng.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt9411972",
+      "type": "movie",
+      "name": "Xa Ngoài Kia Nơi Loài Tôm Hát",
+      "poster": "https://phimimg.com/uploads/movies/20261108/xa-ngoai-kia-noi-loai-tom-hat-poster.webp",
+      "description": "Bộ phim kể về Kya Clark - một cô gái bị gia đình bỏ rơi, lớn lên ở vùng đầm lầy phía nam thị trấn Barkley Cove vào những năm 50. Khi cảnh sát của thị trấn bị phát hiện đã qua đời, người ta bắt đầu dồn mọi mối nghi ngờ vào Kya.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt15721088",
+      "type": "movie",
+      "name": "Tức Giận Tột Cùng",
+      "poster": "https://phimimg.com/uploads/movies/20261108/ngon-lua-cuong-nhiet-2022-poster.webp",
+      "description": "Trong đêm khai trương nhà hàng mà mình đã ấp ủ bấy lâu, Ana lại nhận được tin sét đánh: món nợ khổng lồ của chồng. Cô phải trở lại thân phận cũ để bảo vệ đứa con tinh thần của mình trước tay chủ nợ.",
+      "releaseInfo": "2022",
+      "imdbRating": "4.9"
+    },
+    {
+      "id": "tt4680182",
+      "type": "movie",
+      "name": "Cô Gái Và Gã Khổng Lồ",
+      "poster": "https://phimimg.com/uploads/movies/20261108/co-gai-va-ga-khong-lo-poster.webp",
+      "description": "Vừa thất nghiệp lại vừa thất tình, cô nàng tuổi 30 - Gloria rời New York phồn hoa để trở về thị trấn nơi mình lớn lên. Cuộc sống đang ở đỉnh điểm của suy sụp chán nản thì Gloria gặp lại Oscar – cậu bạn cũ từng học chung tiểu học. Và đặc biệt hơn nữa, cô phát hiện ra mối liên hệ kỳ lạ giữa mình và con quái vật khổng lồ đang tàn phá thế giới. Nhận được nhiều lời khen của giới phê bình, Colossal một lần nữa giúp nữ diễn viên sở hữu tượng vàng Oscar Anna Hathaway khẳng định diễn xuất của mình. Phim do Nacho Vigalondo đạo diễn và biên kịch.",
+      "releaseInfo": "2017",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt31851518",
+      "type": "movie",
+      "name": "Bản Hợp Xướng",
+      "poster": "https://phimimg.com/upload/vod/20260105-1/61f1728beca8cd4573496fef568c0da5.jpg",
+      "description": "Trong bối cảnh chiến tranh, một cộng đồng mất mát tìm thấy sự chữa lành và hy vọng thông qua âm nhạc hợp xướng.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.4"
+    },
+    {
       "id": "tt9619824",
       "type": "movie",
       "name": "Lưỡi Hái Tử Thần: Huyết thống",
@@ -16,7 +78,7 @@
       "poster": "https://phimimg.com/uploads/movies/20261107/kha-the-cua-tinh-yeu-poster.webp",
       "description": "Tình yêu. Đố kỵ. Ham muốn. Khi một người phụ nữ có chồng mất việc đồng ý tham gia một bộ phim tài liệu, cuộc sống của họ đan xen với cuộc sống của đạo diễn và người bạn đời của cô.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7"
+      "imdbRating": "8.0"
     },
     {
       "id": "tt2674426",
@@ -59,7 +121,7 @@
       "poster": "https://phimimg.com/uploads/movies/20261105/thoi-diem-vang-poster.webp",
       "description": "Năm 2006, Chris Hansen — người dẫn chương trình To Catch a Predator — quyết tâm tạo nên một cột mốc lịch sử cho ngành truyền hình. Nhưng khi một chiến dịch nguy hiểm đi lệch hướng dẫn đến cái chết thảm khốc, giấc mơ vinh quang hào nhoáng của ông nhanh chóng biến thành một cơn ác mộng về công lý dàn dựng.",
       "releaseInfo": "2026",
-      "imdbRating": "8.7"
+      "imdbRating": "7.0"
     },
     {
       "id": "tt7126948",
@@ -112,7 +174,7 @@
       "poster": "https://phimimg.com/uploads/movies/20261030/instadocs-jane-doe-doi-dau-dai-hoc-cornell-poster.webp",
       "description": "Instadocs đi sâu vào cuộc điều tra vụ cưỡng hiếp và vụ kiện Jane Doe tại Đại học Cornell, trong đó các nhà báo sinh viên đứng ở tuyến đầu của câu chuyện.",
       "releaseInfo": "2026",
-      "imdbRating": "6.8"
+      "imdbRating": "6.7"
     },
     {
       "id": "tt0195685",
@@ -294,7 +356,7 @@
       "poster": "https://phimimg.com/uploads/movies/20261019/tenzing-vuon-toi-dinh-everest-poster.webp",
       "description": "Một người đàn ông quyết chí dấn thân vào một sứ mệnh rủi ro—và vượt qua những khó khăn không tưởng để hoàn thành ước mơ trở thành người đầu tiên lên đỉnh Everest.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7"
+      "imdbRating": "7.4"
     },
     {
       "id": "tt29630464",
@@ -303,7 +365,7 @@
       "poster": "https://phimimg.com/uploads/movies/20261019/dung-di-chuyen-poster.webp",
       "description": "Sâu trong khu rừng rậm rạp được bao phủ bởi một mê cung tơ nhện, cả nhóm bị săn đuổi bởi một loài nhện tiền sử đáng sợ — sinh vật săn mồi dựa vào độ rung cảm. Khi mỗi bước đi đều có thể là bước đi cuối cùng, họ chỉ có duy nhất một lựa chọn: Đứng yên. Mọi hy vọng giờ đây đè nặng lên vai Megan để kết nối những người còn sống sót và dẫn dắt họ thoát khỏi vùng đất chết.",
       "releaseInfo": "2026",
-      "imdbRating": "6.7"
+      "imdbRating": "4.5"
     },
     {
       "id": "tt37281055",
@@ -321,7 +383,7 @@
       "poster": "https://phimimg.com/uploads/movies/20261018/v-h-s-mixtape-poster.webp",
       "description": "Một tuyển tập kinh dị hỗn loạn theo phong cách băng VHS, nơi những đoạn phim kỳ quái, ghê rợn và đôi khi đen tối đến mức hài hước nối tiếp nhau như một cuộn băng bị nguyền rủa. Mỗi câu chuyện mở ra một cơn ác mộng khác, nhưng tất cả đều mang chung cảm giác méo mó, bẩn thỉu và không thể đoán trước.",
       "releaseInfo": "2026",
-      "imdbRating": "6.7"
+      "imdbRating": "4.2"
     },
     {
       "id": "tt28535715",
@@ -819,69 +881,6 @@
       "description": "Irwin “Fletch” Fletcher là một phóng viên điều tra chuyên cải trang để bí mật thu thập thông tin cho các vụ án. Trong lúc điều tra một đường dây ma túy, anh bất ngờ được một doanh nhân giàu có thuê giết mình để vợ có thể thừa hưởng tài sản. Nghi ngờ lời đề nghị kỳ quặc, Fletch giả vờ nhận nhiệm vụ rồi âm thầm điều tra thân phận và động cơ của người thuê. Càng tìm hiểu, anh càng phát hiện nhiều bí mật và dấu hiệu cho thấy mình đang bị cuốn vào một âm mưu nguy hiểm.",
       "releaseInfo": "1985",
       "imdbRating": "6.9"
-    },
-    {
-      "id": "tt0110366",
-      "type": "movie",
-      "name": "Những Đứa Trẻ Tinh Nghịch",
-      "poster": "https://phimimg.com/upload/vod/20250424-1/4431e118677ce49c0d1e8567fb5bc472.jpg",
-      "description": "Bộ phim là câu chuyện về một nhóm trẻ con hàng xóm với những ganh ghét, thi thố, giận hờn và cãi vã rất đỗi con nít.",
-      "releaseInfo": "1994",
-      "imdbRating": "6.4"
-    },
-    {
-      "id": "tt6977338",
-      "type": "movie",
-      "name": "Những Cậu Trai \"Ngoan\"",
-      "poster": "https://phimimg.com/uploads/movies/20260921/nhung-cau-trai-ngoan-poster.webp",
-      "description": "Ba cậu nhóc 12 tuổi, cùng hành trình trốn học để tới San Fernando sửa món đồ chơi đã hỏng trước khi cha mẹ của chúng trở về nhà. Sau khi được một người bạn mời tham gia vào bữa biệc “hôn”, Max đã rất háo hức và rủ thêm 2 người bạn là Lucas và Thor tham gia. Tuy nhiên, cậu không biết hôn và quyết định tìm hiểu về vấn đề này, và chiếc flycam của bố Max được dùng để làm công cụ tìm hiểu. Chưa thể quay lén được gì thì chiếc máy bay đã bị đốn hạ và hư hỏng nặng, 3 cậu nhóc phải sửa được nhanh nhất có thể trước khi bị ba mẹ phát hiện.",
-      "releaseInfo": "2019",
-      "imdbRating": "6.7"
-    },
-    {
-      "id": "tt0467200",
-      "type": "movie",
-      "name": "Người Tình Đại Đế",
-      "poster": "https://phimimg.com/uploads/movies/20260921/nguoi-tinh-dai-de-poster.webp",
-      "description": "Người Tình Đại Đế phim tâm lý tình cảm nối về cuộc tranh giành của hai chị em Boleyn. Họ suốt ngày chỉ biết hận thù tranh giành quyền lực trong các mối quan hệ phim có sự tham gia của các diễn viên Natalie Portman, Scarlett Johansson, Eric Bana, Jim Sturgess.",
-      "releaseInfo": "2008",
-      "imdbRating": "6.7"
-    },
-    {
-      "id": "tt3566834",
-      "type": "movie",
-      "name": "Một Bộ Phim Minecraft",
-      "poster": "https://phimimg.com/upload/vod/20250508-1/d43ada4cb5f9a1dbdb9d614406726a53.jpg",
-      "description": "Chào mừng bạn đến với thế giới của Minecraft, nơi sự sáng tạo không chỉ giúp bạn chế tạo mà còn là yếu tố quan trọng để sống sót! Bốn kẻ lạc lõng - Garrett “The Garbage Man” Garrison (Momoa), Henry (Hansen), Natalie (Myers) và Dawn (Brooks) - bất ngờ gặp rắc rối khi họ bị kéo qua cánh cửa bí ẩn dẫn đến Overworld: một thế giới kỳ lạ được tạo bởi những khối lập phương và phát triển nhờ vào trí tưởng tượng. Để trở về nhà, họ cần phải làm chủ được thế giới này (và bảo vệ nó khỏi những thực thể tà ác như Piglins và Thây Ma) trong khi dấn thân vào chuyến phiêu lưu màu nhiệm với một thợ chế tạo chuyên nghiệp và khó lường - Steve (Black). Chuyến hành trình này sẽ thách thức sự can đảm của cả năm người, thúc đẩy họ tìm lại với những phẩm chất làm nên sự đặc biệt của riêng mình,… đồng thời là những kỹ năng cần thiết để trở lại với thế giới thật.",
-      "releaseInfo": "2025",
-      "imdbRating": "5.6"
-    },
-    {
-      "id": "tt4034228",
-      "type": "movie",
-      "name": "Thị Trấn Bên Bờ Biển / Manchester Bên Bờ Biển",
-      "poster": "https://phimimg.com/uploads/movies/20260921/thi-tran-ben-bo-bien-manchester-ben-bo-bien-poster.webp",
-      "description": "Cuộc sống bình lặng của Lee Chandler đột ngột chấm dứt khi anh hay tin anh trai mình, Joe, đã qua đời. Trở về quê nhà, Lee không chỉ phải đối mặt với trách nhiệm nuôi dưỡng người cháu trai, mà còn cả những sai lầm và nuối tiếc của anh trong quá khứ. Biển cả là tình yêu của Lee, nhưng bờ biển Manchesster cũng là nơi chứng kiến nhiều mất mát của anh. Manchester By The Sea nhận được 6 đề cử Oscar 2017, trong đó bao gồm hạng mục Phim hay nhất, Đạo diễn xuất sắc nhất, Nam diễn viên chính xuất sắc nhất và Kịch bản gốc hay nhất.",
-      "releaseInfo": "2016",
-      "imdbRating": "7.8"
-    },
-    {
-      "id": "tt6781982",
-      "type": "movie",
-      "name": "Lớp Bổ Túc Ban Đêm / Lớp Học Người Lớn",
-      "poster": "https://phimimg.com/uploads/movies/20260921/lop-bo-tuc-ban-dem-lop-hoc-nguoi-lon-poster.webp",
-      "description": "Từng bỏ học cấp ba, giờ anh đang học để lấy bằng tốt nghiệp phổ thông nhưng lại mâu thuẫn với một giáo viên nhiệt huyết dạy bổ túc ban đêm và cả thầy hiệu trưởng đầy thù hằn.",
-      "releaseInfo": "2018",
-      "imdbRating": "5.6"
-    },
-    {
-      "id": "tt0098067",
-      "type": "movie",
-      "name": "Làm Cha Làm Mẹ",
-      "poster": "https://phimimg.com/uploads/movies/20260921/lam-cha-lam-me-1989-poster.webp",
-      "description": "Gil Buckman đang cố gắng trở thành một người cha tốt trong khi phải đối mặt với nhiều áp lực từ công việc, hôn nhân và việc nuôi dạy con cái. Gia đình Buckman gồm nhiều thế hệ với những cách nhìn rất khác nhau về tình yêu, trách nhiệm và cuộc sống. Mỗi thành viên đều gặp nhiều vấn đề riêng, từ chuyện học hành, tình cảm tuổi mới lớn đến những khó khăn trong hôn nhân và tài chính. Khi các rắc rối liên tiếp xảy ra, họ buộc phải nhìn lại cách mình đối xử với con cái cũng như từng kỳ vọng dành cho nhau và dần nhận ra không có cách nào hoàn hảo để làm cha mẹ.",
-      "releaseInfo": "1989",
-      "imdbRating": "7.1"
     }
   ]
 }

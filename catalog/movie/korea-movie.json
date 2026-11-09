@@ -1,13 +1,40 @@
 {
   "metas": [
     {
+      "id": "tt29452783",
+      "type": "movie",
+      "name": "Kẻ Hồi Sinh",
+      "poster": "https://phimimg.com/uploads/movies/20261109/ke-hoi-sinh-poster.webp",
+      "description": "Bộ phim xoay quanh Seok Hwan, một thanh niên thất nghiệp bất ngờ bị sát hại sau một buổi phỏng vấn xin việc thất bại. Kỳ tích xảy ra khi anh đột ngột sống lại sau đúng 72 giờ và phát hiện ra bản thân sở hữu năng lực hồi sinh vô hạn, đồng thời cơ thể sẽ trở nên mạnh mẽ hơn sau mỗi lần cận kề cái chết. Tuy nhiên, món quà này sớm biến thành lời nguyền khi anh lọt vào tầm ngắm và bị săn lùng gắt gao bởi một tổ chức bí ẩn.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt42441399",
+      "type": "movie",
+      "name": "Đền La Sát",
+      "poster": "https://phimimg.com/uploads/movies/20261109/den-la-sat-poster.webp",
+      "description": "The Shrine là dự án kinh dị tâm linh giao thoa tín ngưỡng tâm linh Hàn - Nhật điên rồ và quỷ dị! Nhóm sinh viên quốc tế đang làm khảo sát tại ngôi đền bỏ hoang ở Kobe (Nhật Bản) thì một thành viên bỗng chốc hóa rồ rồi đột ngột mất tích bí ẩn kéo theo chuỗi sự kiện kinh hoàng sau đó. Người quản lý dự án - Yu-mi, đành cầu cứu tiền bối cũ Myung-jin - một pháp sư có khả năng nghe thấy tiếng nói của quỷ dữ. Tại hiện trường, Myung-jin đã chạm trán với một thực thể tà ác vô cùng tàn bạo mà anh chưa từng nghĩ tới. Liệu Myung-jin có thể đánh bại được thế lực tà ác ấy và hạ gục được con quỷ đang ngự trị ngay bên trong mình?",
+      "releaseInfo": "2026",
+      "imdbRating": "4.7"
+    },
+    {
+      "id": "tt4680182",
+      "type": "movie",
+      "name": "Cô Gái Và Gã Khổng Lồ",
+      "poster": "https://phimimg.com/uploads/movies/20261108/co-gai-va-ga-khong-lo-poster.webp",
+      "description": "Vừa thất nghiệp lại vừa thất tình, cô nàng tuổi 30 - Gloria rời New York phồn hoa để trở về thị trấn nơi mình lớn lên. Cuộc sống đang ở đỉnh điểm của suy sụp chán nản thì Gloria gặp lại Oscar – cậu bạn cũ từng học chung tiểu học. Và đặc biệt hơn nữa, cô phát hiện ra mối liên hệ kỳ lạ giữa mình và con quái vật khổng lồ đang tàn phá thế giới. Nhận được nhiều lời khen của giới phê bình, Colossal một lần nữa giúp nữ diễn viên sở hữu tượng vàng Oscar Anna Hathaway khẳng định diễn xuất của mình. Phim do Nacho Vigalondo đạo diễn và biên kịch.",
+      "releaseInfo": "2017",
+      "imdbRating": "6.2"
+    },
+    {
       "id": "tt37803364",
       "type": "movie",
       "name": "Khả Thể Của Tình Yêu",
       "poster": "https://phimimg.com/uploads/movies/20261107/kha-the-cua-tinh-yeu-poster.webp",
       "description": "Tình yêu. Đố kỵ. Ham muốn. Khi một người phụ nữ có chồng mất việc đồng ý tham gia một bộ phim tài liệu, cuộc sống của họ đan xen với cuộc sống của đạo diễn và người bạn đời của cô.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7"
+      "imdbRating": "8.0"
     },
     {
       "id": "tt20038778",
@@ -106,7 +133,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260915/tinh-yeu-o-woomukbaemi-poster.webp",
       "description": "Cảm thấy không được coi trọng ở quê nhà, Bae Il-do bỏ trốn lên thành phố và làm thợ may. Vợ anh từng sống dưới sự khắc nghiệt của mẹ kế, làm người giúp việc và tiếp viên quán bar trước khi gặp Il-do rồi sinh cho anh một đứa con. Cô gái trẻ trung, quyến rũ Gong-rye xuất hiện chen ngang giữa họ, lén lút ngoại tình với Il-do trong thời gian cả hai cùng làm việc tại một xưởng may. Những cuộc hẹn hò bí mật của họ chẳng mấy chốc bị lộ và người vợ của Il-do cuối cùng cũng phát hiện ra sự thật...",
       "releaseInfo": "1990",
-      "imdbRating": "6.8"
+      "imdbRating": "6.4"
     },
     {
       "id": "tt8865562",
@@ -866,33 +893,6 @@
       "description": "Khi học giả Jeong Yak-jeon bị lưu đày đến đảo Heuksando trong cuộc đàn áp Công giáo năm 1801, ông đã quyết định viết một cuốn bách khoa toàn thư về các loài cá.",
       "releaseInfo": "2021",
       "imdbRating": "7.5"
-    },
-    {
-      "id": "tt3697626",
-      "type": "movie",
-      "name": "Ngày Đen Tối",
-      "poster": "https://phimimg.com/upload/vod/20260210-1/d764103a2a3ac94b5bc32b8cdab7ab12.jpg",
-      "description": "Thám tử Go Geon-soo đang có một ngày khó khăn, với các sự kiện liên tục xảy ra với anh ta trong ít hơn 24 giờ: Ông nhận được một thông báo ly hôn với vợ. Mẹ ông qua đời. Ông và các đồng nghiệp của ông đang được điều tra bởi các thanh tra cảnh sát trên bị cáo buộc biển thủ. Sau đó, trên đường đến đám tang của mẹ mình, anh lái xe thiếu thận trọng và đã gây tai nạn. Anh cố gắng che đậy vụ tai nạn bằng cách ẩn xác chết của người đàn ông trong quan tài mẹ quá cố của mình. Nhưng anh bắt đầu bị đe dọa bởi một người bí ẩn …",
-      "releaseInfo": "2014",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt10550884",
-      "type": "movie",
-      "name": "Sứ Giả Của Chúa (Bàn Tay Diệt Quỷ)",
-      "poster": "https://phimimg.com/upload/vod/20260210-1/ba30eb47bbf10fac751531c13f2bdd50.jpg",
-      "description": "The Divine Fury kể về một nhà vô địch võ thuật tên Yong Hoo, anh phát hiện ra sức mạnh trừ tà ma ẩn giấu trong mình. Còn rất trẻ, Yong Hoo đã quay lưng lại với Chúa khi lời cầu nguyện tuyệt vọng của anh cho sự sống còn của cha anh không được đáp lại. Rồi một ngày nọ, chàng trai có một vết thương bí ẩn trên lòng bàn tay. Vết thương ấy mở dẫn đến cuộc gặp với một linh mục cấp cao để chống lại các thế lực xấu xa.…",
-      "releaseInfo": "2019",
-      "imdbRating": "6.3"
-    },
-    {
-      "id": "tt38644831",
-      "type": "movie",
-      "name": "Anh Trai Say Xe",
-      "poster": "https://phimimg.com/upload/vod/20251208-1/84eb1a74d6a6eabbb83e99d93b3edc47.jpg",
-      "description": "Sau 24 năm “nói miệng” mà chưa bao giờ làm được, bốn người bạn chí cốt Tae Jung, Do Jin, Yeon Min và Geum Bok cuối cùng cũng thực hiện ước mơ lớn nhất đời mình: một chuyến du lịch nước ngoài đầu tiên cùng nhau. Nhưng đời không như mơ, ngay ngày khởi hành, một “vị khách bí ẩn” tên Ok Shim bất ngờ nhập hội, kéo cả nhóm vào chuỗi tình huống dở khóc dở cười khiến chuyến đi trở thành… ký ức có 1-0-2.",
-      "releaseInfo": "2025",
-      "imdbRating": "6.5"
     }
   ]
 }

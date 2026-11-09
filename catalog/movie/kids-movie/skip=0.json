@@ -1,15 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt2056785",
-      "type": "movie",
-      "name": "Wildwood",
-      "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-      "description": "Hành trình tuyệt vọng của một cô bé nhằm cứu em trai sơ sinh mở ra một cuộc phiêu lưu kỳ ảo đầy hiểm nguy trong khu rừng cấm, nơi có những sinh vật huyền bí, đồng minh đáng mến và kẻ thù đáng gờm, với số phận của cả một vương quốc bí ẩn đang bị đe dọa.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.7"
-    },
-    {
       "id": "tt2380307",
       "type": "movie",
       "name": "Coco: Hội Ngộ Diệu Kỳ",
@@ -17,6 +8,15 @@
       "description": "Coco sẽ kể về hành trình của Miguel, một cậu bé say mê những giai điệu nhưng lại sinh trưởng trong một gia đình cấm đoán sự xuất hiện của âm nhạc. Miguel luôn nung nấu giấc mơ trở thành một nhạc sĩ nổi tiếng giống như thần tượng Ernesto de la Cruz. Tuy nhiên, truyền thống ngang trái của gia đình đã khiến cậu không thể chứng minh tài năng của mình.  Rũ bỏ thực tế phũ phàng, Miguel tìm thấy chính mình ở Vùng Đất Linh Hồn (Land of the Dead) tuyệt đẹp và đầy sắc màu sau một chuỗi sự kiện huyền bí. Trong hành trình khám phá vùng đất mới, Miguel gặp gỡ “chuyên gia xảo quyệt” Hector. Cả hai cùng tạo nên chuyến phiêu lưu kỳ diệu để lật mở những bí mật chưa được tiết lộ về lịch sử của gia đình Miguel.",
       "releaseInfo": "2017",
       "imdbRating": "8.4"
+    },
+    {
+      "id": "tt2056785",
+      "type": "movie",
+      "name": "Wildwood",
+      "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+      "description": "Hành trình tuyệt vọng của một cô bé nhằm cứu em trai sơ sinh mở ra một cuộc phiêu lưu kỳ ảo đầy hiểm nguy trong khu rừng cấm, nơi có những sinh vật huyền bí, đồng minh đáng mến và kẻ thù đáng gờm, với số phận của cả một vương quốc bí ẩn đang bị đe dọa.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.7"
     },
     {
       "id": "tt0107688",
@@ -60,7 +60,8 @@
       "name": "Chàng Mèo Mang Mũ",
       "poster": "https://image.tmdb.org/t/p/w500/jzQ6qAiEOxJNhnZDIBVB0JSSbaP.jpg",
       "description": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
-      "releaseInfo": "2026"
+      "releaseInfo": "2026",
+      "imdbRating": "6.4"
     },
     {
       "id": "tt0327597",
@@ -78,15 +79,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/gf7EeEQe22Zu1u55wRT8EAnav93.jpg",
       "description": "Bộ phim tập trung vào giai đoạn hậu chiến tranh, khi thế giới đang trong quá trình tái thiết và đối mặt với những mối đe dọa mới tinh vi hơn từ các tàn dư chính trị. Aang phải gánh vác trọng trách duy trì sự cân bằng giữa bốn quốc gia, đồng thời đối diện với những áp lực của một Thế Thần trưởng thành. Phim hứa hẹn sẽ khai thác sâu hơn về sức mạnh của Aang ở thời kỳ đỉnh cao và mối quan hệ bền chặt của nhóm bạn sau nhiều năm gắn bó.",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "tt0121164",
-      "type": "movie",
-      "name": "Cô Dâu Ma",
-      "poster": "https://image.tmdb.org/t/p/w500/joxBiYlVBe6FzlwkqCCKOnTkmYF.jpg",
-      "description": "Câu chuyện là bộ phim hoạt hình lãng mạn hài hước: Victor – con trai một gia đình bán cá sắp làm đám cưới với Victoria – con gái của một gia đình quý tộc danh giá đang đến hồi khánh kiệt. Sau buổi “thực tập” cử hành hôn lễ bất thành, Victor đã một mình đi ra cánh rừng hoang vắng để tập dợt vai trò chú rể. Sau khi đọc xong lời nguyền, anh chàng Victor đã vô tình đeo chiếc nhẫn cưới vào một cành cây có hình dạng ngón tay ở một bìa rừng và đọc to lời thề vợ chồng. Không ngờ cành cây đó lại chính là ngón tay của một xác cô gái bị mưu sát đã lâu. Và như một câu chuyện cười có thật, bây giờ xác chết đó nhờ lời thề của Victor mà trở thành người vợ chính thức của anh chàng. Liệu người và ma, trần thế và địa ngục, ở đâu Victor sẽ tìm được tình yêu?",
-      "releaseInfo": "2005",
-      "imdbRating": "7.4"
     },
     {
       "id": "tt32890033",
@@ -107,6 +99,15 @@
       "imdbRating": "7.3"
     },
     {
+      "id": "tt0121164",
+      "type": "movie",
+      "name": "Cô Dâu Ma",
+      "poster": "https://image.tmdb.org/t/p/w500/joxBiYlVBe6FzlwkqCCKOnTkmYF.jpg",
+      "description": "Câu chuyện là bộ phim hoạt hình lãng mạn hài hước: Victor – con trai một gia đình bán cá sắp làm đám cưới với Victoria – con gái của một gia đình quý tộc danh giá đang đến hồi khánh kiệt. Sau buổi “thực tập” cử hành hôn lễ bất thành, Victor đã một mình đi ra cánh rừng hoang vắng để tập dợt vai trò chú rể. Sau khi đọc xong lời nguyền, anh chàng Victor đã vô tình đeo chiếc nhẫn cưới vào một cành cây có hình dạng ngón tay ở một bìa rừng và đọc to lời thề vợ chồng. Không ngờ cành cây đó lại chính là ngón tay của một xác cô gái bị mưu sát đã lâu. Và như một câu chuyện cười có thật, bây giờ xác chết đó nhờ lời thề của Victor mà trở thành người vợ chính thức của anh chàng. Liệu người và ma, trần thế và địa ngục, ở đâu Victor sẽ tìm được tình yêu?",
+      "releaseInfo": "2005",
+      "imdbRating": "7.4"
+    },
+    {
       "id": "tt28650488",
       "type": "movie",
       "name": "Phim Super Mario Thiên Hà",
@@ -123,15 +124,6 @@
       "description": "Sau khi bị một con nhện nhiễm xạ cắn, Miles Morales, chàng thiếu niên từ Brooklyn đã nhận được một khóa học nhanh về cách giăng tơ từ những người ở chiều không gian khác.",
       "releaseInfo": "2018",
       "imdbRating": "8.4"
-    },
-    {
-      "id": "tt1323594",
-      "type": "movie",
-      "name": "Kẻ Trộm Mặt Trăng",
-      "poster": "https://image.tmdb.org/t/p/w500/txfb1LyIEGJ69wTPJUiyufZVN4A.jpg",
-      "description": "Nhân vật tâm điểm của bộ phim là Gru, một tên tội phạm khét tiếng. Gru và đám tay chân robot tí hon chuyên đi đánh cắp những biểu tượng nổi tiếng của thế giới. Thế nhưng tiếng xấu của Gru bị suy giảm khi tên tội phạm trẻ tuổi Vector đã ăn cắp kim tự tháp của Ai Cập. Gru quyết định làm phi vụ có một không hai cho thế giới phải bái phục: ăn cắp mặt trăng. Trước tiên, Gru phải đánh cắp khẩu súng có khả năng thu nhỏ mọi vật từ quân đội. Nhưng Vector đã nẫng tay trên khẩu súng thần kỳ từ Gru. Mọi kế hoạch giành lại cây súng của Gru đều bị Vector đánh bại. Cuối cùng, Gru nghĩ ra cách dùng ba đứa trẻ của viện mồ côi xâm nhập sào huyệt của Vector. Thế nhưng ba đứa trẻ Margo, Edith, Agnes đã cảm hóa Gru bằng sự ngây thơ, hướng thiện của mình.",
-      "releaseInfo": "2010",
-      "imdbRating": "7.6"
     },
     {
       "id": "tt9362722",
@@ -152,13 +144,13 @@
       "imdbRating": "6.1"
     },
     {
-      "id": "tt29552248",
+      "id": "tt0126029",
       "type": "movie",
-      "name": "Cuộc phiêu lưu biến hóa",
-      "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
-      "description": "Một sinh vật nhỏ bé trong rừng và một chú chim oai vệ bất ngờ hoán đổi thân xác, buộc chúng phải hợp sức để sống sót trong chuyến phiêu lưu náo loạn nhất đời mình.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2"
+      "name": "Shrek",
+      "poster": "https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+      "description": "Vương quốc Xa thật xa là nơi các nhân vật cổ tích sinh sống. Shrek, gã chằn xanh đang sống yên bình tại đầm lầy của mình. Bỗng nhiên, khu đầm trở thành nơi \"tị nạn\" của các nhân vật cổ tích đang bị lãnh chúa Farquaad săn đuổi. Để khỏi phải \"chung đụng\" với đám dân ở nhờ ồn ào, Shrek ký giao kèo cùng Farquaad. Gã sẽ đi cứu công chúa Fiona, đang bị giam giữ trong tòa tháp cao vợi, và được rồng canh giữ. Farquaad có được cô dâu trong mộng thì Farquaad phải để các nhân vật cổ tích kia được yên.",
+      "releaseInfo": "2001",
+      "imdbRating": "7.9"
     },
     {
       "id": "tt32333324",
@@ -170,21 +162,21 @@
       "imdbRating": "7.8"
     },
     {
-      "id": "tt0126029",
+      "id": "tt29552248",
       "type": "movie",
-      "name": "Shrek",
-      "poster": "https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
-      "description": "Vương quốc Xa thật xa là nơi các nhân vật cổ tích sinh sống. Shrek, gã chằn xanh đang sống yên bình tại đầm lầy của mình. Bỗng nhiên, khu đầm trở thành nơi \"tị nạn\" của các nhân vật cổ tích đang bị lãnh chúa Farquaad săn đuổi. Để khỏi phải \"chung đụng\" với đám dân ở nhờ ồn ào, Shrek ký giao kèo cùng Farquaad. Gã sẽ đi cứu công chúa Fiona, đang bị giam giữ trong tòa tháp cao vợi, và được rồng canh giữ. Farquaad có được cô dâu trong mộng thì Farquaad phải để các nhân vật cổ tích kia được yên.",
-      "releaseInfo": "2001",
-      "imdbRating": "7.9"
+      "name": "Cuộc phiêu lưu biến hóa",
+      "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+      "description": "Một sinh vật nhỏ bé trong rừng và một chú chim oai vệ bất ngờ hoán đổi thân xác, buộc chúng phải hợp sức để sống sót trong chuyến phiêu lưu náo loạn nhất đời mình.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2"
     },
     {
-      "id": "tt2096673",
+      "id": "tt29623480",
       "type": "movie",
-      "name": "Những Mảnh Ghép Cảm Xúc",
-      "poster": "https://image.tmdb.org/t/p/w500/iSPYSsRnDVyLyWhoGOQA5V4vux4.jpg",
-      "description": "Phim Inside Out là bộ phim dài thứ 15 của Disney và Pixar kể về cô bé tuổi teen bình thường Riley. Như bao bạn bè đồng trang lứa khác, bước vào tuổi dậy thì là một quá trình gian nan với Riley, và cô bé còn bị thử thách bởi một biến cố bất ngờ khi buộc phải chia tay bạn bè, và cuộc sống hiện tại để cùng bố mẹ đến sống tại một thành phố hoàn toàn xa lạ.  Cũng như tất cả chúng ta, Riley chịu sự điều khiển của cảm xúc bên trong tâm trí mình, và với Inside Out, những cảm xúc đó đã được nhân cách hóa thành những nhân vật trên màn ảnh, đó là: Joy (Vui vẻ), Fear (Sợ sệt), Anger (Giận dữ), Sadness (Buồn bã) và Disgust (Chán ghét).",
-      "releaseInfo": "2015",
+      "name": "Robot Hoang Dã",
+      "poster": "https://image.tmdb.org/t/p/w500/fj1ywGV5k8D0qjXyVeEgNyksChq.jpg",
+      "description": "Sau một vụ đắm tàu, robot thông minh tên Roz bị mắc kẹt trên một hòn đảo hoang. Để sống sót trong môi trường khắc nghiệt, Roz gắn kết với các loài động vật trên đảo và chăm sóc một chú ngỗng con mồ côi.",
+      "releaseInfo": "2024",
       "imdbRating": "8.1"
     },
     {
@@ -197,24 +189,6 @@
       "imdbRating": "7.2"
     },
     {
-      "id": "tt0120363",
-      "type": "movie",
-      "name": "Câu Chuyện Đồ Chơi 2",
-      "poster": "https://image.tmdb.org/t/p/w500/9bd3PHt2hZ3DDMRjn28Pmd6ZHqt.jpg",
-      "description": "Câu Chuyện Đồ Chơi 2 là cuộc phiêu lưu của Woody (Tom Hanks lồng tiếng) và Buzz Lightyear (Tim Allen) lại tiếp tục khi chủ nhân của chúng Andy (John Morris) đi tham dự trại hè và để mặc chúng ở nhà tự lo liệu. Woody không may bị một tay buôn bán đồ chơi đánh cắp. Buzz cùng các bạn đồ chơi bèn tìm cách giải cứu Woody. Mọi chuyện tưởng chừng thuận lợi nhưng trong khi bị giam giữ, Woody quen được Jessy - một tay \"cowgirl\". Thế là cả nhóm quyết định đưa luôn Jessy trở về nhà... sau khi trải qua bao khó khăn.",
-      "releaseInfo": "1999",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt29623480",
-      "type": "movie",
-      "name": "Robot Hoang Dã",
-      "poster": "https://image.tmdb.org/t/p/w500/fj1ywGV5k8D0qjXyVeEgNyksChq.jpg",
-      "description": "Sau một vụ đắm tàu, robot thông minh tên Roz bị mắc kẹt trên một hòn đảo hoang. Để sống sót trong môi trường khắc nghiệt, Roz gắn kết với các loài động vật trên đảo và chăm sóc một chú ngỗng con mồ côi.",
-      "releaseInfo": "2024",
-      "imdbRating": "8.1"
-    },
-    {
       "id": "tt14205554",
       "type": "movie",
       "name": "Thợ săn quỷ Kpop",
@@ -224,13 +198,39 @@
       "imdbRating": "7.4"
     },
     {
-      "id": "tt22022452",
+      "id": "tt45922240",
       "type": "movie",
-      "name": "Những Mảnh Ghép Cảm Xúc 2",
-      "poster": "https://image.tmdb.org/t/p/w500/wAIFnJ5OeFU7tTnCWHiROsszS29.jpg",
-      "description": "Những Mảnh Ghép Cảm Xúc 2 sẽ quay trở lại phần tâm trí mới của cô bé thiếu niên Riley. Một ngày, trụ sở chính đột ngột bị phá hủy để nhường chỗ cho một thứ hoàn toàn mới: Một cảm xúc mới! Vui Vẻ, Buồn Bã, Giận Dữ, Sợ Hãi và Chán Ghét phải 'chào đón' sự xuất hiện của một loại cảm xúc mới là Lo Âu. Và có vẻ như cô ấy không chỉ xuất hiện một mình.",
-      "releaseInfo": "2024",
-      "imdbRating": "7.5"
+      "name": "Barbie in the Nutcracker",
+      "poster": "https://image.tmdb.org/t/p/w500/suSGUJNCgdVVjCXcJBDtjKxWTlg.jpg",
+      "description": "Barbie “Brooklyn” Roberts steps into the role of the Sugarplum Princess and Barbie “Malibu” Roberts stars as Clara, as they journey through a musical, magical dreamworld filled with holiday wonder, courage and friendship.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt1323594",
+      "type": "movie",
+      "name": "Kẻ Trộm Mặt Trăng",
+      "poster": "https://image.tmdb.org/t/p/w500/txfb1LyIEGJ69wTPJUiyufZVN4A.jpg",
+      "description": "Nhân vật tâm điểm của bộ phim là Gru, một tên tội phạm khét tiếng. Gru và đám tay chân robot tí hon chuyên đi đánh cắp những biểu tượng nổi tiếng của thế giới. Thế nhưng tiếng xấu của Gru bị suy giảm khi tên tội phạm trẻ tuổi Vector đã ăn cắp kim tự tháp của Ai Cập. Gru quyết định làm phi vụ có một không hai cho thế giới phải bái phục: ăn cắp mặt trăng. Trước tiên, Gru phải đánh cắp khẩu súng có khả năng thu nhỏ mọi vật từ quân đội. Nhưng Vector đã nẫng tay trên khẩu súng thần kỳ từ Gru. Mọi kế hoạch giành lại cây súng của Gru đều bị Vector đánh bại. Cuối cùng, Gru nghĩ ra cách dùng ba đứa trẻ của viện mồ côi xâm nhập sào huyệt của Vector. Thế nhưng ba đứa trẻ Margo, Edith, Agnes đã cảm hóa Gru bằng sự ngây thơ, hướng thiện của mình.",
+      "releaseInfo": "2010",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt2096673",
+      "type": "movie",
+      "name": "Những Mảnh Ghép Cảm Xúc",
+      "poster": "https://image.tmdb.org/t/p/w500/iSPYSsRnDVyLyWhoGOQA5V4vux4.jpg",
+      "description": "Phim Inside Out là bộ phim dài thứ 15 của Disney và Pixar kể về cô bé tuổi teen bình thường Riley. Như bao bạn bè đồng trang lứa khác, bước vào tuổi dậy thì là một quá trình gian nan với Riley, và cô bé còn bị thử thách bởi một biến cố bất ngờ khi buộc phải chia tay bạn bè, và cuộc sống hiện tại để cùng bố mẹ đến sống tại một thành phố hoàn toàn xa lạ.  Cũng như tất cả chúng ta, Riley chịu sự điều khiển của cảm xúc bên trong tâm trí mình, và với Inside Out, những cảm xúc đó đã được nhân cách hóa thành những nhân vật trên màn ảnh, đó là: Joy (Vui vẻ), Fear (Sợ sệt), Anger (Giận dữ), Sadness (Buồn bã) và Disgust (Chán ghét).",
+      "releaseInfo": "2015",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0120363",
+      "type": "movie",
+      "name": "Câu Chuyện Đồ Chơi 2",
+      "poster": "https://image.tmdb.org/t/p/w500/9bd3PHt2hZ3DDMRjn28Pmd6ZHqt.jpg",
+      "description": "Câu Chuyện Đồ Chơi 2 là cuộc phiêu lưu của Woody (Tom Hanks lồng tiếng) và Buzz Lightyear (Tim Allen) lại tiếp tục khi chủ nhân của chúng Andy (John Morris) đi tham dự trại hè và để mặc chúng ở nhà tự lo liệu. Woody không may bị một tay buôn bán đồ chơi đánh cắp. Buzz cùng các bạn đồ chơi bèn tìm cách giải cứu Woody. Mọi chuyện tưởng chừng thuận lợi nhưng trong khi bị giam giữ, Woody quen được Jessy - một tay \"cowgirl\". Thế là cả nhóm quyết định đưa luôn Jessy trở về nhà... sau khi trải qua bao khó khăn.",
+      "releaseInfo": "1999",
+      "imdbRating": "7.9"
     },
     {
       "id": "tt6718170",
@@ -251,21 +251,13 @@
       "imdbRating": "8.3"
     },
     {
-      "id": "tt2948356",
+      "id": "tt22022452",
       "type": "movie",
-      "name": "Phi Vụ Động Trời",
-      "poster": "https://image.tmdb.org/t/p/w500/oy5mQVAmswPFwLGsDFclJvlZRkc.jpg",
-      "description": "Trong phim này, Zootopia là một thành phố kì lạ không giống bất kì thành phố nào trước đây của hãng Walt Disney sáng chế. Đây là khu đô thị vui vẻ của các loài động vật, từ voi, tê giác, cho đến những loài nhỏ bé như chuột, thỏ, cún. Cho đến một ngày cô cảnh sát thỏ Judy Hopps xuất hiện, thành phố Zootopia đã có những thay đổi rất là khác. Cô cùng người bạn đồng hành là chú cáo đầy “tiểu xảo” Nick Widle, đã cùng nhau phiêu lưu trong một vụ kỳ án, với mong muốn thiết lập lại trật tự cho thành phố zootopia.",
-      "releaseInfo": "2016",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt36841161",
-      "type": "movie",
-      "name": "Shaun the Sheep: \"Quái Lạ\" Ghé Nhà",
-      "poster": "https://image.tmdb.org/t/p/w500/4XDUPhEjxLRyCUU5uB4XgE6kOBE.jpg",
-      "description": "Những chú cừu thông minh đã sẵn sàng cho một ngày bình thường… cho đến khi một vị khách không-mấy-bình-thường xuất hiện.",
-      "releaseInfo": "2026"
+      "name": "Những Mảnh Ghép Cảm Xúc 2",
+      "poster": "https://image.tmdb.org/t/p/w500/wAIFnJ5OeFU7tTnCWHiROsszS29.jpg",
+      "description": "Những Mảnh Ghép Cảm Xúc 2 sẽ quay trở lại phần tâm trí mới của cô bé thiếu niên Riley. Một ngày, trụ sở chính đột ngột bị phá hủy để nhường chỗ cho một thứ hoàn toàn mới: Một cảm xúc mới! Vui Vẻ, Buồn Bã, Giận Dữ, Sợ Hãi và Chán Ghét phải 'chào đón' sự xuất hiện của một loại cảm xúc mới là Lo Âu. Và có vẻ như cô ấy không chỉ xuất hiện một mình.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.5"
     },
     {
       "id": "tt27613895",
@@ -277,40 +269,12 @@
       "imdbRating": "6.6"
     },
     {
-      "id": "tt0198781",
+      "id": "tt36841161",
       "type": "movie",
-      "name": "Công Ty Quái Vật",
-      "poster": "https://image.tmdb.org/t/p/w500/6GR1pSdLBa2ktKizMogoW73n3US.jpg",
-      "description": "Bộ phim nói về một ngôi làng chỉ toàn là Monsters sinh sống. Và trong ngôi làng đó có một xưởng sản xuất mang tên gọi là Monster, Inc. là một xưởng sản xuất điện cho cả thành phố. Còn điện thì đến từ... \"tiếng thét\" của các em bé bị các Monsters nhát ma. Và trong số những anh chàng Monsters thuộc hàng sao của hãng , chuyên thu thập nhiều điện nhất là Sulley và anh chàng một mắt bé xíu, một trợ lý đắc lực Mike... Thành phố này có cuộc sống bình thường cho đến một ngày... hai chàng gặp đối thủ của mình.... Và từ những tranh chấp đó, một cô bé con đã tình cờ lạc vào xứ sở Monster, gây nên nỗi kinh hoàng cho tất cả mọi người. Nhưng điều lý thú là cô bé này lại lạc vào tay anh chàng Monster nổi tiếng dữ dằn nhất...",
-      "releaseInfo": "2001",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt0382932",
-      "type": "movie",
-      "name": "Chú Chuột Đầu Bếp",
-      "poster": "https://image.tmdb.org/t/p/w500/rkrU5jFUJ02NAxoU2GVdWsd1Hh6.jpg",
-      "description": "Remy là một chú chuột có lòng yêu thích ẩm thực và mong muốn được đến Paris để thực hiện ước mơ trở thành đầu bếp nổi tiếng. Tuy bị gia đình ngăn cản nhưng cuối cùng Remy cũng đặt chân được đến kinh đô ánh sáng và bắt đầu cuộc phiêu lưu của mình.  Tại đây, Remy quen Linguini - cậu con trai của thần tượng đồng thời là bếp trưởng nổi tiếng của nhà hàng Gusteau. Remy và Linguini trở thành cặp bài trùng trong việc chế biến các món ăn mới lạ, đồng thời chứng mình quan niệm của Gusteau: \"Ai cũng có thể nấu ăn ngon\".",
-      "releaseInfo": "2007",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt38807889",
-      "type": "movie",
-      "name": "Mia Ở Trường Quái Vật",
-      "poster": "https://image.tmdb.org/t/p/w500/rlAFhlAdaUoujDxWRxBCVwM8esY.jpg",
-      "description": "Sau hàng loạt rắc rối ở trường, Mia 12 tuổi cùng chú chuột cưng xù xì Quentin bị gửi đến Học viện Rotwood bí ẩn. Nhưng nơi đây toàn là quái vật, và Mia phải tìm cách thoát ra trước khi mọi người phát hiện cô chỉ là một cô bé loài người — đặc biệt là thầy hiệu phó Van Vlad, kẻ cực kỳ căm ghét con người.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.0"
-    },
-    {
-      "id": "tt45922240",
-      "type": "movie",
-      "name": "Barbie in the Nutcracker",
-      "poster": "https://image.tmdb.org/t/p/w500/suSGUJNCgdVVjCXcJBDtjKxWTlg.jpg",
-      "description": "Barbie “Brooklyn” Roberts steps into the role of the Sugarplum Princess and Barbie “Malibu” Roberts stars as Clara, as they journey through a musical, magical dreamworld filled with holiday wonder, courage and friendship.",
-      "releaseInfo": "2026",
-      "imdbRating": "4.4"
+      "name": "Shaun the Sheep: \"Quái Lạ\" Ghé Nhà",
+      "poster": "https://image.tmdb.org/t/p/w500/4XDUPhEjxLRyCUU5uB4XgE6kOBE.jpg",
+      "description": "Những chú cừu thông minh đã sẵn sàng cho một ngày bình thường… cho đến khi một vị khách không-mấy-bình-thường xuất hiện.",
+      "releaseInfo": "2026"
     },
     {
       "id": "tt0266543",
@@ -322,22 +286,22 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt0110357",
+      "id": "tt0382932",
       "type": "movie",
-      "name": "Vua Sư Tử",
-      "poster": "https://image.tmdb.org/t/p/w500/AsGpIREstvwExc3UqczmIPP4pay.jpg",
-      "description": "Lấy bối cảnh là khu vực rừng hoang Phi Châu, bộ phim đã xây dựng nên cả một xã hội có tổ chức của thế giới loài vật. Trong xã hội ấy cũng có những mâu thuẫn, cũng có tranh chấp và có cả tình yêu như thế giới loài người. Nhân vật chính của Vua sư tử là chú sư tử con Simba, con trai của Mufasa vị vua đang thống trị thế giới hoang dã ở đây. Cuộc sống hạnh phúc yêu đời bên cạnh cha mẹ và cô bạn Nala của cậu sớm chấm dứt khi người chú ruột Scar có âm mưu cướp ngai vàng của cha cậu....",
-      "releaseInfo": "1994",
-      "imdbRating": "8.5"
+      "name": "Chú Chuột Đầu Bếp",
+      "poster": "https://image.tmdb.org/t/p/w500/rkrU5jFUJ02NAxoU2GVdWsd1Hh6.jpg",
+      "description": "Remy là một chú chuột có lòng yêu thích ẩm thực và mong muốn được đến Paris để thực hiện ước mơ trở thành đầu bếp nổi tiếng. Tuy bị gia đình ngăn cản nhưng cuối cùng Remy cũng đặt chân được đến kinh đô ánh sáng và bắt đầu cuộc phiêu lưu của mình.  Tại đây, Remy quen Linguini - cậu con trai của thần tượng đồng thời là bếp trưởng nổi tiếng của nhà hàng Gusteau. Remy và Linguini trở thành cặp bài trùng trong việc chế biến các món ăn mới lạ, đồng thời chứng mình quan niệm của Gusteau: \"Ai cũng có thể nấu ăn ngon\".",
+      "releaseInfo": "2007",
+      "imdbRating": "8.1"
     },
     {
-      "id": "tt0413267",
+      "id": "tt0198781",
       "type": "movie",
-      "name": "Shrek 3",
-      "poster": "https://image.tmdb.org/t/p/w500/n4SexGGQzI26E269tfpa80MZaGV.jpg",
-      "description": "Nội dung “Shrek 3” nói về Shrek sau khi đã yên vị phò mã bên nàng công chúa Fiona (đã không còn xinh đẹp). Anh nghiêm túc nhận ra và gánh vác những trách nhiệm mới mà cuộc sống mang lại: trách nhiệm của một vị vua trong tương lai và trách nhiệm của người chồng chăm lo cho cuộc sống gia đình. Đức vua Harold, trong lốt một chú ếch, lâm trọng bệnh và qua đời, để lại cho Shrek trọng trách gánh vác giang sơn, Shrek tự nhận thấy mình không thể làm được một vị vua tài giỏi, đã một mực từ chối trách nhiệm. Nhưng sự đời thật khó biết đến chữ “ngờ”… Tiếp nối nội dung của câu chuyện ở phần 1 và 2, Shrek 3 đưa khán giả theo chân những nhân vật cổ tích tham gia một chuyến phiêu lưu mới không ít những tình huống dở khóc dở cười. Bộ phim đã đạt được nhiều đề cử danh giá cho phim hoạt hình xuất sắc nhất ở các giải thưởng lớn như Kid’s Choice Award hay BAFTA Award.",
-      "releaseInfo": "2007",
-      "imdbRating": "6.1"
+      "name": "Công Ty Quái Vật",
+      "poster": "https://image.tmdb.org/t/p/w500/6GR1pSdLBa2ktKizMogoW73n3US.jpg",
+      "description": "Bộ phim nói về một ngôi làng chỉ toàn là Monsters sinh sống. Và trong ngôi làng đó có một xưởng sản xuất mang tên gọi là Monster, Inc. là một xưởng sản xuất điện cho cả thành phố. Còn điện thì đến từ... \"tiếng thét\" của các em bé bị các Monsters nhát ma. Và trong số những anh chàng Monsters thuộc hàng sao của hãng , chuyên thu thập nhiều điện nhất là Sulley và anh chàng một mắt bé xíu, một trợ lý đắc lực Mike... Thành phố này có cuộc sống bình thường cho đến một ngày... hai chàng gặp đối thủ của mình.... Và từ những tranh chấp đó, một cô bé con đã tình cờ lạc vào xứ sở Monster, gây nên nỗi kinh hoàng cho tất cả mọi người. Nhưng điều lý thú là cô bé này lại lạc vào tay anh chàng Monster nổi tiếng dữ dằn nhất...",
+      "releaseInfo": "2001",
+      "imdbRating": "8.1"
     },
     {
       "id": "tt2245084",
@@ -349,13 +313,13 @@
       "imdbRating": "7.8"
     },
     {
-      "id": "tt1049413",
+      "id": "tt2948356",
       "type": "movie",
-      "name": "Vút Bay",
-      "poster": "https://image.tmdb.org/t/p/w500/y8zhQBzsNt7cyLdYkOdPnzOL9Ez.jpg",
-      "description": "Ông già Carl quyết hoàn thành chuyến đi ấp ủ cả đời tới Thác thiên đường bằng ngôi nhà kết hàng nghìn quả bóng bay. Ngay khi vừa \"cất cánh\", ông phát hiện ra người đồng hành bất đắc dĩ: Cậu bé hướng đạo sinh Russell lắm mồm. Kể từ đây, cuộc phiêu lưu kì thú của 2 ông cháu diễn ra với biết bao bất ngờ cùng nguy hiểm rình rập...",
-      "releaseInfo": "2009",
-      "imdbRating": "8.3"
+      "name": "Phi Vụ Động Trời",
+      "poster": "https://image.tmdb.org/t/p/w500/oy5mQVAmswPFwLGsDFclJvlZRkc.jpg",
+      "description": "Trong phim này, Zootopia là một thành phố kì lạ không giống bất kì thành phố nào trước đây của hãng Walt Disney sáng chế. Đây là khu đô thị vui vẻ của các loài động vật, từ voi, tê giác, cho đến những loài nhỏ bé như chuột, thỏ, cún. Cho đến một ngày cô cảnh sát thỏ Judy Hopps xuất hiện, thành phố Zootopia đã có những thay đổi rất là khác. Cô cùng người bạn đồng hành là chú cáo đầy “tiểu xảo” Nick Widle, đã cùng nhau phiêu lưu trong một vụ kỳ án, với mong muốn thiết lập lại trật tự cho thành phố zootopia.",
+      "releaseInfo": "2016",
+      "imdbRating": "8.0"
     },
     {
       "id": "tt0910970",
@@ -367,6 +331,42 @@
       "imdbRating": "8.4"
     },
     {
+      "id": "tt0892791",
+      "type": "movie",
+      "name": "Shrek: Cuộc Phiêu Lưu Cuối Cùng",
+      "poster": "https://image.tmdb.org/t/p/w500/mfWoG5YtmnhCRAmQUsQxepiapcs.jpg",
+      "description": "Cuộc sống Shrek giờ hoàn toàn thay đổi sau cuộc gặp gỡ định mệnh với công chúa Fiona. Thay vì khiến mọi người sợ hãi như trước đây, anh giờ đây đã trở thành một người chuyên giải quyết rắc rối cho người khác. Chính vì thế cuộc sống của Shrek bị đảo lộn, anh không còn cảm thấy tự do như trước. Bữa tiệc sinh nhật các con của Shrek thành giọt nước làm tràn ly khi mọi người bắt chàng ta mua vui cho trẻ nhỏ. Shrek bỏ đi và vướng vào bẫy do tên lừa đảo Rumpelstiltskin giăng ra: anh chàng ước có một ngày làm chằn tình như xưa để mọi người phải sợ hãi mình. Cái giá phải trả là Rumpelstiltskin tước đi ngày Shrek ra đời, nghĩa là gã chằn tinh tên Shrek không hề tồn tại.",
+      "releaseInfo": "2010",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt38807889",
+      "type": "movie",
+      "name": "Mia Ở Trường Quái Vật",
+      "poster": "https://image.tmdb.org/t/p/w500/rlAFhlAdaUoujDxWRxBCVwM8esY.jpg",
+      "description": "Sau hàng loạt rắc rối ở trường, Mia 12 tuổi cùng chú chuột cưng xù xì Quentin bị gửi đến Học viện Rotwood bí ẩn. Nhưng nơi đây toàn là quái vật, và Mia phải tìm cách thoát ra trước khi mọi người phát hiện cô chỉ là một cô bé loài người — đặc biệt là thầy hiệu phó Van Vlad, kẻ cực kỳ căm ghét con người.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt1049413",
+      "type": "movie",
+      "name": "Vút Bay",
+      "poster": "https://image.tmdb.org/t/p/w500/y8zhQBzsNt7cyLdYkOdPnzOL9Ez.jpg",
+      "description": "Ông già Carl quyết hoàn thành chuyến đi ấp ủ cả đời tới Thác thiên đường bằng ngôi nhà kết hàng nghìn quả bóng bay. Ngay khi vừa \"cất cánh\", ông phát hiện ra người đồng hành bất đắc dĩ: Cậu bé hướng đạo sinh Russell lắm mồm. Kể từ đây, cuộc phiêu lưu kì thú của 2 ông cháu diễn ra với biết bao bất ngờ cùng nguy hiểm rình rập...",
+      "releaseInfo": "2009",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt0110357",
+      "type": "movie",
+      "name": "Vua Sư Tử",
+      "poster": "https://image.tmdb.org/t/p/w500/AsGpIREstvwExc3UqczmIPP4pay.jpg",
+      "description": "Lấy bối cảnh là khu vực rừng hoang Phi Châu, bộ phim đã xây dựng nên cả một xã hội có tổ chức của thế giới loài vật. Trong xã hội ấy cũng có những mâu thuẫn, cũng có tranh chấp và có cả tình yêu như thế giới loài người. Nhân vật chính của Vua sư tử là chú sư tử con Simba, con trai của Mufasa vị vua đang thống trị thế giới hoang dã ở đây. Cuộc sống hạnh phúc yêu đời bên cạnh cha mẹ và cô bạn Nala của cậu sớm chấm dứt khi người chú ruột Scar có âm mưu cướp ngai vàng của cha cậu....",
+      "releaseInfo": "1994",
+      "imdbRating": "8.5"
+    },
+    {
       "id": "tt2294629",
       "type": "movie",
       "name": "Nữ Hoàng Băng Giá",
@@ -376,13 +376,13 @@
       "imdbRating": "7.4"
     },
     {
-      "id": "tt39730506",
+      "id": "tt0413267",
       "type": "movie",
-      "name": "Treasure Trekkers",
-      "poster": "https://image.tmdb.org/t/p/w500/vYBoaaExygl2OGlwoGqDlQ6CjBo.jpg",
-      "description": "A 12-year-old monkey called Mip struggles to find his place in a world dominated by cats and rodents. A magic map sets him on a perilous quest in search of his roots in the distant land of Empathra and a journey that will teach him that kindness is a superpower.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.2"
+      "name": "Shrek 3",
+      "poster": "https://image.tmdb.org/t/p/w500/n4SexGGQzI26E269tfpa80MZaGV.jpg",
+      "description": "Nội dung “Shrek 3” nói về Shrek sau khi đã yên vị phò mã bên nàng công chúa Fiona (đã không còn xinh đẹp). Anh nghiêm túc nhận ra và gánh vác những trách nhiệm mới mà cuộc sống mang lại: trách nhiệm của một vị vua trong tương lai và trách nhiệm của người chồng chăm lo cho cuộc sống gia đình. Đức vua Harold, trong lốt một chú ếch, lâm trọng bệnh và qua đời, để lại cho Shrek trọng trách gánh vác giang sơn, Shrek tự nhận thấy mình không thể làm được một vị vua tài giỏi, đã một mực từ chối trách nhiệm. Nhưng sự đời thật khó biết đến chữ “ngờ”… Tiếp nối nội dung của câu chuyện ở phần 1 và 2, Shrek 3 đưa khán giả theo chân những nhân vật cổ tích tham gia một chuyến phiêu lưu mới không ít những tình huống dở khóc dở cười. Bộ phim đã đạt được nhiều đề cử danh giá cho phim hoạt hình xuất sắc nhất ở các giải thưởng lớn như Kid’s Choice Award hay BAFTA Award.",
+      "releaseInfo": "2007",
+      "imdbRating": "6.1"
     },
     {
       "id": "tt2262227",
@@ -394,22 +394,12 @@
       "imdbRating": "7.2"
     },
     {
-      "id": "tt0317705",
+      "id": "tt39730506",
       "type": "movie",
-      "name": "Gia Đình Siêu Nhân",
-      "poster": "https://image.tmdb.org/t/p/w500/jr49gG4vTULgWU6gsyWsso5PEap.jpg",
-      "description": "Một gia đình gồm các siêu anh hùng gần như đã nghỉ hưu, hơi thừa cân và cố gắng sống sót trong cuộc sống hàng ngày khắc nghiệt, bị buộc phải hành động ... chỉ đơn giản là để cứu thế giới. Bob Paar từng là một trong những siêu anh hùng vĩ đại nhất thế giới (anh ta còn được gọi là \"Mr. Incredible\"), cứu mạng và chiến đấu với những kẻ ác hàng ngày. Mười lăm năm đã trôi qua, và Bob và vợ (một cựu siêu anh hùng nổi tiếng ở bên phải) đã nhận được một bản sắc dân sự và lui về ngoại vi để sống một cuộc sống bình thường với ba đứa con của họ. Bob kiểm tra thời hạn yêu cầu bảo hiểm và chống lại sự nhàm chán và tình yêu. Anh ta háo hức muốn trở lại hành động, vì vậy khi nhận được một liên lạc bí ẩn ra lệnh cho anh ta đến một hòn đảo xa xôi để thực hiện một nhiệm vụ tối mật, anh ta đã không nghĩ hai lần.",
-      "releaseInfo": "2004",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt49317723",
-      "type": "movie",
-      "name": "Hot Wheels Let's Race: Attack of the T-Rex",
-      "poster": "https://image.tmdb.org/t/p/w500/iIc0OkYnf06kv5Zp0IYVwuvffgh.jpg",
-      "description": "When a giant T-Rex threatens Hot Wheels City, it's up to Coop and his friends to race to the rescue and save the day.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.7"
+      "name": "Treasure Trekkers",
+      "poster": "https://image.tmdb.org/t/p/w500/vYBoaaExygl2OGlwoGqDlQ6CjBo.jpg",
+      "description": "A 12-year-old monkey called Mip struggles to find his place in a world dominated by cats and rodents. A magic map sets him on a perilous quest in search of his roots in the distant land of Empathra and a journey that will teach him that kindness is a superpower.",
+      "releaseInfo": "2026"
     },
     {
       "id": "tt3915174",
@@ -421,13 +411,22 @@
       "imdbRating": "7.9"
     },
     {
-      "id": "tt1482459",
+      "id": "tt0317705",
       "type": "movie",
-      "name": "Thần Lorax",
-      "poster": "https://image.tmdb.org/t/p/w500/dGFVT19gg2CGQ2Kydd9Hh6DrChP.jpg",
-      "description": "Trong bản chuyển thể từ tác phẩm kinh điển của Dr. Seuss này, Thần Lorax sống trong rừng phải ngăn anh chàng thiển cận Once-ler không phá hoại môi trường để kiếm lợi.",
-      "releaseInfo": "2012",
-      "imdbRating": "6.4"
+      "name": "Gia Đình Siêu Nhân",
+      "poster": "https://image.tmdb.org/t/p/w500/jr49gG4vTULgWU6gsyWsso5PEap.jpg",
+      "description": "Một gia đình gồm các siêu anh hùng gần như đã nghỉ hưu, hơi thừa cân và cố gắng sống sót trong cuộc sống hàng ngày khắc nghiệt, bị buộc phải hành động ... chỉ đơn giản là để cứu thế giới. Bob Paar từng là một trong những siêu anh hùng vĩ đại nhất thế giới (anh ta còn được gọi là \"Mr. Incredible\"), cứu mạng và chiến đấu với những kẻ ác hàng ngày. Mười lăm năm đã trôi qua, và Bob và vợ (một cựu siêu anh hùng nổi tiếng ở bên phải) đã nhận được một bản sắc dân sự và lui về ngoại vi để sống một cuộc sống bình thường với ba đứa con của họ. Bob kiểm tra thời hạn yêu cầu bảo hiểm và chống lại sự nhàm chán và tình yêu. Anh ta háo hức muốn trở lại hành động, vì vậy khi nhận được một liên lạc bí ẩn ra lệnh cho anh ta đến một hòn đảo xa xôi để thực hiện một nhiệm vụ tối mật, anh ta đã không nghĩ hai lần.",
+      "releaseInfo": "2004",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt0435761",
+      "type": "movie",
+      "name": "Câu Chuyện Đồ Chơi 3",
+      "poster": "https://image.tmdb.org/t/p/w500/1X96GIP5RAErgDXjH0ZP1anv0m1.jpg",
+      "description": "Cậu bé Andy ngày nào nay đã trở thành người lớn sắp sửa phải bước vào ngưỡng cửa đại học. Đống đồ chơi của cậu, bao gồm cả Woody và Buzz Lightyear, bị đưa vào nhà kho. Và trước khi chúng bị tống lên gác mái, bố mẹ cậu vô tình ném chúng đi. Kết quả là một người dọn rác đã đem những món đồ chơi đó đến Sunnyside, một trung tâm vui chơi dành cho trẻ em, và khi tiếng hô “Đồ chơi mới!” được cất lên là lũ trẻ xông vào tranh giành nhau Ken, Barbie, ông Đầu khoai tây và Buzz Lightyear… Vừa cố gắng tồn tại ở trường tiểu học đáng sợ đó, những nhân vật đồ chơi của chúng ta vừa tìm cách quay trở lại ngôi nhà thân thương nơi có cậu chủ Andy vẫn đang chờ đợi chúng. Trải qua rất nhiều chuyến phiêu lưu, cuối cùng họ cũng được trở về nhà, một đoạn kết thực sự cảm động khiến mọi người không cầm được nước mắt trước tình cảm gắn bó của Andy và những món đồ chơi…",
+      "releaseInfo": "2010",
+      "imdbRating": "8.3"
     },
     {
       "id": "tt0398286",
@@ -439,48 +438,13 @@
       "imdbRating": "7.7"
     },
     {
-      "id": "tt0892791",
+      "id": "tt49317723",
       "type": "movie",
-      "name": "Shrek: Cuộc Phiêu Lưu Cuối Cùng",
-      "poster": "https://image.tmdb.org/t/p/w500/mfWoG5YtmnhCRAmQUsQxepiapcs.jpg",
-      "description": "Cuộc sống Shrek giờ hoàn toàn thay đổi sau cuộc gặp gỡ định mệnh với công chúa Fiona. Thay vì khiến mọi người sợ hãi như trước đây, anh giờ đây đã trở thành một người chuyên giải quyết rắc rối cho người khác. Chính vì thế cuộc sống của Shrek bị đảo lộn, anh không còn cảm thấy tự do như trước. Bữa tiệc sinh nhật các con của Shrek thành giọt nước làm tràn ly khi mọi người bắt chàng ta mua vui cho trẻ nhỏ. Shrek bỏ đi và vướng vào bẫy do tên lừa đảo Rumpelstiltskin giăng ra: anh chàng ước có một ngày làm chằn tình như xưa để mọi người phải sợ hãi mình. Cái giá phải trả là Rumpelstiltskin tước đi ngày Shrek ra đời, nghĩa là gã chằn tinh tên Shrek không hề tồn tại.",
-      "releaseInfo": "2010",
-      "imdbRating": "6.4"
-    },
-    {
-      "id": "tt13622970",
-      "type": "movie",
-      "name": "Hành Trình Của Moana 2",
-      "poster": "https://image.tmdb.org/t/p/w500/g8ikn2lfi4R04U7BtXvHmYvnUTV.jpg",
-      "description": "“Hành Trình của Moana 2” là màn tái hợp của Moana và Maui sau 3 năm, trở lại trong chuyến phiêu lưu cùng với những thành viên mới. Theo tiếng gọi của tổ tiên, Moana sẽ tham gia cuộc hành trình đến những vùng biển xa xôi của Châu Đại Dương và sẽ đi tới vùng biển nguy hiểm, đã mất tích từ lâu. Cùng chờ đón cuộc phiêu lưu của Moana đầy chông gai sắp tới nhé.",
-      "releaseInfo": "2024",
-      "imdbRating": "6.3"
-    },
-    {
-      "id": "tt0029583",
-      "type": "movie",
-      "name": "Nàng Bạch Tuyết và Bảy Chú Lùn",
-      "poster": "https://image.tmdb.org/t/p/w500/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg",
-      "description": "Câu chuyện kể về một người mẹ kế đã đang tâm tìm mọi cách để hãm hại con chồng. Vì ghen tị với sắc đẹp của Bạch Tuyết, bà hoàng hậu độc ác đã không từ mọi thủ đoạn xấu xa nhất... Đây là một trong những bộ phim khá thành công của hãng Walt Disney. Mở đầu cho loạt âm mưu thâm độc của bà hoàng hậu là việc sắp đặt cho người thợ săn đưa người con chồng vào rừng để giết chết.May mắn thay, nhờ lòng tốt của người thợ săn, Bạch Tuyết đã được giải thoát. Lạc vào rừng sâu, cô tìm thấy nhà của bảy chú tốt bụng. Sự hiện diện của Bạch Tuyết trong ngôi nhà vốn thiếu bàn tay chăm sóc đã khiến cho cuộc sống của những chú lùn này thay đổi hoàn toàn.",
-      "releaseInfo": "1938",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt7510222",
-      "type": "movie",
-      "name": "Kẻ Trộm Mặt Trăng 4",
-      "poster": "https://image.tmdb.org/t/p/w500/lYr8DyAz9HeQX4ZFOhYWEYwKe2h.jpg",
-      "description": "Tiếp nối những sự kiện trong phần ba Despicable Me 3 (2017), giờ đây Gru (Steve Carrell lồng tiếng) đã hoàn lương, hạn chế tham gia các hoạt động phi pháp. Ngoài vợ Lucy Wilde và các cô con gái nuôi Margo, Edith, Agnes, giờ đây gia đình Gru còn đón thêm thành viên mới là nhóc tì Gru Junior - con trai đầu lòng của anh. Tuy nhiên, sự an toàn của gia đình Gru nhanh chóng bị đe dọa khi kẻ thù cũ của anh là Maxime Le Mal (Will Ferrell lồng tiếng) đã trốn khỏi nhà tù, hắn lên kế hoạch trả thù và thanh toán nợ cũ với Gru. Đồng hành với Maxime còn có người yêu Valentina của gã. Do đó, Gru buộc phải đứng lên đối mặt với kẻ thù để bảo vệ gia đình và các Minions.",
-      "releaseInfo": "2024",
-      "imdbRating": "6.2"
-    },
-    {
-      "id": "tt38077943",
-      "type": "movie",
-      "name": "Hexed: Thế Giới Phép Thuật",
-      "poster": "https://image.tmdb.org/t/p/w500/kaujVsr4qhsVyQurU1TDG4y477I.jpg",
-      "description": "Một cô gái tuổi teen khác biệt phát hiện mình sở hữu những năng lực phép thuật bí mật. Khi sức mạnh ấy được giải phóng, cô bị cuốn vào một hành trình choáng ngợp qua thế giới ẩn giấu của các phù thủy.",
-      "releaseInfo": "2026"
+      "name": "Hot Wheels Let's Race: Attack of the T-Rex",
+      "poster": "https://image.tmdb.org/t/p/w500/iIc0OkYnf06kv5Zp0IYVwuvffgh.jpg",
+      "description": "When a giant T-Rex threatens Hot Wheels City, it's up to Coop and his friends to race to the rescue and save the day.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.7"
     },
     {
       "id": "tt0268380",
@@ -510,13 +474,31 @@
       "imdbRating": "7.3"
     },
     {
-      "id": "tt0448694",
+      "id": "tt7510222",
       "type": "movie",
-      "name": "Mèo Đi Hia",
-      "poster": "https://image.tmdb.org/t/p/w500/nG2TrkvdZB7HIC7IcOFmBvNaJG.jpg",
-      "description": "Gã mèo trong truyền thuyết hướng đến Xứ Sở Người Khổng Lồ với các bạn Humpty Dumpty và Kitty Găng Nhung trong nhiệm vụ giành lấy kho báu lớn nhất nơi đây: Con Ngỗng Vàng.",
+      "name": "Kẻ Trộm Mặt Trăng 4",
+      "poster": "https://image.tmdb.org/t/p/w500/lYr8DyAz9HeQX4ZFOhYWEYwKe2h.jpg",
+      "description": "Tiếp nối những sự kiện trong phần ba Despicable Me 3 (2017), giờ đây Gru (Steve Carrell lồng tiếng) đã hoàn lương, hạn chế tham gia các hoạt động phi pháp. Ngoài vợ Lucy Wilde và các cô con gái nuôi Margo, Edith, Agnes, giờ đây gia đình Gru còn đón thêm thành viên mới là nhóc tì Gru Junior - con trai đầu lòng của anh. Tuy nhiên, sự an toàn của gia đình Gru nhanh chóng bị đe dọa khi kẻ thù cũ của anh là Maxime Le Mal (Will Ferrell lồng tiếng) đã trốn khỏi nhà tù, hắn lên kế hoạch trả thù và thanh toán nợ cũ với Gru. Đồng hành với Maxime còn có người yêu Valentina của gã. Do đó, Gru buộc phải đứng lên đối mặt với kẻ thù để bảo vệ gia đình và các Minions.",
+      "releaseInfo": "2024",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt1216475",
+      "type": "movie",
+      "name": "Vương Quốc Xe Hơi 2",
+      "poster": "https://image.tmdb.org/t/p/w500/jgRlPowGdwTadXIhmQBYWFgg7YU.jpg",
+      "description": "Lightning McQueen và đồng đội của mình đang hướng tới giải đua xe vòng quanh thế giới \"Race of Champions\", đi qua 5 quốc gia: Nhật Bản, Đức, Italy, và cuộc đua 24 giờ tại Pháp và London. Tuy nhiên họ sẽ phải gặp những rắc rối trên cuộc hành trình của chính mình cũng như đúc kết những bài học kinh nghiệm từ cuộc sống.",
       "releaseInfo": "2011",
-      "imdbRating": "6.6"
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt13622970",
+      "type": "movie",
+      "name": "Hành Trình Của Moana 2",
+      "poster": "https://image.tmdb.org/t/p/w500/g8ikn2lfi4R04U7BtXvHmYvnUTV.jpg",
+      "description": "“Hành Trình của Moana 2” là màn tái hợp của Moana và Maui sau 3 năm, trở lại trong chuyến phiêu lưu cùng với những thành viên mới. Theo tiếng gọi của tổ tiên, Moana sẽ tham gia cuộc hành trình đến những vùng biển xa xôi của Châu Đại Dương và sẽ đi tới vùng biển nguy hiểm, đã mất tích từ lâu. Cùng chờ đón cuộc phiêu lưu của Moana đầy chông gai sắp tới nhé.",
+      "releaseInfo": "2024",
+      "imdbRating": "6.3"
     },
     {
       "id": "tt0441773",
@@ -528,22 +510,22 @@
       "imdbRating": "7.6"
     },
     {
-      "id": "tt0435761",
+      "id": "tt1482459",
       "type": "movie",
-      "name": "Câu Chuyện Đồ Chơi 3",
-      "poster": "https://image.tmdb.org/t/p/w500/1X96GIP5RAErgDXjH0ZP1anv0m1.jpg",
-      "description": "Cậu bé Andy ngày nào nay đã trở thành người lớn sắp sửa phải bước vào ngưỡng cửa đại học. Đống đồ chơi của cậu, bao gồm cả Woody và Buzz Lightyear, bị đưa vào nhà kho. Và trước khi chúng bị tống lên gác mái, bố mẹ cậu vô tình ném chúng đi. Kết quả là một người dọn rác đã đem những món đồ chơi đó đến Sunnyside, một trung tâm vui chơi dành cho trẻ em, và khi tiếng hô “Đồ chơi mới!” được cất lên là lũ trẻ xông vào tranh giành nhau Ken, Barbie, ông Đầu khoai tây và Buzz Lightyear… Vừa cố gắng tồn tại ở trường tiểu học đáng sợ đó, những nhân vật đồ chơi của chúng ta vừa tìm cách quay trở lại ngôi nhà thân thương nơi có cậu chủ Andy vẫn đang chờ đợi chúng. Trải qua rất nhiều chuyến phiêu lưu, cuối cùng họ cũng được trở về nhà, một đoạn kết thực sự cảm động khiến mọi người không cầm được nước mắt trước tình cảm gắn bó của Andy và những món đồ chơi…",
-      "releaseInfo": "2010",
-      "imdbRating": "8.3"
+      "name": "Thần Lorax",
+      "poster": "https://image.tmdb.org/t/p/w500/dGFVT19gg2CGQ2Kydd9Hh6DrChP.jpg",
+      "description": "Trong bản chuyển thể từ tác phẩm kinh điển của Dr. Seuss này, Thần Lorax sống trong rừng phải ngăn anh chàng thiển cận Once-ler không phá hoại môi trường để kiếm lợi.",
+      "releaseInfo": "2012",
+      "imdbRating": "6.4"
     },
     {
-      "id": "tt2948372",
+      "id": "tt0448694",
       "type": "movie",
-      "name": "Cuộc Sống Nhiệm Màu",
-      "poster": "https://image.tmdb.org/t/p/w500/7UZo67RI5hINBk6UfZoBZZRsDIa.jpg",
-      "description": "Điều gì khiến bạn là chính bạn? Cuối năm nay, hãng phim hoạt hình danh tiếng Pixar sẽ trình làng một tác phẩm mới mang tên SOUL – CUỘC SỐNG NHIỆM MÀU với nhân vật chính là Joe Gardner (Jamie Foxx lồng tiếng) một giáo viên dạy nhạc ở trường trung học. Anh vừa nhận được một cơ hội duy nhất trong đời khi có thể được tham gia chơi Jazz cho một ban nhạc nổi nhất thành phố. Nhưng một bước chân sai lầm đã đưa anh từ thành phố New York hoa lệ đến Cõi Trước – một nơi kỳ diệu mà ở đó các linh hồn được nhận tính cách, sở thích trước khi họ đi đến Trái Đất. Quyết tâm trở về cuộc đời của chính mình, Joe hợp tác với một linh hồn bất hảo mang tên 22 (lồng tiếng bởi Tina Fey) - người chưa bao giờ hiểu được sự hấp dẫn của cuộc sống loài người. Joe cố gắng hết mình để cho 22 thấy cuộc sống này nhiệm màu như thế nào, đồng thời anh ấy cũng khám phá ra câu trả lời quan trọng cho đời người.",
-      "releaseInfo": "2020",
-      "imdbRating": "8.0"
+      "name": "Mèo Đi Hia",
+      "poster": "https://image.tmdb.org/t/p/w500/nG2TrkvdZB7HIC7IcOFmBvNaJG.jpg",
+      "description": "Gã mèo trong truyền thuyết hướng đến Xứ Sở Người Khổng Lồ với các bạn Humpty Dumpty và Kitty Găng Nhung trong nhiệm vụ giành lấy kho báu lớn nhất nơi đây: Con Ngỗng Vàng.",
+      "releaseInfo": "2011",
+      "imdbRating": "6.6"
     },
     {
       "id": "tt0120917",
@@ -553,6 +535,23 @@
       "description": "Hoàng Đế Kuzco, trẻ tuổi, kinh nghiệm sống ít ỏi nhưng bản tính hiếu thắng, ngạo mạn ích kỷ, ham chơi nên không được lòng thần dân. Hoàng Đế muốn xây 1 bể bơi mùa hè ở trên 1 chóp đồi xinh đẹp để làm quà sinh nhật 18 tuổi cho mình. Nhưng vấp phải sự phản đối dữ dội của bác trưởng làng Pacha và âm mưu giết người cướp ngai vàng mụ phù thủy độc ác Yzma. Hoàng Đế sẽ phải làm gì để chống lại \"thù trong giặc ngoài\"?",
       "releaseInfo": "2000",
       "imdbRating": "7.4"
+    },
+    {
+      "id": "tt38077943",
+      "type": "movie",
+      "name": "Hexed: Thế Giới Phép Thuật",
+      "poster": "https://image.tmdb.org/t/p/w500/kaujVsr4qhsVyQurU1TDG4y477I.jpg",
+      "description": "Một cô gái tuổi teen khác biệt phát hiện mình sở hữu những năng lực phép thuật bí mật. Khi sức mạnh ấy được giải phóng, cô bị cuốn vào một hành trình choáng ngợp qua thế giới ẩn giấu của các phù thủy.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt2948372",
+      "type": "movie",
+      "name": "Cuộc Sống Nhiệm Màu",
+      "poster": "https://image.tmdb.org/t/p/w500/7UZo67RI5hINBk6UfZoBZZRsDIa.jpg",
+      "description": "Điều gì khiến bạn là chính bạn? Cuối năm nay, hãng phim hoạt hình danh tiếng Pixar sẽ trình làng một tác phẩm mới mang tên SOUL – CUỘC SỐNG NHIỆM MÀU với nhân vật chính là Joe Gardner (Jamie Foxx lồng tiếng) một giáo viên dạy nhạc ở trường trung học. Anh vừa nhận được một cơ hội duy nhất trong đời khi có thể được tham gia chơi Jazz cho một ban nhạc nổi nhất thành phố. Nhưng một bước chân sai lầm đã đưa anh từ thành phố New York hoa lệ đến Cõi Trước – một nơi kỳ diệu mà ở đó các linh hồn được nhận tính cách, sở thích trước khi họ đi đến Trái Đất. Quyết tâm trở về cuộc đời của chính mình, Joe hợp tác với một linh hồn bất hảo mang tên 22 (lồng tiếng bởi Tina Fey) - người chưa bao giờ hiểu được sự hấp dẫn của cuộc sống loài người. Joe cố gắng hết mình để cho 22 thấy cuộc sống này nhiệm màu như thế nào, đồng thời anh ấy cũng khám phá ra câu trả lời quan trọng cho đời người.",
+      "releaseInfo": "2020",
+      "imdbRating": "8.0"
     },
     {
       "id": "tt0298148",
@@ -573,58 +572,13 @@
       "imdbRating": "6.4"
     },
     {
-      "id": "tt15837338",
+      "id": "tt0029583",
       "type": "movie",
-      "name": "PAW Patrol: Phim Siêu Đẳng",
-      "poster": "https://image.tmdb.org/t/p/w500/6POcTjyeiKOYtHCFoAyh8kf4q6U.jpg",
-      "description": "Một mảnh thiên thạch kỳ diệu đã rơi xuống Thành Phố Phiêu Lưu, mang đến siêu năng lực cho những chú cún PAW Patrol và biến chúng thành Những Chú Cún Quyền Năng.",
-      "releaseInfo": "2023",
-      "imdbRating": "5.9"
-    },
-    {
-      "id": "tt0892769",
-      "type": "movie",
-      "name": "Bí Kíp Luyện Rồng",
-      "poster": "https://image.tmdb.org/t/p/w500/300DPr2twGhwhcKbL6aYkhOUYFs.jpg",
-      "description": "Thiếu niên nhút nhát Hiccup phải chứng minh với bố và làng của mình rằng cậu vẫn có thể là chiến binh Viking – ngay cả khi cậu muốn kết bạn với rồng hơn là giết rồng.",
-      "releaseInfo": "2010",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt1080016",
-      "type": "movie",
-      "name": "Kỷ Băng Hà: Khủng Long Thức Giấc",
-      "poster": "https://image.tmdb.org/t/p/w500/5xBYJzHWaCyDoXKSEVQzWQ8rcbx.jpg",
-      "description": "Những nhân vật đến từ thế giới băng giá của loạt phim bom tấn Ice Age và Ice Age: The Meldown nay đã quay trở lại trong một cuộc phiêu lưu kỳ thú. Mang sứ mệnh giải cứu anh chàng Sid xui xẻo, những người anh hùng của chúng ta đã mạo hiểm dấn thân vào một thế giới bí ẩn nằm sâu dưới lòng đất, nơi trú ngụ của các loài khủng long và những quần thể thực vật và động vật hung dữ. Không chỉ vậy, cả đội còn chạm trán với Buck - một con chồn chột mắt, tính tình cổ quái, chuyên săn khủng long.",
-      "releaseInfo": "2009",
-      "imdbRating": "6.9"
-    },
-    {
-      "id": "tt0837562",
-      "type": "movie",
-      "name": "Khách Sạn Huyền Bí",
-      "poster": "https://image.tmdb.org/t/p/w500/nkNTjeVrY8Dd4GOLQQjRMEDZvQb.jpg",
-      "description": "Chủ khách sạn Transylvania – Dracula – trở nên bảo bọc thái quá đối với cô con gái tuổi teen của mình sau khi xuất hiện một cậu thanh niên quan tâm đến cô bé.",
-      "releaseInfo": "2012",
-      "imdbRating": "7.1"
-    },
-    {
-      "id": "tt1216475",
-      "type": "movie",
-      "name": "Vương Quốc Xe Hơi 2",
-      "poster": "https://image.tmdb.org/t/p/w500/jgRlPowGdwTadXIhmQBYWFgg7YU.jpg",
-      "description": "Lightning McQueen và đồng đội của mình đang hướng tới giải đua xe vòng quanh thế giới \"Race of Champions\", đi qua 5 quốc gia: Nhật Bản, Đức, Italy, và cuộc đua 24 giờ tại Pháp và London. Tuy nhiên họ sẽ phải gặp những rắc rối trên cuộc hành trình của chính mình cũng như đúc kết những bài học kinh nghiệm từ cuộc sống.",
-      "releaseInfo": "2011",
-      "imdbRating": "6.2"
-    },
-    {
-      "id": "tt3416828",
-      "type": "movie",
-      "name": "Kỷ Băng Hà: Trời Sập",
-      "poster": "https://image.tmdb.org/t/p/w500/n2pKQIOanWCUvxdSG1sLVw7Lc3Y.jpg",
-      "description": "Chú sóc Scrat cùng hạt dẻ thân yêu tiếp tục cuộc hành trình kỳ lạ khi lên nhầm phi thuyền phóng ra ngoài trái đất. Tại đây, Scrat lại vô tình khiến vũ trụ biến đổi và các thiên thạch bắt đầu rơi xuống. Để chạy trốn thảm họa, Manny, Sid, Diego và các bạn quyết định rời quê nhà và bắt đầu cuộc phiêu lưu nhiều thú vị và đầy ắp tiếng cười đến những vùng đất xa xôi mới, gặp được nhiều người bạn mới và cũng chạm mặt thêm kẻ thù mới.",
-      "releaseInfo": "2016",
-      "imdbRating": "5.7"
+      "name": "Nàng Bạch Tuyết và Bảy Chú Lùn",
+      "poster": "https://image.tmdb.org/t/p/w500/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg",
+      "description": "Câu chuyện kể về một người mẹ kế đã đang tâm tìm mọi cách để hãm hại con chồng. Vì ghen tị với sắc đẹp của Bạch Tuyết, bà hoàng hậu độc ác đã không từ mọi thủ đoạn xấu xa nhất... Đây là một trong những bộ phim khá thành công của hãng Walt Disney. Mở đầu cho loạt âm mưu thâm độc của bà hoàng hậu là việc sắp đặt cho người thợ săn đưa người con chồng vào rừng để giết chết.May mắn thay, nhờ lòng tốt của người thợ săn, Bạch Tuyết đã được giải thoát. Lạc vào rừng sâu, cô tìm thấy nhà của bảy chú tốt bụng. Sự hiện diện của Bạch Tuyết trong ngôi nhà vốn thiếu bàn tay chăm sóc đã khiến cho cuộc sống của những chú lùn này thay đổi hoàn toàn.",
+      "releaseInfo": "1938",
+      "imdbRating": "7.6"
     },
     {
       "id": "tt0351283",
@@ -636,58 +590,13 @@
       "imdbRating": "7.0"
     },
     {
-      "id": "tt5113044",
+      "id": "tt0892769",
       "type": "movie",
-      "name": "Minions: Sự Trỗi Dậy Của Gru",
-      "poster": "https://image.tmdb.org/t/p/w500/gvY5ZHjvrdPuqdVNYpOMGa2ZoWu.jpg",
-      "description": "Là một fanboy của một siêu nhóm siêu tội phạm được gọi là Vicious 6, Gru ấp ủ một kế hoạch trở nên xấu xa đủ để tham gia cùng họ, với sự hỗ trợ của những người theo dõi anh ta, Minions.",
-      "releaseInfo": "2022",
-      "imdbRating": "6.5"
-    },
-    {
-      "id": "tt0103639",
-      "type": "movie",
-      "name": "Aladdin và Cây Đèn Thần",
-      "poster": "https://image.tmdb.org/t/p/w500/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
-      "description": "Aladdin là bộ phim hoạt hình dựa theo câu chuyện trong Ngàn lẻ một đêm. Bộ phim kể về Aladdin, một thanh niên vô gia cư sống lang thang bên đường phố Agrabah. vô tình có được cây đèn thần kỳ diệu. Nhờ có vị thần đèn vui tính, Aladdin từ một kẻ mồ côi, lang thang đã có tất cả nhưng gì anh mơ ước như của cải và cô công chúa xinh đẹp. Nhưng một tên phù thủy gian ác đang âm mưu phá hoại cuộc sống của Aladdin bằng cách chiếm đoạt lại cây đèn thần này, và bắt công chúa người nah yêu đi. Aladdin sẽ phải làm gì đây?",
-      "releaseInfo": "1992",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt1217209",
-      "type": "movie",
-      "name": "Công Chúa Tóc Xù",
-      "poster": "https://image.tmdb.org/t/p/w500/iexNj6uxbTG0zz6TLuzwKetFxr7.jpg",
-      "description": "Công Chúa Tóc Xù xoay quanh nhân vật chính công chúa Merida. Từ nhỏ cô đã tỏ ra là người ngang bướng không thích những nề nếp chốn cung đình. Một ngày, hoàng hậu tổ chức kén phò mã cho Merida. Không chấp nhận sự sắp đặt Merida đã bỏ vương quốc ra đi. Trên đường đi cuộc gặp gỡ định mệnh với mụ phù thủy già đã đưa cô vào những cuộc phiêu lưu đầy hiểm nguy. Trong phim, Brave được đánh giá cao ở khía cạnh nhân văn, đề cao tình cảm gia đình, lòng quả cảm. Thông qua hình ảnh cô công chúa Merida bướng bỉnh người xem liên tưởng tới những cô bé, cậu bé tuổi teen bướng bỉnh mà mình đã gặp đâu đó, với tạo hình nhân vật khá đặc sắc ngộ nghĩnh Brave đã làm thỏa mãn sự háo hức của các Fan nhí. Bên cạnh đó những nhạc khúc Scotlen đã tạo ra điểm nhấn đặc biệt cho phim.",
-      "releaseInfo": "2012",
-      "imdbRating": "7.1"
-    },
-    {
-      "id": "tt0120762",
-      "type": "movie",
-      "name": "Hoa Mộc Lan",
-      "poster": "https://image.tmdb.org/t/p/w500/zvxWfpIC3u3wBmtcKetImogx2xx.jpg",
-      "description": "Nội dung bộ phim hoạt hình dựa theo một câu chuyện dân gian nổi tiếng của Trung Quốc kể về cô gái giả trai ra trận thường được biết đến dưới cái tên Hoa Mộc Lan. Tuyệt phẩm này của Walt Disney được đề cử một giải Oscar cho “Nhạc phim hay nhất” năm 1999. Mulan (Ming-Na Wen lồng tiếng) là người con duy nhất trong gia đình danh giá. Mặc dù luôn cố gắng làm vừa lòng mẹ cha nhưng dường như cô luôn khiến họ phải thất vọng. Khi quân giặc tới xâm chiếm bờ cõi Trung Hoa, thanh niên trai tráng đều hăng hái ghi tên đi lính. Fa Zhou (Soon-Tek Oh) người cha già của Mulan vốn bị thương và không thể đi vững nhưng vẫn muốn ra trận chiến đấu vì đất nước và vì danh dự của dòng họ. Quá thương cha già phải đi tòng quân, Mulan liền lấy áo giáp và ngựa cải trang thành một người đàn ông, đứng trước bàn thờ tổ tiên khấn vái mong được phù hộ rồi thay cha ra trận. Mushu (Eddie Murphy) một con rồng nhỏ đã được phái đi để bảo vệ Mulan trong khi chiến đấu.",
-      "releaseInfo": "1998",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt1979376",
-      "type": "movie",
-      "name": "Câu Chuyện Đồ Chơi 4",
-      "poster": "https://image.tmdb.org/t/p/w500/ezIOA7SqfxoMSOUsnLtArWd6JPv.jpg",
-      "description": "Woody luôn tự tin vào vị trí của bản thân mình, và luôn cho rằng sứ mệnh của anh ấy là chăm sóc cho những đứa trẻ, cho dù đó là Andy hay Bonnie. Vậy nên khi đồ chơi mới của Bonnie, Forky khẳng định bản thân là đồ bỏ đi, Woody đã cố gắng cho Forky thấy rằng cậu ấy sinh ra để thuộc về thế giới đồ chơi. Nhưng khi những món đồ chơi tham gia chuyến đi dã ngoại của Bonnie và gia đình cô, Woody đã vô tình có cuộc gặp mặt với người bạn lâu năm mất tích Bo Peep. Sau nhiều năm sống một mình, Bo Peep tin rằng mình có thể có một cuộc sống phiêu lưu thú vị hơn là làm một món đồ chơi bằng sứ. Khi Woody và Bo Peep nhận ra họ là những món đồ chơi thuộc về hai thế giới khác nhau, họ đã sớm cảm nhận được những mối lo lắng của mình.",
-      "releaseInfo": "2019",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt4520988",
-      "type": "movie",
-      "name": "Nữ Hoàng Băng Giá 2",
-      "poster": "https://image.tmdb.org/t/p/w500/tXjHSZFS87uJ433dbeOSV3jBEBl.jpg",
-      "description": "Cùng dấn thân vào một cuộc phiêu lưu xa xôi thú vị, hai chị em Anna và Elsa đi đến chốn rừng sâu để tìm kiếm sự thật về bí ẩn cổ xưa của vương quốc mình. Tất cả những gì Anna và Elsa biết về bản thân, lịch sử và gia đình của họ đều bị thử thách khi họ bị cuốn vào một chuyến đi đầy quả cảm đến với vùng đất phía bắc bí ẩn ngoài Arendelle được báo trước.",
-      "releaseInfo": "2019",
-      "imdbRating": "6.8"
+      "name": "Bí Kíp Luyện Rồng",
+      "poster": "https://image.tmdb.org/t/p/w500/300DPr2twGhwhcKbL6aYkhOUYFs.jpg",
+      "description": "Thiếu niên nhút nhát Hiccup phải chứng minh với bố và làng của mình rằng cậu vẫn có thể là chiến binh Viking – ngay cả khi cậu muốn kết bạn với rồng hơn là giết rồng.",
+      "releaseInfo": "2010",
+      "imdbRating": "8.1"
     },
     {
       "id": "tt0780521",
@@ -699,67 +608,103 @@
       "imdbRating": "7.2"
     },
     {
-      "id": "tt0385880",
+      "id": "tt0103639",
       "type": "movie",
-      "name": "Ngôi Nhà Ma Quái",
-      "poster": "https://image.tmdb.org/t/p/w500/cJb0OWTkeQE3f4s5aPRATPEx9hQ.jpg",
-      "description": "Quái vật dưới gầm giường đủ đáng sợ, nhưng điều gì sẽ xảy ra khi cả một ngôi nhà chạy ra ngoài để bắt bạn? Ba thanh thiếu niên nhằm mục đích tìm ra khi họ đối đầu với một ngôi nhà lân cận mục nát và mở khóa những bí mật đáng sợ của nó.",
-      "releaseInfo": "2006",
-      "imdbRating": "6.7"
+      "name": "Aladdin và Cây Đèn Thần",
+      "poster": "https://image.tmdb.org/t/p/w500/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+      "description": "Aladdin là bộ phim hoạt hình dựa theo câu chuyện trong Ngàn lẻ một đêm. Bộ phim kể về Aladdin, một thanh niên vô gia cư sống lang thang bên đường phố Agrabah. vô tình có được cây đèn thần kỳ diệu. Nhờ có vị thần đèn vui tính, Aladdin từ một kẻ mồ côi, lang thang đã có tất cả nhưng gì anh mơ ước như của cải và cô công chúa xinh đẹp. Nhưng một tên phù thủy gian ác đang âm mưu phá hoại cuộc sống của Aladdin bằng cách chiếm đoạt lại cây đèn thần này, và bắt công chúa người nah yêu đi. Aladdin sẽ phải làm gì đây?",
+      "releaseInfo": "1992",
+      "imdbRating": "8.0"
     },
     {
-      "id": "tt1772341",
+      "id": "tt5113044",
       "type": "movie",
-      "name": "Ralph Đập Phá",
-      "poster": "https://image.tmdb.org/t/p/w500/phSig3M0vtzNPmnZQI9umtbMk0c.jpg",
-      "description": "Ralph – anh chàng chuyên đóng vai kẻ ác trong trò chơi Fix - It Felix nổi tiếng, sau hàng thập kỷ lặp lại những công việc nhàm chán và phải làm nền cho Felix, Ralph quyết định rời bỏ trò chơi đã gắn bó 30 năm vào dấn thân vào cuộc phiêu lưu trong thế giới game, đi tìm chiếc huy chương vàng để chứng tỏ mình có những tố chất của một người hùng…  Thông qua câu chuyện của Ralph, phim đã mang đến một chân lý giản đơn dành cho tất cả mọi người: “Quan trọng không phải bạn tốt hay xấu, không phải bạn là ai, mà bạn sẽ làm gì cho cuộc sống”. Đặc biệt, với những ai từng say mê trò chơi điện tử , Wreck-It-Ralph sẽ giúp khán giả sống lại thời kỳ hoàng kim của những trò chơi điện tử bốn nút, máy chơi game bằng xèng có đồ họa đơn sơ năm xưa.",
-      "releaseInfo": "2012",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt2953050",
-      "type": "movie",
-      "name": "Encanto: Vùng Đất Thần Kỳ",
-      "poster": "https://image.tmdb.org/t/p/w500/wWL205mZBcOP4GNtdhztAvqTgUG.jpg",
-      "description": "Câu chuyện về một gia đình phi thường, nhà Madrigals, sống ẩn mình trong vùng núi Colombia, trong một ngôi nhà ma thuật, trong một thị trấn sôi động, ở một nơi kỳ diệu, quyến rũ được gọi là Encanto. Phép thuật của Encanto đã ban phước cho mọi đứa trẻ trong gia đình món quà độc nhất vô nhị từ siêu sức mạnh đến sức mạnh chữa lành — mọi đứa trẻ, trừ Mirabel. Nhưng khi cô phát hiện ra rằng phép thuật xung quanh Encanto đang gặp nguy hiểm, Mirabel quyết định rằng cô, người nhà Madrigal bình thường duy nhất, có thể là hy vọng cuối cùng của gia đình cô.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt1667889",
-      "type": "movie",
-      "name": "Kỷ Băng Hà: Lục Địa Trôi Dạt",
-      "poster": "https://image.tmdb.org/t/p/w500/bkTH5NZepeq7Y1qsVUQkhHBuujt.jpg",
-      "description": "Đây là phần 4 của loạt phim đuộc đánh giá là một trong loạt phim hoạt hình được yêu thích và thành công nhất mọi thời đại. Trong phần này nhóm bạn Manny (voi ma-mút), Diego (hổ răng kiếm) và Sid (lười tiền sử) sẽ đối mặt với những thử thách mới do các lục địa bị trôi dạt sau trận Đại hồng thủy. Bên cạnh đó phim có sự xuất hiện của nhiều nhân vật mới như: Squint, Captain Gutt, Flynn… Có thể nói với các tình tiết hài hước, vui nhộn, Kỷ băng hà 4 mang tới cho người xem những tiếng cười sảng khoái. Các nhân vật trong phim trở nên sống động với: vui, buồn, yêu, ghét như con người, qua đó phim cũng chuyển tải những bài học nhẹ nhàng về tình cảm cha con, bạn bè, tình yêu. Đây được đánh giá là 1 bộ phim hay với đề cử giải thưởng Kids' Choice Awards 2013",
-      "releaseInfo": "2012",
+      "name": "Minions: Sự Trỗi Dậy Của Gru",
+      "poster": "https://image.tmdb.org/t/p/w500/gvY5ZHjvrdPuqdVNYpOMGa2ZoWu.jpg",
+      "description": "Là một fanboy của một siêu nhóm siêu tội phạm được gọi là Vicious 6, Gru ấp ủ một kế hoạch trở nên xấu xa đủ để tham gia cùng họ, với sự hỗ trợ của những người theo dõi anh ta, Minions.",
+      "releaseInfo": "2022",
       "imdbRating": "6.5"
     },
     {
-      "id": "tt1646971",
+      "id": "tt1080016",
       "type": "movie",
-      "name": "Bí Kíp Luyện Rồng 2",
-      "poster": "https://image.tmdb.org/t/p/w500/433Vg3WvfNuoMZNp35g1xsYSHbo.jpg",
-      "description": "Hiccup, Răng Sún và một kỵ sĩ rồng bí ẩn hợp lực để bảo vệ đảo Berk khỏi một chiến binh thèm khát quyền lực cùng đội quân rồng của riêng hắn.",
-      "releaseInfo": "2014",
-      "imdbRating": "7.8"
-    },
-    {
-      "id": "tt8097030",
-      "type": "movie",
-      "name": "Gấu Đỏ Biến Hình",
-      "poster": "https://image.tmdb.org/t/p/w500/fnoJLyLttGjLzJEM0B0RnyJN20y.jpg",
-      "description": "Với \"Gấu Đỏ Biến Hình\", Disney và Pixar mang đến cô bé 13 tuổi Mei Lee (Rosalie Chiang lồng tiếng) đầy tự tin, hơi ngố, đang bị giằng xé giữa hình ảnh con ngoan và sự nổi loạn của tuổi mới lớn. Sự bảo vệ và đeo bám hơi thái quá của mẹ Ming (Sandra Oh lồng tiếng) cũng là một rắc rối mà cô bé phải đối mặt. Không chỉ bối rối vì các thay đổi về sở thích, tình cảm và cơ thể, cô bé còn có một vấn đề nan giải khác. Bất cứ khi nào quá phấn khích (một việc THƯỜNG XUYÊN xảy ra), cô bé sẽ \"biến hình\" thành một con gấu trúc đỏ khổng lồ! Sản phẩm của đạo diễn Domee Shi (đoạt giải Oscar với hoạt hình Pixar ngắn \"Bao\") và nhà sản xuất Lindsey Collins. Một số phân đoạn có họa tiết hoặc hiệu ứng chớp sáng có thể gây ảnh hưởng lên các khán giả nhạy cảm. Một số phân đoạn có họa tiết hoặc hiệu ứng chớp sáng có thể gây ảnh hưởng lên các khán giả nhạy cảm.",
-      "releaseInfo": "2022",
+      "name": "Kỷ Băng Hà: Khủng Long Thức Giấc",
+      "poster": "https://image.tmdb.org/t/p/w500/5xBYJzHWaCyDoXKSEVQzWQ8rcbx.jpg",
+      "description": "Những nhân vật đến từ thế giới băng giá của loạt phim bom tấn Ice Age và Ice Age: The Meldown nay đã quay trở lại trong một cuộc phiêu lưu kỳ thú. Mang sứ mệnh giải cứu anh chàng Sid xui xẻo, những người anh hùng của chúng ta đã mạo hiểm dấn thân vào một thế giới bí ẩn nằm sâu dưới lòng đất, nơi trú ngụ của các loài khủng long và những quần thể thực vật và động vật hung dữ. Không chỉ vậy, cả đội còn chạm trán với Buck - một con chồn chột mắt, tính tình cổ quái, chuyên săn khủng long.",
+      "releaseInfo": "2009",
       "imdbRating": "6.9"
     },
     {
-      "id": "tt3606752",
+      "id": "tt3416828",
       "type": "movie",
-      "name": "Vương Quốc Xe Hơi 3",
-      "poster": "https://image.tmdb.org/t/p/w500/iZihPx7x4T0rV6kISvQcD6YN5md.jpg",
-      "description": "Câu chuyện bắt nguồn từ vụ va chạm giữa Lightning McQueen cùng dòng xe đua thế hệ mới. Sau khi bị chấn thương, McQueen đột nhiên bị loại ra khỏi môn thể thao đua xe mà anh yêu thích. Để quay lại đường băng, anh cần sự trợ giúp từ một nữ kỹ thuật viên trẻ tuổi - Cruz Ramirez. Nhờ vào kế hoạch của Cruz, cùng với sự khơi nguồn cảm hứng từ Fabulous Hudson Hornet, Mc Queen sẽ chứng minh với mọi người rằng #95 chưa hết thời mà vẫn có thể giành chiến thắng trong cuộc đua Piston Cup...",
-      "releaseInfo": "2017",
-      "imdbRating": "6.7"
+      "name": "Kỷ Băng Hà: Trời Sập",
+      "poster": "https://image.tmdb.org/t/p/w500/n2pKQIOanWCUvxdSG1sLVw7Lc3Y.jpg",
+      "description": "Chú sóc Scrat cùng hạt dẻ thân yêu tiếp tục cuộc hành trình kỳ lạ khi lên nhầm phi thuyền phóng ra ngoài trái đất. Tại đây, Scrat lại vô tình khiến vũ trụ biến đổi và các thiên thạch bắt đầu rơi xuống. Để chạy trốn thảm họa, Manny, Sid, Diego và các bạn quyết định rời quê nhà và bắt đầu cuộc phiêu lưu nhiều thú vị và đầy ắp tiếng cười đến những vùng đất xa xôi mới, gặp được nhiều người bạn mới và cũng chạm mặt thêm kẻ thù mới.",
+      "releaseInfo": "2016",
+      "imdbRating": "5.7"
+    },
+    {
+      "id": "tt1217209",
+      "type": "movie",
+      "name": "Công Chúa Tóc Xù",
+      "poster": "https://image.tmdb.org/t/p/w500/iexNj6uxbTG0zz6TLuzwKetFxr7.jpg",
+      "description": "Công Chúa Tóc Xù xoay quanh nhân vật chính công chúa Merida. Từ nhỏ cô đã tỏ ra là người ngang bướng không thích những nề nếp chốn cung đình. Một ngày, hoàng hậu tổ chức kén phò mã cho Merida. Không chấp nhận sự sắp đặt Merida đã bỏ vương quốc ra đi. Trên đường đi cuộc gặp gỡ định mệnh với mụ phù thủy già đã đưa cô vào những cuộc phiêu lưu đầy hiểm nguy. Trong phim, Brave được đánh giá cao ở khía cạnh nhân văn, đề cao tình cảm gia đình, lòng quả cảm. Thông qua hình ảnh cô công chúa Merida bướng bỉnh người xem liên tưởng tới những cô bé, cậu bé tuổi teen bướng bỉnh mà mình đã gặp đâu đó, với tạo hình nhân vật khá đặc sắc ngộ nghĩnh Brave đã làm thỏa mãn sự háo hức của các Fan nhí. Bên cạnh đó những nhạc khúc Scotlen đã tạo ra điểm nhấn đặc biệt cho phim.",
+      "releaseInfo": "2012",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt1979376",
+      "type": "movie",
+      "name": "Câu Chuyện Đồ Chơi 4",
+      "poster": "https://image.tmdb.org/t/p/w500/ezIOA7SqfxoMSOUsnLtArWd6JPv.jpg",
+      "description": "Woody luôn tự tin vào vị trí của bản thân mình, và luôn cho rằng sứ mệnh của anh ấy là chăm sóc cho những đứa trẻ, cho dù đó là Andy hay Bonnie. Vậy nên khi đồ chơi mới của Bonnie, Forky khẳng định bản thân là đồ bỏ đi, Woody đã cố gắng cho Forky thấy rằng cậu ấy sinh ra để thuộc về thế giới đồ chơi. Nhưng khi những món đồ chơi tham gia chuyến đi dã ngoại của Bonnie và gia đình cô, Woody đã vô tình có cuộc gặp mặt với người bạn lâu năm mất tích Bo Peep. Sau nhiều năm sống một mình, Bo Peep tin rằng mình có thể có một cuộc sống phiêu lưu thú vị hơn là làm một món đồ chơi bằng sứ. Khi Woody và Bo Peep nhận ra họ là những món đồ chơi thuộc về hai thế giới khác nhau, họ đã sớm cảm nhận được những mối lo lắng của mình.",
+      "releaseInfo": "2019",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt0837562",
+      "type": "movie",
+      "name": "Khách Sạn Huyền Bí",
+      "poster": "https://image.tmdb.org/t/p/w500/nkNTjeVrY8Dd4GOLQQjRMEDZvQb.jpg",
+      "description": "Chủ khách sạn Transylvania – Dracula – trở nên bảo bọc thái quá đối với cô con gái tuổi teen của mình sau khi xuất hiện một cậu thanh niên quan tâm đến cô bé.",
+      "releaseInfo": "2012",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt5113040",
+      "type": "movie",
+      "name": "Đẳng Cấp Thú Cưng 2",
+      "poster": "https://image.tmdb.org/t/p/w500/D6DdrHkSDTLXaxc7EsukUPm3WU.jpg",
+      "description": "Đẳng Cấp Thú Cưng 2 sẽ tiếp nối câu chuyện của bom tấn mùa hè năm 2016, về những gì diễn ra trong cuộc sống của thú cưng sau khi chủ của chúng đi làm hoặc đi học hàng ngày. Giám đốc điều hành và nhà sáng lập của hãng Illumination – Chris Meledandri và người cộng sự lâu năm Janet Healy sẽ sản xuất phần tiếp theo của thương hiệu hoạt hình nguyên gốc có phần mở màn tuyệt vời nhất.",
+      "releaseInfo": "2019",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt4520988",
+      "type": "movie",
+      "name": "Nữ Hoàng Băng Giá 2",
+      "poster": "https://image.tmdb.org/t/p/w500/tXjHSZFS87uJ433dbeOSV3jBEBl.jpg",
+      "description": "Cùng dấn thân vào một cuộc phiêu lưu xa xôi thú vị, hai chị em Anna và Elsa đi đến chốn rừng sâu để tìm kiếm sự thật về bí ẩn cổ xưa của vương quốc mình. Tất cả những gì Anna và Elsa biết về bản thân, lịch sử và gia đình của họ đều bị thử thách khi họ bị cuốn vào một chuyến đi đầy quả cảm đến với vùng đất phía bắc bí ẩn ngoài Arendelle được báo trước.",
+      "releaseInfo": "2019",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt15837338",
+      "type": "movie",
+      "name": "PAW Patrol: Phim Siêu Đẳng",
+      "poster": "https://image.tmdb.org/t/p/w500/6POcTjyeiKOYtHCFoAyh8kf4q6U.jpg",
+      "description": "Một mảnh thiên thạch kỳ diệu đã rơi xuống Thành Phố Phiêu Lưu, mang đến siêu năng lực cho những chú cún PAW Patrol và biến chúng thành Những Chú Cún Quyền Năng.",
+      "releaseInfo": "2023",
+      "imdbRating": "5.9"
+    },
+    {
+      "id": "tt0120762",
+      "type": "movie",
+      "name": "Hoa Mộc Lan",
+      "poster": "https://image.tmdb.org/t/p/w500/zvxWfpIC3u3wBmtcKetImogx2xx.jpg",
+      "description": "Nội dung bộ phim hoạt hình dựa theo một câu chuyện dân gian nổi tiếng của Trung Quốc kể về cô gái giả trai ra trận thường được biết đến dưới cái tên Hoa Mộc Lan. Tuyệt phẩm này của Walt Disney được đề cử một giải Oscar cho “Nhạc phim hay nhất” năm 1999. Mulan (Ming-Na Wen lồng tiếng) là người con duy nhất trong gia đình danh giá. Mặc dù luôn cố gắng làm vừa lòng mẹ cha nhưng dường như cô luôn khiến họ phải thất vọng. Khi quân giặc tới xâm chiếm bờ cõi Trung Hoa, thanh niên trai tráng đều hăng hái ghi tên đi lính. Fa Zhou (Soon-Tek Oh) người cha già của Mulan vốn bị thương và không thể đi vững nhưng vẫn muốn ra trận chiến đấu vì đất nước và vì danh dự của dòng họ. Quá thương cha già phải đi tòng quân, Mulan liền lấy áo giáp và ngựa cải trang thành một người đàn ông, đứng trước bàn thờ tổ tiên khấn vái mong được phù hộ rồi thay cha ra trận. Mushu (Eddie Murphy) một con rồng nhỏ đã được phái đi để bảo vệ Mulan trong khi chiến đấu.",
+      "releaseInfo": "1998",
+      "imdbRating": "7.7"
     },
     {
       "id": "tt0119282",
@@ -771,13 +716,22 @@
       "imdbRating": "7.3"
     },
     {
-      "id": "tt15789038",
+      "id": "tt0481499",
       "type": "movie",
-      "name": "Xứ Sở Các Nguyên Tố",
-      "poster": "https://image.tmdb.org/t/p/w500/7GaeF6xeUbfXFZCtOCWs503CJUl.jpg",
-      "description": "Xứ Sở Các Nguyên Tố từ Disney và Pixar lấy bối cảnh tại thành phố các các nguyên tố, nơi lửa, nước, đất và không khí cùng chung sống với nhau. Câu chuyện xoay quanh nhân vật Ember, một cô nàng cá tính, thông minh, mạnh mẽ và đầy sức hút. Tuy nhiên, mối quan hệ của cô với Wade - một anh chàng hài hước, luôn thuận thế đẩy dòng - khiến Ember cảm thấy ngờ vực với thế giới này.",
-      "releaseInfo": "2023",
-      "imdbRating": "7.0"
+      "name": "Gia Đình Croods",
+      "poster": "https://image.tmdb.org/t/p/w500/rR3OSOBGOSpSeSVHiGdRsSmUxKb.jpg",
+      "description": "Khi trận động đất xóa sổ hang động mình nương náu, gia đình gà mờ thời tiền sử buộc phải bôn ba qua những vùng đất lạ lẫm, mong muốn kiếm tìm mái nhà mới.",
+      "releaseInfo": "2013",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt0317219",
+      "type": "movie",
+      "name": "Vương Quốc Xe Hơi",
+      "poster": "https://image.tmdb.org/t/p/w500/6VIxYR9dYeSgBqoR95fk1jnccRy.jpg",
+      "description": "McQueen Tia chớp khoác trên mình lớp sơn đỏ rực, rất sung sức, tự mãn và thường trực nụ cười mỉa mai. Lao vun vút trên đường 66 tới California để tranh cúp Piston, cậu đã đâm sầm vào thị trấn Radiator Springs buồn tẻ, phá nát đường đi và suýt bị ngồi tù. Chỉ vài ngày nữa, anh chàng phải tham gia cuộc đua, mong được đại gia Dinoco tài trợ để trở thành \"sao\". Nhờ sáng kiến của cô nàng luật sư Sally - một chiếc Porsche bóng bẩy đời 2002 - McQueen phải đem thân hình công tử ra kéo chiếc xe rải nhựa khổng lồ để làm lại đường. Cậu làm quen với bác sĩ Hudson, một chiếc Hudson Hornet đời 1951 từng là huyền thoại của đường đua Piston. Ngoài ra còn có Mater chiếc xe tải cũ mèm, gỉ sét và vui tính. Từ thị trấn nhỏ bé này, McQueen đã nhận ra nhiều điều ý nghĩa trong cuộc sống.",
+      "releaseInfo": "2006",
+      "imdbRating": "7.3"
     },
     {
       "id": "tt1979388",
@@ -789,13 +743,121 @@
       "imdbRating": "6.7"
     },
     {
-      "id": "tt0317219",
+      "id": "tt15789038",
       "type": "movie",
-      "name": "Vương Quốc Xe Hơi",
-      "poster": "https://image.tmdb.org/t/p/w500/6VIxYR9dYeSgBqoR95fk1jnccRy.jpg",
-      "description": "McQueen Tia chớp khoác trên mình lớp sơn đỏ rực, rất sung sức, tự mãn và thường trực nụ cười mỉa mai. Lao vun vút trên đường 66 tới California để tranh cúp Piston, cậu đã đâm sầm vào thị trấn Radiator Springs buồn tẻ, phá nát đường đi và suýt bị ngồi tù. Chỉ vài ngày nữa, anh chàng phải tham gia cuộc đua, mong được đại gia Dinoco tài trợ để trở thành \"sao\". Nhờ sáng kiến của cô nàng luật sư Sally - một chiếc Porsche bóng bẩy đời 2002 - McQueen phải đem thân hình công tử ra kéo chiếc xe rải nhựa khổng lồ để làm lại đường. Cậu làm quen với bác sĩ Hudson, một chiếc Hudson Hornet đời 1951 từng là huyền thoại của đường đua Piston. Ngoài ra còn có Mater chiếc xe tải cũ mèm, gỉ sét và vui tính. Từ thị trấn nhỏ bé này, McQueen đã nhận ra nhiều điều ý nghĩa trong cuộc sống.",
+      "name": "Xứ Sở Các Nguyên Tố",
+      "poster": "https://image.tmdb.org/t/p/w500/7GaeF6xeUbfXFZCtOCWs503CJUl.jpg",
+      "description": "Xứ Sở Các Nguyên Tố từ Disney và Pixar lấy bối cảnh tại thành phố các các nguyên tố, nơi lửa, nước, đất và không khí cùng chung sống với nhau. Câu chuyện xoay quanh nhân vật Ember, một cô nàng cá tính, thông minh, mạnh mẽ và đầy sức hút. Tuy nhiên, mối quan hệ của cô với Wade - một anh chàng hài hước, luôn thuận thế đẩy dòng - khiến Ember cảm thấy ngờ vực với thế giới này.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt3606752",
+      "type": "movie",
+      "name": "Vương Quốc Xe Hơi 3",
+      "poster": "https://image.tmdb.org/t/p/w500/iZihPx7x4T0rV6kISvQcD6YN5md.jpg",
+      "description": "Câu chuyện bắt nguồn từ vụ va chạm giữa Lightning McQueen cùng dòng xe đua thế hệ mới. Sau khi bị chấn thương, McQueen đột nhiên bị loại ra khỏi môn thể thao đua xe mà anh yêu thích. Để quay lại đường băng, anh cần sự trợ giúp từ một nữ kỹ thuật viên trẻ tuổi - Cruz Ramirez. Nhờ vào kế hoạch của Cruz, cùng với sự khơi nguồn cảm hứng từ Fabulous Hudson Hornet, Mc Queen sẽ chứng minh với mọi người rằng #95 chưa hết thời mà vẫn có thể giành chiến thắng trong cuộc đua Piston Cup...",
+      "releaseInfo": "2017",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt0275847",
+      "type": "movie",
+      "name": "Lilo và Stitch",
+      "poster": "https://image.tmdb.org/t/p/w500/cFuLvQJPoZpuruAtN3rVnMmLIH8.jpg",
+      "description": "Lilo & Stitch là một phim hoạt hình của Walt Disney Pictures phát hành năm 2002. Phim kể về các chuyến phiêu lưu đi tìm các thí nghiệm thất lạc của Lilo và chú chó Stitch và là một trong số những bộ phim hoạt hình nổi bật nhất của Disney. Chris Sanders và Dean DeBlois đã cùng nhau viết kịch bản và đạo diễn bộ phim. Lilo & Stitch đã nhận được đề cử cho Giải Oscar cho phim hoạt hình hay nhất năm 2002, giải thưởng sau đó đã thuộc về Vùng đất linh hồn (Bản Tiếng Anh của Spirited Away cũng được phát hành bởi Walt Disney Pictures).Các phần tiếp theo của bộ phim, Stitch! The Movie, Lilo & Stitch 2: Stitch Has a Glitch và Leroy & Stitch đã được sản xuất để phát hành thẳng dưới dạng đĩa hình. Một loạt phim truyền hình, Lilo & Stitch: The Series cũng được sản xuất cho ...",
+      "releaseInfo": "2002",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt1772341",
+      "type": "movie",
+      "name": "Ralph Đập Phá",
+      "poster": "https://image.tmdb.org/t/p/w500/phSig3M0vtzNPmnZQI9umtbMk0c.jpg",
+      "description": "Ralph – anh chàng chuyên đóng vai kẻ ác trong trò chơi Fix - It Felix nổi tiếng, sau hàng thập kỷ lặp lại những công việc nhàm chán và phải làm nền cho Felix, Ralph quyết định rời bỏ trò chơi đã gắn bó 30 năm vào dấn thân vào cuộc phiêu lưu trong thế giới game, đi tìm chiếc huy chương vàng để chứng tỏ mình có những tố chất của một người hùng…  Thông qua câu chuyện của Ralph, phim đã mang đến một chân lý giản đơn dành cho tất cả mọi người: “Quan trọng không phải bạn tốt hay xấu, không phải bạn là ai, mà bạn sẽ làm gì cho cuộc sống”. Đặc biệt, với những ai từng say mê trò chơi điện tử , Wreck-It-Ralph sẽ giúp khán giả sống lại thời kỳ hoàng kim của những trò chơi điện tử bốn nút, máy chơi game bằng xèng có đồ họa đơn sơ năm xưa.",
+      "releaseInfo": "2012",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt2386490",
+      "type": "movie",
+      "name": "Bí Kíp Luyện Rồng: Vùng Đất Bí Ẩn",
+      "poster": "https://image.tmdb.org/t/p/w500/bVtyk3Mkq2KvSZEfrDMrKklQ8MW.jpg",
+      "description": "Bí kíp luyện rồng: Vùng đất bí ẩn là một bộ phim hoạt hình máy tính 3D hành động giả tưởng Mĩ năm 2019, được sản xuất bởi DreamWorks Animation và phát hành bởi Universal Pictures dựa trên cuốn sách cùng tên. Đây là phần tiếp theo của Bí kíp luyện rồng 2 và là phần cuối cùng trong loạt phim Bí kíp luyện rồng.  Một năm sau khi bảo vệ Berk khỏi Drago, Răng Sún và Nấc Cụt cùng với những bạn của họ, tiếp tục giải cứu các con rồng bị bắt để đưa chúng trở lại Berk và tạo cho các loài rồng một môi trường nhộn nhịp. Nhưng nỗ lực giải cứu những con rồng đã khiến hòn đảo trở nên quá đông với một lượng lớn số rồng. Để xử lí tình trạng quá tải này, Nấc Cụt quyết định tìm một \"vùng đất bí ẩn\", nơi trú ngụ mà cậu thấy là an toàn nhất cho các con rồng mà người cha quá cố, Stoick đã nói với cậu. Trong khi đó, một con Fury trắng bị giam cầm bởi các lãnh chúa, sau nó được trao lại cho thợ săn rồng khét tiếng Grimmel làm mồi nhử.",
+      "releaseInfo": "2019",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt0385880",
+      "type": "movie",
+      "name": "Ngôi Nhà Ma Quái",
+      "poster": "https://image.tmdb.org/t/p/w500/cJb0OWTkeQE3f4s5aPRATPEx9hQ.jpg",
+      "description": "Quái vật dưới gầm giường đủ đáng sợ, nhưng điều gì sẽ xảy ra khi cả một ngôi nhà chạy ra ngoài để bắt bạn? Ba thanh thiếu niên nhằm mục đích tìm ra khi họ đối đầu với một ngôi nhà lân cận mục nát và mở khóa những bí mật đáng sợ của nó.",
       "releaseInfo": "2006",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt1667889",
+      "type": "movie",
+      "name": "Kỷ Băng Hà: Lục Địa Trôi Dạt",
+      "poster": "https://image.tmdb.org/t/p/w500/bkTH5NZepeq7Y1qsVUQkhHBuujt.jpg",
+      "description": "Đây là phần 4 của loạt phim đuộc đánh giá là một trong loạt phim hoạt hình được yêu thích và thành công nhất mọi thời đại. Trong phần này nhóm bạn Manny (voi ma-mút), Diego (hổ răng kiếm) và Sid (lười tiền sử) sẽ đối mặt với những thử thách mới do các lục địa bị trôi dạt sau trận Đại hồng thủy. Bên cạnh đó phim có sự xuất hiện của nhiều nhân vật mới như: Squint, Captain Gutt, Flynn… Có thể nói với các tình tiết hài hước, vui nhộn, Kỷ băng hà 4 mang tới cho người xem những tiếng cười sảng khoái. Các nhân vật trong phim trở nên sống động với: vui, buồn, yêu, ghét như con người, qua đó phim cũng chuyển tải những bài học nhẹ nhàng về tình cảm cha con, bạn bè, tình yêu. Đây được đánh giá là 1 bộ phim hay với đề cử giải thưởng Kids' Choice Awards 2013",
+      "releaseInfo": "2012",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt2953050",
+      "type": "movie",
+      "name": "Encanto: Vùng Đất Thần Kỳ",
+      "poster": "https://image.tmdb.org/t/p/w500/wWL205mZBcOP4GNtdhztAvqTgUG.jpg",
+      "description": "Câu chuyện về một gia đình phi thường, nhà Madrigals, sống ẩn mình trong vùng núi Colombia, trong một ngôi nhà ma thuật, trong một thị trấn sôi động, ở một nơi kỳ diệu, quyến rũ được gọi là Encanto. Phép thuật của Encanto đã ban phước cho mọi đứa trẻ trong gia đình món quà độc nhất vô nhị từ siêu sức mạnh đến sức mạnh chữa lành — mọi đứa trẻ, trừ Mirabel. Nhưng khi cô phát hiện ra rằng phép thuật xung quanh Encanto đang gặp nguy hiểm, Mirabel quyết định rằng cô, người nhà Madrigal bình thường duy nhất, có thể là hy vọng cuối cùng của gia đình cô.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt0479952",
+      "type": "movie",
+      "name": "Madagascar 2: Tẩu Thoát Đến Châu Phi",
+      "poster": "https://image.tmdb.org/t/p/w500/n46ARRQfpT1GsglYlWFGNAJmQYU.jpg",
+      "description": "Thoát khỏi Madagascar, bộ tứ kỳ khôi lại mắc kẹt ở châu Phi với một rừng rắc rối: bị trục suất, thất tình, gặp kỳ phùng địch thủ và suýt làm mồi cho núi lửa...",
+      "releaseInfo": "2008",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt0120623",
+      "type": "movie",
+      "name": "Thế Giới Côn Trùng",
+      "poster": "https://image.tmdb.org/t/p/w500/g4fjvdBOGhLHJ4uI2dlhx0MHOgJ.jpg",
+      "description": "Một xóm kiến nọ bị những con châu chấu to xác, đứng đầu là Hopper (Kevin Spacey lồng tiếng) đô hộ. Đàn kiến tội nghiệp phải cống nạp thức ăn cho quân xâm lược hàng năm và coi đây là một nghi lễ bắt buộc phải thực thi nếu muốn sống yên ổn. Một ngày mùa xuân, khi đồ cúng lễ đã được chuẩn bị sẵn sàng, một anh chàng kiến ưa phát minh ra những đồ quái dị tên là Flik (Dave Foley) đã vô tình làm đổ toàn bộ số hạt và rau quả xuống sông. Đàn châu chấu hung hăng xuất hiện và hết sức tức giận khi không thấy thức ăn được dâng lên như mọi khi. Bọn chúng định tấn công đàn kiến nhưng khi rõ sự tình, chúng cho họ một cơ hội chuộc lỗi, gia hạn đến mùa thu phải gom nhặt đủ số đồ lễ. Nhưng Flik lại nghĩ khác, anh ta muốn đàn ...",
+      "releaseInfo": "1998",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt1646971",
+      "type": "movie",
+      "name": "Bí Kíp Luyện Rồng 2",
+      "poster": "https://image.tmdb.org/t/p/w500/433Vg3WvfNuoMZNp35g1xsYSHbo.jpg",
+      "description": "Hiccup, Răng Sún và một kỵ sĩ rồng bí ẩn hợp lực để bảo vệ đảo Berk khỏi một chiến binh thèm khát quyền lực cùng đội quân rồng của riêng hắn.",
+      "releaseInfo": "2014",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt1001526",
+      "type": "movie",
+      "name": "Kẻ Xấu Đẹp Trai",
+      "poster": "https://image.tmdb.org/t/p/w500/j3kAPS9D8eAqNZ2vOiigj5DoiPz.jpg",
+      "description": "Siêu ác nhân xảo quyệt Megamind vô tình giết chết gã người hùng không đội trời chung của hắn, để rồi tạo ra một kẻ thù mới muốn phá hủy thế giới.",
+      "releaseInfo": "2010",
       "imdbRating": "7.3"
+    },
+    {
+      "id": "tt0952640",
+      "type": "movie",
+      "name": "Sóc Siêu Quậy",
+      "poster": "https://image.tmdb.org/t/p/w500/bcOHYCGjnL9MopiKmbP1SXr0lbb.jpg",
+      "description": "Ở một khu rừng toàn thông, có ba con sóc biết nói: Alvin, Simon và Theodore; không những thế, chúng còn hát rất hay. Một hôm, cây thông của chúng bị chặt mang vào thành phố, ba con sóc bắt đầu cuộc sống mới nơi đô thị với nhịp sống nhanh. Trong thành phố đó, có một chàng nhạc sĩ tên Dave. Anh rất yêu âm nhạc, nhưng những tác phẩm của anh không làm hài lòng ông chủ khó tính. Anh bị đuổi việc. Ba con sóc con sống ở trong nhà Dave, gây cho anh bao rắc rối phiền toái, nhưng cũng có bao niềm vui. Những chú sóc nhỏ hát bài hát của Dave, chúng trở nên nổi tiếng. Mọi chuyện rắc rối bắt đầu xảy ra...",
+      "releaseInfo": "2007",
+      "imdbRating": "5.3"
     },
     {
       "id": "tt0097757",
@@ -816,76 +878,13 @@
       "imdbRating": "7.2"
     },
     {
-      "id": "tt5113040",
+      "id": "tt8097030",
       "type": "movie",
-      "name": "Đẳng Cấp Thú Cưng 2",
-      "poster": "https://image.tmdb.org/t/p/w500/D6DdrHkSDTLXaxc7EsukUPm3WU.jpg",
-      "description": "Đẳng Cấp Thú Cưng 2 sẽ tiếp nối câu chuyện của bom tấn mùa hè năm 2016, về những gì diễn ra trong cuộc sống của thú cưng sau khi chủ của chúng đi làm hoặc đi học hàng ngày. Giám đốc điều hành và nhà sáng lập của hãng Illumination – Chris Meledandri và người cộng sự lâu năm Janet Healy sẽ sản xuất phần tiếp theo của thương hiệu hoạt hình nguyên gốc có phần mở màn tuyệt vời nhất.",
-      "releaseInfo": "2019",
-      "imdbRating": "6.4"
-    },
-    {
-      "id": "tt0275847",
-      "type": "movie",
-      "name": "Lilo và Stitch",
-      "poster": "https://image.tmdb.org/t/p/w500/cFuLvQJPoZpuruAtN3rVnMmLIH8.jpg",
-      "description": "Lilo & Stitch là một phim hoạt hình của Walt Disney Pictures phát hành năm 2002. Phim kể về các chuyến phiêu lưu đi tìm các thí nghiệm thất lạc của Lilo và chú chó Stitch và là một trong số những bộ phim hoạt hình nổi bật nhất của Disney. Chris Sanders và Dean DeBlois đã cùng nhau viết kịch bản và đạo diễn bộ phim. Lilo & Stitch đã nhận được đề cử cho Giải Oscar cho phim hoạt hình hay nhất năm 2002, giải thưởng sau đó đã thuộc về Vùng đất linh hồn (Bản Tiếng Anh của Spirited Away cũng được phát hành bởi Walt Disney Pictures).Các phần tiếp theo của bộ phim, Stitch! The Movie, Lilo & Stitch 2: Stitch Has a Glitch và Leroy & Stitch đã được sản xuất để phát hành thẳng dưới dạng đĩa hình. Một loạt phim truyền hình, Lilo & Stitch: The Series cũng được sản xuất cho ...",
-      "releaseInfo": "2002",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt8115900",
-      "type": "movie",
-      "name": "Những Kẻ Xấu Xa",
-      "poster": "https://image.tmdb.org/t/p/w500/z7UYsomjqjySbPVVYzIcQZFDGKo.jpg",
-      "description": "Năm nhân vật phản diện khét tiếng, những người đã dành cả cuộc đời cùng nhau để thực hiện những vụ cướp lớn, mệt mỏi với cuộc sống tội ác và quyết định sống cuộc đời của họ như những lực lượng lương thiện",
+      "name": "Gấu Đỏ Biến Hình",
+      "poster": "https://image.tmdb.org/t/p/w500/fnoJLyLttGjLzJEM0B0RnyJN20y.jpg",
+      "description": "Với \"Gấu Đỏ Biến Hình\", Disney và Pixar mang đến cô bé 13 tuổi Mei Lee (Rosalie Chiang lồng tiếng) đầy tự tin, hơi ngố, đang bị giằng xé giữa hình ảnh con ngoan và sự nổi loạn của tuổi mới lớn. Sự bảo vệ và đeo bám hơi thái quá của mẹ Ming (Sandra Oh lồng tiếng) cũng là một rắc rối mà cô bé phải đối mặt. Không chỉ bối rối vì các thay đổi về sở thích, tình cảm và cơ thể, cô bé còn có một vấn đề nan giải khác. Bất cứ khi nào quá phấn khích (một việc THƯỜNG XUYÊN xảy ra), cô bé sẽ \"biến hình\" thành một con gấu trúc đỏ khổng lồ! Sản phẩm của đạo diễn Domee Shi (đoạt giải Oscar với hoạt hình Pixar ngắn \"Bao\") và nhà sản xuất Lindsey Collins. Một số phân đoạn có họa tiết hoặc hiệu ứng chớp sáng có thể gây ảnh hưởng lên các khán giả nhạy cảm. Một số phân đoạn có họa tiết hoặc hiệu ứng chớp sáng có thể gây ảnh hưởng lên các khán giả nhạy cảm.",
       "releaseInfo": "2022",
       "imdbRating": "6.9"
-    },
-    {
-      "id": "tt2386490",
-      "type": "movie",
-      "name": "Bí Kíp Luyện Rồng: Vùng Đất Bí Ẩn",
-      "poster": "https://image.tmdb.org/t/p/w500/bVtyk3Mkq2KvSZEfrDMrKklQ8MW.jpg",
-      "description": "Bí kíp luyện rồng: Vùng đất bí ẩn là một bộ phim hoạt hình máy tính 3D hành động giả tưởng Mĩ năm 2019, được sản xuất bởi DreamWorks Animation và phát hành bởi Universal Pictures dựa trên cuốn sách cùng tên. Đây là phần tiếp theo của Bí kíp luyện rồng 2 và là phần cuối cùng trong loạt phim Bí kíp luyện rồng.  Một năm sau khi bảo vệ Berk khỏi Drago, Răng Sún và Nấc Cụt cùng với những bạn của họ, tiếp tục giải cứu các con rồng bị bắt để đưa chúng trở lại Berk và tạo cho các loài rồng một môi trường nhộn nhịp. Nhưng nỗ lực giải cứu những con rồng đã khiến hòn đảo trở nên quá đông với một lượng lớn số rồng. Để xử lí tình trạng quá tải này, Nấc Cụt quyết định tìm một \"vùng đất bí ẩn\", nơi trú ngụ mà cậu thấy là an toàn nhất cho các con rồng mà người cha quá cố, Stoick đã nói với cậu. Trong khi đó, một con Fury trắng bị giam cầm bởi các lãnh chúa, sau nó được trao lại cho thợ săn rồng khét tiếng Grimmel làm mồi nhử.",
-      "releaseInfo": "2019",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt0481499",
-      "type": "movie",
-      "name": "Gia Đình Croods",
-      "poster": "https://image.tmdb.org/t/p/w500/rR3OSOBGOSpSeSVHiGdRsSmUxKb.jpg",
-      "description": "Khi trận động đất xóa sổ hang động mình nương náu, gia đình gà mờ thời tiền sử buộc phải bôn ba qua những vùng đất lạ lẫm, mong muốn kiếm tìm mái nhà mới.",
-      "releaseInfo": "2013",
-      "imdbRating": "7.1"
-    },
-    {
-      "id": "tt0892782",
-      "type": "movie",
-      "name": "Quái Vật Ác Chiến Người Ngoài Hành Tinh",
-      "poster": "https://image.tmdb.org/t/p/w500/jRYsK1Zw4i8yjngf0fjGjXcu62w.jpg",
-      "description": "Trong phim Quái Vật Ác Chiến Người Hành Tinh, một tai nạn bất ngờ đã xảy ra ngay trong lễ cưới của Susan Murphy. Một thiên thạch rơi xuống Trái đất đã va vào cô khiến cho cơ thể Susan bỗng phát triển thành một người khổng lồ cao tới 15m. Quân đội ngay lập tức bắt giữ Susan và giam lỏng cô tại một trung tâm nghiên cứu bí mật của chính phủ. Tại đây, Susan được đổi tên thành Ginormica và gia nhập vào nhóm Quái vật đang được nghiên cứu. Cùng lúc đó, rô-bốt bí ẩn do Gallaxhar - kẻ mắc chứng hoang tưởng điều động đáp xuống Trái đất. Con rô-bốt này mang âm mưu thôn tính thế giới và đã ra tay bắn phá khắp nơi. Trong sự liều lĩnh tuyệt vọng, ngài Tổng thống (Stephen Colbert) chỉ còn cách thuyết phục nhóm Quái vật gia nhập quân đội để chống lại kẻ xâm lược ngoài hành tinh, cứu thế giới khỏi thảm họa diệt vong. Liệu mọi chuyện sẽ diễn ra thế nào, nhóm Quái vật có gia nhập quân đội và chống lại con rô-bốt kia không?",
-      "releaseInfo": "2009",
-      "imdbRating": "6.4"
-    },
-    {
-      "id": "tt3470600",
-      "type": "movie",
-      "name": "Đấu Trường Âm Nhạc",
-      "poster": "https://image.tmdb.org/t/p/w500/1JQw6nD8Jeq7jmz6YO0ol0buKhZ.jpg",
-      "description": "Lấy bối cảnh trong thế giới của loài vật, \"Đấu Trường Âm Nhạc\" chính là hành trình khám phá bản thân của 5 nhân vật khác nhau đó là chú chuột Mike, bé voi Meena, cô heo Rosita, chú khỉ Johnny và nàng nhím Ash.\r Cả 5 người sẽ cùng nhau tham gia cuộc thi ca hát do chú gấu túi Buster tổ chức với giấc mơ được đổi đời. Mặc dù mục đích ban đầu của họ đều hướng tới khoản tiền thưởng giá trị nhưng cuối cùng điều quý giá nhất họ nhận được lại chính là những bài học ý nghĩa và đầy tính nhân văn.",
-      "releaseInfo": "2016",
-      "imdbRating": "7.1"
-    },
-    {
-      "id": "tt2510894",
-      "type": "movie",
-      "name": "Khách Sạn Huyền Bí 2",
-      "poster": "https://image.tmdb.org/t/p/w500/dJcEf7xmEqUSFSRud9LTbewBPUQ.jpg",
-      "description": "Trong Hotel Transylvania 2, chủ khách sạn ma cà rồng Dracula (Adam Sandler) giờ đã có cháu ngoại lai hai dòng máu người-ma, và đang nuôi ý định biến nó trở thành giống mình. Vấn đề nằm ở chỗ, thằng bé không hề có tố chất của ma cà rồng. Dracula đành phải tập hợp một đội ngũ “đào tạo” bao gồm Frankenstein, Người sói, Người vô hình… về làm công tác huấn luyện. Hotel Transylvania 2 hứa hẹn sẽ là một phim hoạt hình dễ thương, hài hước tuyệt vời dành cho cả gia đình trong năm nay.",
-      "releaseInfo": "2015",
-      "imdbRating": "6.6"
     },
     {
       "id": "tt1302011",
