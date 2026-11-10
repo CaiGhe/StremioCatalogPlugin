@@ -1,6 +1,42 @@
 {
   "metas": [
     {
+      "id": "tt33764258",
+      "type": "movie",
+      "name": "Sử Thi Odyssey",
+      "poster": "https://phimimg.com/uploads/movies/20260829/su-thi-odyssey-poster.webp",
+      "description": "Câu chuyện theo chân Odysseus trong hành trình kéo dài 10 năm trở về nhà sau cuộc chiến thành Troy, nơi ông phải đối mặt với các vị thần, quái vật và vô vàn thử thách, đồng thời nỗ lực đoàn tụ với vợ và giành lại vương quốc của mình.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt0106627",
+      "type": "movie",
+      "name": "Mê Dại",
+      "poster": "https://phimimg.com/uploads/movies/20261110/me-dai-poster.webp",
+      "description": "Tìm kiếm một nơi yên tĩnh để sinh sống, nhà báo Nick chuyển vào nhà khách của một gia đình, nhưng chẳng bao lâu sau lại trở thành đối tượng mà cô con gái nhà họ đem lòng cảm mến.",
+      "releaseInfo": "1993",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": "tt7616798",
+      "type": "movie",
+      "name": "Đường Về Nhà Của Cún Con",
+      "poster": "https://phimimg.com/uploads/movies/20261110/duong-ve-nha-cua-cun-con-poster.webp",
+      "description": "Phim chính là hành trình đầy gian nan và vô cùng cảm động nhằm tìm về với chủ của một chú cún đi lạc. Bella là một cô cún được Lucas nhận nuôi từ bé. Có thể nói, cả hai có mối quan hệ rất thân thiết. Cho đến một ngày, vì mải mê đuổi theo một chú sóc mà Bella đã đi lạc. Lo rằng Lucas không thấy mình sẽ cô đơn và buồn bã, Bella bất chấp mọi hiểm nguy, khó khăn để tìm đường về nhà bằng được.",
+      "releaseInfo": "2019",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt0149624",
+      "type": "movie",
+      "name": "Những Con Tuấn Mã",
+      "poster": "https://phimimg.com/uploads/movies/20261109/nhung-con-tuan-ma-poster.webp",
+      "description": "John và Lacey lang bạt làm thuê ở các trang trại, cuối cùng cũng tìm được một điền trang đang tuyển người. Nhưng rắc rối kéo đến khi một trong hai phải lòng con gái chủ điền trang.",
+      "releaseInfo": "2000",
+      "imdbRating": "5.8"
+    },
+    {
       "id": "tt7526136",
       "type": "movie",
       "name": "Trái Tim Quái Thú",
@@ -666,7 +702,7 @@
       "poster": "https://phimimg.com/uploads/movies/20260929/chuyen-van-chuyen-sinh-tu-poster.webp",
       "description": "Một cựu binh bị cuốn vào một cuộc đua sinh tử nghẹt thở với thời gian khi một chuyến vận chuyển thuốc cấp cứu sống còn biến anh cùng người đồng hành bất đắc dĩ thành mục tiêu săn đuổi của một băng đảng cartel tàn bạo. Khi nhiệm vụ dần vượt tầm kiểm soát thành một cuộc săn người đẫm máu, mỗi khúc ngoặt, sự trì hoãn và từng viên đạn đều đẩy họ đến gần hơn với thất bại. Trong bối cảnh sự phản bội bủa giăng khắp phía, họ buộc phải sống sót qua cuộc truy đuổi tàn khốc để giao kịp lô hàng nhằm cứu sống mạng mạng một cô bé.",
       "releaseInfo": "2026",
-      "imdbRating": "6.6"
+      "imdbRating": "6.2"
     },
     {
       "id": "tt0104449",
@@ -845,41 +881,6 @@
       "poster": "https://phimimg.com/upload/vod/20231113-1/bcd21adf3bfd735e07f5a2e2b9513743.jpg",
       "description": "Phim 33 Người Thợ Mỏ - The 33: dựa trên sự kiện có thật, 33 người thợ mỏ mắc kẹt ở hầm mỏ bị sập trong 69 ngày.",
       "releaseInfo": "2015",
-      "imdbRating": "6.9"
-    },
-    {
-      "id": "tt15421298",
-      "type": "movie",
-      "name": "Chiếc Trống Xanh",
-      "poster": "https://phimimg.com/uploads/movies/20260921/chiec-trong-xanh-poster.webp",
-      "description": "Vào ngày tang lễ của bố mình, cô gái nọ trở nên ám ảnh với một thế lực bí ẩn và việc này lật mở những bí mật chôn giấu trong ngôi nhà của gia đình cô.",
-      "releaseInfo": "2022",
-      "imdbRating": "4.4"
-    },
-    {
-      "id": "tt16478058",
-      "type": "movie",
-      "name": "Đội nhảy xuất sắc nhất / Đội nhảy số một",
-      "poster": "https://phimimg.com/uploads/movies/20260921/doi-nhay-xuat-sac-nhat-poster.webp",
-      "description": "Trên hành trình chinh phục ngôi vị quán quân và vượt qua các vòng thi đấu căng thẳng, họ phải đối mặt với những đối thủ đáng gờm — nổi bật là Deepica (Shreya Navile), đội trưởng một đội nhảy đối thủ đầy tài năng. Bộ phim kết hợp giữa các màn vũ đạo hoành tráng, âm nhạc sôi động và những câu chuyện dở khóc dở cười tuổi sinh viên.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt0112346",
-      "type": "movie",
-      "name": "Tổng Thống Hoa Kỳ",
-      "poster": "https://phimimg.com/uploads/movies/20260921/tong-thong-hoa-ky-poster.webp",
-      "description": "Tổng thống Andrew Shepherd (Michael Douglas) chuẩn bị cho chiến dịch tái tranh cử với tỷ lệ ủng hộ 63% trong nội bộ đảng Dân chủ. Để lôi kéo cử tri bỏ phiếu cho Andrew, cố vấn Lewis Rothschild (Michael J. Fox) nỗ lực vận động hành lang để quốc hội thông qua một đạo luật kiểm soát súng mà đa số dân chúng ủng hộ nhưng các nghị sĩ lại không quan tâm. Nếu đạo luật được thông qua, cơ hội tái đắc cử của tổng thống sẽ trở nên chắc chắn.Người đứng đầu nước Pháp chuẩn bị tới thăm Nhà Trắng. Văn phòng tổng thống chạy đôn đáo để tìm một bóng hồng sánh đôi cùng Andrew trong buổi đón tiếp nhà lãnh đạo tới từ bên kia đại dương. Họ phải làm việc này vì vợ của Andrew qua đời cách đó 3 năm. Bình thường thì tổng thống ...",
-      "releaseInfo": "1995",
-      "imdbRating": "6.9"
-    },
-    {
-      "id": "tt0089155",
-      "type": "movie",
-      "name": "Siêu Nhà Báo",
-      "poster": "https://phimimg.com/uploads/movies/20260921/sieu-nha-bao-poster.webp",
-      "description": "Irwin “Fletch” Fletcher là một phóng viên điều tra chuyên cải trang để bí mật thu thập thông tin cho các vụ án. Trong lúc điều tra một đường dây ma túy, anh bất ngờ được một doanh nhân giàu có thuê giết mình để vợ có thể thừa hưởng tài sản. Nghi ngờ lời đề nghị kỳ quặc, Fletch giả vờ nhận nhiệm vụ rồi âm thầm điều tra thân phận và động cơ của người thuê. Càng tìm hiểu, anh càng phát hiện nhiều bí mật và dấu hiệu cho thấy mình đang bị cuốn vào một âm mưu nguy hiểm.",
-      "releaseInfo": "1985",
       "imdbRating": "6.9"
     }
   ]
