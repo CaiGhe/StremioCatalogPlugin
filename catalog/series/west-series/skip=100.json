@@ -1,84 +1,13 @@
 {
   "metas": [
     {
-      "id": "tt2431250",
+      "id": "tt8005374",
       "type": "series",
-      "name": "Ngôi Nhà Nhỏ Trên Thảo Nguyên",
-      "poster": "https://phimimg.com/uploads/movies/20260710/ngoi-nha-nho-tren-thao-nguyen-poster.webp",
-      "description": "Gia đình Ingalls gắn bó cùng xây dựng cuộc sống mới nơi biên giới miền Tây, nơi niềm vui thiên nhiên và cuộc chiến sinh tồn đan xen mật thiết.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.3"
-    },
-    {
-      "id": "tt32140872",
-      "type": "series",
-      "name": "Thành Phố Phi Hành Gia (Phần 1) (Căn Cứ Star City)",
-      "poster": "https://phimimg.com/upload/vod/20260531-1/3173b41302bd1b2cd8f4c237cda10cec.jpg",
-      "description": "Bước vào một chương mới đầy kịch tính lấy cảm hứng từ Cuộc Chiến Không Gian. Vẫn là vũ trụ lịch sử giả định đó, nhưng từ góc nhìn khác: góc nhìn của Liên Xô. Hãy cùng vượt qua Bức màn Sắt để theo chân các phi hành gia, kỹ sư và sĩ quan tình báo, những người đã đánh cược tất cả trong cuộc đua lên Mặt Trăng.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt10970762",
-      "type": "series",
-      "name": "Những Bản Di Chúc (Phần 1)",
-      "poster": "https://phimimg.com/upload/vod/20260617-1/873621a345ae991f4ac31d4908897f3a.jpg",
-      "description": "Phần tiếp theo của \"The Handmaid\"s Tale\" kể về Agnes và Daisy, hai thiếu nữ ở Gilead phải thích nghi với cuộc sống tại một trường dự bị ưu tú, nơi sự phục tùng được thực thi một cách tàn bạo. Tình bạn của họ trở thành chất xúc tác làm thay đổi cuộc đời cả hai.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt0844441",
-      "type": "series",
-      "name": "Thuần Huyết (Phần 7)",
-      "poster": "https://phimimg.com/uploads/movies/20260710/thuan-huyet-phan-7-poster.webp",
-      "description": "Sau màn tái sinh đẫm máu của Bill, Sookie, Eric và đồng bạn rút khỏi tòa nhà của Hội đồng Ma cà rồng. Trong khi đó, thống đốc Louisiana, Truman Burrell tuyên bố tiến hành săn lùng ma cà rồng.",
-      "releaseInfo": "2014",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt34991493",
-      "type": "series",
-      "name": "Trang Trại Dutton",
-      "poster": "https://phimimg.com/upload/vod/20260604-1/c714d7ad21f9fea3380edbfba93b72e8.jpg",
-      "description": "Trang trại Dutton là series cao bồi, chính kịch, tập trung vào hành trình mới của cặp đôi biểu tượng được người hâm mộ vô cùng yêu thích trong vũ trụ nổi tiếng Yellowstone, Beth Dutton và Rip Wheeler. Tiếp nối ngay sau biến cố cuối cùng của gia tộc Dutton trong loạt phim gốc Yellowstone, Beth và Rip quyết định rời khỏi Montana để xây dựng tương lai mới tại Trang trại Dutton ở Texas cùng Carter, cậu bé họ xem như con trai của mình, nhưng vùng đất mới này vốn không hề dễ sống. Trang trại mới của họ nhanh chóng trở thành mục tiêu của bà trùm chăn nuôi địa phương, những tay tài phiệt muốn thâu tóm đất đai và cả giới chính trị. Rip phải quay lại cuộc sống đẫm máu quen thuộc để bảo vệ gia đình, còn Beth tiếp tục dùng trí thông minh, sự tàn nhẫn và bản lĩnh thép để chống lại mọi kẻ thù. Với dàn diễn viên hạng A, cùng với nhịp phim dồn dập, các pha hành động đậm chất Viễn Tây… đã tạo nên thương hiệu của đạo diễn tài năng Taylor Sheridan hứa hẹn dây là bộ phim không thể bỏ lỡ của các tín đồ điện ảnh.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt5580146",
-      "type": "series",
-      "name": "Điên Loạn",
-      "poster": "https://phimimg.com/uploads/movies/20260707/dien-loan-poster.webp",
-      "description": "Hai con người lạ mặt, nhiều trăn trở, kết nối trong một thử nghiệm dược phẩm tâm thần của một bác sĩ đang vật lộn với việc làm mẹ cùng chiếc máy tính phức tạp về cảm xúc.",
-      "releaseInfo": "2018",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt9078908",
-      "type": "series",
-      "name": "Núi Sát Nhân",
-      "poster": "https://phimimg.com/upload/vod/20260704-1/fd283f70b430c5c023abd5974d6114f0.jpg",
-      "description": "Tại Hạt Humboldt, California, hoạt động buôn bán cần sa hợp pháp với quy mô lớn thu hút khách du lịch từ khắp nơi trên thế giới. Và có những người một đi không trở lại.",
-      "releaseInfo": "2018",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt17361756",
-      "type": "series",
-      "name": "Chuyện Sinh Tồn Của Cô Nàng Ngoại Cỡ (Phần 3)",
-      "poster": "https://phimimg.com/upload/vod/20260703-1/440e454cd96f832465178526c86912a2.jpg",
-      "description": "Sau cuộc chia tay tồi tệ, nhà tạo mẫu đầy đam mê Mavis Beaumont chớp cơ hội để bắt đầu lại cuộc sống và tình yêu trong khi tìm thấy hạnh phúc theo cách riêng.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt0813715",
-      "type": "series",
-      "name": "Giải Cứu Thế Giới (Phần 4)",
-      "poster": "https://phimimg.com/upload/vod/20260702-1/8af6a9c69e1da033b85e687205189820.jpg",
-      "description": "Những con người bình thường bỗng chốc phát hiện ra mình sở hữu những siêu năng lực phi thường. Cuộc đời của họ bắt đầu đan xen và gắn kết với nhau khi một thảm họa tàn khốc sắp xảy ra cần phải được ngăn chặn.",
-      "releaseInfo": "2009",
-      "imdbRating": "7.5"
+      "name": "Giải Mã (Phần 3)",
+      "poster": "https://phimimg.com/uploads/movies/20260715/giai-ma-phan-3-poster.webp",
+      "description": "Loạt phim tài liệu này, được thực hiện dưới sự hợp tác với Vox, giải thích về một số xu hướng hiện nay trên thế giới, từ chính trị, khoa học cho đến văn hóa đại chúng.",
+      "releaseInfo": "2021",
+      "imdbRating": "8.0"
     }
   ]
 }
