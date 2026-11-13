@@ -1,6 +1,24 @@
 {
   "metas": [
     {
+      "id": "tt42721267",
+      "type": "movie",
+      "name": "Công Viên Giải Thoát",
+      "poster": "https://phimimg.com/uploads/movies/20261112/cong-vien-giai-thoat-poster.webp",
+      "description": "Một bi kịch thời thơ ấu, một vụ mất tích chưa từng được giải đáp và chiếc áo mưa đỏ vẫn lặng lẽ xuất hiện sau nhiều năm đã kéo nhóm bạn trẻ trở lại nơi mọi bi kịch bắt đầu. Giữa công viên nước hoang tàn phủ đầy bóng tối, Fourth Nattawat cùng những người bạn càng bị cuốn sâu vào vòng xoáy kinh hoàng không lối thoát.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.7"
+    },
+    {
+      "id": "tt33184184",
+      "type": "movie",
+      "name": "Cổ Thuật Hắc Ngải",
+      "poster": "https://phimimg.com/uploads/movies/20261112/co-thuat-hac-ngai-poster.webp",
+      "description": "Cổ Thuật Hắc Ngải (Kong Tao – 蠱降) là bộ phim kinh dị hợp tác giữa Thái Lan và Malaysia, lấy cảm hứng từ những nghi thức trù ếm, bùa ngải và tà thuật hắc ám bí ẩn bậc nhất châu Á. Phim theo chân một nhóm YouTuber chuyên khám phá các hiện tượng siêu nhiên tại Thái Lan. Thế nhưng, một chuyến ghi hình tưởng chừng vô hại lại vô tình đánh thức lời nguyền chết chóc, buộc cả nhóm phải chạy đua với thời gian để tìm đến một pháp sư trước khi trở thành những nạn nhân tiếp theo. Đặc biệt, bộ phim đánh dấu màn lột xác của Kao Supassara – \"tình đầu Thái Lan\" – trong một vai diễn hoàn toàn mới, kết hợp cùng Philip Keung, hứa hẹn mang đến một siêu phẩm kinh dị nặng đô, đậm màu sắc tà thuật và văn hóa bùa ngải Đông Nam Á.",
+      "releaseInfo": "2026",
+      "imdbRating": "4.6"
+    },
+    {
       "id": "tt39750664",
       "type": "movie",
       "name": "Đội Diễn Quá Đà",
@@ -24,7 +42,7 @@
       "poster": "https://phimimg.com/uploads/movies/20261002/chuyen-ma-giang-duong-4-poster.webp",
       "description": "Bốn trường đại học Thái Lan, bốn truyền thuyết chết người. Sinh viên đối mặt với cây cầu tử thần, ngôi nhà ma, nghi lễ tàn nhẫn và căn phòng ma ám trong tuyển tập kinh dị này.",
       "releaseInfo": "2026",
-      "imdbRating": "5.1"
+      "imdbRating": "5.0"
     },
     {
       "id": "tt42004417",
@@ -875,24 +893,6 @@
       "description": "Một cặp đôi YouTube vụng về sắp chia tay kết nối với một diễn giả nhếch nhác truyền động lực để chống lại một hồn ma giận dữ ẩn chứa những bí mật cổ xưa.",
       "releaseInfo": "2022",
       "imdbRating": "4.0"
-    },
-    {
-      "id": "tt18357588",
-      "type": "movie",
-      "name": "Tăng Tốc Về Phía Em",
-      "poster": "https://phimimg.com/upload/vod/20241004-1/058af896070bf1a616b6a2559019778b.jpg",
-      "description": "Khi nhà vô địch thế giới môn thể thao xếp chồng bị bạn gái lâu năm bỏ rơi, anh ta phải học các kỹ năng trưởng thành cơ bản để sống một mình và tự chăm sóc bản thân.",
-      "releaseInfo": "2022",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt13446126",
-      "type": "movie",
-      "name": "Phòng Thí Nghiệm Ma",
-      "poster": "https://phimimg.com/upload/vod/20240927-1/aa598d0d133ab912f0af4b16ea0a8cef.jpg",
-      "description": "Sau khi gặp ma trong bệnh viện của họ, hai bác sĩ trở nên ám ảnh một cách nguy hiểm về việc thu thập bằng chứng khoa học để chứng minh sự tồn tại của ma.",
-      "releaseInfo": "2021",
-      "imdbRating": "5.2"
     }
   ]
 }
