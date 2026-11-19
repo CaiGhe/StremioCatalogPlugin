@@ -1,13 +1,40 @@
 {
   "metas": [
     {
-      "id": "tt0354333",
+      "id": "tt0173528",
       "type": "series",
-      "name": "Secrets of the Dead",
-      "poster": "https://image.tmdb.org/t/p/w500/9S7ht0dMhf5PulQWdWf7MXja3u6.jpg",
-      "description": "Part detective story, part true-life drama, long-running series explores some of the most iconic moments in history to debunk myths and shed new light on past events. Using the latest investigative techniques, forensic science and historical examination, it shatters accepted wisdom, challenges prevailing ideas, overturns existing hypotheses, spotlights forgotten mysteries, and ultimately rewrites history.",
-      "releaseInfo": "2000",
+      "name": "Bill Nye the Science Guy",
+      "poster": "https://image.tmdb.org/t/p/w500/xdGGiQ8gBEwjyafLxW34IK8sblZ.jpg",
+      "description": "It's \"Mr. Wizard\" for a different decade. Bill Nye is the Science Guy, a host who's hooked on experimenting and explaining. Picking one topic per show (like the human heart or electricity), Nye gets creative with teaching kids and adults alike the nuances of science.",
+      "releaseInfo": "1993",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt0949790",
+      "type": "series",
+      "name": "Gardening Australia",
+      "poster": "https://image.tmdb.org/t/p/w500/79taCPhP1vgKCZVEHRhVZXo6G9F.jpg",
+      "description": "Gardening Australia provides practical, realistic and credible horticultural and gardening advice, inspiring and entertaining Australian gardeners around the nation.",
+      "releaseInfo": "2005",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt2402569",
+      "type": "series",
+      "name": "Cold Justice",
+      "poster": "https://image.tmdb.org/t/p/w500/gfJL3QtpHvHtxkLA9WBzkYhzAGA.jpg",
+      "description": "From Executive Producer Dick Wolf, this true crime investigative series follows veteran prosecutor Kelly Siegler, and her rotating team of seasoned detectives, as they travel to small towns across the country and help local law-enforcement agencies dig into unsolved homicide cases that have lingered for years without answers or justice for the victims due to lack of funding and proper forensic technology.",
+      "releaseInfo": "2013",
       "imdbRating": "8.0"
+    },
+    {
+      "id": "tt2845786",
+      "type": "series",
+      "name": "Anthony Bourdain: Những Gốc Khuất",
+      "poster": "https://image.tmdb.org/t/p/w500/qg7lcydNf8DBVFIFK3XEuccv1jf.jpg",
+      "description": "Bourdain đi khắp thế giới để khám phá các khu vực ít được biết đến trên thế giới và tôn vinh các nền văn hóa đa dạng bằng cách khám phá ẩm thực và các nghi lễ ăn uống. Nổi tiếng với sự tò mò, ham hiểu biết và thông minh nhạy bén, Bourdain đưa người xem ra khỏi con đường đông đúc của các địa điểm du lịch - bao gồm một số nơi  bị chiến tranh tàn phá trên thế giới - và gặp gỡ với nhiều công dân địa phương khác nhau để tìm hiểu lối sống của họ và đôi khi giao lưu với một đầu bếp được quốc tế đánh giá cao trong các chuyến hành trình của ông ấy.",
+      "releaseInfo": "2013",
+      "imdbRating": "8.9"
     },
     {
       "id": "tt10098498",
@@ -19,103 +46,22 @@
       "imdbRating": "7.3"
     },
     {
-      "id": "tt1647443",
+      "id": "tt0891374",
       "type": "series",
-      "name": "Journeys in Japan",
-      "poster": "https://image.tmdb.org/t/p/w500/9y6cze7R5skd1DSg7jTrfzv0IYH.jpg",
-      "description": "Journeys in Japan provides an eye-opening look at the many unique places to visit in Japan. English-speaking visitors travel the length of the country, exploring the culture, meeting the local people, visiting historic sites and offering travel hints rarely found in guidebooks.",
-      "releaseInfo": "2010",
-      "imdbRating": "8.6"
-    },
-    {
-      "id": "tt1230180",
-      "type": "series",
-      "name": "The Angry Video Game Nerd",
-      "poster": "https://image.tmdb.org/t/p/w500/h5s62a2ctgCWAcnPw8oOpks6PJE.jpg",
-      "description": "The Angry Video Game Nerd is an adult web television series of comedic retrogaming video reviews created by and starring James Rolfe. The show's format revolves around his commentary and review of older, but unsuccessful video games which are deemed to be of particularly low-quality, unfair difficulty or poor design.\n\nThe series began as a feature on YouTube and later became a program on ScrewAttack Entertainment before moving to GameTrailers exclusively. The show was renamed The Angry Video Game Nerd to prevent any trademark issues with Nintendo and due to the fact he started reviewing games from non-Nintendo consoles such as those made by Atari and Sega.\n\nRolfe's character, \"The Nerd\" is a short-tempered and foul-mouthed video game fanatic. He derives comic appeal from excessive and inventive use of anger, profanity, and habitual consumption of alcohol while reviewing video games.",
-      "releaseInfo": "2004",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt0173528",
-      "type": "series",
-      "name": "Bill Nye the Science Guy",
-      "poster": "https://image.tmdb.org/t/p/w500/xdGGiQ8gBEwjyafLxW34IK8sblZ.jpg",
-      "description": "It's \"Mr. Wizard\" for a different decade. Bill Nye is the Science Guy, a host who's hooked on experimenting and explaining. Picking one topic per show (like the human heart or electricity), Nye gets creative with teaching kids and adults alike the nuances of science.",
-      "releaseInfo": "1993",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt7178298",
-      "type": "series",
-      "name": "Dateline: Secrets Uncovered",
-      "poster": "https://image.tmdb.org/t/p/w500/ydF4jZ4vBhPX7O0ouMMkmDnQpGO.jpg",
-      "description": "For more than 25 years, Dateline has brought viewers investigations into some of biggest mysteries in America. This entry in the franchise takes a second look at some of the most mysterious cases of recent history. It explores the stories through firsthand accounts told by people who are close to the crime, including investigators who dedicated their time to the cases and family members who are still trying to confront the tragedies that befell their loved ones.",
-      "releaseInfo": "2017",
-      "imdbRating": "7.8"
-    },
-    {
-      "id": "tt9016022",
-      "type": "series",
-      "name": "Basketball: A Love Story",
-      "poster": "https://image.tmdb.org/t/p/w500/7At8dfNNXs9hnx2ZgTRyGMlwcA1.jpg",
-      "description": "'Basketball: A Love Story' is a series of 62 interconnected short stories that creates a vibrant mosaic of the game, featuring 165 exclusive interviews. The cast encompasses basketball's most prominent figures and explores the complex nature of love as it relates to the game.",
-      "releaseInfo": "2018",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt0417306",
-      "type": "series",
-      "name": "CMT Crossroads",
-      "poster": "https://image.tmdb.org/t/p/w500/9MTPbHCZx4CvLEISPdoWRBe97Ar.jpg",
-      "description": "Country music stars collaborate with performers from other musical genres and exchange stories about their mutual love for music.",
-      "releaseInfo": "2002",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt0450920",
-      "type": "series",
-      "name": "Intervention",
-      "poster": "https://image.tmdb.org/t/p/w500/voryX0sQ7NjWmkuYy13IZBqwT2d.jpg",
-      "description": "People whose uncontrollable addiction to drugs, alcohol or compulsive behavior has brought them to the brink of destruction and has devastated their family and friends are presented with a life-changing opportunity of intervention and rehab. Each addict must confront their darkest demons in order to begin their journey to recovery in the hopes that they can turn their lives around before it’s too late.",
-      "releaseInfo": "2005",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt35933375",
-      "type": "series",
-      "name": "Remembers…",
-      "poster": "https://image.tmdb.org/t/p/w500/4SKGw4Zp1K7tzjlyybJCUthHk1P.jpg",
-      "description": "What are the secrets of our favourite TV shows? Famous names from both sides of the camera reflect on making some of the most popular and influential programs of all time.",
-      "releaseInfo": "2022",
-      "imdbRating": "7.3"
-    },
-    {
-      "id": "tt0795176",
-      "type": "series",
-      "name": "Hành Tinh Trái Đất",
-      "poster": "https://image.tmdb.org/t/p/w500/bNcNxUtZ520d5de5s78onoiSiwQ.jpg",
-      "description": "Hành Tinh Trái Đất của chúng ta thật đẹp và kì diệu - đẹp nhất, kì diệu nhất trong 10 hành tinh của hệ mặt trời. Planet Earth là một bộ phim tài liệu được dàn dựng công phu trong suốt 5 năm trời để tôn vinh vẻ đẹp ấy. Qua 11 phần của bộ phim này, bạn sẽ được chu du từ cực Nam tới cực Bắc, qua các Sa Mạc, rừng mưa, lên những dãy núi cao, lặn xuống dưới biển sâu, khám phá những hang động huyền bí v.v... rất thú vị và kích thích.",
+      "name": "Dickinson's Real Deal",
+      "poster": "https://image.tmdb.org/t/p/w500/dSPgyQ5QiXwuYNs9ow84tjcjIEp.jpg",
+      "description": "David Dickinson and the team travel the country hoping for some good deals. But will the locals take the cash for their antiques or gamble at auction?",
       "releaseInfo": "2006",
-      "imdbRating": "9.4"
+      "imdbRating": "5.5"
     },
     {
-      "id": "tt1832668",
+      "id": "tt4057258",
       "type": "series",
-      "name": "How the Universe Works",
-      "poster": "https://image.tmdb.org/t/p/w500/t87KvAQEvt5FvEV2FA4rXvnrC2m.jpg",
-      "description": "A users' guide to the cosmos, from the Big Bang to galaxies, stars, planets and moons: where did it all come from and how does it all fit together? A primer for anyone who has ever looked up at the night sky and wondered.",
-      "releaseInfo": "2010",
-      "imdbRating": "8.9"
-    },
-    {
-      "id": "tt1090018",
-      "type": "series",
-      "name": "Monkey Life",
-      "poster": "https://image.tmdb.org/t/p/w500/rheACAd6DIakB1vGni4ehSkmLse.jpg",
-      "description": "Monkey Life was created in 2006 and has continuously documented the work of Dr. Alison Cronin, MBE and her team at Monkey World; Ape Rescue Centre.\n\nFilmed at Monkey World in Dorset, Monkey Life follows the rescue and rehabilitation of abused and neglected primates. Many have mental as well as physical problems so the Primate Care Staff treat their individual needs until they can be reintegrated with primates of their own kind. The primates at the park range from apes, who were taken from the wild as babies and used as photographers props on Spanish beaches to monkeys, many of which were rescued from the UK pet trade.\n\nWith unparalleled access Monkey World's dedicated team are filmed dealing with medical emergencies, primate moves, births and sometimes heart-breaking decisions. We follow Dr. Alison Cronin, MBE around the globe as she continues the park's mission to rescue abused primates. Monkey Life documents the daily life and drama of the world’s largest primate rescue centre.",
-      "releaseInfo": "2007",
-      "imdbRating": "8.8"
+      "name": "The Great British Bake Off: An Extra Slice",
+      "poster": "https://image.tmdb.org/t/p/w500/weIEmbrT2KrXeohm5Evs05lpjhN.jpg",
+      "description": "Jo Brand is joined by three different celebrity Bake Off fans to shine a spotlight on the good, the bad and the soggy bottomed from the most recent episode.",
+      "releaseInfo": "2014",
+      "imdbRating": "6.5"
     },
     {
       "id": "tt0383795",
@@ -127,67 +73,31 @@
       "imdbRating": "9.3"
     },
     {
-      "id": "tt10589968",
+      "id": "tt0346369",
       "type": "series",
-      "name": "The Secret of Skinwalker Ranch",
-      "poster": "https://image.tmdb.org/t/p/w500/j8PpovebgIhrt89AQVvkogcX34v.jpg",
-      "description": "There is a ranch in northern Utah. It is considered the epicenter of the strangest, and most disturbing occurrences on Earth: For two decades, the federal government investigated the property. Their findings have never been made public. Now a new team of independent scientists and researchers are taking over. They are uncovering evidence that the countless stories, of unidentified aerial phenomena, Bizarre energies, and portals that lead to other dimensions Might actually be true. They will stop at nothing to reveal The Secret of Skinwalker Ranch.",
-      "releaseInfo": "2020",
-      "imdbRating": "6.5"
+      "name": "Penn & Teller: Bullshit!",
+      "poster": "https://image.tmdb.org/t/p/w500/b2jEQ2XhsUnCLSyGu6QT4bTtRCO.jpg",
+      "description": "This daring original series stars postmodern bad boys of magic Penn & Teller as they question many of our culture's most cherished and widely held beliefs. From the truth about palm readings and TV psychics to the reality behind Feng Shui and Ouija boards, the archly comic masters of misdirection host this eye-opening analysis of the middle-ground between perception and reality.",
+      "releaseInfo": "2003",
+      "imdbRating": "8.2"
     },
     {
-      "id": "tt0318220",
+      "id": "tt0450920",
       "type": "series",
-      "name": "HBO First Look",
-      "poster": "https://image.tmdb.org/t/p/w500/1R6pR4X5usNA7rPbt9q7a96S6HK.jpg",
-      "description": "HBO First Look is an American television show on HBO that chronicles up and coming movies. It first started in 1992 with a documentary on A League of Their Own starring Tom Hanks, and still airs today. The series shows behind-the-scenes looks at the filming and interviews with the actors. The show is part documentary and part advertisement. It airs on HBO with no set schedule.",
-      "releaseInfo": "1992",
-      "imdbRating": "6.3"
+      "name": "Intervention",
+      "poster": "https://image.tmdb.org/t/p/w500/voryX0sQ7NjWmkuYy13IZBqwT2d.jpg",
+      "description": "People whose uncontrollable addiction to drugs, alcohol or compulsive behavior has brought them to the brink of destruction and has devastated their family and friends are presented with a life-changing opportunity of intervention and rehab. Each addict must confront their darkest demons in order to begin their journey to recovery in the hopes that they can turn their lives around before it’s too late.",
+      "releaseInfo": "2005",
+      "imdbRating": "7.9"
     },
     {
-      "id": "tt0262955",
+      "id": "tt0795176",
       "type": "series",
-      "name": "Everyman",
-      "poster": "https://image.tmdb.org/t/p/w500/mLkA3ntazmAlrgxWisNRjQ5jzrK.jpg",
-      "description": "Everyman is a British television documentary series that aired on BBC One in a late-night slot on Sunday evenings between 1977 and 2005. Its subject matter tended to be focused on moral and religious issues, often in the form of a film in which individuals would discuss their thoughts. One edition from 1990, A Game of Soldiers concerned a group of soldiers exploring their feelings about being trained to kill. Throughout much of its time on air, series of Everyman aired alternately with Heart of the Matter, a debate series which featured somewhat similar topics. Both series were cancelled in the 2000s after the BBC revamped the output of its religious programming.",
-      "releaseInfo": "1977",
-      "imdbRating": "7.1"
-    },
-    {
-      "id": "tt0891374",
-      "type": "series",
-      "name": "Dickinson's Real Deal",
-      "poster": "https://image.tmdb.org/t/p/w500/dSPgyQ5QiXwuYNs9ow84tjcjIEp.jpg",
-      "description": "David Dickinson and the team travel the country hoping for some good deals. But will the locals take the cash for their antiques or gamble at auction?",
+      "name": "Hành Tinh Trái Đất",
+      "poster": "https://image.tmdb.org/t/p/w500/bNcNxUtZ520d5de5s78onoiSiwQ.jpg",
+      "description": "Hành Tinh Trái Đất của chúng ta thật đẹp và kì diệu - đẹp nhất, kì diệu nhất trong 10 hành tinh của hệ mặt trời. Planet Earth là một bộ phim tài liệu được dàn dựng công phu trong suốt 5 năm trời để tôn vinh vẻ đẹp ấy. Qua 11 phần của bộ phim này, bạn sẽ được chu du từ cực Nam tới cực Bắc, qua các Sa Mạc, rừng mưa, lên những dãy núi cao, lặn xuống dưới biển sâu, khám phá những hang động huyền bí v.v... rất thú vị và kích thích.",
       "releaseInfo": "2006",
-      "imdbRating": "5.5"
-    },
-    {
-      "id": "tt0883772",
-      "type": "series",
-      "name": "Man vs. Wild",
-      "poster": "https://image.tmdb.org/t/p/w500/9M4xXcz9m1aUlRsASv7vsx776do.jpg",
-      "description": "Bear strands himself in popular wilderness destinations where tourists often find themselves lost or in danger.",
-      "releaseInfo": "2006",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt1497563",
-      "type": "series",
-      "name": "Hoarders",
-      "poster": "https://image.tmdb.org/t/p/w500/trN8Om68vjxPXKEWMIEoiQHkJio.jpg",
-      "description": "Each episode of Hoarders is a fascinating look inside the lives of two different people whose inability to part with their belongings is so out of control that they are on the verge of a personal crisis.",
-      "releaseInfo": "2009",
-      "imdbRating": "6.6"
-    },
-    {
-      "id": "tt0199184",
-      "type": "series",
-      "name": "Arena",
-      "poster": "https://image.tmdb.org/t/p/w500/6dh235EYfy95s5Vin208Flcrng6.jpg",
-      "description": "Arena is a British television documentary series, made and broadcast by the BBC. Voted by leading TV executives in Broadcast as one of the top 50 most influential programmes of all time, it has run since 1 October 1975 with over five hundred episodes made, directed by the likes of Martin Scorsese, Alan Yentob, Roly Keating, Frederick Baker, Volker Schlondorff and Vikram Jayanti. Arena's subjects are a roll-call of the world's best known cultural figures from the 20th and 21st centuries, from singers Bob Dylan and Amy Winehouse to academics Edward Said and Eric Hobsbawm, from writers Jean Genet and V S Naipaul to artists Francis Bacon and Louise Bourgeois. The current series editor is Anthony Wall.",
-      "releaseInfo": "1975",
-      "imdbRating": "8.1"
+      "imdbRating": "9.4"
     },
     {
       "id": "tt4944090",
@@ -199,22 +109,85 @@
       "imdbRating": "7.3"
     },
     {
-      "id": "tt0446622",
+      "id": "tt0318220",
       "type": "series",
-      "name": "Hard Knocks",
-      "poster": "https://image.tmdb.org/t/p/w500/3u3XqybD6Fu9dyOMJn2nBN9qzs8.jpg",
-      "description": "An inside look at NFL training camps. From the top coaches to the rookies trying to make the team, Hard Knocks showcases what it takes to be in the NFL.",
-      "releaseInfo": "2001",
-      "imdbRating": "8.3"
+      "name": "HBO First Look",
+      "poster": "https://image.tmdb.org/t/p/w500/1R6pR4X5usNA7rPbt9q7a96S6HK.jpg",
+      "description": "HBO First Look is an American television show on HBO that chronicles up and coming movies. It first started in 1992 with a documentary on A League of Their Own starring Tom Hanks, and still airs today. The series shows behind-the-scenes looks at the filming and interviews with the actors. The show is part documentary and part advertisement. It airs on HBO with no set schedule.",
+      "releaseInfo": "1992",
+      "imdbRating": "6.3"
     },
     {
-      "id": "tt0346369",
+      "id": "tt1832668",
       "type": "series",
-      "name": "Penn & Teller: Bullshit!",
-      "poster": "https://image.tmdb.org/t/p/w500/b2jEQ2XhsUnCLSyGu6QT4bTtRCO.jpg",
-      "description": "This daring original series stars postmodern bad boys of magic Penn & Teller as they question many of our culture's most cherished and widely held beliefs. From the truth about palm readings and TV psychics to the reality behind Feng Shui and Ouija boards, the archly comic masters of misdirection host this eye-opening analysis of the middle-ground between perception and reality.",
-      "releaseInfo": "2003",
-      "imdbRating": "8.2"
+      "name": "How the Universe Works",
+      "poster": "https://image.tmdb.org/t/p/w500/t87KvAQEvt5FvEV2FA4rXvnrC2m.jpg",
+      "description": "A users' guide to the cosmos, from the Big Bang to galaxies, stars, planets and moons: where did it all come from and how does it all fit together? A primer for anyone who has ever looked up at the night sky and wondered.",
+      "releaseInfo": "2010",
+      "imdbRating": "8.9"
+    },
+    {
+      "id": "tt35933375",
+      "type": "series",
+      "name": "Remembers…",
+      "poster": "https://image.tmdb.org/t/p/w500/4SKGw4Zp1K7tzjlyybJCUthHk1P.jpg",
+      "description": "What are the secrets of our favourite TV shows? Famous names from both sides of the camera reflect on making some of the most popular and influential programs of all time.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt0199184",
+      "type": "series",
+      "name": "Arena",
+      "poster": "https://image.tmdb.org/t/p/w500/6dh235EYfy95s5Vin208Flcrng6.jpg",
+      "description": "Arena is a British television documentary series, made and broadcast by the BBC. Voted by leading TV executives in Broadcast as one of the top 50 most influential programmes of all time, it has run since 1 October 1975 with over five hundred episodes made, directed by the likes of Martin Scorsese, Alan Yentob, Roly Keating, Frederick Baker, Volker Schlondorff and Vikram Jayanti. Arena's subjects are a roll-call of the world's best known cultural figures from the 20th and 21st centuries, from singers Bob Dylan and Amy Winehouse to academics Edward Said and Eric Hobsbawm, from writers Jean Genet and V S Naipaul to artists Francis Bacon and Louise Bourgeois. The current series editor is Anthony Wall.",
+      "releaseInfo": "1975",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt1647443",
+      "type": "series",
+      "name": "Journeys in Japan",
+      "poster": "https://image.tmdb.org/t/p/w500/9y6cze7R5skd1DSg7jTrfzv0IYH.jpg",
+      "description": "Journeys in Japan provides an eye-opening look at the many unique places to visit in Japan. English-speaking visitors travel the length of the country, exploring the culture, meeting the local people, visiting historic sites and offering travel hints rarely found in guidebooks.",
+      "releaseInfo": "2010",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt9016022",
+      "type": "series",
+      "name": "Basketball: A Love Story",
+      "poster": "https://image.tmdb.org/t/p/w500/7At8dfNNXs9hnx2ZgTRyGMlwcA1.jpg",
+      "description": "'Basketball: A Love Story' is a series of 62 interconnected short stories that creates a vibrant mosaic of the game, featuring 165 exclusive interviews. The cast encompasses basketball's most prominent figures and explores the complex nature of love as it relates to the game.",
+      "releaseInfo": "2018",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt10589968",
+      "type": "series",
+      "name": "The Secret of Skinwalker Ranch",
+      "poster": "https://image.tmdb.org/t/p/w500/j8PpovebgIhrt89AQVvkogcX34v.jpg",
+      "description": "There is a ranch in northern Utah. It is considered the epicenter of the strangest, and most disturbing occurrences on Earth: For two decades, the federal government investigated the property. Their findings have never been made public. Now a new team of independent scientists and researchers are taking over. They are uncovering evidence that the countless stories, of unidentified aerial phenomena, Bizarre energies, and portals that lead to other dimensions Might actually be true. They will stop at nothing to reveal The Secret of Skinwalker Ranch.",
+      "releaseInfo": "2020",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt1497563",
+      "type": "series",
+      "name": "Hoarders",
+      "poster": "https://image.tmdb.org/t/p/w500/trN8Om68vjxPXKEWMIEoiQHkJio.jpg",
+      "description": "Each episode of Hoarders is a fascinating look inside the lives of two different people whose inability to part with their belongings is so out of control that they are on the verge of a personal crisis.",
+      "releaseInfo": "2009",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt0477545",
+      "type": "series",
+      "name": "Unreported World",
+      "poster": "https://image.tmdb.org/t/p/w500/rDRntQywHKCCVxSt8slnMGDipn0.jpg",
+      "description": "Unreported World is a foreign affairs programme produced by Quicksilver Media Productions and broadcast by Channel 4 in the United Kingdom. Over the course of its twenty-four series, reporters have travelled all over the world in an attempt to uncover stories usually ignored by the world media.",
+      "releaseInfo": "2000",
+      "imdbRating": "8.3"
     },
     {
       "id": "tt0421099",
@@ -226,57 +199,30 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt1365047",
+      "id": "tt7178298",
       "type": "series",
-      "name": "Who Do You Think You Are?",
-      "poster": "https://image.tmdb.org/t/p/w500/xIm6YLdjJsrkbhM0ZFwtTD8w9zD.jpg",
-      "description": "From roots in the Deep South to the slums of New Jersey, \"Who Do You Think You Are?\" follows the journeys of some of the most well-known names in American popular culture. Watch as celebrities discover unknown details about themselves and their families while researching their ancestry with the help of historians and genealogical experts.",
-      "releaseInfo": "2010",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt2223298",
-      "type": "series",
-      "name": "Salvage Hunters",
-      "poster": "https://image.tmdb.org/t/p/w500/l01tfkunPY0LEVZiENIvVF9XOyr.jpg",
-      "description": "Meet modern-day treasure hunter Drew Pritchard. With demanding customers, high turnover, and one of the biggest decorative salvage yards in the UK, Drew is constantly on the road, crisscrossing the country in search of derelict gems and forgotten remnants. Drew loves the thrill of the hunt and while he gets his hands dirty in the country's architectural backwaters, his crack team of restorers is back at the shop giving old and rare finds a new lease on life.",
-      "releaseInfo": "2011",
+      "name": "Dateline: Secrets Uncovered",
+      "poster": "https://image.tmdb.org/t/p/w500/ydF4jZ4vBhPX7O0ouMMkmDnQpGO.jpg",
+      "description": "For more than 25 years, Dateline has brought viewers investigations into some of biggest mysteries in America. This entry in the franchise takes a second look at some of the most mysterious cases of recent history. It explores the stories through firsthand accounts told by people who are close to the crime, including investigators who dedicated their time to the cases and family members who are still trying to confront the tragedies that befell their loved ones.",
+      "releaseInfo": "2017",
       "imdbRating": "7.8"
     },
     {
-      "id": "tt22060992",
+      "id": "tt1090018",
       "type": "series",
-      "name": "On Patrol: First Shift",
-      "poster": "https://image.tmdb.org/t/p/w500/9WYmejW5eaiDpeC4vzSDZKZYAS.jpg",
-      "description": "Dan Abrams, Sean \"Sticks\" Larkin and Curtis Wilson discuss what's in store for the upcoming episode of On Patrol: Live and provide a sneak peak of the departments and officers that the cameras will be following. The hosts will also look back at the most memorable moments from past episodes including everything from police pursuits to encounters with unforgettable suspects, as well as inspiring acts of heroism and courage under fire.",
-      "releaseInfo": "2022",
-      "imdbRating": "8.6"
+      "name": "Monkey Life",
+      "poster": "https://image.tmdb.org/t/p/w500/rheACAd6DIakB1vGni4ehSkmLse.jpg",
+      "description": "Monkey Life was created in 2006 and has continuously documented the work of Dr. Alison Cronin, MBE and her team at Monkey World; Ape Rescue Centre.\n\nFilmed at Monkey World in Dorset, Monkey Life follows the rescue and rehabilitation of abused and neglected primates. Many have mental as well as physical problems so the Primate Care Staff treat their individual needs until they can be reintegrated with primates of their own kind. The primates at the park range from apes, who were taken from the wild as babies and used as photographers props on Spanish beaches to monkeys, many of which were rescued from the UK pet trade.\n\nWith unparalleled access Monkey World's dedicated team are filmed dealing with medical emergencies, primate moves, births and sometimes heart-breaking decisions. We follow Dr. Alison Cronin, MBE around the globe as she continues the park's mission to rescue abused primates. Monkey Life documents the daily life and drama of the world’s largest primate rescue centre.",
+      "releaseInfo": "2007",
+      "imdbRating": "8.8"
     },
     {
-      "id": "tt8005374",
+      "id": "tt0446622",
       "type": "series",
-      "name": "Explained",
-      "poster": "https://image.tmdb.org/t/p/w500/4iiV2Fh4EA5of5B9Wtgllu0WDWA.jpg",
-      "description": "This enlightening series from Vox digs into a wide range of topics such as the rise of cryptocurrency, why diets fail, and the wild world of K-pop.",
-      "releaseInfo": "2018",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt5489746",
-      "type": "series",
-      "name": "Evil Lives Here",
-      "poster": "https://image.tmdb.org/t/p/w500/tL5jRxrflh2et3whDxyXgRHEnGJ.jpg",
-      "description": "The true stories of people who lived with a killer. How well do you really know your family? Would you recognize the warning signs? Or would you become entangled in evil?",
-      "releaseInfo": "2016",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt0477545",
-      "type": "series",
-      "name": "Unreported World",
-      "poster": "https://image.tmdb.org/t/p/w500/rDRntQywHKCCVxSt8slnMGDipn0.jpg",
-      "description": "Unreported World is a foreign affairs programme produced by Quicksilver Media Productions and broadcast by Channel 4 in the United Kingdom. Over the course of its twenty-four series, reporters have travelled all over the world in an attempt to uncover stories usually ignored by the world media.",
-      "releaseInfo": "2000",
+      "name": "Hard Knocks",
+      "poster": "https://image.tmdb.org/t/p/w500/3u3XqybD6Fu9dyOMJn2nBN9qzs8.jpg",
+      "description": "An inside look at NFL training camps. From the top coaches to the rookies trying to make the team, Hard Knocks showcases what it takes to be in the NFL.",
+      "releaseInfo": "2001",
       "imdbRating": "8.3"
     },
     {
@@ -289,76 +235,31 @@
       "imdbRating": "7.0"
     },
     {
-      "id": "tt0260618",
+      "id": "tt1213209",
       "type": "series",
-      "name": "Gardeners' World",
-      "poster": "https://image.tmdb.org/t/p/w500/dwqMZ7opkE12BmdFkrtwxyvsJl2.jpg",
-      "description": "Gardeners' World is a long-running BBC Television programme about gardening, first broadcast in 1968 and still running as of 2013. Its first episode was presented by Ken Burras and came from Oxford Botanical Gardens. The magazine BBC Gardeners' World is a tie-in to the programme. Most of its episodes have been 30 minutes in length, although there are many specials that last longer. The 2008 and 2009 series used a 60-minute format.",
-      "releaseInfo": "1968",
-      "imdbRating": "8.3"
+      "name": "America's Game: The Super Bowl Champions",
+      "poster": "https://image.tmdb.org/t/p/w500/73StQRlVU2yXgeTYdOV5WcyWWZg.jpg",
+      "description": "America's Game: The Super Bowl Champions is an annual documentary series created by NFL Films (broadcast on the NFL Network and CBS). Each of its 55 (and counting) installments profile the National Football League's annual Super Bowl champion through highlights, interviews with players and coaches, and a celebrity narrator.\n\nA spin-off debuted on September 18, 2008, titled America's Game: The Missing Rings which chronicled five of the best teams to never win the Super Bowl.",
+      "releaseInfo": "2006",
+      "imdbRating": "9.2"
     },
     {
-      "id": "tt14094206",
+      "id": "tt8005374",
       "type": "series",
-      "name": "Marvel Studios Assembled",
-      "poster": "https://image.tmdb.org/t/p/w500/v2BHRwtQVkt5fssLdo5MpFgHJPY.jpg",
-      "description": "Go behind the scenes of the shows and movies of the Marvel Cinematic Universe, following the filmmakers, cast and crew, and Marvel heroes every step of the way.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.8"
+      "name": "Explained",
+      "poster": "https://image.tmdb.org/t/p/w500/4iiV2Fh4EA5of5B9Wtgllu0WDWA.jpg",
+      "description": "This enlightening series from Vox digs into a wide range of topics such as the rise of cryptocurrency, why diets fail, and the wild world of K-pop.",
+      "releaseInfo": "2018",
+      "imdbRating": "8.0"
     },
     {
-      "id": "tt1051155",
+      "id": "tt0154053",
       "type": "series",
-      "name": "The Universe",
-      "poster": "https://image.tmdb.org/t/p/w500/wbtVDGQbzvNSbAqXIVE1X7BUtq2.jpg",
-      "description": "From the planets to the stars and out to the edge of the unknown, history and science collide in a wondrous yet deadly adventure through space and time.",
-      "releaseInfo": "2007",
-      "imdbRating": "8.6"
-    },
-    {
-      "id": "tt0046593",
-      "type": "series",
-      "name": "The Wonderful World of Disney",
-      "poster": "https://image.tmdb.org/t/p/w500/qxzolPXbAigjPANgTOdXXDxqcbr.jpg",
-      "description": "Walt Disney Productions has produced an anthology television series under several different titles since 1954. The original version of the series premiered on ABC, Wednesday night, October 27, 1954. The show, which was hosted by Walt Disney until his death and then from 1996 to 2002 by then-CEO Michael Eisner (with one-off hosts or no hosts during other periods) has since aired continually as either a weekly program or an irregular series of specials on several networks and streaming services, most recently on ABC and Disney+. The show is the second longest showing prime-time program on American television, behind its rival, Hallmark Hall of Fame. However, Hallmark Hall of Fame was a weekly program only during its first five seasons, while Disney remained a weekly program for more than forty years.",
-      "releaseInfo": "1954",
-      "imdbRating": "8.4"
-    },
-    {
-      "id": "tt27096916",
-      "type": "series",
-      "name": "An Optimist's Guide to the Planet",
-      "poster": "https://image.tmdb.org/t/p/w500/lplnZYo4Jg0KsgEMs3lVZwJum80.jpg",
-      "description": "Follow Nikolaj Coster-Waldau’s search for the people, ideas, traditions, and attitudes – the solutions – which will transform fear of the future into hope, climate angst into optimism and human disconnection into engagement. In each of the six episodes, Nikolaj and his affable team criss-cross the globe exploring humanity, witnessing its power for good and learning about some of the remarkable solutions (both old and new) that inspire his optimism for the future.",
-      "releaseInfo": "2024",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt0204775",
-      "type": "series",
-      "name": "Prisoners of Gravity",
-      "poster": "https://image.tmdb.org/t/p/w500/iYgDca5h0hQm8hFuLWivTeomET2.jpg",
-      "description": "Prisoners of Gravity was a Canadian public broadcasting television news magazine program that explored speculative fiction — science fiction, fantasy, horror, comic books — and its relation to various thematic and social issues. Produced by TVOntario, the show was the brainchild of former comic retail manager Mark Askwith and writer Daniel Richler, and was hosted by Rick Green. The series aired 139 episodes over 5 seasons from 1989 to 1994.",
-      "releaseInfo": "1989",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt0207933",
-      "type": "series",
-      "name": "Twice in a Lifetime",
-      "poster": "https://image.tmdb.org/t/p/w500/Idn583Aa0knxM5P4SWqellWNUb.jpg",
-      "description": "Prematurely deceased people are given the opportunity to correct something that went wrong in their lives and thus change them for the better.",
-      "releaseInfo": "1999",
-      "imdbRating": "7.0"
-    },
-    {
-      "id": "tt0096688",
-      "type": "series",
-      "name": "Rescue 911",
-      "poster": "https://image.tmdb.org/t/p/w500/7Cm3d7XZqwGnNEu9UI5pkLLPz1W.jpg",
-      "description": "Rescue 911 is an informational reality-based television series that premiered on April 18, 1989 and ended on August 27, 1996. The series was hosted by William Shatner and featured reenactments of emergency situations that often involved calls to 911.\n\nThough never intended as a teaching tool, various viewers used the knowledge they obtained watching the show. Two specials, titled \"100 Lives Saved\" and \"200 Lives Saved,\" were dedicated to viewers who had written to CBS with their stories on how the knowledge they obtained watching the show allowed them to save the life of someone else. At least 350 lives have been saved as a result of what viewers learned from watching it.",
-      "releaseInfo": "1989",
-      "imdbRating": "7.5"
+      "name": "Nightline",
+      "poster": "https://image.tmdb.org/t/p/w500/ptNeYSOIDgD9Gac5g1qZ8KDabFw.jpg",
+      "description": "Nightline, or ABC News Nightline, is a late-night news program that is broadcast by ABC in the United States, and has a franchised formula to other networks and stations elsewhere in the world. Created by Roone Arledge, the program featured Ted Koppel as its main anchor from March 1980 until his retirement from the program in November 2005. Nightline airs weeknights at 12:37 a.m. Eastern Time, after Jimmy Kimmel Live!. It previously ran for 31 minutes, but in 2011, the program was reduced to 25 minutes. When the program moved to 12:37 a.m. ET, the program was expanded to 30 minutes.\n\nIn 2002, Nightline was ranked 23rd on TV Guide's 50 Greatest TV Shows of All Time.",
+      "releaseInfo": "1980",
+      "imdbRating": "5.8"
     },
     {
       "id": "tt0324932",
@@ -370,40 +271,40 @@
       "imdbRating": "6.3"
     },
     {
-      "id": "tt3460320",
+      "id": "tt1365047",
       "type": "series",
-      "name": "30 for 30: Soccer Stories",
-      "poster": "https://image.tmdb.org/t/p/w500/722HQ75jwws3CvLb9nIW767I83p.jpg",
-      "description": "ESPN Films, creators of the critically-acclaimed 30 for 30 film series, will premiere a new series in April surrounding the 2014 FIFA World Cup on ESPN. 30 for 30: Soccer Stories will include a mix of standalone feature-length and 30-minute-long documentary films from an award winning group of filmmakers telling compelling narratives from around the international soccer landscape.",
-      "releaseInfo": "2014",
-      "imdbRating": "7.8"
+      "name": "Who Do You Think You Are?",
+      "poster": "https://image.tmdb.org/t/p/w500/xIm6YLdjJsrkbhM0ZFwtTD8w9zD.jpg",
+      "description": "From roots in the Deep South to the slums of New Jersey, \"Who Do You Think You Are?\" follows the journeys of some of the most well-known names in American popular culture. Watch as celebrities discover unknown details about themselves and their families while researching their ancestry with the help of historians and genealogical experts.",
+      "releaseInfo": "2010",
+      "imdbRating": "8.0"
     },
     {
-      "id": "tt6225166",
+      "id": "tt0883772",
       "type": "series",
-      "name": "Live PD",
-      "poster": "https://image.tmdb.org/t/p/w500/2I2KNf7jZhtkuVVTCqdIgGiNmlI.jpg",
-      "description": "Dash cams capture footage from urban and rural police forces while on the job. A live look inside the everyday calls of police officers across the nation.",
-      "releaseInfo": "2016",
+      "name": "Man vs. Wild",
+      "poster": "https://image.tmdb.org/t/p/w500/9M4xXcz9m1aUlRsASv7vsx776do.jpg",
+      "description": "Bear strands himself in popular wilderness destinations where tourists often find themselves lost or in danger.",
+      "releaseInfo": "2006",
       "imdbRating": "8.1"
     },
     {
-      "id": "tt10324164",
+      "id": "tt22060992",
       "type": "series",
-      "name": "Hành Tinh Thời Tiền Sử - Prehistoric Planet",
-      "poster": "https://image.tmdb.org/t/p/w500/yajnwDs7WYDFfqXfzC69rfj1dYh.jpg",
-      "description": "Trải nghiệm những điều kỳ diệu của thế giới chúng ta chưa từng có với loạt phim tài liệu này của Jon Favreau và các nhà sản xuất của Planet Earth. Du hành trở về 66 triệu năm khi những con khủng long oai phong và những sinh vật phi thường lang thang trên các vùng đất, biển và bầu trời.",
+      "name": "On Patrol: First Shift",
+      "poster": "https://image.tmdb.org/t/p/w500/9WYmejW5eaiDpeC4vzSDZKZYAS.jpg",
+      "description": "Dan Abrams, Sean \"Sticks\" Larkin and Curtis Wilson discuss what's in store for the upcoming episode of On Patrol: Live and provide a sneak peak of the departments and officers that the cameras will be following. The hosts will also look back at the most memorable moments from past episodes including everything from police pursuits to encounters with unforgettable suspects, as well as inspiring acts of heroism and courage under fire.",
       "releaseInfo": "2022",
-      "imdbRating": "8.4"
+      "imdbRating": "8.6"
     },
     {
-      "id": "tt11947238",
+      "id": "tt0354333",
       "type": "series",
-      "name": "History's Greatest Mysteries",
-      "poster": "https://image.tmdb.org/t/p/w500/lo2RNy38zs422CaOCUcuaqMmZdc.jpg",
-      "description": "Investigates a wide range of historically compelling topics and the mysteries surrounding each including the Titanic, D.B. Cooper, Roswell, John Wilkes Booth, and more. Fresh, new evidence and perspectives will be showcased, such as never-before-released documents, personal diaries and DNA evidence.",
-      "releaseInfo": "2020",
-      "imdbRating": "7.1"
+      "name": "Secrets of the Dead",
+      "poster": "https://image.tmdb.org/t/p/w500/9S7ht0dMhf5PulQWdWf7MXja3u6.jpg",
+      "description": "Part detective story, part true-life drama, long-running series explores some of the most iconic moments in history to debunk myths and shed new light on past events. Using the latest investigative techniques, forensic science and historical examination, it shatters accepted wisdom, challenges prevailing ideas, overturns existing hypotheses, spotlights forgotten mysteries, and ultimately rewrites history.",
+      "releaseInfo": "2000",
+      "imdbRating": "8.0"
     },
     {
       "id": "tt0424601",
@@ -415,13 +316,76 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt1513168",
+      "id": "tt14094206",
       "type": "series",
-      "name": "Through the Wormhole",
-      "poster": "https://image.tmdb.org/t/p/w500/cEziWNr1n1HKAuKhngF2n4engOR.jpg",
-      "description": "Hosted by Morgan Freeman, Through the Wormhole explores the deepest mysteries of existence - the questions that have puzzled mankind for eternity. What are we made of? What was there before the beginning? Are we really alone? Is there a creator? These questions have been pondered by the most exquisite minds of the human race. Now, science has evolved to the point where hard facts and evidence may be able to provide us with answers instead of philosophical theories. Through the Wormhole brings together the brightest minds and best ideas from the very edges of science - Astrophysics, Astrobiology, Quantum Mechanics, String Theory, and more - to reveal the extraordinary truth of our Universe.",
-      "releaseInfo": "2010",
+      "name": "Marvel Studios Assembled",
+      "poster": "https://image.tmdb.org/t/p/w500/v2BHRwtQVkt5fssLdo5MpFgHJPY.jpg",
+      "description": "Go behind the scenes of the shows and movies of the Marvel Cinematic Universe, following the filmmakers, cast and crew, and Marvel heroes every step of the way.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt5489746",
+      "type": "series",
+      "name": "Evil Lives Here",
+      "poster": "https://image.tmdb.org/t/p/w500/tL5jRxrflh2et3whDxyXgRHEnGJ.jpg",
+      "description": "The true stories of people who lived with a killer. How well do you really know your family? Would you recognize the warning signs? Or would you become entangled in evil?",
+      "releaseInfo": "2016",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt1051155",
+      "type": "series",
+      "name": "The Universe",
+      "poster": "https://image.tmdb.org/t/p/w500/wbtVDGQbzvNSbAqXIVE1X7BUtq2.jpg",
+      "description": "From the planets to the stars and out to the edge of the unknown, history and science collide in a wondrous yet deadly adventure through space and time.",
+      "releaseInfo": "2007",
       "imdbRating": "8.6"
+    },
+    {
+      "id": "tt11947238",
+      "type": "series",
+      "name": "History's Greatest Mysteries",
+      "poster": "https://image.tmdb.org/t/p/w500/lo2RNy38zs422CaOCUcuaqMmZdc.jpg",
+      "description": "Investigates a wide range of historically compelling topics and the mysteries surrounding each including the Titanic, D.B. Cooper, Roswell, John Wilkes Booth, and more. Fresh, new evidence and perspectives will be showcased, such as never-before-released documents, personal diaries and DNA evidence.",
+      "releaseInfo": "2020",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt6225166",
+      "type": "series",
+      "name": "Live PD",
+      "poster": "https://image.tmdb.org/t/p/w500/2I2KNf7jZhtkuVVTCqdIgGiNmlI.jpg",
+      "description": "Dash cams capture footage from urban and rural police forces while on the job. A live look inside the everyday calls of police officers across the nation.",
+      "releaseInfo": "2016",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0046593",
+      "type": "series",
+      "name": "The Wonderful World of Disney",
+      "poster": "https://image.tmdb.org/t/p/w500/qxzolPXbAigjPANgTOdXXDxqcbr.jpg",
+      "description": "Walt Disney Productions has produced an anthology television series under several different titles since 1954. The original version of the series premiered on ABC, Wednesday night, October 27, 1954. The show, which was hosted by Walt Disney until his death and then from 1996 to 2002 by then-CEO Michael Eisner (with one-off hosts or no hosts during other periods) has since aired continually as either a weekly program or an irregular series of specials on several networks and streaming services, most recently on ABC and Disney+. The show is the second longest showing prime-time program on American television, behind its rival, Hallmark Hall of Fame. However, Hallmark Hall of Fame was a weekly program only during its first five seasons, while Disney remained a weekly program for more than forty years.",
+      "releaseInfo": "1954",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt3325692",
+      "type": "series",
+      "name": "Nazi Megastructures",
+      "poster": "https://image.tmdb.org/t/p/w500/7Df34LNjP0hTMAnED6DifnPFfeg.jpg",
+      "description": "In a quest for world domination, the Nazis built some of the biggest and deadliest pieces of military hardware and malevolent technology in history. This is the stories of the engineers who designed them and how these structures sparked a technological revolution that changed warfare forever.",
+      "releaseInfo": "2013",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt10324164",
+      "type": "series",
+      "name": "Hành Tinh Thời Tiền Sử - Prehistoric Planet",
+      "poster": "https://image.tmdb.org/t/p/w500/yajnwDs7WYDFfqXfzC69rfj1dYh.jpg",
+      "description": "Trải nghiệm những điều kỳ diệu của thế giới chúng ta chưa từng có với loạt phim tài liệu này của Jon Favreau và các nhà sản xuất của Planet Earth. Du hành trở về 66 triệu năm khi những con khủng long oai phong và những sinh vật phi thường lang thang trên các vùng đất, biển và bầu trời.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.4"
     },
     {
       "id": "tt0237968",
@@ -433,13 +397,13 @@
       "imdbRating": "7.4"
     },
     {
-      "id": "tt1213209",
+      "id": "tt1513168",
       "type": "series",
-      "name": "America's Game: The Super Bowl Champions",
-      "poster": "https://image.tmdb.org/t/p/w500/73StQRlVU2yXgeTYdOV5WcyWWZg.jpg",
-      "description": "America's Game: The Super Bowl Champions is an annual documentary series created by NFL Films (broadcast on the NFL Network and CBS). Each of its 55 (and counting) installments profile the National Football League's annual Super Bowl champion through highlights, interviews with players and coaches, and a celebrity narrator.\n\nA spin-off debuted on September 18, 2008, titled America's Game: The Missing Rings which chronicled five of the best teams to never win the Super Bowl.",
-      "releaseInfo": "2006",
-      "imdbRating": "9.2"
+      "name": "Through the Wormhole",
+      "poster": "https://image.tmdb.org/t/p/w500/cEziWNr1n1HKAuKhngF2n4engOR.jpg",
+      "description": "Hosted by Morgan Freeman, Through the Wormhole explores the deepest mysteries of existence - the questions that have puzzled mankind for eternity. What are we made of? What was there before the beginning? Are we really alone? Is there a creator? These questions have been pondered by the most exquisite minds of the human race. Now, science has evolved to the point where hard facts and evidence may be able to provide us with answers instead of philosophical theories. Through the Wormhole brings together the brightest minds and best ideas from the very edges of science - Astrophysics, Astrobiology, Quantum Mechanics, String Theory, and more - to reveal the extraordinary truth of our Universe.",
+      "releaseInfo": "2010",
+      "imdbRating": "8.6"
     },
     {
       "id": "tt0978036",
@@ -451,6 +415,96 @@
       "imdbRating": "8.2"
     },
     {
+      "id": "tt4719744",
+      "type": "series",
+      "name": "Travel Man: 48 Hours in...",
+      "poster": "https://image.tmdb.org/t/p/w500/wc8KXKJDqvveO7bplrHHTRMO14B.jpg",
+      "description": "British comedian Richard Ayoade (later taken over by Joe Lycett), accompanied by a celebrity guest, takes a ruthlessly efficient approach to travel, covering everything top tourist destinations have to offer in just 48 hours.",
+      "releaseInfo": "2015",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt11210072",
+      "type": "series",
+      "name": "Court Cam",
+      "poster": "https://image.tmdb.org/t/p/w500/qIAuvw7BRciIOoW8dOatwY3qUdj.jpg",
+      "description": "An in-depth examination of some of the most stunning and emotional courtroom moments caught on camera, from frightening outbursts to furious judges.",
+      "releaseInfo": "2019",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt0260618",
+      "type": "series",
+      "name": "Gardeners' World",
+      "poster": "https://image.tmdb.org/t/p/w500/dwqMZ7opkE12BmdFkrtwxyvsJl2.jpg",
+      "description": "Gardeners' World is a long-running BBC Television programme about gardening, first broadcast in 1968 and still running as of 2013. Its first episode was presented by Ken Burras and came from Oxford Botanical Gardens. The magazine BBC Gardeners' World is a tie-in to the programme. Most of its episodes have been 30 minutes in length, although there are many specials that last longer. The 2008 and 2009 series used a 60-minute format.",
+      "releaseInfo": "1968",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt7426142",
+      "type": "series",
+      "name": "Christopher Kimball's Milk Street Television",
+      "poster": "https://image.tmdb.org/t/p/w500/qfMSLBEk1YGWXLbI3kky8DoJCLB.jpg",
+      "description": "Let’s stop doing things in the kitchen that made sense in the 19th century but not in the 21st. Milk Street travels the world to bring you the very best ideas and techniques with no lists of hard-to-find ingredients, strange cookware, or all-day methods to slow you down.",
+      "releaseInfo": "2017",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt0207933",
+      "type": "series",
+      "name": "Twice in a Lifetime",
+      "poster": "https://image.tmdb.org/t/p/w500/Idn583Aa0knxM5P4SWqellWNUb.jpg",
+      "description": "Prematurely deceased people are given the opportunity to correct something that went wrong in their lives and thus change them for the better.",
+      "releaseInfo": "1999",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt2964642",
+      "type": "series",
+      "name": "Life Below Zero",
+      "poster": "https://image.tmdb.org/t/p/w500/a1pZCA3nmZvQGI1L21Riuglfw6f.jpg",
+      "description": "Viewers go deep into an Alaskan winter to meet six tough and resilient residents as they try to stay one step ahead of storms and man-eating beasts to make it through to spring. The closest neighbor to Sue Aikens is more than 300 miles away. Eric Salitan subsists solely on what he hunts and forages. Chip and Agnes Hailstone catch fish for currency in bartering for supplies, and Andy and Kate Bassich use their pack of sled dogs for transportation.",
+      "releaseInfo": "2013",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt2297757",
+      "type": "series",
+      "name": "Nathan for You",
+      "poster": "https://image.tmdb.org/t/p/w500/nuyeyn2ZY5UOvklQinHsQnhs1QN.jpg",
+      "description": "Nathan Fielder uses his business degree and life experiences to help real small businesses turn a profit.",
+      "releaseInfo": "2013",
+      "imdbRating": "8.9"
+    },
+    {
+      "id": "tt0790397",
+      "type": "series",
+      "name": "Where Are They Now?",
+      "poster": "https://images.metahub.space/poster/small/tt0790397/img",
+      "description": "Where Are They Now? was a television series on VH1 that featured past celebrities and updated on their current professional and personal status. Each episode was dedicated to another genre.\n\nThough not always in sequence, some episodes were a continuation of the motif of episodes from the past. Those episodes sometimes had Roman numerals in their title to signify their sequel status.",
+      "releaseInfo": "1999",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt1190931",
+      "type": "series",
+      "name": "American Greed",
+      "poster": "https://image.tmdb.org/t/p/w500/bilmBb9Q4sLesr1gdMknSGfQQ7H.jpg",
+      "description": "A dissection of the dark side of the American Dream, a survey of how far some people go to become rich, no matter the cost to themselves and those around them. Real-life cases are reviewed and involve such criminal activity as credit card scams, identity theft, counterfeiting and Ponzi schemes.",
+      "releaseInfo": "2007",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt0204775",
+      "type": "series",
+      "name": "Prisoners of Gravity",
+      "poster": "https://image.tmdb.org/t/p/w500/iYgDca5h0hQm8hFuLWivTeomET2.jpg",
+      "description": "Prisoners of Gravity was a Canadian public broadcasting television news magazine program that explored speculative fiction — science fiction, fantasy, horror, comic books — and its relation to various thematic and social issues. Produced by TVOntario, the show was the brainchild of former comic retail manager Mark Askwith and writer Daniel Richler, and was hosted by Rick Green. The series aired 139 episodes over 5 seasons from 1989 to 1994.",
+      "releaseInfo": "1989",
+      "imdbRating": "8.5"
+    },
+    {
       "id": "tt0484243",
       "type": "series",
       "name": "A Haunting",
@@ -460,21 +514,39 @@
       "imdbRating": "7.9"
     },
     {
+      "id": "tt1597701",
+      "type": "series",
+      "name": "This World",
+      "poster": "https://image.tmdb.org/t/p/w500/lpkgomUMSGH1CT6xsDMGoIj5YDK.jpg",
+      "description": "The series is mainly focused on social issues and current affairs stories around the world.\n\nInternational current affairs documentaries, replacing \"Correspondent\".",
+      "releaseInfo": "2004",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt0096688",
+      "type": "series",
+      "name": "Rescue 911",
+      "poster": "https://image.tmdb.org/t/p/w500/7Cm3d7XZqwGnNEu9UI5pkLLPz1W.jpg",
+      "description": "Rescue 911 is an informational reality-based television series that premiered on April 18, 1989 and ended on August 27, 1996. The series was hosted by William Shatner and featured reenactments of emergency situations that often involved calls to 911.\n\nThough never intended as a teaching tool, various viewers used the knowledge they obtained watching the show. Two specials, titled \"100 Lives Saved\" and \"200 Lives Saved,\" were dedicated to viewers who had written to CBS with their stories on how the knowledge they obtained watching the show allowed them to save the life of someone else. At least 350 lives have been saved as a result of what viewers learned from watching it.",
+      "releaseInfo": "1989",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt0408409",
+      "type": "series",
+      "name": "Overhaulin'",
+      "poster": "https://image.tmdb.org/t/p/w500/yjwvzy3u9V1nfhE0vEk2xtoVnwF.jpg",
+      "description": "Overhaulin' is an American automotive reality TV show that ran for five seasons on TLC between 2004–2009, and currently on Velocity and Discovery.",
+      "releaseInfo": "2004",
+      "imdbRating": "6.8"
+    },
+    {
       "id": "tt0144048",
       "type": "series",
       "name": "Gladiators",
       "poster": "https://image.tmdb.org/t/p/w500/hkFimwvAkx76Y6eEdIgWSOuSyJP.jpg",
       "description": "Gladiators is a British television entertainment series, produced by LWT for ITV, and broadcast between 10 October 1992 and 1 January 2000. It is an adaptation of the American format American Gladiators. The success of the British series spawned further adaptations in Australia and Sweden. The series was revived in 2008, before again being cancelled in 2009. The series was originally presented by John Fashanu and Ulrika Jonsson, however, Fashanu was replaced by Jeremy Guscott in 1997. Guscott left the series in 1998, and subsequently, Fashanu returned for the final series in 1999.",
       "releaseInfo": "1992",
-      "imdbRating": "6.5"
-    },
-    {
-      "id": "tt4057258",
-      "type": "series",
-      "name": "The Great British Bake Off: An Extra Slice",
-      "poster": "https://image.tmdb.org/t/p/w500/weIEmbrT2KrXeohm5Evs05lpjhN.jpg",
-      "description": "Jo Brand is joined by three different celebrity Bake Off fans to shine a spotlight on the good, the bad and the soggy bottomed from the most recent episode.",
-      "releaseInfo": "2014",
       "imdbRating": "6.5"
     },
     {
@@ -487,301 +559,13 @@
       "imdbRating": "6.5"
     },
     {
-      "id": "tt11210072",
+      "id": "tt0262955",
       "type": "series",
-      "name": "Court Cam",
-      "poster": "https://image.tmdb.org/t/p/w500/qIAuvw7BRciIOoW8dOatwY3qUdj.jpg",
-      "description": "An in-depth examination of some of the most stunning and emotional courtroom moments caught on camera, from frightening outbursts to furious judges.",
-      "releaseInfo": "2019",
-      "imdbRating": "7.3"
-    },
-    {
-      "id": "tt0408409",
-      "type": "series",
-      "name": "Overhaulin'",
-      "poster": "https://image.tmdb.org/t/p/w500/yjwvzy3u9V1nfhE0vEk2xtoVnwF.jpg",
-      "description": "Overhaulin' is an American automotive reality TV show that ran for five seasons on TLC between 2004–2009, and currently on Velocity and Discovery.",
-      "releaseInfo": "2004",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt2297757",
-      "type": "series",
-      "name": "Nathan for You",
-      "poster": "https://image.tmdb.org/t/p/w500/nuyeyn2ZY5UOvklQinHsQnhs1QN.jpg",
-      "description": "Nathan Fielder uses his business degree and life experiences to help real small businesses turn a profit.",
-      "releaseInfo": "2013",
-      "imdbRating": "8.9"
-    },
-    {
-      "id": "tt4719744",
-      "type": "series",
-      "name": "Travel Man: 48 Hours in...",
-      "poster": "https://image.tmdb.org/t/p/w500/wc8KXKJDqvveO7bplrHHTRMO14B.jpg",
-      "description": "British comedian Richard Ayoade (later taken over by Joe Lycett), accompanied by a celebrity guest, takes a ruthlessly efficient approach to travel, covering everything top tourist destinations have to offer in just 48 hours.",
-      "releaseInfo": "2015",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt1190931",
-      "type": "series",
-      "name": "American Greed",
-      "poster": "https://image.tmdb.org/t/p/w500/bilmBb9Q4sLesr1gdMknSGfQQ7H.jpg",
-      "description": "A dissection of the dark side of the American Dream, a survey of how far some people go to become rich, no matter the cost to themselves and those around them. Real-life cases are reviewed and involve such criminal activity as credit card scams, identity theft, counterfeiting and Ponzi schemes.",
-      "releaseInfo": "2007",
-      "imdbRating": "8.3"
-    },
-    {
-      "id": "tt3951130",
-      "type": "series",
-      "name": "Fear Thy Neighbor",
-      "poster": "https://image.tmdb.org/t/p/w500/vwND5lLcfdufhTMajPrj2U9Gnhq.jpg",
-      "description": "These are the terrifying tales of the unwanted neighbors who turn home sweet home into home sweet hell. A look inside the lives of horrific neighborly disputes and what happens when a simple issue turns into the worst night of a family's life. Do you really know who lives next door? This true-crime series tells the chilling tales of those with the misfortune to unwittingly take up residence within a stone’s throw of a psycho or killer.",
-      "releaseInfo": "2014",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt7426142",
-      "type": "series",
-      "name": "Christopher Kimball's Milk Street Television",
-      "poster": "https://image.tmdb.org/t/p/w500/qfMSLBEk1YGWXLbI3kky8DoJCLB.jpg",
-      "description": "Let’s stop doing things in the kitchen that made sense in the 19th century but not in the 21st. Milk Street travels the world to bring you the very best ideas and techniques with no lists of hard-to-find ingredients, strange cookware, or all-day methods to slow you down.",
-      "releaseInfo": "2017",
-      "imdbRating": "6.5"
-    },
-    {
-      "id": "tt10098248",
-      "type": "series",
-      "name": "The Food That Built America",
-      "poster": "https://image.tmdb.org/t/p/w500/6ipyh4VHk8r3tgba1BMEUBlBsr6.jpg",
-      "description": "The fascinating stories of the families behind the food that built America, those who used brains, muscle, blood, sweat and tears to get to America's heart through its stomach, those who invented new technologies and helped win wars.",
-      "releaseInfo": "2019",
-      "imdbRating": "8.4"
-    },
-    {
-      "id": "tt8259114",
-      "type": "series",
-      "name": "I'll Be Gone in the Dark",
-      "poster": "https://image.tmdb.org/t/p/w500/wP8ypum7Jpy1UBfR6HLxdvMkqX6.jpg",
-      "description": "An exploration of the case of the Golden State Killer who terrorized California in the 1970s and 1980s, committing 50 sexual assaults and 10 murders, and true crime author Michelle McNamara's obsessive quest to find justice on behalf of his victims.",
-      "releaseInfo": "2020",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt4189570",
-      "type": "series",
-      "name": "See No Evil",
-      "poster": "https://image.tmdb.org/t/p/w500/dwYzpyRwf2rytD3PSLProDMLJ1c.jpg",
-      "description": "Every second of every day, millions of Americans are caught on CCTV. Living in a surveillance society means everyday actions are caught on camera, mostly of honest citizens going about their daily lives.  But a few are guilty of unspeakable crimes. Video doesn't discriminate; criminals also end up on film. See no Evil is a groundbreaking series that presents dramatic stories about how real crimes are solved with the aid of surveillance cameras. Police reveal how CCTV footage has unlocked the answer to cases that otherwise might have remained unsolved- leaving dangerous killers at large. The series features real footage and dramatic reconstruction, combined with first-hand testimony from police, witnesses, and families.",
-      "releaseInfo": "2015",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt6667634",
-      "type": "series",
-      "name": "Abandoned Engineering",
-      "poster": "https://image.tmdb.org/t/p/w500/2lsIWLcDIkg3f0vRnXpGsh4okzN.jpg",
-      "description": "These are some of the most spectacular examples of abandoned engineering the world has ever known. The series explores how and why they were built, consider the financial and social costs of their failure and examine the environmental and ecological impacts. The series also explores how experts came up with plans to make something beautiful or useful from the ruins.",
-      "releaseInfo": "2017",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt0435950",
-      "type": "series",
-      "name": "The Culture Show",
-      "poster": "https://image.tmdb.org/t/p/w500/hK9eOWb64rHforMWHaYFVd64ubg.jpg",
-      "description": "A weekly BBC Two magazine programme focusing on the best of the week's arts and culture news, covering books, art, film, architecture and more.",
-      "releaseInfo": "2004",
-      "imdbRating": "6.2"
-    },
-    {
-      "id": "tt5034326",
-      "type": "series",
-      "name": "Adam Ruins Everything",
-      "poster": "https://image.tmdb.org/t/p/w500/1GafOvGp5QtzRRUMpJye2SrF1G5.jpg",
-      "description": "Host Adam Conover employs a combination of comedy, history and science to dispel widespread misconceptions about everything we take for granted.",
-      "releaseInfo": "2015",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt1743990",
-      "type": "series",
-      "name": "Cinemassacre's Monster Madness",
-      "poster": "https://image.tmdb.org/t/p/w500/uC6ziTvMIZBoWdQx2Z0k9Ye3Ea5.jpg",
-      "description": "In the series James Rolfe, known for his role as Angry Video Game Nerd, reviews a horror movie in every single day of October.",
-      "releaseInfo": "2007",
-      "imdbRating": "8.8"
-    },
-    {
-      "id": "tt1597701",
-      "type": "series",
-      "name": "This World",
-      "poster": "https://image.tmdb.org/t/p/w500/lpkgomUMSGH1CT6xsDMGoIj5YDK.jpg",
-      "description": "The series is mainly focused on social issues and current affairs stories around the world.\n\nInternational current affairs documentaries, replacing \"Correspondent\".",
-      "releaseInfo": "2004",
-      "imdbRating": "6.2"
-    },
-    {
-      "id": "tt27053309",
-      "type": "series",
-      "name": "The UnBelievable with Dan Aykroyd",
-      "poster": "https://image.tmdb.org/t/p/w500/wCdcmyYICMZ4oceqiNraSztTJn6.jpg",
-      "description": "Each episode opens up a cabinet of curiosities to reveal the strangest-but-true stories in human history, brought to life through dynamic recreation, compelling graphics, and arresting archival. From Boston’s Great Molasses Flood to a man who survived being struck by lightning not once, not twice, but SEVEN times, these seemingly tall tales all actually happened, and our cast of experts dives into the historical record to tell you how and why.",
-      "releaseInfo": "2023",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt1934673",
-      "type": "series",
-      "name": "Homicide Hunter: Lt Joe Kenda",
-      "poster": "https://image.tmdb.org/t/p/w500/muHEJ1WXKcos0LF4TsOOrV41D9Q.jpg",
-      "description": "A non-fiction investigative series of murder cases told through the personal experience of retired detective, Lieutenant Joe Kenda. Through re-enactments, discussions with investigation teams, and interviews with victims' families and other involved persons, the show highlights Kenda's successes with his 400 homicide case history and 92 percent solution rate.",
-      "releaseInfo": "2011",
-      "imdbRating": "8.7"
-    },
-    {
-      "id": "tt0790397",
-      "type": "series",
-      "name": "Where Are They Now?",
-      "poster": "https://images.metahub.space/poster/small/tt0790397/img",
-      "description": "Where Are They Now? was a television series on VH1 that featured past celebrities and updated on their current professional and personal status. Each episode was dedicated to another genre.\n\nThough not always in sequence, some episodes were a continuation of the motif of episodes from the past. Those episodes sometimes had Roman numerals in their title to signify their sequel status.",
-      "releaseInfo": "1999",
-      "imdbRating": "7.6"
-    },
-    {
-      "id": "tt5547946",
-      "type": "series",
-      "name": "Ride with Norman Reedus",
-      "poster": "https://image.tmdb.org/t/p/w500/dQyDwNVO88PK2l8rQLaGR2mW6od.jpg",
-      "description": "The Walking Dead star and motorcycle enthusiast Norman Reedus hits the open road to explore local biker culture and celebrate the best and brightest collectors, mechanics and craftsmen around the country. Each episode features Reedus and a riding companion – a fellow actor, musician, friend or local chopper fanatic – as they journey to custom bike shops, tattoo parlors, collector’s warehouses, or a roadside smokehouse… with plenty of time for unplanned detours and tire changes.",
-      "releaseInfo": "2016",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt2964642",
-      "type": "series",
-      "name": "Life Below Zero",
-      "poster": "https://image.tmdb.org/t/p/w500/a1pZCA3nmZvQGI1L21Riuglfw6f.jpg",
-      "description": "Viewers go deep into an Alaskan winter to meet six tough and resilient residents as they try to stay one step ahead of storms and man-eating beasts to make it through to spring. The closest neighbor to Sue Aikens is more than 300 miles away. Eric Salitan subsists solely on what he hunts and forages. Chip and Agnes Hailstone catch fish for currency in bartering for supplies, and Andy and Kate Bassich use their pack of sled dogs for transportation.",
-      "releaseInfo": "2013",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt4864850",
-      "type": "series",
-      "name": "For My Man",
-      "poster": "https://image.tmdb.org/t/p/w500/r1ha0AxeL6QbTSCH2mE0rVQzwAY.jpg",
-      "description": "A true crime series featuring the salacious and shocking stories of women who have been arrested for a crime they did in the name of love. From a killing spree across the mid-west to being an inside informant at the DEA and from murdering an unsupportive mother to robbing fifteen banks in under a year, these women have no limits as to how far they’ll go for their men.",
-      "releaseInfo": "2015",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt5351176",
-      "type": "series",
-      "name": "The Circus",
-      "poster": "https://image.tmdb.org/t/p/w500/vnufA6IaOEgmnk28CSTIH9Umk4S.jpg",
-      "description": "Come one, come all to The Circus. This real-time documentary series pulls back the curtain on the current political stories, revealing the intense, inspiring and infuriating stories behind the headlines. Key characters and events are presented in real time, as they are happening.",
-      "releaseInfo": "2016",
-      "imdbRating": "7.3"
-    },
-    {
-      "id": "tt9863048",
-      "type": "series",
-      "name": "Paranormal Caught on Camera",
-      "poster": "https://image.tmdb.org/t/p/w500/wymPX91jNHS52v1tPeDggpryyFu.jpg",
-      "description": "Some of the most amazing, eye-opening and downright scary paranormal videos from around the world are featured as a panel of experts break down the footage and analyze what exactly the eyewitnesses captured.",
-      "releaseInfo": "2019",
-      "imdbRating": "6.1"
-    },
-    {
-      "id": "tt7749176",
-      "type": "series",
-      "name": "Gold Rush: White Water",
-      "poster": "https://image.tmdb.org/t/p/w500/xgMyo8Re5uufo90Dxm773Tnjh1o.jpg",
-      "description": "Gold miners Dakota Fred and his son Dustin are back – returning to McKinley Creek Alaska, determined to make a fortune no matter the risk. But to find the big gold payout, they'll put their lives on the line by diving deep beneath the raging waters of one of Alaska's wildest creeks.",
-      "releaseInfo": "2018",
-      "imdbRating": "6.7"
-    },
-    {
-      "id": "tt0154053",
-      "type": "series",
-      "name": "Nightline",
-      "poster": "https://image.tmdb.org/t/p/w500/ptNeYSOIDgD9Gac5g1qZ8KDabFw.jpg",
-      "description": "Nightline, or ABC News Nightline, is a late-night news program that is broadcast by ABC in the United States, and has a franchised formula to other networks and stations elsewhere in the world. Created by Roone Arledge, the program featured Ted Koppel as its main anchor from March 1980 until his retirement from the program in November 2005. Nightline airs weeknights at 12:37 a.m. Eastern Time, after Jimmy Kimmel Live!. It previously ran for 31 minutes, but in 2011, the program was reduced to 25 minutes. When the program moved to 12:37 a.m. ET, the program was expanded to 30 minutes.\n\nIn 2002, Nightline was ranked 23rd on TV Guide's 50 Greatest TV Shows of All Time.",
-      "releaseInfo": "1980",
-      "imdbRating": "5.8"
-    },
-    {
-      "id": "tt10802170",
-      "type": "series",
-      "name": "Diễn Tập",
-      "poster": "https://image.tmdb.org/t/p/w500/mIevNYxovnH4sR22qkUmAgS5vdv.jpg",
-      "description": "Nathan Fielder giúp mọi người chuẩn bị cho những khoảnh khắc khó khăn nhất trong cuộc sống bằng cách dàn dựng các buổi diễn tập được thiết kế tỉ mỉ về các sự kiện trong thế giới thực, nhưng những gì bắt đầu bằng việc diễn tập các quyết định khó khăn nhất trong cuộc sống lại trở thành một thử nghiệm gây sốc về khả năng kiểm soát, bản sắc và nỗi ám ảnh.",
-      "releaseInfo": "2022",
-      "imdbRating": "8.5"
-    },
-    {
-      "id": "tt4445396",
-      "type": "series",
-      "name": "Portrait Artist of the Year",
-      "poster": "https://image.tmdb.org/t/p/w500/kMWYPx6z9ylRbTIavUWao4DU8Ua.jpg",
-      "description": "Artists from the UK and Ireland compete by creating portraits of famous people.",
-      "releaseInfo": "2013",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt4086030",
-      "type": "series",
-      "name": "The Henry Ford's Innovation Nation",
-      "poster": "https://image.tmdb.org/t/p/w500/7YDU977mxN8Z67RT5CfSa8mpZgk.jpg",
-      "description": "The Henry Ford’s Innovation Nation is a weekly Saturday morning show on CBS that showcases present-day change-makers from all over the world who are creating solutions to real needs. It is hosted by news correspondent and CBS Sunday Morning regular Mo Rocca. Each episode presents stories related to the process of innovation and also includes one story on The Henry Ford—its Archive of American Innovation, its unique visitor experiences and its unparalleled expertise. The intent is to stimulate curiosity and to inspire audiences with entertaining yet educational stories about yesterday and today’s visionaries and turning points that changed the course of history, as well as innovations and inventions that are changing the world today. The Henry Ford’s Innovation Nation is produced in partnership by The Henry Ford and Litton Entertainment, a leading independent production and distribution company.",
-      "releaseInfo": "2014",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt1476750",
-      "type": "series",
-      "name": "River Monsters",
-      "poster": "https://image.tmdb.org/t/p/w500/2JhUaEgz8O9n5IBNUZ5aKXFYgMD.jpg",
-      "description": "Extreme angler Jeremy Wade is on the hunt for fish with a taste for human flesh. This rip-roaring ride mixes action and adventure with mysteries, edge-of-the-seat chase and a battle of wills between man and nature.",
-      "releaseInfo": "2009",
-      "imdbRating": "8.2"
-    },
-    {
-      "id": "tt0237973",
-      "type": "series",
-      "name": "Making the Video",
-      "poster": "https://image.tmdb.org/t/p/w500/bdkXydJUiXX2YwEq2xkoLLWzIAH.jpg",
-      "description": "Making the Video is an MTV show, consisting of half-hour episodes, which chronicles the process of filming various music videos. Usually the director outlines the concept of the video and the show often includes light-hearted and humorous moments. It always concludes with a premiere of the finished video. The show premiered on July 11, 1999 and is currently on a hiatus as of 2009.\n\nMTV2 has a similar show entitled [Name of Band/Artist] Makes a Video that has featured artists such as 50 Cent, Fall Out Boy, Dashboard Confessional, Evanescence, and Mos Def among others.",
-      "releaseInfo": "1999",
-      "imdbRating": "6.1"
-    },
-    {
-      "id": "tt0862583",
-      "type": "series",
-      "name": "How Do They Do It?",
-      "poster": "https://image.tmdb.org/t/p/w500/kH4NDOUagtj0J5hau95QGBcy4FQ.jpg",
-      "description": "An insider's look at the engineering and scientific miracles behind the things that form the modern world.",
-      "releaseInfo": "2006",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt1538145",
-      "type": "series",
-      "name": "Pit Bulls and Parolees",
-      "poster": "https://image.tmdb.org/t/p/w500/lrgRiVK3GH0jxQLmUXrWIjFA9Jc.jpg",
-      "description": "Follow Tia Torres, founder of Villalobos Rescue Center, and her family as they rehabilitate both felons and ill-reputed pit bulls who come together to rescue one another from their dim pasts, and bring new meaning to life.",
-      "releaseInfo": "2009",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt12162902",
-      "type": "series",
-      "name": "Disney Gallery / Star Wars: The Mandalorian",
-      "poster": "https://image.tmdb.org/t/p/w500/qwc5RFNadL7YYtMfly58AjYUA50.jpg",
-      "description": "Executive producer Jon Favreau invites the cast and crew of The Mandalorian to share an unprecedented look at the making of the series. Each chapter explores a different facet of the first live-action Star Wars television show through interviews, never-before-seen footage, and roundtable conversations hosted by Favreau himself.",
-      "releaseInfo": "2020",
-      "imdbRating": "8.3"
+      "name": "Everyman",
+      "poster": "https://image.tmdb.org/t/p/w500/mLkA3ntazmAlrgxWisNRjQ5jzrK.jpg",
+      "description": "Everyman is a British television documentary series that aired on BBC One in a late-night slot on Sunday evenings between 1977 and 2005. Its subject matter tended to be focused on moral and religious issues, often in the form of a film in which individuals would discuss their thoughts. One edition from 1990, A Game of Soldiers concerned a group of soldiers exploring their feelings about being trained to kill. Throughout much of its time on air, series of Everyman aired alternately with Heart of the Matter, a debate series which featured somewhat similar topics. Both series were cancelled in the 2000s after the BBC revamped the output of its religious programming.",
+      "releaseInfo": "1977",
+      "imdbRating": "7.1"
     },
     {
       "id": "tt1105711",
@@ -793,93 +577,58 @@
       "imdbRating": "6.8"
     },
     {
-      "id": "tt0331800",
+      "id": "tt10098248",
       "type": "series",
-      "name": "Unwrapped",
-      "poster": "https://image.tmdb.org/t/p/w500/eBczFgfRwVIPVCulTZUkBGE3ae2.jpg",
-      "description": "Unwrapped is an American television program on Food Network that reveals the origins of sponsored foods. It first aired in June 2001 and is hosted by Marc Summers. The show leads viewers on tours of factories and other food-related locations. Popular subjects include candy, breakfast cereal, snacks, and TV dinners. The show's spin-off, Trivia Unwrapped, is a game show also hosted by Marc Summers.",
-      "releaseInfo": "2001",
-      "imdbRating": "8.1"
-    },
-    {
-      "id": "tt10681222",
-      "type": "series",
-      "name": "Những bộ phim lớn lên cùng chúng ta",
-      "poster": "https://image.tmdb.org/t/p/w500/l7p40cVratmPTdWrx4UFjZbANKF.jpg",
-      "description": "Những bộ phim bom tấn này đưa ta đến với nhau, cho ta những khoảnh khắc tuyệt vời. Hãy gặp gỡ các diễn viên, đạo diễn và người trong ngành đã làm nên những bộ phim này.",
+      "name": "The Food That Built America",
+      "poster": "https://image.tmdb.org/t/p/w500/6ipyh4VHk8r3tgba1BMEUBlBsr6.jpg",
+      "description": "The fascinating stories of the families behind the food that built America, those who used brains, muscle, blood, sweat and tears to get to America's heart through its stomach, those who invented new technologies and helped win wars.",
       "releaseInfo": "2019",
-      "imdbRating": "7.7"
+      "imdbRating": "8.4"
     },
     {
-      "id": "tt0354342",
+      "id": "tt5034326",
       "type": "series",
-      "name": "The Unexplained",
-      "poster": "https://image.tmdb.org/t/p/w500/iG8lhenagKNudhlieSQKTnbmIG1.jpg",
-      "description": "The Unexplained is an American paranormal television series that originally aired from January 2, 1996 to May 7, 2000 on A&E and is currently being broadcast on the Biography Channel. The program features various mysteries, paranormal, psychic phenomena, and other topics that are considered to be \"unexplained.\" Earlier episodes of the series are narrated by Bill Kurtis",
-      "releaseInfo": "1996",
-      "imdbRating": "7.8"
+      "name": "Adam Ruins Everything",
+      "poster": "https://image.tmdb.org/t/p/w500/1GafOvGp5QtzRRUMpJye2SrF1G5.jpg",
+      "description": "Host Adam Conover employs a combination of comedy, history and science to dispel widespread misconceptions about everything we take for granted.",
+      "releaseInfo": "2015",
+      "imdbRating": "8.0"
     },
     {
-      "id": "tt2795196",
+      "id": "tt3951130",
       "type": "series",
-      "name": "Ben Fogle: New Lives in the Wild",
-      "poster": "https://image.tmdb.org/t/p/w500/1JykacgyRt4Ign81ls4G0roB9ne.jpg",
-      "description": "Ben Fogle follows in the footsteps of various individuals, who against all odds, have willingly forsaken the luxuries and lifestyle of the modern world, for a less-than-ordinary life in the wilderness.",
-      "releaseInfo": "2013",
-      "imdbRating": "8.7"
+      "name": "Fear Thy Neighbor",
+      "poster": "https://image.tmdb.org/t/p/w500/vwND5lLcfdufhTMajPrj2U9Gnhq.jpg",
+      "description": "These are the terrifying tales of the unwanted neighbors who turn home sweet home into home sweet hell. A look inside the lives of horrific neighborly disputes and what happens when a simple issue turns into the worst night of a family's life. Do you really know who lives next door? This true-crime series tells the chilling tales of those with the misfortune to unwittingly take up residence within a stone’s throw of a psycho or killer.",
+      "releaseInfo": "2014",
+      "imdbRating": "7.6"
     },
     {
-      "id": "tt5491994",
+      "id": "tt6667634",
       "type": "series",
-      "name": "Hành Tinh Trái Đất 2",
-      "poster": "https://image.tmdb.org/t/p/w500/5maYKYzWpE68ycxGh1luu4P2LOS.jpg",
-      "description": "Trải nghiệm thế giới từ góc nhìn của chính động vật. Từ những cảnh tượng kỳ diệu của động vật hoang dã đến những cuộc chạm trán bất ngờ, Hành Tinh Trái Đất 2 mang đến cho bạn trải nghiệm gần gũi hơn bao giờ hết.",
-      "releaseInfo": "2016",
-      "imdbRating": "9.4"
+      "name": "Abandoned Engineering",
+      "poster": "https://image.tmdb.org/t/p/w500/2lsIWLcDIkg3f0vRnXpGsh4okzN.jpg",
+      "description": "These are some of the most spectacular examples of abandoned engineering the world has ever known. The series explores how and why they were built, consider the financial and social costs of their failure and examine the environmental and ecological impacts. The series also explores how experts came up with plans to make something beautiful or useful from the ruins.",
+      "releaseInfo": "2017",
+      "imdbRating": "7.5"
     },
     {
-      "id": "tt0480780",
+      "id": "tt12162902",
       "type": "series",
-      "name": "Foreign Correspondent",
-      "poster": "https://image.tmdb.org/t/p/w500/fIIwZavSgufEmHuW0tSKDgQY9fe.jpg",
-      "description": "Australia's leading international affairs program featuring fascinating, in-depth stories from the ABC's unrivalled network of foreign correspondents.",
-      "releaseInfo": "1992",
-      "imdbRating": "7.8"
+      "name": "Disney Gallery / Star Wars: The Mandalorian",
+      "poster": "https://image.tmdb.org/t/p/w500/qwc5RFNadL7YYtMfly58AjYUA50.jpg",
+      "description": "Executive producer Jon Favreau invites the cast and crew of The Mandalorian to share an unprecedented look at the making of the series. Each chapter explores a different facet of the first live-action Star Wars television show through interviews, never-before-seen footage, and roundtable conversations hosted by Favreau himself.",
+      "releaseInfo": "2020",
+      "imdbRating": "8.3"
     },
     {
-      "id": "tt2463670",
+      "id": "tt1743990",
       "type": "series",
-      "name": "CNN Special Report",
-      "poster": "https://image.tmdb.org/t/p/w500/zg4ysdYasruFdrItJspMMdhthCy.jpg",
-      "description": "In hour-long, in-depth explorations, CNN hosts examine extraordinary individuals, unexpected events and controversial subjects through interviews, stories, images and videos.",
-      "releaseInfo": "1980",
-      "imdbRating": "5.6"
-    },
-    {
-      "id": "tt1319260",
-      "type": "series",
-      "name": "Deadly Women",
-      "poster": "https://image.tmdb.org/t/p/w500/ne1Juoh8EBRELP5TnhasNRFxovJ.jpg",
-      "description": "This compelling series investigates the motives and m.o. of female murderers. While males are often driven by anger, impulse and destruction, women usually have more complex, long-term reasons to kill.",
-      "releaseInfo": "2005",
-      "imdbRating": "7.9"
-    },
-    {
-      "id": "tt21934508",
-      "type": "series",
-      "name": "The Now United Show",
-      "poster": "https://image.tmdb.org/t/p/w500/p61ezuhJpyH4WxttZR9iF6Gpwze.jpg",
-      "description": "In this show, we follow the group Now United on their tour, where they visit each member's home countries. A lot happens behind the scenes of the tour and here is where it shows.",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt21104632",
-      "type": "series",
-      "name": "WWE Rivals",
-      "poster": "https://image.tmdb.org/t/p/w500/hfI96xQVkTOIhlLARf6LKxgCGqW.jpg",
-      "description": "Actor and former WWE writer Freddie Prinze Jr. leads a roundtable discussion of WWE luminaries to delve into the storylines and dynamic characters behind the epic battles that built WWE. Each one-hour episode features archival footage from WWE’s library as well as interviews with the Legends involved and the Superstars who watched these rivalries unfold.",
-      "releaseInfo": "2022",
-      "imdbRating": "7.8"
+      "name": "Cinemassacre's Monster Madness",
+      "poster": "https://image.tmdb.org/t/p/w500/uC6ziTvMIZBoWdQx2Z0k9Ye3Ea5.jpg",
+      "description": "In the series James Rolfe, known for his role as Angry Video Game Nerd, reviews a horror movie in every single day of October.",
+      "releaseInfo": "2007",
+      "imdbRating": "8.8"
     },
     {
       "id": "tt2169245",
@@ -891,13 +640,265 @@
       "imdbRating": "7.6"
     },
     {
-      "id": "tt0369117",
+      "id": "tt1934673",
       "type": "series",
-      "name": "House Hunters",
-      "poster": "https://image.tmdb.org/t/p/w500/2WGhHei4SbocBacJ078mwzxOpLk.jpg",
-      "description": "Hosted by Suzanne Whang, the show takes viewers behind the scenes as individuals, couples and families learn what to look for and decide whether or not a home is meant for them. Focusing on the emotional experience of finding and purchasing a new home, each episode follows a prospective buyer and real estate agent through the home-buying process, from start to finish.",
-      "releaseInfo": "1999",
+      "name": "Homicide Hunter: Lt Joe Kenda",
+      "poster": "https://image.tmdb.org/t/p/w500/muHEJ1WXKcos0LF4TsOOrV41D9Q.jpg",
+      "description": "A non-fiction investigative series of murder cases told through the personal experience of retired detective, Lieutenant Joe Kenda. Through re-enactments, discussions with investigation teams, and interviews with victims' families and other involved persons, the show highlights Kenda's successes with his 400 homicide case history and 92 percent solution rate.",
+      "releaseInfo": "2011",
+      "imdbRating": "8.7"
+    },
+    {
+      "id": "tt4189570",
+      "type": "series",
+      "name": "See No Evil",
+      "poster": "https://image.tmdb.org/t/p/w500/dwYzpyRwf2rytD3PSLProDMLJ1c.jpg",
+      "description": "Every second of every day, millions of Americans are caught on CCTV. Living in a surveillance society means everyday actions are caught on camera, mostly of honest citizens going about their daily lives.  But a few are guilty of unspeakable crimes. Video doesn't discriminate; criminals also end up on film. See no Evil is a groundbreaking series that presents dramatic stories about how real crimes are solved with the aid of surveillance cameras. Police reveal how CCTV footage has unlocked the answer to cases that otherwise might have remained unsolved- leaving dangerous killers at large. The series features real footage and dramatic reconstruction, combined with first-hand testimony from police, witnesses, and families.",
+      "releaseInfo": "2015",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt4445396",
+      "type": "series",
+      "name": "Portrait Artist of the Year",
+      "poster": "https://image.tmdb.org/t/p/w500/kMWYPx6z9ylRbTIavUWao4DU8Ua.jpg",
+      "description": "Artists from the UK and Ireland compete by creating portraits of famous people.",
+      "releaseInfo": "2013",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt5351176",
+      "type": "series",
+      "name": "The Circus",
+      "poster": "https://image.tmdb.org/t/p/w500/vnufA6IaOEgmnk28CSTIH9Umk4S.jpg",
+      "description": "Come one, come all to The Circus. This real-time documentary series pulls back the curtain on the current political stories, revealing the intense, inspiring and infuriating stories behind the headlines. Key characters and events are presented in real time, as they are happening.",
+      "releaseInfo": "2016",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt4086030",
+      "type": "series",
+      "name": "The Henry Ford's Innovation Nation",
+      "poster": "https://image.tmdb.org/t/p/w500/7YDU977mxN8Z67RT5CfSa8mpZgk.jpg",
+      "description": "The Henry Ford’s Innovation Nation is a weekly Saturday morning show on CBS that showcases present-day change-makers from all over the world who are creating solutions to real needs. It is hosted by news correspondent and CBS Sunday Morning regular Mo Rocca. Each episode presents stories related to the process of innovation and also includes one story on The Henry Ford—its Archive of American Innovation, its unique visitor experiences and its unparalleled expertise. The intent is to stimulate curiosity and to inspire audiences with entertaining yet educational stories about yesterday and today’s visionaries and turning points that changed the course of history, as well as innovations and inventions that are changing the world today. The Henry Ford’s Innovation Nation is produced in partnership by The Henry Ford and Litton Entertainment, a leading independent production and distribution company.",
+      "releaseInfo": "2014",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0435950",
+      "type": "series",
+      "name": "The Culture Show",
+      "poster": "https://image.tmdb.org/t/p/w500/hK9eOWb64rHforMWHaYFVd64ubg.jpg",
+      "description": "A weekly BBC Two magazine programme focusing on the best of the week's arts and culture news, covering books, art, film, architecture and more.",
+      "releaseInfo": "2004",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt4071576",
+      "type": "series",
+      "name": "This Is Life with Lisa Ling",
+      "poster": "https://image.tmdb.org/t/p/w500/v9sxjcufqTlFE0MeClNK9Ipu7tA.jpg",
+      "description": "Lisa Ling's investigative documentary series goes behind the scenes to discover the secret societies within the American society.",
+      "releaseInfo": "2014",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt1538145",
+      "type": "series",
+      "name": "Pit Bulls and Parolees",
+      "poster": "https://image.tmdb.org/t/p/w500/lrgRiVK3GH0jxQLmUXrWIjFA9Jc.jpg",
+      "description": "Follow Tia Torres, founder of Villalobos Rescue Center, and her family as they rehabilitate both felons and ill-reputed pit bulls who come together to rescue one another from their dim pasts, and bring new meaning to life.",
+      "releaseInfo": "2009",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt5016662",
+      "type": "series",
+      "name": "The Yorkshire Vet",
+      "poster": "https://image.tmdb.org/t/p/w500/vBj0Q4ltj7UGNTvbI8BZmRqNXUb.jpg",
+      "description": "Documentary about Yorkshire vet Julian Norton, his business partner Peter Wright and their team as they administer modern-day medical and surgical aid to creatures great and small. From bulldogs to bullocks, there are no creatures too large or too small for these vets.",
+      "releaseInfo": "2015",
+      "imdbRating": "8.7"
+    },
+    {
+      "id": "tt7749176",
+      "type": "series",
+      "name": "Gold Rush: White Water",
+      "poster": "https://image.tmdb.org/t/p/w500/xgMyo8Re5uufo90Dxm773Tnjh1o.jpg",
+      "description": "Gold miners Dakota Fred and his son Dustin are back – returning to McKinley Creek Alaska, determined to make a fortune no matter the risk. But to find the big gold payout, they'll put their lives on the line by diving deep beneath the raging waters of one of Alaska's wildest creeks.",
+      "releaseInfo": "2018",
       "imdbRating": "6.7"
+    },
+    {
+      "id": "tt4864850",
+      "type": "series",
+      "name": "For My Man",
+      "poster": "https://image.tmdb.org/t/p/w500/r1ha0AxeL6QbTSCH2mE0rVQzwAY.jpg",
+      "description": "A true crime series featuring the salacious and shocking stories of women who have been arrested for a crime they did in the name of love. From a killing spree across the mid-west to being an inside informant at the DEA and from murdering an unsupportive mother to robbing fifteen banks in under a year, these women have no limits as to how far they’ll go for their men.",
+      "releaseInfo": "2015",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt5491994",
+      "type": "series",
+      "name": "Hành Tinh Trái Đất 2",
+      "poster": "https://image.tmdb.org/t/p/w500/5maYKYzWpE68ycxGh1luu4P2LOS.jpg",
+      "description": "Trải nghiệm thế giới từ góc nhìn của chính động vật. Từ những cảnh tượng kỳ diệu của động vật hoang dã đến những cuộc chạm trán bất ngờ, Hành Tinh Trái Đất 2 mang đến cho bạn trải nghiệm gần gũi hơn bao giờ hết.",
+      "releaseInfo": "2016",
+      "imdbRating": "9.4"
+    },
+    {
+      "id": "tt5547946",
+      "type": "series",
+      "name": "Ride with Norman Reedus",
+      "poster": "https://image.tmdb.org/t/p/w500/dQyDwNVO88PK2l8rQLaGR2mW6od.jpg",
+      "description": "The Walking Dead star and motorcycle enthusiast Norman Reedus hits the open road to explore local biker culture and celebrate the best and brightest collectors, mechanics and craftsmen around the country. Each episode features Reedus and a riding companion – a fellow actor, musician, friend or local chopper fanatic – as they journey to custom bike shops, tattoo parlors, collector’s warehouses, or a roadside smokehouse… with plenty of time for unplanned detours and tire changes.",
+      "releaseInfo": "2016",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt0165042",
+      "type": "series",
+      "name": "Live from Lincoln Center",
+      "poster": "https://image.tmdb.org/t/p/w500/mUisIH1YjsuDoMjoU0XuTVG4tZC.jpg",
+      "description": "Since premiering in 1976, the landmark series has sought to democratize the world of the performing arts by making Lincoln Center's historic concerts and events available for public broadcast across the country. And it continues to push the boundaries, both technical and creative, of what is possible in the realm of stage performance capture.",
+      "releaseInfo": "1976",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt9863048",
+      "type": "series",
+      "name": "Paranormal Caught on Camera",
+      "poster": "https://image.tmdb.org/t/p/w500/wymPX91jNHS52v1tPeDggpryyFu.jpg",
+      "description": "Some of the most amazing, eye-opening and downright scary paranormal videos from around the world are featured as a panel of experts break down the footage and analyze what exactly the eyewitnesses captured.",
+      "releaseInfo": "2019",
+      "imdbRating": "6.1"
+    },
+    {
+      "id": "tt0324924",
+      "type": "series",
+      "name": "True Life",
+      "poster": "https://image.tmdb.org/t/p/w500/7mYqGQQPLo5W0ZfJqocDw3N7uWr.jpg",
+      "description": "True Life is a documentary series running on MTV since March 24, 1998. Each episode follows a particular topic, such as heroin addiction as in the first episode, \"Fatal Dose.\" The show is created by following a series of subjects by a camera crew through a certain part of their lives.",
+      "releaseInfo": "1998",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt0237973",
+      "type": "series",
+      "name": "Making the Video",
+      "poster": "https://image.tmdb.org/t/p/w500/bdkXydJUiXX2YwEq2xkoLLWzIAH.jpg",
+      "description": "Making the Video is an MTV show, consisting of half-hour episodes, which chronicles the process of filming various music videos. Usually the director outlines the concept of the video and the show often includes light-hearted and humorous moments. It always concludes with a premiere of the finished video. The show premiered on July 11, 1999 and is currently on a hiatus as of 2009.\n\nMTV2 has a similar show entitled [Name of Band/Artist] Makes a Video that has featured artists such as 50 Cent, Fall Out Boy, Dashboard Confessional, Evanescence, and Mos Def among others.",
+      "releaseInfo": "1999",
+      "imdbRating": "6.1"
+    },
+    {
+      "id": "tt0331800",
+      "type": "series",
+      "name": "Unwrapped",
+      "poster": "https://image.tmdb.org/t/p/w500/eBczFgfRwVIPVCulTZUkBGE3ae2.jpg",
+      "description": "Unwrapped is an American television program on Food Network that reveals the origins of sponsored foods. It first aired in June 2001 and is hosted by Marc Summers. The show leads viewers on tours of factories and other food-related locations. Popular subjects include candy, breakfast cereal, snacks, and TV dinners. The show's spin-off, Trivia Unwrapped, is a game show also hosted by Marc Summers.",
+      "releaseInfo": "2001",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt0299368",
+      "type": "series",
+      "name": "Project Greenlight",
+      "poster": "https://image.tmdb.org/t/p/w500/btfaO49QyHr2v73A0c7WpTfGxpD.jpg",
+      "description": "Project Greenlight is a television series focusing on first-time filmmakers being given the chance to direct a feature film. It was created by Alex Keledjian, developed by Eli Holzman and produced by Ben Affleck, Matt Damon, Sean Bailey, and Chris Moore through their production company LivePlanet, along with Miramax Films. Project Greenlight first aired on HBO for two seasons before moving to Bravo for season three.",
+      "releaseInfo": "2001",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt2795196",
+      "type": "series",
+      "name": "Ben Fogle: New Lives in the Wild",
+      "poster": "https://image.tmdb.org/t/p/w500/1JykacgyRt4Ign81ls4G0roB9ne.jpg",
+      "description": "Ben Fogle follows in the footsteps of various individuals, who against all odds, have willingly forsaken the luxuries and lifestyle of the modern world, for a less-than-ordinary life in the wilderness.",
+      "releaseInfo": "2013",
+      "imdbRating": "8.7"
+    },
+    {
+      "id": "tt1319260",
+      "type": "series",
+      "name": "Deadly Women",
+      "poster": "https://image.tmdb.org/t/p/w500/ne1Juoh8EBRELP5TnhasNRFxovJ.jpg",
+      "description": "This compelling series investigates the motives and m.o. of female murderers. While males are often driven by anger, impulse and destruction, women usually have more complex, long-term reasons to kill.",
+      "releaseInfo": "2005",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt8259114",
+      "type": "series",
+      "name": "I'll Be Gone in the Dark",
+      "poster": "https://image.tmdb.org/t/p/w500/wP8ypum7Jpy1UBfR6HLxdvMkqX6.jpg",
+      "description": "An exploration of the case of the Golden State Killer who terrorized California in the 1970s and 1980s, committing 50 sexual assaults and 10 murders, and true crime author Michelle McNamara's obsessive quest to find justice on behalf of his victims.",
+      "releaseInfo": "2020",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt10681222",
+      "type": "series",
+      "name": "Những bộ phim lớn lên cùng chúng ta",
+      "poster": "https://image.tmdb.org/t/p/w500/l7p40cVratmPTdWrx4UFjZbANKF.jpg",
+      "description": "Những bộ phim bom tấn này đưa ta đến với nhau, cho ta những khoảnh khắc tuyệt vời. Hãy gặp gỡ các diễn viên, đạo diễn và người trong ngành đã làm nên những bộ phim này.",
+      "releaseInfo": "2019",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt2463670",
+      "type": "series",
+      "name": "CNN Special Report",
+      "poster": "https://image.tmdb.org/t/p/w500/zg4ysdYasruFdrItJspMMdhthCy.jpg",
+      "description": "In hour-long, in-depth explorations, CNN hosts examine extraordinary individuals, unexpected events and controversial subjects through interviews, stories, images and videos.",
+      "releaseInfo": "1980",
+      "imdbRating": "5.6"
+    },
+    {
+      "id": "tt10802170",
+      "type": "series",
+      "name": "Diễn Tập",
+      "poster": "https://image.tmdb.org/t/p/w500/mIevNYxovnH4sR22qkUmAgS5vdv.jpg",
+      "description": "Nathan Fielder giúp mọi người chuẩn bị cho những khoảnh khắc khó khăn nhất trong cuộc sống bằng cách dàn dựng các buổi diễn tập được thiết kế tỉ mỉ về các sự kiện trong thế giới thực, nhưng những gì bắt đầu bằng việc diễn tập các quyết định khó khăn nhất trong cuộc sống lại trở thành một thử nghiệm gây sốc về khả năng kiểm soát, bản sắc và nỗi ám ảnh.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt1476750",
+      "type": "series",
+      "name": "River Monsters",
+      "poster": "https://image.tmdb.org/t/p/w500/2JhUaEgz8O9n5IBNUZ5aKXFYgMD.jpg",
+      "description": "Extreme angler Jeremy Wade is on the hunt for fish with a taste for human flesh. This rip-roaring ride mixes action and adventure with mysteries, edge-of-the-seat chase and a battle of wills between man and nature.",
+      "releaseInfo": "2009",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt7406320",
+      "type": "series",
+      "name": "Eli Roth's History of Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/15ZXGHIk3nFBqCRCEKVHMO7oINI.jpg",
+      "description": "An in-depth look at the history and pop cultural significance of horror films.",
+      "releaseInfo": "2018",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt14403784",
+      "type": "series",
+      "name": "Biography: WWE Legends",
+      "poster": "https://image.tmdb.org/t/p/w500/o7U2M0VVff2Zc6TzaZ1dKccRamR.jpg",
+      "description": "The stories behind some of the most memorable WWE Superstars of all time.",
+      "releaseInfo": "2021",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt21104632",
+      "type": "series",
+      "name": "WWE Rivals",
+      "poster": "https://image.tmdb.org/t/p/w500/hfI96xQVkTOIhlLARf6LKxgCGqW.jpg",
+      "description": "Actor and former WWE writer Freddie Prinze Jr. leads a roundtable discussion of WWE luminaries to delve into the storylines and dynamic characters behind the epic battles that built WWE. Each one-hour episode features archival footage from WWE’s library as well as interviews with the Legends involved and the Superstars who watched these rivalries unfold.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.8"
     }
   ]
 }
