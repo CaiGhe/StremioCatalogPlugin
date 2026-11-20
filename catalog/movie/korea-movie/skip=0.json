@@ -1,13 +1,22 @@
 {
   "metas": [
     {
+      "id": "tt42813482",
+      "type": "movie",
+      "name": "Điểm Mù",
+      "poster": "https://phimimg.com/uploads/movies/20261120/diem-mu-2026-poster.webp",
+      "description": "Phát hiện người chị em song sinh qua đời bất thường dưới vỏ bọc tự sát, Seo-jin (Shin Min-A) quyết tâm dấn thân vào cuộc săn đuổi vạch mặt kẻ thủ ác. Đối mặt với căn bệnh di truyền đang rút cạn thị lực từng ngày và chính bản thân cô trở thành mục tiêu tiếp theo của kẻ sát nhân, hành trình giải mã ma trận tâm lý và truy lùng hung thủ của Seo-jin trở nên căng thẳng và nguy cấp hơn bao giờ hết.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.5"
+    },
+    {
       "id": "tt29452783",
       "type": "movie",
       "name": "Kẻ Hồi Sinh",
       "poster": "https://phimimg.com/uploads/movies/20261109/ke-hoi-sinh-poster.webp",
       "description": "Bộ phim xoay quanh Seok Hwan, một thanh niên thất nghiệp bất ngờ bị sát hại sau một buổi phỏng vấn xin việc thất bại. Kỳ tích xảy ra khi anh đột ngột sống lại sau đúng 72 giờ và phát hiện ra bản thân sở hữu năng lực hồi sinh vô hạn, đồng thời cơ thể sẽ trở nên mạnh mẽ hơn sau mỗi lần cận kề cái chết. Tuy nhiên, món quà này sớm biến thành lời nguyền khi anh lọt vào tầm ngắm và bị săn lùng gắt gao bởi một tổ chức bí ẩn.",
       "releaseInfo": "2026",
-      "imdbRating": "6.9"
+      "imdbRating": "6.0"
     },
     {
       "id": "tt42441399",
@@ -885,15 +894,6 @@
       "description": "Ji Hyun Soo, Giám đốc điều hành của một công ty thám tử tư. Trong một lần thực hiện công việc, anh ta bị vu cáo là bắt cóc khách hàng. Trong thời gian Hyeon-soo bị bắt, một vụ tai nạn xe hơi nghiêm trọng xảy ra và mọi người hiểu nhầm Hyeon-soo là công tố viên thay vì nghi phạm. Để tìm ra tên tội phạm thực sự, Hyeon-soo quyết định giả làm công tố viên. Tại đây anh đã gặp Hwa-jin, một công tố viên ưu tú bị giáng chức khi cố gắng truy bắt tập đoàn luật Do-hoon, gặp Hyeon-soo. Cả hai bắt đầu hợp tác với nhau, và họ nhận ra rằng có một sự thật ẩn sau tội ác.",
       "releaseInfo": "2022",
       "imdbRating": "5.8"
-    },
-    {
-      "id": "tt14371900",
-      "type": "movie",
-      "name": "Sách Về Cá",
-      "poster": "https://phimimg.com/upload/vod/20260215-1/2b79656f8e2cd81d91d53c2ce5fc65b6.jpg",
-      "description": "Khi học giả Jeong Yak-jeon bị lưu đày đến đảo Heuksando trong cuộc đàn áp Công giáo năm 1801, ông đã quyết định viết một cuốn bách khoa toàn thư về các loài cá.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.5"
     }
   ]
 }

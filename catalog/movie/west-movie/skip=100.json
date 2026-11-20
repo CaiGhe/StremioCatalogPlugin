@@ -1,6 +1,51 @@
 {
   "metas": [
     {
+      "id": "tt6933238",
+      "type": "movie",
+      "name": "UNABOMBER",
+      "poster": "https://phimimg.com/uploads/movies/20260925/unabomber-poster.webp",
+      "description": "Lấy cảm hứng từ sự kiện có thật, bộ phim chính kịch này kể về hành trình Ted Kaczynski từ thần đồng Harvard và đối tượng thí nghiệm trở thành Unabomber giữa lúc bị FBI truy lùng.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt0120744",
+      "type": "movie",
+      "name": "Người Mang Mặt Nạ Sắt",
+      "poster": "https://phimimg.com/uploads/movies/20260925/nguoi-mang-mat-na-sat-poster.webp",
+      "description": "Trong bộ phim phiêu lưu quy tụ dàn sao đình đám này, các chàng lính ngự lâm lừng danh lên kế hoạch thay thế Vua Louis XIV nhẫn tâm bằng người anh em song sinh bị giam cầm oan uổng.",
+      "releaseInfo": "1998",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt33071426",
+      "type": "movie",
+      "name": "Cú Sốc",
+      "poster": "https://phimimg.com/upload/vod/20260505-1/aa5419bddec64990d591f77262fc2e42.jpg",
+      "description": "Một cặp đôi đang hạnh phúc chuẩn bị kết hôn bất ngờ bị thử thách khi một biến cố ngoài dự kiến khiến cả tuần lễ cưới của họ rơi vào hỗn loạn.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt0385752",
+      "type": "movie",
+      "name": "Chiếc La Bàn Vàng",
+      "poster": "https://phimimg.com/uploads/movies/20260923/chiec-la-ban-vang-poster.webp",
+      "description": "Cô bé mồ côi từ nhỏ Lyra đánh đổi cuộc sống vô tư trong khuôn viên Đại học Jordan của mình để có một cuộc phiêu lưu ở thế giới khác, nơi phương Bắc xa xôi.",
+      "releaseInfo": "2007",
+      "imdbRating": "6.1"
+    },
+    {
+      "id": "tt2361509",
+      "type": "movie",
+      "name": "Bố Già Học Việc",
+      "poster": "https://phimimg.com/uploads/movies/20260923/bo-gia-hoc-viec-poster.webp",
+      "description": "Bộ phim kể về Ben Whittaker, một ông lão góa vợ 70 tuổi (do Robert De Niro thủ vai) nhưng không hề muốn nghỉ hưu và xin vào làm nhân viên thực tập tại một cửa hàng thời trang online của cô chủ xinh đẹp và sành điệu, Jules Ostin (do Anne Hathaway thủ vai). Và câu chuyện diễn ra khi ông lão Ben Whittaker chính thức trở thành thực tập sinh thực thụ, rất trẻ trung và năng động không thua kém bất kì ai. Hơn hết, Ben đã giúp đỡ Jules khi cô nàng gặp khó khăn, truyền cảm hứng và tạo động lực để Jules tiếp tục đam mê nghê nghiệp của mình.",
+      "releaseInfo": "2015",
+      "imdbRating": "7.1"
+    },
+    {
       "id": "tt33095251",
       "type": "movie",
       "name": "Tony",
@@ -848,51 +893,6 @@
       "poster": "https://phimimg.com/upload/vod/20250731-1/6bf7cce66b598e7cc98ef84b6a5ccd15.jpg",
       "description": "Phần tiếp theo của loạt phim kinh dị Insidious với sự góp mặt của dàn diễn viên gốc thuộc gia đình Lambert. Câu chuyện xoay quanh quyết định mở ra cánh cửa đỏ và đi sâu vào Cõi Vô Định của Josh (Patrick Wilson) và Dalton (Ty Simpkins) - nay đã trưởng thành - để tiêu diệt một lần và mãi mãi những con quỷ đang ám ảnh cả gia đình mình. Từ đó họ phải đối mặt với quá khứ tăm tối và đầy bí ản của gia đình, nơi những ám ảnh kinh hoàng nhất đang rình rập. Dàn diễn viên gốc từ Insidious trở lại gồm Patrick Wilson (kiêm vai trò đạo diễn), Ty Simpkins, Rose Byrne và Andrew Astor. Cũng có sự tham gia của Sinclair Daniel và Hiam Abbass. Phim do Jason Blum, Oren Peli, James Wan và Leigh Whannell sản xuất. Kịch bản được viết bởi Scott Teems dựa trên câu chuyện của Leigh Whannell, và nhân vật do Leigh Whannell tạo ra.",
       "releaseInfo": "2023",
-      "imdbRating": "5.5"
-    },
-    {
-      "id": "tt5726086",
-      "type": "movie",
-      "name": "Quỷ Quyệt: Chìa Khóa Quỷ Dữ",
-      "poster": "https://phimimg.com/upload/vod/20250731-1/5653d1f4748a2f462b8c830d3686a88b.jpg",
-      "description": "Jason Blum, Oren Peli và James Wan đóng vai trò là các nhà sản xuất của phim. Đây là phần phim thứ tư của loạt phim Quỷ quyệt, lấy bối cảnh sau kết thúc của Quỷ quyệt 3 và trước hai phần phim đầu tiên. Với sự tham gia diễn xuất của Lin Shaye, Angus Sampson, Leigh Whannell, Spencer Locke, Caitlin Gerard và Bruce Davison, nội dung phim xoay quanh câu chuyện về nhà tâm linh Elise Rainier khi bà quay trở lại ngôi nhà cũ của mình hồi nhỏ để tìm lại con quỷ đã ám ảnh tuổi thơ của mình.",
-      "releaseInfo": "2018",
-      "imdbRating": "5.7"
-    },
-    {
-      "id": "tt3195644",
-      "type": "movie",
-      "name": "Quỷ Quyệt 3",
-      "poster": "https://phimimg.com/upload/vod/20250731-1/b448254047394521a7cdd07f1aaed836.jpg",
-      "description": "Insidious: Chapter 3 (Ma Quái 3): Mở đầu với những hiện tượng kỳ quái quấy nhiễu cô bé Quinn Brenner, Insidious: Chapter 3 là phần tiền truyện (pre-quel) xảy ra trước khi Elise Rainier giúp đỡ gia đình Lambert. Trong teaser mới nhất, dấu hiệu ma quỷ đầu tiên xuất hiện khi Quinn Brenner nghịch ngợm gõ vào tường để liên lạc với cậu bạn hàng xóm. Dường như Quinn đã vô tình liên lạc với các linh hồn xấu và trở thành mục tiêu theo đuổi của chúng. Những hình ảnh ma quái liên tục xuất hiện trên nền nhạc “Tip Toe Through The Tulips”, du dương tới rợn người, khiến người xem dễ dàng bị ám ảnh. Cũng trong đoạn teaser này, khán giả có thể thấy Elise Rainier phải lần theo các dấu vết nhem nhuốc trên sàn nhà, và lạc vào thế giới ma quỷ giống như trong phần 1 và 2 của Insidious.",
-      "releaseInfo": "2015",
-      "imdbRating": "6.1"
-    },
-    {
-      "id": "tt2226417",
-      "type": "movie",
-      "name": "Quỷ Quyệt 2",
-      "poster": "https://phimimg.com/upload/vod/20250731-1/e8d11a952d8ae6dadf10a4273e3d3cd6.jpg",
-      "description": "Năm 1986, Lorraine Lambert mời nhà tâm linh Elise đến nhà mình để giúp tìm con ma đang đeo bám cậu con trai Josh của bà. Elise nhận định Josh có khả năng đặc biệt mà người thường không có, đó là kết nối linh hồn mình với thế giới của người chết. Hai người quyết định xóa ký ức của Josh để anh thôi không \"du hành\" vào thế giới đen tối này nữa. Hai mươi lăm năm trôi qua, Josh khi này đã có vợ là Renai cùng hai con. Đây là lúc truyện phim tiếp nối phần 1. Những tưởng đã thoát khỏi ma quỷ từ lần trước nhưng những hiện tượng lạ vẫn diễn ra trong nhà Lambert.",
-      "releaseInfo": "2013",
-      "imdbRating": "6.6"
-    },
-    {
-      "id": "tt1591095",
-      "type": "movie",
-      "name": "Quỷ Quyệt",
-      "poster": "https://phimimg.com/upload/vod/20250731-1/7805a656c8b6bdeee32ab9c2eccf77fb.jpg",
-      "description": "Đây là phần phim đầu tiên (theo thứ tự thời gian, lần thứ ba) trong loạt phim Insidious. Câu chuyện xoay quanh cặp vợ chồng có con trai không hiểu sao đi vào tình trạng hôn mê và trở thành một vật chứa cho hồn ma trong một không gian tâm linh muốn cư ngụ cơ thể của mình, để sống một lần nữa. Bộ phim đã được phát hành tại rạp vào ngày 1 tháng 4 năm 2011 và FilmDistrict phát hành đầu tiên. Bộ phim được nối tiếp theo một phần sau, Quỷ quyệt 2 (2013) và hai phần sau, Quỷ quyệt 3 (2015) và Quỷ quyệt: Chìa khóa quỷ dữ (2018).",
-      "releaseInfo": "2011",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt26697087",
-      "type": "movie",
-      "name": "Cuộc Chiến Ép Cân",
-      "poster": "https://phimimg.com/uploads/movies/20260823/cuoc-chien-ep-can-poster.webp",
-      "description": "Trở lại võ đài sau khi giải nghệ, một cựu võ sĩ quyết tâm chinh phục ngôi vô địch. Nhưng hành trình ép cân tàn khốc mới là đối thủ lớn nhất của anh.",
-      "releaseInfo": "2025",
       "imdbRating": "5.5"
     }
   ]
